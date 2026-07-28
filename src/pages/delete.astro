@@ -1,0 +1,98 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Account & Data Deletion — ${SITE_TITLE}`} description="Request account and data deletion for DisclosurePro AI." />
+	</head>
+	<body>
+		<Header />
+		<main class="container delete-page">
+			<div class="glass-card delete-card">
+				<span class="badge-tech">DisclosurePro AI • Account Management</span>
+				<h1>Account & Data Deletion Request</h1>
+				<p class="meta"><strong>Effective Date:</strong> July 28, 2026</p>
+
+				<p>At <strong>DisclosurePro AI</strong>, you have full control over your personal account and uploaded property documents. If you wish to delete your account and all associated data, you can do so easily by following the options below.</p>
+
+				<h2>Option 1: Request Deletion via Email</h2>
+				<p>Send an email to our support team with the subject line <code>Account Deletion Request</code>:</p>
+				<div class="contact-box">
+					<p><strong>Support Email:</strong> <a href="mailto:contact@disclosurepro.ai?subject=Account%20Deletion%20Request">contact@disclosurepro.ai</a></p>
+					<p>Please include the email address associated with your DisclosurePro account.</p>
+				</div>
+
+				<h2>Option 2: Delete Account In-App</h2>
+				<p>You can also request data removal directly within the mobile application:</p>
+				<ol>
+					<li>Open the <strong>DisclosurePro AI</strong> app.</li>
+					<li>Go to <strong>Settings</strong> ⚙️.</li>
+					<li>Tap <strong>Account & Security</strong> and select <strong>Delete My Account</strong>.</li>
+				</ol>
+
+				<h2>Data Retention & Processing Policy</h2>
+				<p>When an account deletion request is processed:</p>
+				<ul>
+					<li>Your user profile, email address, and authentication credentials will be permanently removed from our active database within <strong>30 days</strong>.</li>
+					<li>All uploaded real estate disclosure documents, analysis summaries, and chat history associated with your account will be permanently deleted from Google Cloud Storage.</li>
+				</ul>
+
+				<h2>Contact Us</h2>
+				<p>If you have any questions about data deletion or your privacy rights, please contact us at <a href="mailto:contact@disclosurepro.ai">contact@disclosurepro.ai</a>.</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.delete-page {
+		padding-top: 40px;
+		padding-bottom: 60px;
+	}
+	.delete-card {
+		padding: 48px;
+		max-width: 860px;
+		margin: 0 auto;
+	}
+	h1 {
+		font-size: 32px;
+		color: #f8fafc;
+		margin: 16px 0 8px 0;
+	}
+	h2 {
+		font-size: 20px;
+		color: #00f2fe;
+		margin-top: 32px;
+		margin-bottom: 12px;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+		padding-bottom: 8px;
+	}
+	p, li {
+		color: #94a3b8;
+		font-size: 15px;
+		line-height: 1.6;
+		margin-bottom: 12px;
+	}
+	ul, ol {
+		margin-left: 20px;
+		margin-bottom: 16px;
+	}
+	.contact-box {
+		background: rgba(255, 255, 255, 0.04);
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		border-radius: 12px;
+		padding: 20px;
+		margin: 16px 0;
+	}
+	.meta {
+		color: #cbd5e1;
+		margin-bottom: 24px;
+	}
+</style>
