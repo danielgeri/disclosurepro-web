@@ -1,0 +1,100 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Privacy Policy — ${SITE_TITLE}`} description="DisclosurePro AI Privacy Policy & User Data Rights." />
+	</head>
+	<body>
+		<Header />
+		<main class="container privacy-page">
+			<div class="glass-card privacy-card">
+				<span class="badge-tech">DisclosurePro AI • App Privacy Policy</span>
+				<h1>Privacy Policy</h1>
+				<p class="meta"><strong>Effective Date:</strong> July 28, 2026</p>
+
+				<p>DisclosurePro AI ("we," "our," or "us") is committed to protecting your privacy and securing the real estate disclosure documents and personal information you entrust to us. This Privacy Policy describes how we collect, use, store, and protect your information when you use the <strong>DisclosurePro AI</strong> mobile application and website services.</p>
+
+				<h2>1. Information We Collect</h2>
+				<ul>
+					<li><strong>Account Information:</strong> When you register or sign in (via Email Magic Link or Google Sign-In), we collect your name, email address, and authentication provider ID.</li>
+					<li><strong>Uploaded Property Documents:</strong> When you upload seller disclosures, inspection reports, or HOA packets, your documents are securely transmitted and stored in Google Cloud Storage for AI processing.</li>
+					<li><strong>Device & Notification Data:</strong> We collect Firebase Cloud Messaging (FCM) tokens to deliver real-time push notifications when document analysis completes.</li>
+				</ul>
+
+				<h2>2. How We Use Your Information</h2>
+				<p>We process your data exclusively to provide, improve, and secure our services:</p>
+				<ul>
+					<li>To perform AI property disclosure analysis using Google Cloud Vertex AI.</li>
+					<li>To generate risk scores, extract critical seller findings, and calculate repair credit estimates.</li>
+					<li>To manage your account, subscription plan, and user authentication.</li>
+					<li>To send essential transactional notifications and support responses.</li>
+				</ul>
+
+				<h2>3. Data Security & Storage</h2>
+				<p>All data transmitted between your device and our servers is encrypted using industry-standard <strong>TLS/HTTPS encryption</strong>. Uploaded property documents and user records are stored in secure <strong>Google Cloud Storage</strong> and encrypted PostgreSQL databases with strict access controls.</p>
+
+				<h2>4. Third-Party Services</h2>
+				<p>We integrate with trusted enterprise providers to power our core application features:</p>
+				<ul>
+					<li><strong>Google Cloud & Vertex AI:</strong> Document processing and AI reasoning engine.</li>
+					<li><strong>Firebase (Google LLC):</strong> Authentication and push notification delivery.</li>
+					<li><strong>Resend:</strong> Transactional email delivery for magic links.</li>
+				</ul>
+
+				<h2>5. Your Data Rights & Deletion Requests</h2>
+				<p>You have full control over your data. You may request account deletion or the permanent removal of your uploaded disclosure reports at any time by contacting our support team at <a href="mailto:contact@disclosurepro.ai">contact@disclosurepro.ai</a>.</p>
+
+				<h2>6. Contact Us</h2>
+				<p>If you have any questions or privacy concerns, please contact us at:</p>
+				<p><strong>DisclosurePro AI Support</strong><br />Email: <a href="mailto:contact@disclosurepro.ai">contact@disclosurepro.ai</a><br />Website: <a href="https://disclosurepro.ai">https://disclosurepro.ai</a></p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.privacy-page {
+		padding-top: 40px;
+		padding-bottom: 60px;
+	}
+	.privacy-card {
+		padding: 48px;
+		max-width: 860px;
+		margin: 0 auto;
+	}
+	h1 {
+		font-size: 32px;
+		color: #f8fafc;
+		margin: 16px 0 8px 0;
+	}
+	h2 {
+		font-size: 20px;
+		color: #00f2fe;
+		margin-top: 32px;
+		margin-bottom: 12px;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+		padding-bottom: 8px;
+	}
+	p, li {
+		color: #94a3b8;
+		font-size: 15px;
+		line-height: 1.6;
+		margin-bottom: 12px;
+	}
+	ul {
+		margin-left: 20px;
+		margin-bottom: 16px;
+	}
+	.meta {
+		color: #cbd5e1;
+		margin-bottom: 24px;
+	}
+</style>

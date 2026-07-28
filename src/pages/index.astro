@@ -1,0 +1,398 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- Hero Section -->
+			<section class="hero-section">
+				<div class="container hero-container">
+					<div class="badge-tech">
+						<span>✨ Powered by Gemini 3.6 Flash Deep Thinking</span>
+					</div>
+					<h1 class="hero-title">
+						Uncover Costly Home Defects <span class="gradient-text">Before You Buy</span>
+					</h1>
+					<p class="hero-subtitle">
+						AI-powered real estate disclosure analysis, risk scoring, repair credit calculations, and automated addendums in seconds.
+					</p>
+
+					<div class="hero-actions">
+						<a href="#download" class="btn-primary">
+							<span>Download App Now</span>
+							<span>📱</span>
+						</a>
+						<a href="#demo" class="btn-secondary">
+							<span>Explore Live Demo</span>
+							<span>🔍</span>
+						</a>
+					</div>
+
+					<!-- Live Demo Preview Card -->
+					<div id="demo" class="glass-card demo-card">
+						<div class="demo-header">
+							<div class="demo-property">
+								<span class="property-icon">🏠</span>
+								<div>
+									<h3 class="property-title">772 Vincente Avenue, Berkeley, CA</h3>
+									<span class="property-sub">124-Page Disclosure Packet • Analyzed in 8.2s</span>
+								</div>
+							</div>
+							<div class="risk-badge risk-high">
+								<span>78 / 100</span>
+								<span class="risk-lbl">HIGH RISK</span>
+							</div>
+						</div>
+
+						<div class="demo-metrics">
+							<div class="metric-box">
+								<span class="metric-label">Estimated Repair Credit</span>
+								<span class="metric-val gradient-gold">$14,500 – $22,000</span>
+							</div>
+							<div class="metric-box">
+								<span class="metric-label">Flagged Issues</span>
+								<span class="metric-val">6 Critical Findings</span>
+							</div>
+							<div class="metric-box">
+								<span class="metric-label">AI Confidence</span>
+								<span class="metric-val">99.4% Verified</span>
+							</div>
+						</div>
+
+						<div class="demo-findings">
+							<div class="finding-item critical">
+								<span class="f-rank">CRITICAL</span>
+								<div class="f-info">
+									<h4>Roofing System Active Water Leaks</h4>
+									<p>"Water staining observed in attic rafters above master bedroom. Roof shingles past useful lifespan (22+ years)."</p>
+								</div>
+								<span class="f-cost">$8,500 – $12,000</span>
+							</div>
+							<div class="finding-item high">
+								<span class="f-rank">HIGH</span>
+								<div class="f-info">
+									<h4>Zinsco Main Electrical Service Panel</h4>
+									<p>"Outdated Zinsco 125A panel present. Known circuit breaker failure risk requiring full service replacement."</p>
+								</div>
+								<span class="f-cost">$3,500 – $5,500</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Features Section -->
+			<section id="features" class="features-section">
+				<div class="container">
+					<div class="section-head text-center">
+						<span class="badge-tech">Enterprise AI Architecture</span>
+						<h2>Everything You Need for Bulletproof Real Estate Due Diligence</h2>
+						<p>Built for homebuyers, real estate agents, investors, and transaction coordinators.</p>
+					</div>
+
+					<div class="features-grid">
+						<div class="glass-card feature-box">
+							<div class="f-icon">⚡</div>
+							<h3>Instant Risk Scoring</h3>
+							<p>AI scans 100+ page seller disclosure packets in under 10 seconds, scoring overall property risk from Low to Critical.</p>
+						</div>
+
+						<div class="glass-card feature-box">
+							<div class="f-icon">🔍</div>
+							<h3>PDF Citation Page Linker</h3>
+							<p>Every extracted finding is mapped to its exact page number in the original PDF with 1-tap PDF viewing inside the app.</p>
+						</div>
+
+						<div class="glass-card feature-box">
+							<div class="f-icon">💰</div>
+							<h3>Repair Credit Calculations</h3>
+							<p>Automated dollar estimates for roofing, electrical, plumbing, and structural issues to strengthen offer negotiations.</p>
+						</div>
+
+						<div class="glass-card feature-box">
+							<div class="f-icon">📑</div>
+							<h3>Automated Addendum Exporter</h3>
+							<p>Generate formal, ready-to-sign Purchase Agreement Credit Addendums formatted directly for sellers.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Pricing Section -->
+			<section id="pricing" class="pricing-section">
+				<div class="container">
+					<div class="section-head text-center">
+						<span class="badge-tech">Transparent Membership Tiers</span>
+						<h2>Choose the Plan That Fits Your Workflow</h2>
+						<p>Upgrade anytime to unlock more monthly disclosure analyses and priority AI deep thinking.</p>
+					</div>
+
+					<div class="pricing-grid">
+						<!-- Free -->
+						<div class="glass-card plan-card">
+							<div class="plan-head">
+								<h3>Free Plan</h3>
+								<div class="plan-price">$0 <span>/ month</span></div>
+								<p>1 report / month</p>
+							</div>
+							<ul class="plan-features">
+								<li>✓ 1 Property Analysis per month</li>
+								<li>✓ Risk Score & Finding Breakdown</li>
+								<li>✓ PDF Page Citation Viewer</li>
+							</ul>
+							<a href="#download" class="btn-secondary w-full">Current Default</a>
+						</div>
+
+						<!-- Pro - Popular -->
+						<div class="glass-card plan-card popular">
+							<div class="popular-tag">MOST POPULAR</div>
+							<div class="plan-head">
+								<h3>Pro Plan</h3>
+								<div class="plan-price">$29 <span>/ month</span></div>
+								<p>10 reports / month</p>
+							</div>
+							<ul class="plan-features">
+								<li>✓ 10 Property Analyses per month</li>
+								<li>✓ Priority Gemini 3.6 Deep Thinking</li>
+								<li>✓ Instant AI Q&A Assistant</li>
+								<li>✓ Repair Cost Calculations</li>
+							</ul>
+							<a href="#download" class="btn-primary w-full">Upgrade to Pro</a>
+						</div>
+
+						<!-- Unlimited -->
+						<div class="glass-card plan-card">
+							<div class="plan-head">
+								<h3>Unlimited Plan</h3>
+								<div class="plan-price">$79 <span>/ month</span></div>
+								<p>Unlimited reports</p>
+							</div>
+							<ul class="plan-features">
+								<li>✓ Unlimited Property Analyses</li>
+								<li>✓ Everything in Pro Plan</li>
+								<li>✓ Purchase Addendum Exporting</li>
+								<li>✓ Multi-Doc Upload Packages</li>
+							</ul>
+							<a href="#download" class="btn-secondary w-full">Upgrade to Unlimited</a>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- App Download Section -->
+			<section id="download" class="download-section">
+				<div class="container">
+					<div class="glass-card download-card text-center">
+						<h2>Ready to Analyze Disclosures with AI?</h2>
+						<p>Download the DisclosurePro AI app on Android & iOS today.</p>
+						<div class="download-buttons">
+							<a href="#" class="btn-primary">Download for Android (APK / Play) 🤖</a>
+							<a href="mailto:contact@disclosurepro.ai" class="btn-secondary">Request Web Access 🌐</a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	/* Hero */
+	.hero-section {
+		padding: 80px 0 60px 0;
+		text-align: center;
+	}
+	.hero-container {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.hero-title {
+		font-size: 48px;
+		font-weight: 900;
+		line-height: 1.15;
+		margin: 20px 0 16px 0;
+		max-width: 800px;
+		letter-spacing: -1px;
+	}
+	.hero-subtitle {
+		color: #94a3b8;
+		font-size: 18px;
+		max-width: 620px;
+		margin-bottom: 32px;
+	}
+	.hero-actions {
+		display: flex;
+		gap: 16px;
+		margin-bottom: 60px;
+	}
+
+	/* Demo Card */
+	.demo-card {
+		width: 100%;
+		max-width: 900px;
+		padding: 28px;
+		text-align: left;
+	}
+	.demo-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+	}
+	.demo-property {
+		display: flex;
+		gap: 14px;
+		align-items: center;
+	}
+	.property-icon {
+		font-size: 28px;
+	}
+	.property-title {
+		font-size: 18px;
+		color: #f8fafc;
+		font-weight: 700;
+	}
+	.property-sub {
+		font-size: 13px;
+		color: #64748b;
+	}
+	.risk-badge {
+		padding: 8px 16px;
+		border-radius: 12px;
+		text-align: center;
+		font-weight: 900;
+	}
+	.risk-high {
+		background: rgba(239, 68, 68, 0.15);
+		border: 1px solid rgba(239, 68, 68, 0.4);
+		color: #ef4444;
+	}
+	.risk-lbl {
+		display: block;
+		font-size: 10px;
+		font-weight: 700;
+	}
+	.demo-metrics {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		gap: 16px;
+		margin-bottom: 24px;
+	}
+	.metric-box {
+		background: rgba(255, 255, 255, 0.03);
+		padding: 14px;
+		border-radius: 12px;
+		border: 1px solid rgba(255, 255, 255, 0.05);
+	}
+	.metric-label {
+		display: block;
+		font-size: 12px;
+		color: #64748b;
+		margin-bottom: 4px;
+	}
+	.metric-val {
+		font-size: 18px;
+		font-weight: 800;
+		color: #f8fafc;
+	}
+
+	.finding-item {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 14px;
+		border-radius: 12px;
+		background: rgba(255, 255, 255, 0.02);
+		border: 1px solid rgba(255, 255, 255, 0.05);
+		margin-bottom: 10px;
+	}
+	.finding-item.critical { border-left: 4px solid #ef4444; }
+	.finding-item.high { border-left: 4px solid #f59e0b; }
+	.f-rank {
+		font-size: 11px;
+		font-weight: 900;
+		padding: 4px 8px;
+		border-radius: 6px;
+		background: rgba(255, 255, 255, 0.08);
+	}
+	.f-info { flex: 1; margin: 0 16px; }
+	.f-info h4 { font-size: 14px; color: #f8fafc; margin-bottom: 2px; }
+	.f-info p { font-size: 12px; color: #94a3b8; }
+	.f-cost { font-size: 14px; font-weight: 800; color: #f59e0b; }
+
+	/* Features */
+	.features-section { padding: 80px 0; }
+	.text-center { text-align: center; }
+	.section-head h2 { font-size: 32px; font-weight: 800; margin: 16px 0 10px 0; }
+	.section-head p { color: #94a3b8; margin-bottom: 40px; }
+
+	.features-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		gap: 24px;
+	}
+	.feature-box {
+		padding: 28px;
+	}
+	.f-icon { font-size: 32px; margin-bottom: 16px; }
+	.feature-box h3 { font-size: 18px; color: #f8fafc; margin-bottom: 8px; }
+	.feature-box p { color: #94a3b8; font-size: 14px; line-height: 1.5; }
+
+	/* Pricing */
+	.pricing-section { padding: 60px 0; }
+	.pricing-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+		gap: 28px;
+		margin-top: 40px;
+	}
+	.plan-card {
+		padding: 32px;
+		position: relative;
+	}
+	.plan-card.popular {
+		border-color: #00f2fe;
+		box-shadow: 0 10px 40px rgba(0, 242, 254, 0.2);
+	}
+	.popular-tag {
+		position: absolute;
+		top: -12px;
+		right: 24px;
+		background: var(--gradient-primary);
+		color: #070b19;
+		font-size: 11px;
+		font-weight: 900;
+		padding: 4px 12px;
+		border-radius: 20px;
+	}
+	.plan-head h3 { font-size: 20px; color: #f8fafc; }
+	.plan-price { font-size: 36px; font-weight: 900; color: #f8fafc; margin: 10px 0 4px 0; }
+	.plan-price span { font-size: 14px; color: #64748b; font-weight: 400; }
+	.plan-features { list-style: none; margin: 24px 0; }
+	.plan-features li { color: #cbd5e1; font-size: 14px; margin-bottom: 10px; }
+
+	.download-section { padding: 60px 0 80px 0; }
+	.download-card { padding: 48px; }
+	.download-buttons { display: flex; justify-content: center; gap: 16px; margin-top: 24px; }
+
+	@media (max-width: 768px) {
+		.hero-title { font-size: 32px; }
+		.demo-metrics { grid-template-columns: 1fr; }
+		.hero-actions { flex-direction: column; width: 100%; }
+		.download-buttons { flex-direction: column; }
+	}
+</style>
