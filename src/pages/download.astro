@@ -1,0 +1,129 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Download App - ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="download-page-section">
+				<div class="container">
+					<div class="glass-card download-card text-center">
+						<div class="badge-tech" style="margin-bottom: 16px;">
+							<span>🚀 Available Now</span>
+						</div>
+						<h1 class="hero-title">Download <span class="gradient-text">DisclosurePro AI</span></h1>
+						<p class="hero-subtitle mx-auto" style="margin: 0 auto 40px auto; max-width: 600px;">
+							Take the power of AI real estate analysis anywhere. Scan 100+ page disclosure packets in seconds, directly from your phone.
+						</p>
+						
+						<div class="store-buttons">
+							<a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer" class="store-btn">
+								<div class="store-icon">▶️</div>
+								<div class="store-text">
+									<span class="store-sub">GET IT ON</span>
+									<span class="store-title">Google Play</span>
+								</div>
+							</a>
+							
+							<a href="https://apple.com/app-store" target="_blank" rel="noopener noreferrer" class="store-btn">
+								<div class="store-icon">🍏</div>
+								<div class="store-text">
+									<span class="store-sub">Download on the</span>
+									<span class="store-title">App Store</span>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.download-page-section {
+		padding: 100px 0;
+		min-height: calc(100vh - 400px);
+		display: flex;
+		align-items: center;
+	}
+	.download-card {
+		padding: 60px 40px;
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.hero-title {
+		font-size: 42px;
+		font-weight: 900;
+		line-height: 1.15;
+		margin-bottom: 16px;
+		letter-spacing: -1px;
+	}
+	.hero-subtitle {
+		color: var(--text-secondary);
+		font-size: 18px;
+		line-height: 1.6;
+	}
+	.store-buttons {
+		display: flex;
+		justify-content: center;
+		gap: 20px;
+		flex-wrap: wrap;
+	}
+	.store-btn {
+		display: flex;
+		align-items: center;
+		gap: 12px;
+		background: #000000;
+		border: 1px solid rgba(255, 255, 255, 0.2);
+		padding: 12px 24px;
+		border-radius: 12px;
+		text-decoration: none;
+		color: #ffffff;
+		transition: all 0.2s ease;
+	}
+	.store-btn:hover {
+		transform: translateY(-2px);
+		border-color: rgba(255, 255, 255, 0.4);
+		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+	}
+	.store-icon {
+		font-size: 28px;
+	}
+	.store-text {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.store-sub {
+		font-size: 10px;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+		opacity: 0.8;
+	}
+	.store-title {
+		font-size: 20px;
+		font-weight: 600;
+		line-height: 1.1;
+	}
+	
+	@media (max-width: 600px) {
+		.store-buttons {
+			flex-direction: column;
+		}
+		.store-btn {
+			width: 100%;
+			justify-content: center;
+		}
+	}
+</style>

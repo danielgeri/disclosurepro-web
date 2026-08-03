@@ -72,4 +72,4 @@ Don't let hidden disclosure traps catch you off guard after you get the keys. **
 - 💰 **Estimated Seller Repair Credit Ranges**
 - 📑 **Ready-to-Sign Purchase Credit Addendums**
 
-[Try DisclosurePro AI Free Today](/#download) and inspect your next property with complete confidence.
+[Try DisclosurePro AI Free Today](/download) and inspect your next property with complete confidence.

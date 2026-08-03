@@ -22,7 +22,7 @@ heroImage: "../../assets/blog-placeholder-1.jpg"
 ```
 3. **Localization:** Mention specific local real estate laws, [STATE] disclosure requirements (e.g., TDS in California, Seller's Disclosure Notice in Texas), and specific [CITY] neighborhoods or local housing quirks (e.g., age of homes, weather impacts).
 4. **Pain Points:** Emphasize how difficult and risky it is for a homebuyer to manually read through hundreds of pages of disclosure documents to find this specific issue. 
-5. **Call to Action (CTA):** Conclude the post with a strong CTA section titled "Protect Your [CITY] Investment with DisclosurePro AI". Explain how DisclosurePro AI instantly analyzes these massive disclosure packets, finds the red flags, and calculates repair credits. Include a Markdown link at the end: `[Try DisclosurePro AI Free Today](/#download)`.
+5. **Call to Action (CTA):** Conclude the post with a strong CTA section titled "Protect Your [CITY] Investment with DisclosurePro AI". Explain how DisclosurePro AI instantly analyzes these massive disclosure packets, finds the red flags, and calculates repair credits. Include a Markdown link at the end: `[Try DisclosurePro AI Free Today](/download)`.
 6. **Styling:** Use Markdown formatting (bolding, lists, H2 and H3 tags) to make the post highly readable.
 
 ---
