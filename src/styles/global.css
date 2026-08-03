@@ -21,6 +21,9 @@
   --footer-bg: #040711;
   --footer-border: rgba(255, 255, 255, 0.08);
   --nav-link-color: var(--text-primary);
+  --link-color: var(--accent-cyan);
+  --link-hover: #38ef7d;
+  --link-decoration: none;
 }
 
 .theme-light {
@@ -35,6 +38,9 @@
   --footer-bg: #ffffff;
   --footer-border: rgba(0, 0, 0, 0.1);
   --nav-link-color: var(--accent-blue);
+  --link-color: var(--accent-blue);
+  --link-hover: var(--accent-cyan);
+  --link-decoration: underline;
 }
 
 * {
@@ -52,13 +58,13 @@ body {
 }
 
 a {
-  color: var(--accent-cyan);
-  text-decoration: none;
+  color: var(--link-color);
+  text-decoration: var(--link-decoration);
   transition: all 0.2s ease;
 }
 
 a:hover {
-  color: #38ef7d;
+  color: var(--link-hover);
 }
 
 /* Glassmorphism Cards */
