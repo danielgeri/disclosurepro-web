@@ -34,19 +34,71 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				max-width: calc(100% - 2em);
 				margin: auto;
 				padding: 1em;
-				color: var(--text-secondary);
+				color: var(--text-primary);
 				text-wrap: pretty;
+				font-size: 20px;
+				line-height: 1.65;
+			}
+			.prose p {
+				margin-bottom: 1.5em;
+				color: #292929;
+			}
+			.prose h2, .prose h3, .prose h4 {
+				color: #242424;
+				font-weight: 700;
+				line-height: 1.22;
+			}
+			.prose h2 {
+				font-size: 32px;
+				margin-top: 2em;
+				margin-bottom: 0.5em;
+			}
+			.prose h3 {
+				font-size: 26px;
+				margin-top: 1.5em;
+				margin-bottom: 0.5em;
+			}
+			.prose ul, .prose ol {
+				margin-bottom: 1.5em;
+				padding-left: 1.5em;
+				color: #292929;
+			}
+			.prose li {
+				margin-bottom: 0.5em;
+			}
+			.prose blockquote {
+				border-left: 3px solid var(--text-primary);
+				padding-left: 1.5em;
+				margin-left: 0;
+				margin-right: 0;
+				font-style: italic;
+				color: var(--text-secondary);
+				margin-bottom: 1.5em;
+			}
+			.prose hr {
+				margin: 3em auto;
+				border: 0;
+				text-align: center;
+			}
+			.prose hr::before {
+				content: '...';
+				font-size: 28px;
+				letter-spacing: 0.6em;
+				color: var(--text-secondary);
 			}
 			.title {
-				margin-bottom: 1em;
+				margin-bottom: 2em;
 				padding: 1em 0;
 				text-align: center;
-				line-height: 1;
+				line-height: 1.2;
 			}
 			.title h1 {
 				margin: 0 0 0.5em 0;
 				color: var(--text-primary);
 				text-wrap: balance;
+				font-size: 42px;
+				font-weight: 900;
+				letter-spacing: -0.02em;
 			}
 			.date {
 				margin-bottom: 0.5em;
