@@ -2,7 +2,7 @@
 title: "5 Seller Disclosure Red Flags Homebuyers Miss (And How AI Catches Them)"
 description: "Seller disclosures often contain hidden repair traps buried in 100-page packets. Learn how AI document analysis uncovers structural, electrical, and roofing hazards before closing."
 pubDate: "Jul 28 2026"
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
 Purchasing a home is likely the single largest financial transaction of your life. Yet, most homebuyers—and even experienced real estate agents—only spend 15 to 20 minutes skimming through the seller's Real Estate Transfer Disclosure Statement (TDS) and Supplemental Questionnaires.
