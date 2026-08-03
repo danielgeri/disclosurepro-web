@@ -5,10 +5,9 @@ import HeaderLink from './HeaderLink.astro';
 <header class="header">
 	<div class="container nav-container">
 		<a href="/" class="brand-logo">
-			<div class="logo-icon">DP</div>
+			<img src="/logo.jpeg" alt="DP AI Logo" class="logo-icon-svg" />
 			<div class="brand-text">
 				<span class="brand-name">DisclosurePro</span>
-				<span class="brand-ai">AI</span>
 			</div>
 		</a>
 
@@ -47,33 +46,15 @@ import HeaderLink from './HeaderLink.astro';
 		gap: 12px;
 		text-decoration: none;
 	}
-	.logo-icon {
-		background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
-		color: #070b19;
-		font-weight: 900;
-		font-size: 16px;
-		width: 38px;
-		height: 38px;
-		border-radius: 10px;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		letter-spacing: -0.5px;
+	.logo-icon-svg {
+		height: 48px;
+		width: auto;
 	}
 	.brand-name {
 		color: #f8fafc;
-		font-size: 19px;
+		font-size: 22px;
 		font-weight: 800;
 		letter-spacing: -0.5px;
-	}
-	.brand-ai {
-		color: #00f2fe;
-		font-size: 14px;
-		font-weight: 900;
-		background: rgba(0, 242, 254, 0.1);
-		padding: 2px 6px;
-		border-radius: 6px;
-		margin-left: 4px;
 	}
 	.nav-links {
 		display: flex;

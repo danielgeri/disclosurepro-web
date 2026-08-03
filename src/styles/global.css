@@ -2,20 +2,20 @@
 
 :root {
   --font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  --bg-dark: #070b19;
-  --bg-card: #0f172a;
-  --bg-card-hover: #1e293b;
+  --bg-dark: #051326;
+  --bg-card: #082041;
+  --bg-card-hover: #0d3870;
   --text-primary: #f8fafc;
   --text-secondary: #94a3b8;
-  --accent-cyan: #00f2fe;
-  --accent-blue: #3b82f6;
+  --accent-cyan: #1ce3ed;
+  --accent-blue: #0d3870;
   --accent-gold: #f59e0b;
   --accent-purple: #8b5cf6;
   --border-color: rgba(255, 255, 255, 0.1);
-  --border-glow: rgba(0, 242, 254, 0.3);
-  --gradient-primary: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
-  --gradient-header: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
-  --gradient-accent: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+  --border-glow: rgba(28, 227, 237, 0.3);
+  --gradient-primary: linear-gradient(135deg, #1ce3ed 0%, #00a8cc 100%);
+  --gradient-header: linear-gradient(135deg, #082041 0%, #0d3870 100%);
+  --gradient-accent: linear-gradient(135deg, #1ce3ed 0%, #0d3870 100%);
 }
 
 * {
