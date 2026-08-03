@@ -3,6 +3,8 @@
 Copy and paste this prompt into Gemini to generate a highly comprehensive, long-form, hyper-localized SEO blog post (1,000+ words). 
 Replace `[CITY]`, `[STATE]`, and `[TOPIC]` with the desired targets from the tracking spreadsheet.
 
+> **Important:** After you generate and save the blog post, make sure to open `docs/seo/tracking.csv` and mark an 'x' in the corresponding cell to track our progress!
+
 ---
 
 **Prompt:**
