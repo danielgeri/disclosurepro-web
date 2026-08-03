@@ -16,6 +16,23 @@
   --gradient-primary: linear-gradient(135deg, #1ce3ed 0%, #00a8cc 100%);
   --gradient-header: linear-gradient(135deg, #082041 0%, #0d3870 100%);
   --gradient-accent: linear-gradient(135deg, #1ce3ed 0%, #0d3870 100%);
+  --header-bg: rgba(7, 11, 25, 0.85);
+  --header-border: rgba(255, 255, 255, 0.08);
+  --footer-bg: #040711;
+  --footer-border: rgba(255, 255, 255, 0.08);
+}
+
+.theme-light {
+  --bg-dark: #faf9f6;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f1f5f9;
+  --text-primary: #1e293b;
+  --text-secondary: #475569;
+  --border-color: rgba(0, 0, 0, 0.1);
+  --header-bg: rgba(250, 249, 246, 0.85);
+  --header-border: rgba(0, 0, 0, 0.1);
+  --footer-bg: #ffffff;
+  --footer-border: rgba(0, 0, 0, 0.1);
 }
 
 * {

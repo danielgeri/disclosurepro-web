@@ -30,9 +30,9 @@ import HeaderLink from './HeaderLink.astro';
 		position: sticky;
 		top: 0;
 		z-index: 100;
-		background: rgba(7, 11, 25, 0.85);
+		background: var(--header-bg);
 		backdrop-filter: blur(16px);
-		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+		border-bottom: 1px solid var(--header-border);
 		padding: 16px 0;
 	}
 	.nav-container {
@@ -51,7 +51,7 @@ import HeaderLink from './HeaderLink.astro';
 		width: auto;
 	}
 	.brand-name {
-		color: #f8fafc;
+		color: var(--text-primary);
 		font-size: 22px;
 		font-weight: 800;
 		letter-spacing: -0.5px;
@@ -61,8 +61,8 @@ import HeaderLink from './HeaderLink.astro';
 		gap: 24px;
 	}
 	.btn-primary-sm {
-		background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
-		color: #070b19;
+		background: var(--gradient-primary);
+		color: #ffffff;
 		font-weight: 700;
 		font-size: 14px;
 		padding: 8px 18px;

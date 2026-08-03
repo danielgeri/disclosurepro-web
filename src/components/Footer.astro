@@ -6,8 +6,8 @@ const today = new Date();
 	<div class="container footer-grid">
 		<div class="footer-brand">
 			<div class="brand-logo">
-				<div class="logo-icon">DP</div>
-				<span class="brand-name">DisclosurePro<span class="brand-ai">AI</span></span>
+				<img src="/logo.jpeg" alt="DP AI Logo" class="logo-icon-svg" />
+				<span class="brand-name">DisclosurePro</span>
 			</div>
 			<p class="tagline">AI-powered property disclosure analysis, risk scoring, repair credit estimation, and automated addendums in seconds.</p>
 		</div>
@@ -35,8 +35,8 @@ const today = new Date();
 
 <style>
 	.footer {
-		background: #040711;
-		border-top: 1px solid rgba(255, 255, 255, 0.08);
+		background: var(--footer-bg);
+		border-top: 1px solid var(--footer-border);
 		padding: 60px 0 30px 0;
 		margin-top: 80px;
 	}
@@ -52,57 +52,43 @@ const today = new Date();
 		gap: 10px;
 		margin-bottom: 12px;
 	}
-	.logo-icon {
-		background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
-		color: #070b19;
-		font-weight: 900;
-		font-size: 14px;
-		width: 32px;
+	.logo-icon-svg {
 		height: 32px;
-		border-radius: 8px;
-		display: flex;
-		align-items: center;
-		justify-content: center;
+		width: auto;
 	}
 	.brand-name {
-		color: #f8fafc;
+		color: var(--text-primary);
 		font-size: 18px;
 		font-weight: 800;
 	}
-	.brand-ai {
-		color: #00f2fe;
-		font-size: 13px;
-		font-weight: 900;
-		margin-left: 4px;
-	}
 	.tagline {
-		color: #64748b;
+		color: var(--text-secondary);
 		font-size: 13px;
 		max-width: 380px;
 		line-height: 1.5;
 	}
 	.footer-links-col h4 {
-		color: #f8fafc;
+		color: var(--text-primary);
 		font-size: 14px;
 		font-weight: 700;
 		margin-bottom: 16px;
 	}
 	.footer-links-col a {
 		display: block;
-		color: #94a3b8;
+		color: var(--text-secondary);
 		font-size: 13px;
 		margin-bottom: 10px;
 		text-decoration: none;
 	}
 	.footer-links-col a:hover {
-		color: #00f2fe;
+		color: var(--accent-cyan);
 	}
 	.footer-bottom {
-		border-top: 1px solid rgba(255, 255, 255, 0.05);
+		border-top: 1px solid var(--border-color);
 		padding-top: 24px;
 		display: flex;
 		justify-content: space-between;
-		color: #475569;
+		color: var(--text-secondary);
 		font-size: 12px;
 	}
 	@media (max-width: 768px) {
