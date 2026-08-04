@@ -11,6 +11,13 @@ Fresno offers homebuyers incredible value, beautiful weather, and access to the 
 
 Fresno is primarily plagued by two types of termites: subterranean and drywood. Subterranean termites live in the soil and build mud tubes up foundations to access the structural wood of a home, seeking moisture from irrigation systems or plumbing leaks. Drywood termites, on the other hand, don't need soil contact; they fly into attics and eaves, hollowing out roof framing and exterior trim. Because both types consume wood from the inside out, the damage is often entirely hidden behind drywall and stucco until the structural integrity of the home is severely compromised. 
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## California Real Estate Disclosure Laws: The TDS
 
 California has some of the strictest real estate disclosure laws in the country. Sellers are required to provide a Transfer Disclosure Statement (TDS) and a Seller Property Questionnaire (SPQ). These legally binding documents mandate that the seller disclose any known material facts affecting the value or desirability of the property.
@@ -39,9 +46,3 @@ In California, a pest report categorizes findings. Section 1 refers to active in
 
 ### Who pays for termite repairs in a Fresno real estate transaction?
 It is entirely negotiable. Traditionally, sellers would pay for Section 1 repairs to provide "termite clearance," but in a competitive seller's market, buyers are often forced to take the property "as-is" and absorb the costs.
-
-## Protect Your Fresno Investment with DisclosurePro AI
-
-Don't let hidden termite damage destroy your investment in Fresno. Manually reading hundreds of pages of California disclosure documents to find vague euphemisms is exhausting and risky. DisclosurePro AI acts as your digital real estate expert. It instantly analyzes the TDS, SPQ, and hundreds of pages of attached invoices, identifying hidden structural red flags and estimating potential repair costs so you can negotiate a fair price.
-
-[Try DisclosurePro AI Free Today](/download)

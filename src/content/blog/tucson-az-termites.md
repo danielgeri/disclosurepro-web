@@ -11,6 +11,13 @@ Tucson's unique desert landscape, stunning mountain views, and beautiful Southwe
 
 Subterranean termites, the most destructive type in Arizona, live deep underground and build mud tubes over concrete foundations or inside walls to reach the wood framing of a house. The monsoon season in Tucson brings sudden moisture, triggering massive termite swarms and encouraging colony expansion. Furthermore, the common use of stucco over wood framing (often close to the soil line) creates hidden pathways for termites to enter undetected. For a Tucson homebuyer, understanding how to decipher property disclosures for signs of termite history is absolutely essential to avoid buying a structurally compromised home.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Arizona Real Estate Disclosure Laws
 
 In Arizona, sellers are legally obligated to disclose any known material facts that could negatively affect the value or desirability of the property. This is accomplished through the Seller's Property Disclosure Statement (SPDS), a comprehensive document covering everything from roof condition to plumbing issues.
@@ -39,9 +46,3 @@ Pay close attention to mentions of "pest warranties," "drill marks in the patio/
 
 ### Is a termite warranty a guarantee that the house is safe?
 No. Most termite warranties only cover the cost of retreating the property if termites return; they rarely cover the cost of repairing the structural damage the termites caused. Always get a separate Wood Destroying Insect Inspection Report (WDIIR).
-
-## Protect Your Tucson Investment with DisclosurePro AI
-
-Don't let hidden termite damage turn your Tucson dream home into a financial nightmare. Relying on manual review to catch vague language and hidden red flags in the SPDS is a massive risk. DisclosurePro AI instantly analyzes your entire disclosure packet, identifies the subtle clues pointing to past termite damage, and calculates potential repair credits.
-
-[Try DisclosurePro AI Free Today](/download)

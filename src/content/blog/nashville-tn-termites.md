@@ -11,6 +11,13 @@ Nashville is booming. From the historic Craftsman homes in East Nashville to the
 
 These silent destroyers thrive in the moist soil of Middle Tennessee. They build mud tubes up the foundations of homes, seeking out the cellulose in floor joists, wall studs, and support beams. Because they consume wood from the inside out, a home can look perfectly sound on the surface while suffering massive structural failure underneath. In Nashville, where many older homes have crawl spaces that trap moisture, the risk is exceptionally high. For a homebuyer, missing the subtle signs of past termite damage in property disclosures can lead to catastrophic financial losses.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Tennessee Real Estate Disclosure Laws
 
 In Tennessee, sellers of residential properties are required to provide a Tennessee Residential Property Condition Disclosure form. This legally binding document obligates the seller to disclose any known material defects that could affect the property's value or safety. 
@@ -39,9 +46,3 @@ Watch out for phrases like "crawl space encapsulation," "moisture remediation," 
 
 ### Should I waive the termite inspection to win a bidding war?
 Never. In Tennessee, a Wood Destroying Insect (WDI) inspection (often called a "termite letter") is crucial. Waiving it exposes you to massive financial risk.
-
-## Protect Your Nashville Investment with DisclosurePro AI
-
-Don't let hidden termite damage ruin your Nashville dream home. Manually parsing through dense disclosure documents to find vague euphemisms is risky and prone to error. DisclosurePro AI acts as your digital safeguard. It instantly analyzes massive disclosure packets, cross-references repair invoices, flags hidden structural red flags, and estimates potential repair costs.
-
-[Try DisclosurePro AI Free Today](/download)

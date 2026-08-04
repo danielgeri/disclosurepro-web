@@ -11,6 +11,13 @@ Sacramento, famously known as the "City of Trees," offers a beautiful canopy tha
 
 Sacramento homes are primarily targeted by subterranean termites, which live in the soil and build mud tubes to reach the wood framing of a house. The extensive root systems of the city's famous trees, combined with irrigation and older home foundations, provide easy access and moisture. Additionally, drywood termites can swarm into attics and eaves. Because these insects hollow out wood while leaving the exterior surface intact, severe structural damage can remain completely hidden. For a homebuyer, knowing how to spot the subtle clues of termite history in the seller's disclosures is the only way to prevent a catastrophic financial surprise.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## California Real Estate Disclosure Laws: The TDS and SPQ
 
 California leads the nation in strict real estate disclosure laws. Sellers are legally mandated to complete a Transfer Disclosure Statement (TDS) and a Seller Property Questionnaire (SPQ). These comprehensive documents require the seller to reveal any known material facts that could impact the property's value.
@@ -39,9 +46,3 @@ In California, pest inspectors categorize findings. Section 1 items are active i
 
 ### Should I waive the termite inspection to make my offer stronger?
 Never. In a competitive market, it is tempting to waive contingencies, but waiving a Wood Destroying Pest inspection exposes you to massive, hidden financial risk.
-
-## Protect Your Sacramento Investment with DisclosurePro AI
-
-Don't let hidden termite damage turn your Sacramento dream home into a financial disaster. Manually reading through hundreds of pages of California disclosure documents to find vague euphemisms is a massive risk. DisclosurePro AI acts as your digital real estate attorney. It instantly analyzes massive disclosure packets, identifies hidden structural red flags, cross-references repair invoices, and estimates potential repair costs so you can buy with confidence.
-
-[Try DisclosurePro AI Free Today](/download)

@@ -21,6 +21,13 @@ Because these pests destroy wood from the inside out, leaving the exterior venee
 
 ---
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Texas Real Estate Disclosure Laws
 
 Under the Texas Property Code, sellers of single-family residential properties are legally required to provide buyers with a **Seller's Disclosure Notice**. This document requires the seller to disclose their knowledge of the property's condition to the best of their belief.
@@ -78,15 +85,3 @@ Yes. Formosan termites are an incredibly aggressive species of subterranean term
 You can file a lawsuit under the Texas Deceptive Trade Practices Act (DTPA) or for statutory fraud, but it is incredibly difficult and expensive. You must prove the seller *willfully concealed* a known material defect. If the seller provided a 150-page disclosure packet that contained a vague reference to the issue in the attachments, the courts will likely rule that you were put on notice.
 
 ---
-
-## Protect Your Houston Investment with DisclosurePro AI
-
-Don't rely on a hasty, manual read-through to protect your life savings in the fast-paced Houston real estate market. 
-
-**DisclosurePro AI** is a revolutionary enterprise architecture designed for homebuyers and agents. Simply upload your 100+ page disclosure packet, and our advanced AI will scan the entire document in under 10 seconds. 
-
-DisclosurePro AI instantly finds hidden red flags—like buried WDI reports and structural warnings—scores the overall property risk, and automatically calculates the estimated repair credits you should negotiate before the option period ends. Every finding is directly linked to the exact PDF page citation so you can verify the risk instantly.
-
-**Don't buy a Houston home with a compromised foundation.**
-
-[Try DisclosurePro AI Free Today](/download)

@@ -23,6 +23,13 @@ In historic districts with homes dating back over a hundred years, the aging woo
 
 ---
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## New York Real Estate Disclosure Laws
 
 Under New York State law, the principle of *caveat emptor* (let the buyer beware) historically dominated real estate transactions. However, the **New York Property Condition Disclosure Act (PCDA)** requires sellers of 1-4 family residential properties to complete a 48-question Property Condition Disclosure Statement. 
@@ -78,15 +85,3 @@ A WDI (Wood Destroying Insect) report is a specific inspection conducted by a li
 It is exceedingly difficult. You must prove that the seller *knew* about the active infestation or structural damage and *willfully concealed* it. If the seller disclosed vague "past activity" in the attachments, the courts will likely rule that you were put on notice and should have investigated further.
 
 ---
-
-## Protect Your Brooklyn Investment with DisclosurePro AI
-
-Don't rely on a hasty, manual read-through to protect your life savings in the high-stakes Brooklyn real estate market. 
-
-**DisclosurePro AI** is a revolutionary enterprise architecture designed for homebuyers, agents, and investors. Simply upload your 100+ page disclosure packet, and our advanced AI will scan the entire document in under 10 seconds. 
-
-DisclosurePro AI instantly finds hidden red flags—like buried termite treatments and structural warnings—scores the overall property risk, and automatically calculates the estimated repair credits you should negotiate before closing. Every finding is directly linked to the exact PDF page citation so you can verify the risk instantly.
-
-**Don't buy a Brooklyn brownstone with a compromised foundation.**
-
-[Try DisclosurePro AI Free Today](/download)

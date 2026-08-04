@@ -11,6 +11,13 @@ South Boston, affectionately known as "Southie," is famous for its tight-knit co
 
 Subterranean termites are the primary culprit in the Northeast. They live in the soil and build mud tubes to access the wood in your home. South Boston's coastal environment, combined with older foundations that often have higher moisture levels, creates an ideal habitat for these pests. Because termites consume wood from the inside out, the structural integrity of a century-old triple-decker can be severely compromised before any visible signs appear on the surface. Understanding how to spot the clues of termite damage in seller disclosures is vital to protecting your investment.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Massachusetts Real Estate Disclosure Laws
 
 Massachusetts operates under a strict "caveat emptor" (buyer beware) standard. Unlike many other states that require sellers to fill out a comprehensive property condition disclosure form, Massachusetts law does not obligate sellers to volunteer information about the condition of the property, including past termite infestations or damage, unless specifically asked.
@@ -39,9 +46,3 @@ This is common in Massachusetts due to "buyer beware" laws. In this case, you mu
 
 ### What are the buzzwords for termite damage in contractor invoices?
 Look for terms like "sistering joists," "sill plate replacement," "lally column installation," "powder post beetle treatment," or "borate treatment."
-
-## Protect Your South Boston Investment with DisclosurePro AI
-
-In a "buyer beware" state like Massachusetts, you cannot afford to miss a single clue hidden in the paperwork. DisclosurePro AI acts as your digital real estate attorney. It instantly analyzes any provided disclosures, condo documents, and permit histories in seconds, identifying the vague language and hidden red flags that point to costly termite damage.
-
-[Try DisclosurePro AI Free Today](/download)

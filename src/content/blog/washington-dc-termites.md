@@ -11,6 +11,13 @@ When you're buying a home in Washington D.C., you might be captivated by the his
 
 The mechanics of a termite infestation are insidious. Subterranean termites, the most common type in the D.C. area, build mud tubes from the soil to the wood in your home, seeking moisture and cellulose. Because many of D.C.'s historic homes have fieldstone foundations, crawl spaces, and structural elements made of older, potentially softer wood, they are particularly vulnerable. The region's hot, humid summers create an ideal climate for these pests to swarm and establish new colonies. For a homebuyer, understanding how to spot the signs of past or active termite damage in property disclosures is crucial to avoiding a financial disaster.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Washington D.C. Real Estate Disclosure Laws
 
 When purchasing property in Washington D.C., sellers are legally required to provide a Seller's Disclosure Statement. This document mandates that sellers disclose any known material defects in the property, including past or present wood-destroying insect infestations. 
@@ -39,9 +46,3 @@ Look for terms like "prior treatment," "wood-destroying insects," "termite bait 
 
 ### Should I always get a termite inspection?
 Absolutely. Even if the seller's disclosures claim no known issues, a dedicated Wood Destroying Insect (WDI) inspection by a licensed professional is essential, especially for historic homes in the D.C. area.
-
-## Protect Your Washington D.C. Investment with DisclosurePro AI
-
-Don't let hidden termite damage turn your dream D.C. home into a financial nightmare. Reading through hundreds of pages of disclosures manually is risky and exhausting. DisclosurePro AI instantly analyzes massive disclosure packets in seconds, identifies vague language related to pests and structural issues, flags the red flags, and even helps calculate potential repair credits so you can negotiate a better deal.
-
-[Try DisclosurePro AI Free Today](/download)

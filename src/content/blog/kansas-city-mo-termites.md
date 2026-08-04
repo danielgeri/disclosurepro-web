@@ -11,6 +11,13 @@ Kansas City is famous for its incredible barbecue, jazz heritage, and beautiful 
 
 Subterranean termites live deep underground and build mud tubes to reach the wood in your home. They are relentless in their search for moisture and cellulose. In Kansas City, older homes with fieldstone foundations, damp basements, or wood siding close to the soil line are particularly vulnerable. Because termites eat wood from the inside out, the structural damage is often completely invisible until it reaches a catastrophic level. For a homebuyer, knowing how to decipher a seller's disclosure statement to spot the clues of past termite activity is essential.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Missouri Real Estate Disclosure Laws
 
 In Missouri, sellers are legally obligated to disclose any known material defects about the property that would not be readily apparent to a buyer. This is typically done using a Seller's Disclosure Statement. 
@@ -39,9 +46,3 @@ Look for vague terms like "past pest treatment," "moisture in the basement," "wo
 
 ### Is a standard home inspection enough?
 No. A general home inspector will look for visible signs of damage, but they are not specialized pest inspectors. Always hire a licensed professional to perform a dedicated termite inspection before buying.
-
-## Protect Your Kansas City Investment with DisclosurePro AI
-
-Don't let hidden termite damage turn your Kansas City dream home into a money pit. Manually reading through disclosure documents to catch vague euphemisms is a massive risk. DisclosurePro AI acts as your digital real estate expert. It instantly analyzes massive disclosure packets, cross-references repair invoices, identifies the hidden structural red flags, and estimates potential repair costs so you can negotiate a fair price.
-
-[Try DisclosurePro AI Free Today](/download)

@@ -11,6 +11,13 @@ When buying a home in Albuquerque, you might think the dry, arid climate of the 
 
 Subterranean termites in New Mexico build their colonies deep underground to escape the desert heat and search relentlessly for moisture and cellulose (wood). They can enter a home through cracks in the concrete slab or foundation as small as 1/32 of an inch. Because Albuquerque homes heavily rely on irrigation systems for landscaping, the soil around the foundation is often artificially moist, creating a perfect highway for termites. Understanding how to interpret property disclosures to spot past or present termite activity is absolutely critical for any Albuquerque homebuyer.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## New Mexico Real Estate Disclosure Laws
 
 In New Mexico, the law requires sellers to act in good faith and disclose any known material defects about the property. This is typically done using the New Mexico Association of Realtors (NMAR) Property Disclosure Statement. This comprehensive form requires the seller to answer specific questions regarding the condition of the home, including the roof, foundation, plumbing, and pest infestations.
@@ -39,9 +46,3 @@ Look for any mentions of "past pest treatments," "drilled holes in concrete slab
 
 ### Should I get a specialized termite inspection?
 Absolutely. A standard home inspection is not enough. You should always hire a licensed pest control operator to perform a Wood Destroying Insect (WDI) report before closing on a home in Albuquerque.
-
-## Protect Your Albuquerque Investment with DisclosurePro AI
-
-Don't let hidden termite damage ruin your Albuquerque home purchase. Manually reading through dense disclosure packets to find vague references to past damage is a risky strategy. DisclosurePro AI instantly analyzes massive disclosure documents in seconds, flags the subtle language that indicates past termite treatments or structural issues, and calculates potential repair costs. 
-
-[Try DisclosurePro AI Free Today](/download)

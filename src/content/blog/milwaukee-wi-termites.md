@@ -11,6 +11,13 @@ When purchasing a home in Milwaukee, buyers are often drawn to the beautiful Cre
 
 Subterranean termites nest underground and build mud tubes to reach the wood in your home. They thrive in moisture, making Milwaukee's humid summers and damp basements or crawlspaces an ideal environment. Because these pests eat wood from the inside out, the damage is often invisible until it becomes severe. For a homebuyer, missing the subtle signs of past or active termite issues in the property disclosures can lead to unexpected and devastating financial consequences.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Wisconsin Real Estate Disclosure Laws
 
 In Wisconsin, sellers are required to complete a Real Estate Condition Report (RECR) when selling a property. This document is a critical part of the transaction, as it obligates the seller to disclose any known defects that would have a significant adverse effect on the value of the property, significantly impair the health or safety of future occupants, or significantly shorten the expected normal life of the premises.
@@ -39,9 +46,3 @@ Pay close attention to any mentions of "pest treatment," "wood rot," "moisture i
 
 ### Is a standard home inspection enough to find termite damage?
 No. General home inspectors look for visible signs, but they are not specialized pest inspectors. You should always hire a licensed pest control professional to conduct a specific Wood Destroying Insect inspection.
-
-## Protect Your Milwaukee Investment with DisclosurePro AI
-
-Don't let buried details in the Real Estate Condition Report cost you tens of thousands of dollars. Manually reviewing disclosures is a risky game of chance. DisclosurePro AI instantly analyzes massive disclosure packets in seconds, finds the hidden red flags related to pest damage and structural issues, and calculates potential repair credits. Arm yourself with the facts before you buy.
-
-[Try DisclosurePro AI Free Today](/download)

@@ -21,6 +21,13 @@ Every market has its unique challenges, and Phoenix is no exception. Our local c
 
 Furthermore, the housing stock in Phoenix features many older homes, historic districts, and properties that have seen decades of wear and tear. Older timber, hidden crawl spaces, settling foundations, and outdated drainage systems all contribute to creating a welcoming environment for subterranean and drywood termites. When the weather brings moisture or when local historical preservation restrictions limit the types of structural changes you can make, the termite risk skyrockets.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Understanding AZ Real Estate Disclosure Laws
 
 When you buy a property in AZ, the seller is legally required to provide specific disclosure documents detailing the condition of the home. But understanding these documents is easier said than done.
@@ -76,13 +83,3 @@ Look for terms like "WDI" (Wood Destroying Insects), "WDO" (Wood Destroying Orga
 
 ### 4. Should I always get a termite inspection?
 Absolutely. Never waive your right to a specialized WDI/WDO inspection, even in a highly competitive Phoenix market. A standard home inspector may point out obvious signs, but they will not do the deep, specialized investigation that a licensed pest inspector will perform.
-
-## Protect Your Phoenix Investment with DisclosurePro AI
-
-Don't let a vague sentence buried on page 84 of a blurry PDF cost you your life savings. Manually reading real estate disclosures is dangerous, outdated, and leaves you wide open to massive financial risk.
-
-**DisclosurePro AI** is here to change the game. Our advanced artificial intelligence instantly reads, analyzes, and categorizes massive disclosure packets in seconds. It flags vague language, highlights hidden risks like past termite damage, and even estimates the potential repair costs—giving you the leverage you need to negotiate repair credits or walk away before it's too late.
-
-Stop relying on luck and start relying on data. 
-
-[Try DisclosurePro AI Free Today](/download)

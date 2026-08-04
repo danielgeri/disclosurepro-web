@@ -11,6 +11,13 @@ When buying a home in El Paso, TX, the excitement of finding your dream property
 
 In this comprehensive guide, we will delve deep into the world of termite damage, exploring why it happens, how El Paso's specific climate and housing stock exacerbate the issue, and what you can do to protect your investment. As an expert real estate attorney and top-producing local real estate agent in El Paso, TX, I have seen firsthand the financial devastation that termite damage can cause. By the end of this article, you will be equipped with the knowledge and tools needed to navigate TX real estate disclosure laws confidently and ensure that your new El Paso home is a safe and sound investment.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## The Biology and Mechanics of Termite Damage
 
 To truly understand the threat of termites in El Paso, we must first explore their biology and the mechanics of the damage they cause. Termites are social insects that live in large colonies, often numbering in the millions. They feed primarily on cellulose, an organic compound found in wood, paper, and other plant-based materials. In a natural environment, termites play a crucial role in breaking down dead wood and returning nutrients to the soil. However, when they invade a home, they can cause catastrophic structural failure.
@@ -68,13 +75,3 @@ The cost varies widely based on the size of the home and the extent of the infes
 
 ### 4. Can termite damage be fixed, or should I walk away from the purchase?
 Termite damage can almost always be repaired, but the cost can be exorbitant. It depends on whether the damage is cosmetic or structural. If the main load-bearing components are severely compromised, you may want to reconsider the purchase unless the seller is willing to provide a significant repair credit.
-
-## Protect Your El Paso Investment with DisclosurePro AI
-
-As we've seen, relying on manual review of hundreds of pages of disclosure documents to spot hidden termite damage is a risky gamble that can lead to tens of thousands of dollars in unexpected repair costs. Fortunately, you no longer have to navigate this minefield alone.
-
-DisclosurePro AI is revolutionizing the way homebuyers in El Paso approach real estate transactions. Our advanced artificial intelligence instantly analyzes massive disclosure packets in seconds, identifying the subtle red flags and vague language that sellers use to conceal issues like termite damage, foundational settling, and unpermitted work. Furthermore, DisclosurePro AI automatically calculates estimated repair credits, giving you the hard data you need to negotiate effectively and protect your investment. 
-
-Don't let the home of your dreams become a financial nightmare. Empower yourself with the ultimate tool for uncovering hidden defects.
-
-[Try DisclosurePro AI Free Today](/download)

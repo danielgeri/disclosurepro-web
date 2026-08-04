@@ -23,6 +23,13 @@ Sellers are legally required to disclose known material defects, but they often 
 
 ---
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## 2. Recalled Electrical Service Panels (Zinsco & Federal Pacific)
 Older homes built between 1950 and 1980 frequently contain breaker panels manufactured by **Federal Pacific Electric (FPE)** or **Zinsco**. These panels are notorious for breaker lockups that fail to trip during an overload, presenting severe electrical fire hazards.
 
@@ -63,13 +70,3 @@ When buying a condo or townhome in a Homeowners Association (HOA), you are buyin
 **How AI Catches It:** AI reads through hundreds of pages of dense HOA documents, isolating keyword triggers such as *"special assessment,"* *"reserve deficit,"* *"deferred maintenance,"* and *"litigation."*
 
 ---
-
-## Protect Your Investment with DisclosurePro AI
-
-Don't let hidden disclosure traps catch you off guard after you get the keys. **DisclosurePro AI** analyzes your complete property disclosure package in seconds, generating:
-- 📊 **Overall Property Risk Scores**
-- 🔍 **Line-by-Line Critical Finding Summaries**
-- 💰 **Estimated Seller Repair Credit Ranges**
-- 📑 **Ready-to-Sign Purchase Credit Addendums**
-
-[Try DisclosurePro AI Free Today](/download) and inspect your next property with complete confidence.

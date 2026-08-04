@@ -23,6 +23,13 @@ Because subterranean termites destroy wood from the inside out, leaving the exte
 
 ---
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## Illinois Real Estate Disclosure Laws
 
 Under the **Illinois Residential Real Property Disclosure Act**, sellers of residential properties (1-4 units) are legally required to complete a specific disclosure report detailing their knowledge of material defects in the home.
@@ -77,15 +84,3 @@ A WDI (Wood Destroying Insect) report is a specific inspection conducted by a li
 While possible, it is incredibly difficult and expensive. You must prove the seller committed fraud by *willfully concealing* a known material defect on the Illinois Residential Real Property Disclosure Report. If the seller provided a disclosure packet that contained a vague reference to the issue in the attachments, the courts will likely rule that you were put on notice and should have investigated further.
 
 ---
-
-## Protect Your Chicago Investment with DisclosurePro AI
-
-Don't rely on a hasty, manual read-through to protect your life savings in the competitive Chicago real estate market. 
-
-**DisclosurePro AI** is a revolutionary enterprise architecture designed for homebuyers, agents, and attorneys. Simply upload your 100+ page disclosure packet, and our advanced AI will scan the entire document in under 10 seconds. 
-
-DisclosurePro AI instantly finds hidden red flags—like buried termite treatments and structural warnings—scores the overall property risk, and automatically calculates the estimated repair credits you should negotiate before closing. Every finding is directly linked to the exact PDF page citation so you can verify the risk instantly.
-
-**Don't buy a Chicago home with a compromised foundation.**
-
-[Try DisclosurePro AI Free Today](/download)

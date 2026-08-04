@@ -19,6 +19,13 @@ In {city}, the weather patterns play a significant role in termite activity. War
 
 When termites consume wood, they eat it from the inside out. This means a structural beam might look perfectly intact from the outside while being hollowed out completely on the inside. This is why visual inspections alone are often not enough, and why reading the disclosure documents carefully is absolutely critical.
 
+
+<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
+  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
+</div>
+
+
 ## {state} Real Estate Disclosure Laws: What Sellers Must Reveal
 
 When you buy a home in {city}, {state}, the seller is legally required to provide certain disclosures about the property's condition. In {state}, this is typically done through a standardized Seller's Disclosure Notice or Property Condition Disclosure Statement. 
@@ -71,13 +78,3 @@ A: A termite bond is a warranty provided by a pest control company. While it's a
 
 **Q: Can I sue the seller if I find termites after closing in {city}?**
 A: You can only sue if you can prove the seller *knew* about the active infestation or damage and intentionally failed to disclose it under {state} law. Proving this is difficult and expensive, which is why upfront due diligence is critical.
-
-## Protect Your {city} Investment with DisclosurePro AI
-
-Don't let what happened to Sarah and Mark happen to you. Manually reviewing real estate disclosures is outdated, risky, and prone to error. You need an expert on your side that never gets tired and never misses a detail.
-
-DisclosurePro AI instantly analyzes massive disclosure packets in seconds, automatically finding the hidden red flags that sellers try to bury. It cross-references {state} disclosure laws, flags vague language like "prior treatment," and even calculates estimated repair credits so you can negotiate a better deal. 
-
-Whether you are buying a historic home or a newer build in {city}, protect your largest financial investment with the power of artificial intelligence.
-
-[Try DisclosurePro AI Free Today](/download)
