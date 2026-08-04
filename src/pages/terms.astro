@@ -1,0 +1,94 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Terms of Service — ${SITE_TITLE}`} description="DisclosurePro AI Terms of Service and Professional Notices." />
+	</head>
+	<body>
+		<Header />
+		<main class="container privacy-page">
+			<div class="glass-card privacy-card">
+				<span class="badge-tech">DisclosurePro AI • Terms of Service</span>
+				<h1>Terms of Service & Disclaimers</h1>
+				<p class="meta"><strong>Effective Date:</strong> August 4, 2026</p>
+
+				<p>Welcome to DisclosurePro AI. By accessing or using our mobile application and website services, you agree to be bound by these Terms of Service. You must be at least 18 years old to use this service.</p>
+
+				<h2>1. Non-Brokerage & Non-Legal Advice Notice</h2>
+				<p>DisclosurePro is an artificial intelligence software tool designed for document analysis and information organization. DisclosurePro is NOT a licensed real estate broker, real estate agent, appraisal firm, home inspection company, or law firm. Information and generated worksheets do not constitute official real estate brokerage, legal, or financial advice.</p>
+
+				<h2>2. Professional Verification Required</h2>
+				<p>AI-generated findings, risk levels, repair recommendations, and credit estimates are preliminary reference tools derived from uploaded disclosure files. All findings and estimated cost ranges must be independently reviewed and verified by licensed real estate agents, attorneys, and licensed contractor professionals prior to executing purchase contracts or submitting legal addendums.</p>
+
+				<h2>3. "AS-IS" Warranty Disclaimer</h2>
+				<p>THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. AI models can hallucinate or omit details. We do not warrant that the findings will be accurate, complete, or error-free.</p>
+
+				<h2>4. Data Privacy & Upload Rights</h2>
+				<p>You represent and warrant that you have the legal right and necessary consents to upload documents containing potentially sensitive personal or property information. DisclosurePro does NOT sell user data or use private disclosure packages to train public AI models.</p>
+
+				<h2>5. Limitation of Liability</h2>
+				<p>To the maximum extent permitted by applicable law, DisclosurePro and its operators shall not be liable for any direct, indirect, incidental, or consequential damages resulting from reliance on AI document analyses, cost estimates, missed disclosure items, or real estate transaction negotiation outcomes.</p>
+
+				<h2>6. Indemnification</h2>
+				<p>You agree to indemnify and hold harmless DisclosurePro from any claims, damages, liabilities, or legal fees arising from your use of the platform, your reliance on its outputs, or your violation of these terms.</p>
+
+				<h2>7. Governing Law & Dispute Resolution</h2>
+				<p>These terms shall be governed by the laws of the jurisdiction in which the company operates. Any disputes arising from the use of this app shall be resolved through binding arbitration, waiving the right to participate in class actions.</p>
+
+				<h2>8. Modifications</h2>
+				<p>We reserve the right to modify these terms or terminate access at any time. Continued use constitutes acceptance of revised terms.</p>
+
+				<h2>9. Contact Us</h2>
+				<p>If you have any questions regarding these terms, please contact us at:</p>
+				<p><strong>DisclosurePro AI Support</strong><br />Email: <a href="mailto:contact@disclosurepro.ai">contact@disclosurepro.ai</a></p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.privacy-page {
+		padding-top: 40px;
+		padding-bottom: 60px;
+	}
+	.privacy-card {
+		padding: 48px;
+		max-width: 860px;
+		margin: 0 auto;
+	}
+	h1 {
+		font-size: 32px;
+		color: #f8fafc;
+		margin: 16px 0 8px 0;
+	}
+	h2 {
+		font-size: 20px;
+		color: #00f2fe;
+		margin-top: 32px;
+		margin-bottom: 12px;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+		padding-bottom: 8px;
+	}
+	p, li {
+		color: #94a3b8;
+		font-size: 15px;
+		line-height: 1.6;
+		margin-bottom: 12px;
+	}
+	ul {
+		margin-left: 20px;
+		margin-bottom: 16px;
+	}
+	.meta {
+		color: #cbd5e1;
+		margin-bottom: 24px;
+	}
+</style>
