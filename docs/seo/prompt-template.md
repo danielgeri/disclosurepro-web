@@ -13,7 +13,8 @@ Act as an expert real estate attorney and top-producing local real estate agent 
 
 Follow these strict constraints:
 1. **Format:** Return ONLY raw markdown. Do not include any conversational filler before or after the markdown. 
-2. **Frontmatter:** The markdown must begin with Astro frontmatter exactly matching this structure (fill in the variables):
+2. **No Repetition:** Ensure there is zero duplicated content. Do NOT repeat the same paragraphs, sentences, or phrases anywhere in the article. Double-check your output to prevent repetition loops.
+3. **Frontmatter:** The markdown must begin with Astro frontmatter exactly matching this structure (fill in the variables):
 ```yaml
 ---
 title: "[Catchy SEO Title including City and Topic - e.g. The Ultimate Guide to Spotting Termite Damage in Chicago Real Estate Disclosures]"
