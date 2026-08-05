@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Tucson Real Estate Disclosures"
 description: "Buying a home in Tucson? Learn how to spot hidden termite damage in real estate disclosures, understand Arizona laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/tucson_hero_1785906180269.jpg"
 ---
 
 ## The Desert's Silent Threat: Termites in Tucson

@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Detroit Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Detroit real estate disclosures. Learn to navigate MI property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/detroit_hero_1785905953662.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Detroit Real Estate

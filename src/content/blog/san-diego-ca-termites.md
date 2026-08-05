@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in San Diego Real Estate Disclosures"
 description: "Thinking of buying a home in San Diego, CA? Learn how to read property disclosures to spot hidden termite damage before it costs you thousands."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/san_diego_hero_1785906061232.jpg"
 ---
 
 # The Ultimate Guide to Spotting Termite Damage in San Diego Real Estate Disclosures

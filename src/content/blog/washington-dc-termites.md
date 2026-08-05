@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Washington D.C. Real Estate Disclosures"
 description: "Buying a home in Washington D.C.? Learn how to spot hidden termite damage in real estate disclosures, understand local laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/washington_dc_hero_1785905916595.jpg"
 ---
 
 ## The Silent Destroyers of the Capital's Historic Homes

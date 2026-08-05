@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Virginia Beach Real Estate Disclosures"
 description: "Discover how to identify hidden termite damage in Virginia Beach real estate disclosures. Learn about VA laws and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/virginia_beach_hero_1785905643986.jpg"
 ---
 
 As an expert real estate attorney and top-producing local real estate agent in Virginia Beach, VA, I've seen firsthand how a dream home can turn into a financial nightmare due to hidden termite damage. In this comprehensive guide, we'll dive deep into everything Virginia Beach homebuyers need to know about termites, real estate disclosures, and how to protect your investment.

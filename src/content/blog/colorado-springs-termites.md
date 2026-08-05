@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Colorado Springs Real Estate Disclosures"
 description: "Discover how to identify hidden termite damage in Colorado Springs real estate disclosures. Learn about CO laws and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/colorado_springs_hero_1785905794945.jpg"
 ---
 
 As an expert real estate attorney and top-producing local real estate agent in Colorado Springs, CO, I've seen firsthand how a dream home can turn into a financial nightmare due to hidden termite damage. In this comprehensive guide, we'll dive deep into everything Colorado Springs homebuyers need to know about termites, real estate disclosures, and how to protect your investment.

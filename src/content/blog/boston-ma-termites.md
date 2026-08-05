@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Boston Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Boston real estate disclosures. Learn to navigate MA property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/boston_hero_1785905856019.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Boston Real Estate

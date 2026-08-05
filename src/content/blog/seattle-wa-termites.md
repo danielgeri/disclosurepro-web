@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in {city} Real Estate Disclosures"
 description: "Buying a home in {city}, {state}? Learn how to spot hidden termite damage in real estate disclosures before it costs you thousands."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/seattle_hero_1785906195586.jpg"
 ---
 
 # The Ultimate Guide to Spotting Termite Damage in {city} Real Estate Disclosures

@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Nashville Real Estate Disclosures"
 description: "Buying a home in Nashville? Learn how to spot hidden termite damage in real estate disclosures, understand Tennessee laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/nashville_hero_1785906210759.jpg"
 ---
 
 ## The Hidden Threat in Music City's Booming Market

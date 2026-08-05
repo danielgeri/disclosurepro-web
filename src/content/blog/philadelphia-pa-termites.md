@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Philadelphia Real Estate Disclosures"
 description: "Thinking of buying a home in Philadelphia, PA? Learn how to read property disclosures to spot hidden termite damage before it costs you thousands."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/philadelphia_hero_1785906217979.jpg"
 ---
 
 # The Ultimate Guide to Spotting Termite Damage in Philadelphia Real Estate Disclosures

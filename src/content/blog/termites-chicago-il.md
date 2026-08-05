@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Chicago Real Estate Disclosures"
 description: "Buying a home in Chicago? Termite damage is often buried deep in the Illinois Residential Real Property Disclosure. Learn how to catch these costly structural risks before closing."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/chicago_hero_1785905744751.jpg"
 ---
 
 When purchasing a property in Chicago—whether it’s a historic greystone in Lincoln Park, a classic bungalow on the Northwest Side, or a mid-century home in the suburbs—buyers are handed a massive stack of paperwork during the attorney review period. Included in this mountain of documents is the Illinois Residential Real Property Disclosure Report, alongside dozens of pages of general inspection reports, pest control invoices, and seller questionnaires. 

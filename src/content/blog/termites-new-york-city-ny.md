@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in New York City Real Estate Disclosures"
 description: "Buying a home in NYC? Termite damage is often buried deep in the Property Condition Disclosure Statement. Learn how to catch these costly structural risks before closing."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/new_york_city_hero_1785905848705.jpg"
 ---
 
 When purchasing a property in New York City—whether it’s a historic Brooklyn brownstone, an aging Queens colonial, or a charming Staten Island single-family home—buyers are usually handed a massive stack of paperwork during the due diligence period. Included in this mountain of documents is the New York Property Condition Disclosure Statement, alongside dozens of pages of general inspection reports, pest control invoices, and seller questionnaires. 

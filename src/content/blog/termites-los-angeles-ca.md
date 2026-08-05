@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Los Angeles Real Estate Disclosures"
 description: "Buying a home in LA? Termite damage is often buried deep in the California TDS. Learn how to catch these costly structural risks before closing."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/los_angeles_hero_1785905931265.jpg"
 ---
 
 When purchasing a property in Los Angeles—whether it’s a vintage craftsman in Silver Lake, a mid-century modern in the Hollywood Hills, or a sprawling ranch in the San Fernando Valley—buyers are handed a massive stack of paperwork during the escrow period. Included in this mountain of documents is the infamous California Transfer Disclosure Statement (TDS), alongside dozens of pages of general inspection reports, pest control invoices, and seller questionnaires. 

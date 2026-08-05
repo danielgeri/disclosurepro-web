@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Omaha Real Estate Disclosures"
 description: "Discover how to identify hidden termite damage in Omaha real estate disclosures. Learn about NE laws and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/omaha_hero_1785905812585.jpg"
 ---
 
 As an expert real estate attorney and top-producing local real estate agent in Omaha, NE, I've seen firsthand how a dream home can turn into a financial nightmare due to hidden termite damage. In this comprehensive guide, we'll dive deep into everything Omaha homebuyers need to know about termites, real estate disclosures, and how to protect your investment.

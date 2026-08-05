@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Albuquerque Real Estate Disclosures"
 description: "Buying a home in Albuquerque? Learn how to spot hidden termite damage in real estate disclosures, understand New Mexico laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/albuquerque_hero_1785906038537.jpg"
 ---
 
 ## The Desert's Hidden Destroyers: Termites in Albuquerque

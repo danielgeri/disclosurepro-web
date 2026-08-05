@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Fresno Real Estate Disclosures"
 description: "Buying a home in Fresno? Learn how to spot hidden termite damage in real estate disclosures, understand California laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/fresno_hero_1785905711589.jpg"
 ---
 
 ## The Silent Destroyers in the Central Valley

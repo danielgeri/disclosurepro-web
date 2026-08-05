@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Baltimore Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Baltimore real estate disclosures. Learn to navigate MD property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/baltimore_hero_1785906165688.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Baltimore Real Estate

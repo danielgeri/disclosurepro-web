@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Sacramento Real Estate Disclosures"
 description: "Buying a home in Sacramento? Learn how to spot hidden termite damage in real estate disclosures, understand California laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/sacramento_hero_1785905871605.jpg"
 ---
 
 ## The Hidden Threat in the City of Trees

@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in New South Memphis Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in New South Memphis real estate disclosures. Learn to navigate TN property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/new_south_memphis_hero_1785906068204.jpg"
 ---
 
 ## Introduction to the Hidden Threat in New South Memphis Real Estate

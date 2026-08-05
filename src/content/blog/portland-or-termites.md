@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Portland Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Portland real estate disclosures. Learn to navigate OR property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/portland_hero_1785906045773.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Portland Real Estate

@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Las Vegas Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Las Vegas real estate disclosures. Learn to navigate NV property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/las_vegas_hero_1785906173055.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Las Vegas Real Estate

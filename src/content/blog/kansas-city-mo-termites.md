@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Kansas City Real Estate Disclosures"
 description: "Buying a home in Kansas City? Learn how to spot hidden termite damage in real estate disclosures, understand Missouri laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/kansas_city_hero_1785905736969.jpg"
 ---
 
 ## The Hidden Threat in the Heart of the Midwest

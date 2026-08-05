@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Manhattan Real Estate Disclosures"
 description: "Thinking of buying a home in Manhattan, NY? Learn how to read property disclosures to spot hidden termite damage before it costs you thousands."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/manhattan_hero_1785905863386.jpg"
 ---
 
 # The Ultimate Guide to Spotting Termite Damage in Manhattan Real Estate Disclosures

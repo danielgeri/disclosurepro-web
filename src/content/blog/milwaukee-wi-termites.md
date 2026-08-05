@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Milwaukee Real Estate Disclosures"
 description: "Buying a home in Milwaukee? Learn how to spot hidden termite damage in real estate disclosures, understand Wisconsin laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/milwaukee_hero_1785905659832.jpg"
 ---
 
 ## The Hidden Threat in Milwaukee's Classic Homes

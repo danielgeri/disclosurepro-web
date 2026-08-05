@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in South Boston Real Estate Disclosures"
 description: "Buying a home in South Boston? Learn how to spot hidden termite damage in real estate disclosures, understand Massachusetts laws, and protect your investment."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/south_boston_hero_1785906188801.jpg"
 ---
 
 ## The Hidden Threat in Southie's Historic Homes

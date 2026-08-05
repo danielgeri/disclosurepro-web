@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in The Bronx Real Estate Disclosures"
 description: "Thinking of buying a home in The Bronx, NY? Learn how to read property disclosures to spot hidden termite damage before it costs you thousands."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/the_bronx_hero_1785905687260.jpg"
 ---
 
 # The Ultimate Guide to Spotting Termite Damage in The Bronx Real Estate Disclosures

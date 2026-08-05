@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Brooklyn Real Estate Disclosures"
 description: "Buying a Brooklyn brownstone or townhouse? Termite damage is often buried deep in the Property Condition Disclosure Statement. Learn how to catch these costly structural risks."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/brooklyn_hero_1785906094863.jpg"
 ---
 
 When purchasing a property in Brooklyn—whether it’s a historic 19th-century brownstone in Park Slope, a multi-family townhouse in Bed-Stuy, or a converted loft in Williamsburg—buyers are usually handed a massive stack of paperwork during the due diligence period. Included in this mountain of documents is the New York Property Condition Disclosure Statement, alongside dozens of pages of general inspection reports, pest control invoices, and seller questionnaires. 

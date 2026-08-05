@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Houston Real Estate Disclosures"
 description: "Buying a home in Houston? Termite damage is often buried deep in the Texas Seller's Disclosure Notice. Learn how to catch these costly structural risks before closing."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/houston_hero_1785906085923.jpg"
 ---
 
 When purchasing a property in Houston—whether it’s a new construction in the suburbs, a historic bungalow in the Heights, or a sprawling estate in River Oaks—buyers are handed a massive stack of paperwork during the option period. Included in this mountain of documents is the Texas Seller's Disclosure Notice, alongside dozens of pages of general inspection reports, pest control invoices, and Wood Destroying Insect (WDI) reports. 

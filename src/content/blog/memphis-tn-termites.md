@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Memphis Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Memphis real estate disclosures. Learn to navigate TN property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/memphis_hero_1785905703742.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Memphis Real Estate

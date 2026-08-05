@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in El Paso Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in El Paso real estate disclosures. Learn to navigate TX property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/el_paso_hero_1785905977377.jpg"
 ---
 
 ## Introduction to the Hidden Threat in El Paso Real Estate

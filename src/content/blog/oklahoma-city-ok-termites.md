@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Spotting Termite Damage in Oklahoma City Real Estate Disclosures"
 description: "Discover how to spot hidden termite damage in Oklahoma City real estate disclosures. Learn to navigate OK property laws and protect your investment with our comprehensive buyer's guide."
 pubDate: "Aug 03 2026"
-heroImage: "../../assets/red_flags_hero.jpg"
+heroImage: "../../assets/oklahoma_city_hero_1785906157955.jpg"
 ---
 
 ## Introduction to the Hidden Threat in Oklahoma City Real Estate
