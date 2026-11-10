@@ -5,7 +5,7 @@ This file is updated automatically every Sunday by the **Weekly SEO Feedback Loo
 ## One-Time Viewer Access Status
 - **Service Account:** `disclosurepro-seo-analytics@project-45afdc2c-be1b-4a48-b04.iam.gserviceaccount.com`
 - **Google Analytics 4 (`properties/548362622`):** ✅ Connected & Pulling Live Data
-- **Google Search Console:** ⏳ Pending Viewer Access (Settings → Users and permissions → Add user → `disclosurepro-seo-analytics@project-45afdc2c-be1b-4a48-b04.iam.gserviceaccount.com`)
+- **Google Search Console (`sc-domain:disclosurepro.ai`):** ✅ Connected & Sitemap Submitted (Google takes 24–48h after initial verification to backfill query & impression tables)
 
 ---
 
