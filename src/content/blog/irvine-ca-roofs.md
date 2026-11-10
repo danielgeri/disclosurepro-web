@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Irvine Real Estate Disclosures
-
 Renowned as one of the most meticulously designed master-planned communities in the world, Irvine is celebrated for its pristine urban villages, top-tier public schools, booming tech economy, and exceptionally safe neighborhoods. From the iconic lakeside homes and wooden bridges of Woodbridge and the hillside custom estates of Turtle Rock to the established eucalyptus-lined streets of Northwood, the Mediterranean-inspired architecture of Westpark, and the modern luxury enclaves of Portola Springs, Quail Hill, and Orchard Hills, Irvine offers one of the most prestigious real estate markets in Southern California.
 
 However, beneath Irvine’s manicured greenbelts and uniform tile roofscapes lies an unforgiving environmental gauntlet that steadily compromises residential roofing assemblies: **severe Santa Ana windstorms barreling through Santiago Canyon with 70-mph gusts, intense Mediterranean solar ultraviolet (UV) radiation that bakes underlayments, wildfire ember intrusion risks, and strict village HOA architectural guidelines**. In Orange County, a concrete tile roof that appears immaculate from the curb can conceal thousands of dollars in rotted felt paper, fractured sheathing, and unpermitted modifications.

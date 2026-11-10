@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Alhambra Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Alhambra, AZ Real Estate Disclosures"
 description: "Buying a home in Alhambra, AZ? Learn how to uncover hidden desert subterranean termite damage in Maricopa County disclosures, navigate the Arizona SPDS and Form WDIIR, and protect your investment."
 pubDate: "Sep 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

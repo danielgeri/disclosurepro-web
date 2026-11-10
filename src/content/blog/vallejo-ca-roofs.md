@@ -5,8 +5,6 @@ pubDate: "Nov 02 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Vallejo Real Estate Disclosures
-
 Positioned along the picturesque shores of San Pablo Bay and the Carquinez Strait in southwestern Solano County, Vallejo is one of the San Francisco Bay Area’s most historic, culturally diverse, and scenic waterfront cities. Celebrated for its rich naval history at the historic Mare Island Naval Shipyard and its twice-held status as California's state capital in the 1850s, Vallejo showcases an exceptional architectural heritage. From the ornate late 19th-century Queen Anne, Italianate, and Craftsman residences lining the tree-shaded streets of the St. Vincent's Hill and Vallejo Heritage Historic Districts to the mid-century modern hillside ranches of East Vallejo and the premier executive view estates of Glen Cove overlooking the strait, Vallejo offers remarkable coastal living.
 
 Yet behind Vallejo’s cool maritime breezes, Victorian ornamental millwork, and scenic waterfront trails lies a punishing microclimate: **dense coastal marine fog and saline humidity drifting from San Pablo Bay, fierce 50+ mph wind funnels squeezing through the Carquinez Strait, chronic moss and lichen infestation that pries shingles apart, rotted skip sheathing on historic homes, and sudden winter Pacific atmospheric rivers that overwhelm aged roof assemblies**.

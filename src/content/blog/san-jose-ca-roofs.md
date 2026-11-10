@@ -5,8 +5,6 @@ pubDate: "Oct 08 2026"
 heroImage: "../../assets/san_jose_hero_1785905909028.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in San Jose Real Estate Disclosures
-
 San Jose sits at the epicenter of Silicon Valley innovation, boasting a hyper-competitive real estate market where million-dollar properties trade hands in days. From mid-century modern Eichler developments in Willow Glen and Fairglen to historic Victorians near Downtown and Naglee Park, 1970s ranch homes in Cambrian Park and Blossom Valley, and hillside estates in Almaden Valley, the city's housing landscape is as diverse as it is valuable.
 
 However, the breakneck pace of Silicon Valley real estate often pressures buyers into a dangerous habit: prioritizing tech-enabled smart home amenities while failing to closely examine the property's structural envelope—most notably, **the roof**.

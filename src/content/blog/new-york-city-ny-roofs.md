@@ -5,13 +5,11 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/new_york_city_hero_1785905848705.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in New York City Real Estate Disclosures
-
 Purchasing real estate in New York City is an exhilarating milestone, whether you are acquiring a historic brownstone in Greenwich Village, an attached brick townhouse in Queens, or a top-floor co-op or condo unit in Manhattan. Yet amidst the whirlwind of board packages, appraisal contingencies, and intense bidding wars, buyers often overlook one of the single most expensive structural components of any building: **the roof**.
 
 In New York City, a damaged, aging, or improperly maintained roof is not merely an inconvenience—it is an existential threat to your investment. Between historic multi-layered flat roofing assemblies, severe freeze-thaw cycles, coastal weather systems, and the dense regulatory web of the New York City Department of Buildings (DOB), an undisclosed roofing defect can rapidly evolve into a five- or six-figure financial catastrophe. 
 
-As an experienced real estate attorney and veteran NYC real estate broker, I have seen buyers celebrate at the closing table only to face emergency tarpaulins, collapsed plaster ceilings, and toxic mold infestations within their first few months of ownership. In this comprehensive guide, we will unpack the specific mechanics of NYC roof failures, explain how New York disclosure laws protect—and fail to protect—buyers, and reveal the exact red flags you must look for in seller disclosure documents.
+Real estate attorneys and local buyer's brokers regularly see buyers celebrate at the closing table only to face emergency tarpaulins, collapsed plaster ceilings, and toxic mold infestations within their first few months of ownership. In this comprehensive guide, we will unpack the specific mechanics of NYC roof failures, explain how New York disclosure laws protect—and fail to protect—buyers, and reveal the exact red flags you must look for in seller disclosure documents.
 
 ---
 

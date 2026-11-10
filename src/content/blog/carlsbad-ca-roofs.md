@@ -5,8 +5,6 @@ pubDate: "Nov 05 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Carlsbad Real Estate Disclosures
-
 Perched along seven pristine miles of Pacific coastline in North County San Diego, Carlsbad—affectionately nicknamed "The Village by the Sea"—represents one of Southern California's premier residential enclaves. Known for world-class coastal resorts, championship golf courses, thriving biotech innovation centers, and top-tier Carlsbad Unified schools, the community draws prospective homebuyers seeking an idyllic coastal lifestyle. Carlsbad's residential landscape is diverse and architecturally striking: from the luxury custom Mediterranean villas and tile-roof estates overlooking the Batiquitos and Agua Hedionda Lagoons in Aviara and La Costa, to the charming beach cottages and modern coastal revivals of Carlsbad Village, to master-planned family communities like Calavera Hills, Bressi Ranch, and Robertson Ranch.
 
 Yet beneath Carlsbad’s sunny temperate climate, ocean views, and manicured golf greens lies one of the most deceptive roofing environments on the West Coast: **saline Pacific marine fog accelerating galvanic corrosion on metal roof fasteners and valleys, chronic morning condensation rotting organic felt underlayment beneath seemingly intact concrete tiles, intense seasonal Santa Ana windstorms blowing down coastal canyons, and designated Wildland-Urban Interface (WUI) fire hazards requiring rigorous ember-resistant Class A assemblies**.

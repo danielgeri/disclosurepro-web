@@ -5,8 +5,6 @@ pubDate: "Oct 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Salinas Real Estate Disclosures
-
 Nestled within the fertile Salinas Valley of Monterey County, Salinas is widely celebrated as the "Salad Bowl of the World" and the literary heartland of John Steinbeck. From the historic Craftsman bungalows and Spanish Colonial revival homes of South Salinas and Old Town to mid-century ranches in Santa Rita and modern master-planned communities in Creekbridge and Harden Ranch, the Salinas housing market attracts buyers seeking California central coast living within reach of Silicon Valley and Monterey Bay.
 
 However, beneath Salinas’s moderate coastal climate lies an unforgiving microclimate that tests the integrity of residential roofing systems: **dense Monterey Bay marine fog, high-velocity valley thermal winds, corrosive agricultural particulate drift, and seismic micro-movements along nearby active fault lines**.

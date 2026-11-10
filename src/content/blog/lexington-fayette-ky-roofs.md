@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Lexington-Fayette Real Estate Disclosures
-
 Lexington-Fayette is the cultural and economic heart of Kentucky’s famed Bluegrass region, known worldwide for its picturesque horse farms, rolling limestone pastures, and vibrant architectural heritage. From the stately historic estates and English Tudors of Ashland Park and Chevy Chase to charming 1920s Craftsman bungalows in Bell Court and Kenwick, and contemporary suburban developments across Beaumont Reserve and Masterson Station, the local housing market offers timeless elegance and modern convenience.
 
 However, beneath the graceful canopy of mature bur oaks and historic charm lies a persistent structural vulnerability: **the severe environmental extremes of the Ohio Valley**. In Lexington-Fayette, residential roofs are subjected to violent spring convective hailstorms, heavy winter ice accumulations, rapid freeze-thaw oscillations, and high summer humidity. When severe weather strikes, aging roof assemblies—from dimensional shingles to vintage slate and standing-seam metal—are pushed to their breaking points.

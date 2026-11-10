@@ -5,8 +5,6 @@ pubDate: "Nov 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Everett Real Estate Disclosures
-
 Positioned along the pristine shores of Port Gardner Bay and the Snohomish River in Snohomish County, Everett is the county seat and the largest city in northern Puget Sound. Celebrated as a global aviation and maritime hub—home to Boeing’s legendary Paine Field assembly plant and Naval Station Everett—the city offers an exceptional architectural heritage. Prospective homebuyers are captivated by the magnificent historic Craftsman bungalows, American Foursquares, and Victorian residences of Northwest Everett and Bayside, the mid-century modern view homes of Boulevard Bluffs, and the contemporary suburban communities surrounding Silver Lake.
 
 However, behind Everett's snow-capped Cascade Mountain views and lush evergreen landscape lies a relentless Pacific Northwest maritime climate that quietly devastates residential roof systems: **over 165 days of annual precipitation, persistent cool dampness that fuels aggressive moss and lichen colonies, wind-driven marine gales off Puget Sound, and historic housing stock plagued by unventilated attic cavities that trap moisture and rot structural timber decking from within**.

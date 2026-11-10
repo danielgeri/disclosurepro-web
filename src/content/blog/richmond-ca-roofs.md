@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Richmond Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Richmond, CA Real Estate Disclosures"
 description: "Buying a home in Richmond, California? Learn how San Francisco Bay marine fog, atmospheric rivers, Hayward Fault seismic racking, and California TDS disclosures impact your roof."
 pubDate: "Nov 07 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Richmond Real Estate Disclosures
 
 Positioned along the vibrant shoreline of the San Francisco and San Pablo Bays in western Contra Costa County, Richmond is a city defined by rich maritime history, cultural diversity, and stunning coastal geography. Once a vital shipbuilding powerhouse during World War II, modern Richmond has emerged as an attractive, accessible destination for Bay Area homebuyers seeking waterfront beauty, sweeping vistas of Mount Tamalpais and the San Francisco skyline, and direct ferry access to downtown San Francisco. The city encompasses an exceptionally varied architectural tapestry: from the historic Victorian cottages, Queen Annes, and Craftsman bungalows of historic Point Richmond, to the classic mid-century stucco bungalows of Richmond Annex and North & East, to the contemporary waterfront townhomes of Marina Bay and the hillside executive residences of Carriage Hills.
 

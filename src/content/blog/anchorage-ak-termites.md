@@ -5,7 +5,7 @@ pubDate: "Aug 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active broker representing homebuyers across the Municipality of Anchorage, I frequently counsel clients navigating our unique Southcentral Alaska housing market. From the mid-century ranch homes and split-levels of Turnagain, Spenard, and Rogers Park to the timber-framed properties of South Addition and the Hillside, Anchorage homes face distinct environmental stresses. 
+Experienced real estate attorneys and local brokers regularly counsel clients navigating our unique Southcentral Alaska housing market. From the mid-century ranch homes and split-levels of Turnagain, Spenard, and Rogers Park to the timber-framed properties of South Addition and the Hillside, Anchorage homes face distinct environmental stresses. 
 
 While many prospective buyers assume Alaska's subarctic winters provide natural protection against insect damage, heated residential crawlspaces and persistent spring snowmelt create microclimates where wood-destroying organisms thrive. Dampwood termites, localized subterranean colonies, and moisture-driven wood decay silently undermine structural floor framing, carrying beams, and perimeter pony walls. Understanding Alaska's statutory real estate disclosure mandates, knowing how to interpret pest inspection documents, and recognizing ambiguous seller language are vital due diligence steps for every Anchorage homebuyer.
 

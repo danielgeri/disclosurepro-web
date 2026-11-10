@@ -5,8 +5,6 @@ pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Athens Real Estate Disclosures
-
 Nestled in the rolling foothills of the Georgia Piedmont across Clarke County, Athens—affectionately celebrated nationwide as the "Classic City"—is renowned for its vibrant music heritage, premier higher education anchored by the University of Georgia (UGA), and exceptional architectural history. Prospective homebuyers are drawn to Athens' picturesque, tree-lined neighborhoods: from the grand antebellum estates, Victorian residences, and historic Craftsman bungalows of Cobbham, Boulevard, and Normaltown to the stately academic estates of Five Points and the mid-century brick ranches of Beechwood and Green Acres.
 
 Yet beneath Athens' gracious Southern charm, towering oak canopies, and vibrant college-town atmosphere lies a harsh subtropical environment that subjects residential roofs to severe physical stress: **prolonged 90°F+ summer heatwaves with oppressive ambient humidity, aggressive blue-green algae and acidic pine needle decomposition fostered by dense hardwood canopies, violent Piedmont thunderstorm microbursts packing 60+ mph straight-line winds, and severe foundation movement caused by expansive Georgia red clay that shears flashing apart**.

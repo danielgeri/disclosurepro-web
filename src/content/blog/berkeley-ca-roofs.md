@@ -5,8 +5,6 @@ pubDate: "Nov 02 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Berkeley Real Estate Disclosures
-
 Rising gracefully from the eastern shores of San Francisco Bay up the steep, wooded slopes of the East Bay Hills in northern Alameda County, Berkeley is widely celebrated as one of California’s most intellectually vibrant, culturally rich, and architecturally renowned cities. Home to the flagship campus of the University of California, Berkeley, the city is world-famous for its pioneering First Bay Tradition architecture, where historic residential neighborhoods integrate seamlessly into the dramatic natural topography. From the iconic shingled Craftsman and Bernard Maybeck or Julia Morgan masterpieces of the Berkeley Hills, Northbrae, and Thousand Oaks to the grand Brown Shingle and Colonial Revival residences of Elmwood and Claremont, to the vibrant urban flatlands near Telegraph Avenue and West Berkeley, Berkeley offers an incomparable residential environment.
 
 Yet behind Berkeley’s picturesque redwood canopies, winding hillside staircases, and bohemian intellectual charm lies an extraordinary convergence of natural and structural hazards: **designated Very High Fire Hazard Severity Zones (VHFHSZ) requiring stringent Class A fire-rated roofing assemblies, the active Hayward Fault trace cutting directly through the hills causing recurring seismic micro-shears that separate roof flashings, dense Golden Gate marine fog layers that cultivate destructive moss and wood decay, and steep hillside wind funnels that stress aged roofing envelopes**.

@@ -5,8 +5,6 @@ pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Midland Real Estate Disclosures
-
 Located in the heart of the prolific Permian Basin, Midland is the dynamic commercial capital of West Texas energy. Characterized by expansive desert horizons, rapid economic growth, and proud Texas heritage, the city offers a diverse residential landscape: from the classic mid-century brick ranches and sprawling 1960s estates in Old Midland and Skyline Terrace, to the upscale executive properties and master-planned communities of Green Tree, Grassland, Polo Park, and the Racquet Club.
 
 However, behind Midland’s thriving economy lies one of the most structurally hostile climates for residential roofs in North America: **relentless high-desert solar ultraviolet radiation baking asphalt shingles, summer heatwaves exceeding 105°F that turn attics into 155°F thermal kilns, abrasive West Texas "Haboob" dust storms blasting fine caliche sand against shingle granules, severe convective supercells dropping destructive hail, wild 50-degree diurnal temperature swings, and sudden winter freezes**.

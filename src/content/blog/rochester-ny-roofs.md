@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Rochester Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Rochester, NY Real Estate Disclosures"
 description: "Buying a home in Rochester, NY? Discover how Lake Ontario lake effect snow, severe ice damming, New York's mandatory PCDS disclosure law, and historic slate rot impact buyers."
 pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Rochester Real Estate Disclosures
 
 Perched along the southern shore of Lake Ontario and bisected by the cascading waterfalls of the Genesee River, Rochester stands as a historic center of American innovation, photographic heritage, and cultural vitality. Renowned for its world-class cultural institutions, prestigious universities, and celebrated lilac-filled parklands, Rochester boasts some of the finest turn-of-the-century residential architecture in the Northeast. From the opulent Gilded Age mansions and historic estates of the East Avenue Preservation District to the vibrant, tree-shaded Victorian streets of Park Avenue and South Wedge, the charming Craftsman residences of Cobbs Hill, and the storybook Tudor enclaves of Browncroft, the city’s housing stock is rich with historic craftsmanship.
 

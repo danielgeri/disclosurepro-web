@@ -5,8 +5,6 @@ pubDate: "Oct 08 2026"
 heroImage: "../../assets/san_francisco_hero_1785906053162.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in San Francisco Real Estate Disclosures
-
 San Francisco features one of the most architecturally celebrated and high-stakes residential real estate markets in the world. From the iconic Queen Anne and Italianate Victorians in Alamo Square and the Haight to the grand Edwardians of Pacific Heights, stucco tunnel-entry rowhouses of the Sunset and Richmond Districts, and historic multi-family residences in the Mission, owning a home in San Francisco is an extraordinary milestone.
 
 However, behind decorative wood gingerbread, soaring bay windows, and multi-million-dollar valuations lies an architectural vulnerability that demands deep scrutiny: **the historic urban flat roof**.

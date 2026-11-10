@@ -5,8 +5,6 @@ pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Wilmington Real Estate Disclosures
-
 Perched between the Cape Fear River and the barrier islands of the Atlantic Ocean in New Hanover County, Wilmington is celebrated as southeastern North Carolina’s premier coastal gem. Renowned for its rich colonial history, thriving film and television industry, vibrant riverfront boardwalk, and easy access to Wrightsville Beach, Wilmington attracts thousands of prospective homebuyers seeking coastal living. Buyers are drawn to Wilmington’s diverse architectural landscape: from the grand 19th-century Italianate, Victorian, and Colonial Revival residences of Historic Downtown and Carolina Heights to the gracious mid-century estates of Forest Hills and Sunset Park, to the luxury gated golf-course properties of Landfall, Autumn Hall, and Mayfaire.
 
 Yet behind Wilmington’s picturesque Spanish moss, historic cobblestones, and coastal ocean breezes lies one of the most punishing atmospheric environments in the United States: **direct exposure to Atlantic tropical cyclones and hurricanes packing 100+ mph wind gusts (such as Hurricanes Florence, Matthew, and Dorian), airborne marine salt spray that corrodes roofing fasteners within years, tropical downpours exceeding 4 inches per hour, and sustained 80%+ summer humidity that cultivates aggressive fungal rot within unventilated roof decks**.

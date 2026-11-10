@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Alhambra Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Alhambra, CA Real Estate Disclosures"
 description: "Buying a home in Alhambra, California? Learn how historic Craftsman bungalows, clay soils, and unventilated crawlspaces invite termites, decode California TDS laws, and protect your investment."
 pubDate: "Oct 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Kansas City Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Kansas City, KS Real Estate Disclosures"
 description: "Buying a home in Kansas City, Kansas? Discover how severe Plains hail, winter ice damming, aging housing stock, and Kansas real estate disclosure laws affect roofs."
 pubDate: "Oct 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Kansas City Real Estate Disclosures
 
 Perched at the confluence of the Missouri and Kansas Rivers in Wyandotte County, Kansas City, Kansas (KCK) boasts a rich tapestry of vibrant communities and historic architecture. From the scenic bluffs and brick cottages of Strawberry Hill and the grand historic Craftsman and Tudor residences of Westheight Manor to mid-century bungalows in Turner and sprawling suburban developments in Piper and Western Wyandotte, KCK offers attractive options for homebuyers.
 

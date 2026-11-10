@@ -5,8 +5,6 @@ pubDate: "Nov 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Pompano Beach Real Estate Disclosures
-
 Positioned along the Atlantic coast in northeastern Broward County just north of Fort Lauderdale, Pompano Beach is one of South Florida's most picturesque and dynamic coastal communities. Renowned for its pristine beachfront, iconic fishing pier, and extensive network of navigable canals leading to the Intracoastal Waterway and Hillsboro Inlet, Pompano Beach is a boating and coastal living paradise. Prospective homebuyers are drawn to the luxury waterfront estates of Pompano Isles and Harbor Village, the charming mid-century waterfront homes of Garden Isles, the golf-course condominiums of Palm Aire, and the historic single-family residences of Old Pompano and Cresthaven.
 
 However, behind Pompano Beach's tropical luxury and turquoise ocean views lies one of the most demanding coastal environments in North America: **the High-Velocity Hurricane Zone (HVHZ), where design wind speeds exceed 170 mph, aggressive marine salt mist corrodes metal flashings and fasteners, torrential tropical rainstorms overwhelm gravity drainage, intense ultraviolet (UV) radiation bakes roofing materials, and aging concrete and clay barrel tile roofs suffer from hidden underlayment decomposition**.

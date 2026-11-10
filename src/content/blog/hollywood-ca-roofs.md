@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Hollywood Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Hollywood, CA Real Estate Disclosures"
 description: "Buying a home in Hollywood, CA? Discover how hillside microclimates, historic Spanish tile, and California TDS disclosure laws impact Los Angeles homebuyers."
 pubDate: "Oct 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Hollywood Real Estate Disclosures
 
 Globally recognized as the entertainment capital of the world, Hollywood is home to some of Southern California's most iconic and architecturally significant residential neighborhoods. From the winding hillside enclaves of Whitley Heights, the Hollywood Dell, Outpost Estates, and Beachwood Canyon to the vintage Craftsman bungalows and Spanish Colonial Revival properties in the flats below, Hollywood real estate combines timeless glamour, dramatic views, and unmatched cultural pedigree.
 

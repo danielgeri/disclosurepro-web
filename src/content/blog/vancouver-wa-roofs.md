@@ -5,8 +5,6 @@ pubDate: "Oct 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Vancouver Real Estate Disclosures
-
 Situated on the north bank of the majestic Columbia River directly across from Portland, Oregon, Vancouver is one of the most vibrant and rapidly growing cities in the Pacific Northwest. From the historic Craftsman and Victorian heritage residences of Hough, Arnada, and Carter Park near Downtown to the tree-canopied executive communities of Felida and Salmon Creek, and the premier master-planned subdivisions of Cascade Park and Fisher's Landing, Vancouver offers an exceptional blend of natural beauty and suburban vitality.
 
 Yet beneath the towering Douglas firs and scenic river vistas lies one of the most persistent, moisture-saturated environments for residential roofing systems in North America: **the Pacific Northwest climate**.

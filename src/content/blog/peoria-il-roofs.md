@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Peoria Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Peoria, IL Real Estate Disclosures"
 description: "Buying a home in Peoria, Illinois? Discover how Illinois River freeze-thaw cycles, bluff wind shears, severe ice dams, and 765 ILCS 77 disclosure laws affect your roof."
 pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Peoria Real Estate Disclosures
 
 Perched along the scenic bluffs of the Illinois River in Central Illinois, Peoria is one of the oldest and most historically significant communities in the Midwest. Known as a manufacturing, agricultural, and healthcare hub anchored by OSF HealthCare, Bradley University, and Caterpillar's historic roots, Peoria combines industrial heritage with architectural grandeur. Prospective homebuyers are drawn to Peoria’s diverse neighborhoods: from the majestic late-19th-century Victorian, Queen Anne, and Tudor Revival mansions along High Street and the Historic West Bluff to the charming Craftsman residences of Moss-Bradley, to the established mid-century ranches of Lake Knolls and the modern executive estates of North Peoria near Junction City.
 

@@ -5,8 +5,6 @@ pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Modesto Real Estate Disclosures
-
 Situated in the heart of California’s fertile Central Valley and framed by the scenic Stanislaus and Tuolumne rivers, Modesto is an agricultural powerhouse celebrated for its rich farming heritage, classic Americana roots, and welcoming community atmosphere. From the gracious custom estates and golf course homes of Del Rio and Dutch Hollow to the leafy, established mid-century streets of La Loma and the College Area, the family-friendly developments of Sherwood Forest and Sylvan, and the historic Craftsman neighborhoods near downtown, Modesto offers quintessential California valley living.
 
 However, Modesto's distinct Central Valley climate creates an unforgiving environment for residential roofing systems: **extreme summer temperatures regularly exceeding 100°F that bake and crack roofing materials, persistent winter "Tule fog" that traps damp moisture against roofs for weeks, intense seasonal windstorms, and stringent California Title 24 energy mandates**. In Modesto, a Spanish concrete tile or dimensional composite roof can look pristine from the curb while hiding severely desiccated underlayment, rot caused by trapped moisture, unpermitted patio attachments, and non-compliant roofing materials.

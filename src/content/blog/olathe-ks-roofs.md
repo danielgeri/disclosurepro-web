@@ -5,8 +5,6 @@ pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Olathe Real Estate Disclosures
-
 As the county seat of Johnson County and one of the fastest-growing suburban hubs in the Kansas City metropolitan area, Olathe offers an exceptional quality of life. From the master-planned luxury estates of Cedar Creek and Forest View to the established family neighborhoods of Stonebridge, Prairie Center, Havencroft, and Indian Creek, Olathe features a diverse housing stock dominated by multi-story suburban colonials, split-levels, and modern craftsman residences.
 
 Yet beneath Olathe's serene midwestern parkways and picturesque neighborhoods lies one of the most volatile weather corridors in North America: **Tornado Alley severe convective storms producing golf-ball and baseball-sized hail, violent straight-line microburst winds exceeding 75 mph, rapid winter freeze-thaw cycles driving ice dam formation, and oppressive summer heat and humidity that cook asphalt shingles and foster attic dry rot**.

@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Kent Real Estate Disclosures
-
 Nestled in the lush Green River Valley of King County between Seattle and Tacoma, Kent is a thriving, diverse community that blends Pacific Northwest natural beauty with dynamic economic growth. Framed by breathtaking views of Mount Rainier and the Cascade foothills, Kent offers a wide spectrum of desirable residential neighborhoods. From the established mid-century ramblers and split-levels of West Hill and Scenic Hill to the sprawling 1980s and 1990s suburban family properties of East Hill, Panther Lake, and the tranquil lakeside estates surrounding Lake Meridian, Kent showcases classic Northwest timber architecture.
 
 Yet behind Kent’s evergreen tranquility lies one of the most punishing atmospheric environments in the Pacific Northwest: **more than 155 days of chronic precipitation and misty drizzle annually, relentless moss, lichen, and algae growth that pries open shingle tabs, severe attic moisture condensation ("attic rain") triggered by poor ventilation, and acidic decomposing conifer debris that rots roof valleys and metal flashings**.

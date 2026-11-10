@@ -5,8 +5,6 @@ pubDate: "Oct 12 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Tulsa Real Estate Disclosures
-
 Tulsa combines rich oil-boom architectural heritage with the charm of Green Country. From the stately stone mansions and English Tudors of Maple Ridge and Sunset Terrace to the charming 1920s brick bungalows of Florence Park and Swan Lake, and the sprawling mid-century ranch homes of Patrick Henry and Midtown, Tulsa’s residential neighborhoods reflect remarkable craftsmanship.
 
 However, behind the lush tree-lined streets and historic Art Deco influences lies a persistent atmospheric reality: **Tulsa’s location in the heart of "Tornado Alley" subjects residential roofs to some of the most violent hail swarms, hurricane-force straight-line winds, and severe thermal swings in the United States**.

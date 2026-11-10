@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Fort Wayne Real Estate Disclosures
-
 Situated at the confluence of the St. Joseph, St. Marys, and Maumee Rivers in Northeast Indiana, Fort Wayne is widely admired for its rich history, thriving community pride, and outstanding housing affordability. From the majestic Queen Anne, Romanesque, and Craftsman homes of the historic West Central neighborhood and the picturesque English Tudors and Colonial Revivals of Southwood Park and Forest Park to the established mid-century ranches of North Franke Park and the expanding modern subdivisions of Southwest Allen County, Fort Wayne offers exceptional residential variety.
 
 However, beneath Fort Wayne's welcoming Midwestern setting lies an aggressive climate that relentlessly tests residential roofing assemblies: **extreme polar vortex freezes, severe freeze-thaw cycles triggering massive ice dams, spring convective thunderstorms with damaging hail, and straight-line windstorms (derechos)**. In Allen County, where historic properties frequently feature steep multi-pitch roofs, dormers, and aging timber framing, roofing defects can rapidly compromise structural trusses and ruin interior plaster.

@@ -5,8 +5,6 @@ pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Harlem Real Estate Disclosures
-
 Renowned globally as the cultural capital of Black America and a cradle of American artistic, literary, and musical innovation, Harlem occupies a legendary place in New York City history. Located in Upper Manhattan, Harlem showcases one of the most magnificent concentrations of late-19th and early-20th-century residential architecture in the United States. Discriminating homebuyers and investors are drawn to Harlem’s historic, tree-lined streetscapes: from the iconic Renaissance Revival and Queen Anne brownstones of the Mount Morris Park Historic District to the neoclassical rowhouses of Strivers' Row (the St. Nicholas Historic District), the grand Romanesque Revival townhouses of Hamilton Heights and Sugar Hill, and the vibrant pre-war cooperatives of Central Harlem.
 
 Yet behind Harlem’s ornate limestone facades, iron stoops, and historic brickwork lies a punishing urban environment that subjects low-slope and flat roofing assemblies to extreme structural wear: **unforgiving New York winter freeze-thaw cycles that crack masonry parapets and coping stones, chronic drainage ponding on century-old flat roofs, intense urban heat island effects that bake modified bitumen and EPDM rubber membranes past 170°F, and century-old timber joists that deflect under decades of accumulated reroofing layers**.

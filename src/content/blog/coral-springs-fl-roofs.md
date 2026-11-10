@@ -5,8 +5,6 @@ pubDate: "Oct 31 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Coral Springs Real Estate Disclosures
-
 Located in northwestern Broward County adjacent to the Florida Everglades, Coral Springs is a master-planned South Florida community renowned for its strict aesthetic codes, lush tropical parks, and family-oriented neighborhoods. From the custom executive estates and sprawling barrel-tile mansions of Whispering Woods, Eagle Ridge, and Cypress Run to the established single-family neighborhoods of Ramblewood, Maplewood, Westchester, and Running Brook, Coral Springs features a distinctive architectural skyline defined by Mediterranean tile roofs, sweeping gables, and stucco finishes.
 
 Yet behind Coral Springs’ manicured palm trees and serene waterways lies an extremely demanding physical environment: **destructive tropical storms and hurricanes generating wind gusts exceeding 100 mph, extreme aerodynamic uplift pressures that tear concrete tiles from their fastenings, intense solar radiation baking attic spaces to 160°F, and relentless tropical humidity that rots sub-roof framing**.

@@ -1,15 +1,72 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
-import '../styles/global.css';
+
+const featuredSlugs = [
+	'california-tds-spq-disclosure-guide',
+	'texas-trec-sellers-disclosure-guide',
+	'hoa-reserve-study-special-assessment-red-flags',
+	'5-disclosure-red-flags',
+];
+
+const allPosts = await getCollection('blog');
+const featuredGuides = featuredSlugs
+	.map((slug) => allPosts.find((p) => p.id === slug))
+	.filter((p): p is NonNullable<typeof p> => Boolean(p));
+
+const homeSchemas = [
+	{
+		'@context': 'https://schema.org',
+		'@type': 'SoftwareApplication',
+		name: 'DisclosurePro AI',
+		url: 'https://www.disclosurepro.ai',
+		applicationCategory: 'BusinessApplication',
+		operatingSystem: 'Android, iOS, Web',
+		description: SITE_DESCRIPTION,
+		downloadUrl: 'https://play.google.com/store/apps/details?id=ai.disclosurepro.app',
+		offers: [
+			{
+				'@type': 'Offer',
+				name: 'Free Plan',
+				price: '0',
+				priceCurrency: 'USD',
+			},
+			{
+				'@type': 'Offer',
+				name: 'Pro Plan',
+				price: '29',
+				priceCurrency: 'USD',
+			},
+			{
+				'@type': 'Offer',
+				name: 'Unlimited Plan',
+				price: '79',
+				priceCurrency: 'USD',
+			},
+		],
+	},
+	{
+		'@context': 'https://schema.org',
+		'@type': 'Organization',
+		name: 'DisclosurePro AI',
+		url: 'https://www.disclosurepro.ai',
+		logo: 'https://www.disclosurepro.ai/logo.jpeg',
+		contactPoint: {
+			'@type': 'ContactPoint',
+			email: 'contact@disclosurepro.ai',
+			contactType: 'customer support',
+		},
+	},
+];
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} jsonLd={homeSchemas} />
 	</head>
 	<body>
 		<Header />
@@ -18,23 +75,33 @@ import '../styles/global.css';
 			<section class="hero-section">
 				<div class="container hero-container">
 					<div class="badge-tech">
-						<span>✨ Powered by Advanced AI Deep Thinking</span>
+						<span>✨ AI Seller Disclosure, Inspection &amp; HOA Analyzer</span>
 					</div>
 					<h1 class="hero-title">
 						Uncover Costly Home Defects <span class="gradient-text">Before You Buy</span>
 					</h1>
 					<p class="hero-subtitle">
-						AI-powered real estate disclosure analysis, risk scoring, repair credit calculations, and automated addendums in seconds.
+						AI-powered real estate disclosure analysis, home inspection review, HOA reserve scoring, repair credit calculations, and automated addendums in seconds.
 					</p>
 
 					<div class="hero-actions">
-						<a href="/download" class="btn-primary">
-							<span>Download App Now</span>
-							<span>📱</span>
+						<a
+							href="/download"
+							class="btn-primary"
+							data-gtag-event="cta_download_click"
+							data-gtag-label="hero_analyze_free"
+						>
+							<span>Analyze Your 1st Property Free</span>
+							<span aria-hidden="true">📱</span>
 						</a>
-						<a href="#demo" class="btn-secondary">
-							<span>Explore Live Demo</span>
-							<span>🔍</span>
+						<a
+							href="#demo"
+							class="btn-secondary"
+							data-gtag-event="demo_explore_click"
+							data-gtag-label="hero_explore_demo"
+						>
+							<span>See Sample AI Report</span>
+							<span aria-hidden="true">🔍</span>
 						</a>
 					</div>
 
@@ -42,10 +109,10 @@ import '../styles/global.css';
 					<div id="demo" class="glass-card demo-card">
 						<div class="demo-header">
 							<div class="demo-property">
-								<span class="property-icon">🏠</span>
+								<span class="property-icon" aria-hidden="true">🏠</span>
 								<div>
-									<h3 class="property-title">772 Vincente Avenue, Berkeley, CA</h3>
-									<span class="property-sub">124-Page Disclosure Packet • Analyzed in 8.2s</span>
+									<h2 class="property-title">Sample Analysis: 772 Vincente Avenue, Berkeley, CA</h2>
+									<span class="property-sub">124-Page Disclosure &amp; Inspection Packet • Analyzed in 8.2s</span>
 								</div>
 							</div>
 							<div class="risk-badge risk-high">
@@ -64,8 +131,8 @@ import '../styles/global.css';
 								<span class="metric-val">6 Critical Findings</span>
 							</div>
 							<div class="metric-box">
-								<span class="metric-label">AI Confidence</span>
-								<span class="metric-val">99.4% Verified</span>
+								<span class="metric-label">Source Verification</span>
+								<span class="metric-val">Exact PDF Page Links</span>
 							</div>
 						</div>
 
@@ -73,16 +140,16 @@ import '../styles/global.css';
 							<div class="finding-item critical">
 								<span class="f-rank">CRITICAL</span>
 								<div class="f-info">
-									<h4>Roofing System Active Water Leaks</h4>
-									<p>"Water staining observed in attic rafters above master bedroom. Roof shingles past useful lifespan (22+ years)."</p>
+									<h3>Roofing System Active Water Leaks (p. 42)</h3>
+									<p>"Water staining observed in attic rafters above primary bedroom. Roof shingles past useful lifespan (22+ years)."</p>
 								</div>
 								<span class="f-cost">$8,500 – $12,000</span>
 							</div>
 							<div class="finding-item high">
 								<span class="f-rank">HIGH</span>
 								<div class="f-info">
-									<h4>Zinsco Main Electrical Service Panel</h4>
-									<p>"Outdated Zinsco 125A panel present. Known circuit breaker failure risk requiring full service replacement."</p>
+									<h3>Zinsco Main Electrical Service Panel (p. 67)</h3>
+									<p>"Outdated Zinsco 125A panel present. Known circuit breaker failure hazard requiring full service replacement for insurance."</p>
 								</div>
 								<span class="f-cost">$3,500 – $5,500</span>
 							</div>
@@ -97,32 +164,32 @@ import '../styles/global.css';
 					<div class="section-head text-center">
 						<span class="badge-tech">Enterprise AI Architecture</span>
 						<h2>Everything You Need for Bulletproof Real Estate Due Diligence</h2>
-						<p>Built for homebuyers, real estate agents, investors, and transaction coordinators.</p>
+						<p>Built for homebuyers, buyer's agents, real estate investors, and transaction coordinators.</p>
 					</div>
 
 					<div class="features-grid">
 						<div class="glass-card feature-box">
-							<div class="f-icon">⚡</div>
+							<div class="f-icon" aria-hidden="true">⚡</div>
 							<h3>Instant Risk Scoring</h3>
-							<p>AI scans 100+ page seller disclosure packets in under 10 seconds, scoring overall property risk from Low to Critical.</p>
+							<p>Scans 100+ page seller disclosures, home inspections, WDO reports, and HOA packets in under 10 seconds, scoring risk from Low to Critical.</p>
 						</div>
 
 						<div class="glass-card feature-box">
-							<div class="f-icon">🔍</div>
+							<div class="f-icon" aria-hidden="true">🔍</div>
 							<h3>PDF Citation Page Linker</h3>
-							<p>Every extracted finding is mapped to its exact page number in the original PDF with 1-tap PDF viewing inside the app.</p>
+							<p>Every extracted finding is mapped to its exact page number in the original PDF with 1-tap verification inside the app.</p>
 						</div>
 
 						<div class="glass-card feature-box">
-							<div class="f-icon">💰</div>
+							<div class="f-icon" aria-hidden="true">💰</div>
 							<h3>Repair Credit Calculations</h3>
-							<p>Automated dollar estimates for roofing, electrical, plumbing, and structural issues to strengthen offer negotiations.</p>
+							<p>Itemized dollar estimates for roofing, electrical, plumbing, termite, and foundation defects to strengthen offer negotiations.</p>
 						</div>
 
 						<div class="glass-card feature-box">
-							<div class="f-icon">📑</div>
+							<div class="f-icon" aria-hidden="true">📑</div>
 							<h3>Automated Addendum Exporter</h3>
-							<p>Generate formal, ready-to-sign Purchase Agreement Credit Addendums formatted directly for sellers.</p>
+							<p>Generate formal, ready-to-sign Purchase Agreement Credit Addendums formatted directly for sellers and listing agents.</p>
 						</div>
 					</div>
 				</div>
@@ -134,7 +201,7 @@ import '../styles/global.css';
 					<div class="section-head text-center">
 						<span class="badge-tech">Transparent Membership Tiers</span>
 						<h2>Choose the Plan That Fits Your Workflow</h2>
-						<p>Upgrade anytime to unlock more monthly disclosure analyses and priority AI deep thinking.</p>
+						<p>Start free with 1 full property report every month—upgrade anytime as you tour and bid on more homes.</p>
 					</div>
 
 					<div class="pricing-grid">
@@ -147,10 +214,17 @@ import '../styles/global.css';
 							</div>
 							<ul class="plan-features">
 								<li>✓ 1 Property Analysis per month</li>
-								<li>✓ Risk Score & Finding Breakdown</li>
+								<li>✓ Risk Score &amp; Finding Breakdown</li>
 								<li>✓ PDF Page Citation Viewer</li>
 							</ul>
-							<a href="/download" class="btn-secondary w-full">Current Default</a>
+							<a
+								href="/download"
+								class="btn-secondary w-full"
+								data-gtag-event="cta_download_click"
+								data-gtag-label="pricing_free"
+							>
+								Start Free
+							</a>
 						</div>
 
 						<!-- Pro - Popular -->
@@ -164,10 +238,17 @@ import '../styles/global.css';
 							<ul class="plan-features">
 								<li>✓ 10 Property Analyses per month</li>
 								<li>✓ Priority Advanced AI Deep Thinking</li>
-								<li>✓ Instant AI Q&A Assistant</li>
+								<li>✓ Instant AI Document Q&amp;A Assistant</li>
 								<li>✓ Repair Cost Calculations</li>
 							</ul>
-							<a href="/download" class="btn-primary w-full">Upgrade to Pro</a>
+							<a
+								href="/download"
+								class="btn-primary w-full"
+								data-gtag-event="cta_download_click"
+								data-gtag-label="pricing_pro"
+							>
+								Get Pro Plan
+							</a>
 						</div>
 
 						<!-- Unlimited -->
@@ -183,21 +264,71 @@ import '../styles/global.css';
 								<li>✓ Purchase Addendum Exporting</li>
 								<li>✓ Multi-Doc Upload Packages</li>
 							</ul>
-							<a href="/download" class="btn-secondary w-full">Upgrade to Unlimited</a>
+							<a
+								href="/download"
+								class="btn-secondary w-full"
+								data-gtag-event="cta_download_click"
+								data-gtag-label="pricing_unlimited"
+							>
+								Get Unlimited
+							</a>
 						</div>
 					</div>
 				</div>
 			</section>
+
+			<!-- Featured Guides Section (Internal SEO Hub) -->
+			{featuredGuides.length > 0 && (
+				<section class="guides-section">
+					<div class="container">
+						<div class="section-head text-center">
+							<span class="badge-tech">Homebuyer Due Diligence Library</span>
+							<h2>Learn How to Spot Hidden Disclosure Traps</h2>
+							<p>Practical state-by-state guides on seller disclosures, inspection reports, and HOA reserve studies.</p>
+						</div>
+
+						<div class="guides-grid">
+							{featuredGuides.map((guide) => (
+								<a href={`/blog/${guide.id}/`} class="glass-card guide-card">
+									<h3>{guide.data.title}</h3>
+									<p>{guide.data.description}</p>
+									<span class="guide-read-more">Read Full Guide &rarr;</span>
+								</a>
+							))}
+						</div>
+
+						<div class="text-center" style="margin-top: 28px;">
+							<a href="/blog" class="btn-secondary">Browse All Real Estate Guides &rarr;</a>
+						</div>
+					</div>
+				</section>
+			)}
 
 			<!-- App Download Section -->
 			<section id="download" class="download-section">
 				<div class="container">
 					<div class="glass-card download-card text-center">
 						<h2>Ready to Analyze Disclosures with AI?</h2>
-						<p>Download the DisclosurePro AI app on Android & iOS today.</p>
+						<p>Get DisclosurePro AI on Google Play today, or request instant iPhone &amp; Desktop Web access.</p>
 						<div class="download-buttons">
-							<a href="#" class="btn-primary">Download for Android (APK / Play) 🤖</a>
-							<a href="mailto:contact@disclosurepro.ai" class="btn-secondary">Request Web Access 🌐</a>
+							<a
+								href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="btn-primary"
+								data-gtag-event="play_store_click"
+								data-gtag-label="home_bottom_google_play"
+							>
+								Download on Google Play 🤖
+							</a>
+							<a
+								href="mailto:contact@disclosurepro.ai?subject=iOS%20%26%20Web%20Early%20Access%20Invite"
+								class="btn-secondary"
+								data-gtag-event="early_access_click"
+								data-gtag-label="home_bottom_ios_web_invite"
+							>
+								Request iOS &amp; Web Access 🌐
+							</a>
 						</div>
 					</div>
 				</div>
@@ -230,7 +361,7 @@ import '../styles/global.css';
 	.hero-subtitle {
 		color: #94a3b8;
 		font-size: 18px;
-		max-width: 620px;
+		max-width: 640px;
 		margin-bottom: 32px;
 		text-wrap: pretty;
 	}
@@ -254,6 +385,7 @@ import '../styles/global.css';
 		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 		padding-bottom: 20px;
 		margin-bottom: 20px;
+		gap: 16px;
 	}
 	.demo-property {
 		display: flex;
@@ -270,18 +402,19 @@ import '../styles/global.css';
 	}
 	.property-sub {
 		font-size: 13px;
-		color: #64748b;
+		color: #94a3b8;
 	}
 	.risk-badge {
 		padding: 8px 16px;
 		border-radius: 12px;
 		text-align: center;
 		font-weight: 900;
+		flex-shrink: 0;
 	}
 	.risk-high {
 		background: rgba(239, 68, 68, 0.15);
 		border: 1px solid rgba(239, 68, 68, 0.4);
-		color: #ef4444;
+		color: #f87171;
 	}
 	.risk-lbl {
 		display: block;
@@ -303,7 +436,7 @@ import '../styles/global.css';
 	.metric-label {
 		display: block;
 		font-size: 12px;
-		color: #64748b;
+		color: #94a3b8;
 		margin-bottom: 4px;
 	}
 	.metric-val {
@@ -332,14 +465,14 @@ import '../styles/global.css';
 		background: rgba(255, 255, 255, 0.08);
 	}
 	.f-info { flex: 1; margin: 0 16px; }
-	.f-info h4 { font-size: 14px; color: #f8fafc; margin-bottom: 2px; }
+	.f-info h3 { font-size: 14px; color: #f8fafc; margin-bottom: 2px; font-weight: 700; }
 	.f-info p { font-size: 12px; color: #94a3b8; }
 	.f-cost { font-size: 14px; font-weight: 800; color: #f59e0b; }
 
 	/* Features */
 	.features-section { padding: 80px 0; }
 	.text-center { text-align: center; }
-	.section-head h2 { font-size: 32px; font-weight: 800; margin: 16px 0 10px 0; }
+	.section-head h2 { font-size: 32px; font-weight: 800; margin: 16px 0 10px 0; text-wrap: balance; }
 	.section-head p { color: #94a3b8; margin-bottom: 40px; }
 
 	.features-grid {
@@ -365,6 +498,8 @@ import '../styles/global.css';
 	.plan-card {
 		padding: 32px;
 		position: relative;
+		display: flex;
+		flex-direction: column;
 	}
 	.plan-card.popular {
 		border-color: #00f2fe;
@@ -383,18 +518,61 @@ import '../styles/global.css';
 	}
 	.plan-head h3 { font-size: 20px; color: #f8fafc; }
 	.plan-price { font-size: 36px; font-weight: 900; color: #f8fafc; margin: 10px 0 4px 0; }
-	.plan-price span { font-size: 14px; color: #64748b; font-weight: 400; }
-	.plan-features { list-style: none; margin: 24px 0; }
+	.plan-price span { font-size: 14px; color: #94a3b8; font-weight: 400; }
+	.plan-features { list-style: none; margin: 24px 0; flex: 1; }
 	.plan-features li { color: #cbd5e1; font-size: 14px; margin-bottom: 10px; }
+	.w-full { width: 100%; justify-content: center; }
+
+	/* Featured Guides */
+	.guides-section {
+		padding: 60px 0 20px 0;
+	}
+	.guides-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+		gap: 24px;
+	}
+	.guide-card {
+		padding: 28px;
+		text-decoration: none;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	.guide-card h3 {
+		font-size: 18px;
+		font-weight: 700;
+		color: #f8fafc;
+		line-height: 1.35;
+		margin-bottom: 10px;
+	}
+	.guide-card p {
+		font-size: 14px;
+		color: #94a3b8;
+		line-height: 1.55;
+		margin-bottom: 16px;
+		flex: 1;
+	}
+	.guide-read-more {
+		font-size: 14px;
+		font-weight: 700;
+		color: var(--accent-cyan);
+	}
 
 	.download-section { padding: 60px 0 80px 0; }
 	.download-card { padding: 48px; }
-	.download-buttons { display: flex; justify-content: center; gap: 16px; margin-top: 24px; }
+	.download-card p { color: #94a3b8; margin-top: 8px; }
+	.download-buttons { display: flex; justify-content: center; gap: 16px; margin-top: 24px; flex-wrap: wrap; }
 
 	@media (max-width: 768px) {
 		.hero-title { font-size: 32px; }
+		.demo-header { flex-direction: column; align-items: flex-start; }
 		.demo-metrics { grid-template-columns: 1fr; }
+		.finding-item { flex-direction: column; align-items: flex-start; gap: 8px; }
+		.f-info { margin: 0; }
 		.hero-actions { flex-direction: column; width: 100%; }
+		.hero-actions a { justify-content: center; }
 		.download-buttons { flex-direction: column; }
+		.download-buttons a { justify-content: center; }
 	}
 </style>

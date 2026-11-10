@@ -5,8 +5,6 @@ pubDate: "Nov 03 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Independence Real Estate Disclosures
-
 Steeped in American frontier and political history, Independence serves as the historic county seat of Jackson County and one of the most prominent communities in the Kansas City metropolitan area. Renowned as the historic origin point of the Oregon, Santa Fe, and California Trails—and celebrated worldwide as the lifelong home of President Harry S. Truman—Independence combines deep historical roots with a diverse residential architectural landscape. Prospective homebuyers are drawn to Independence’s historic neighborhoods: from the picturesque Victorian estates, Queen Anne residences, and stone-trimmed Craftsman bungalows of the Truman Heritage District and Santa Fe Trail corridor to the classic mid-century ranches of Rockwood, Bundschu, and Bridger, to the newer suburban subdivisions near Crackerneck Creek.
 
 Yet beneath Independence’s historic monument-lined boulevards and quiet neighborhood streets lies a volatile Midwestern climate that inflicts relentless physical punishment on residential roofing systems: **Jackson County sits directly in a violent convective storm corridor where spring supercells generate golf-ball to baseball-sized hail, straight-line thunderstorm microbursts exceed 70 mph, harsh winter freeze-thaw transitions spawn damaging ice dams along eaves, and historic homes frequently conceal illegal multi-layer shingle overlays over rotting timber skip sheathing**.

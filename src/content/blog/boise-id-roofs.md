@@ -5,8 +5,6 @@ pubDate: "Oct 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Boise Real Estate Disclosures
-
 Framed by the dramatic backdrop of the Boise Foothills in the Treasure Valley, Boise is the vibrant capital and largest metropolis of Idaho. Celebrated for its outdoor lifestyle, the Boise River Greenbelt, and thriving tech economy, the city attracts a steady stream of residential buyers. Neighborhoods range from historic Craftsman bungalows and Queen Anne residences along tree-lined streets in the North End and East End, to mid-century brick ranches across the Boise Bench, to contemporary foothills estates in the Highlands and master-planned developments in Southeast Boise.
 
 However, behind Boise’s scenic beauty lies a high-desert mountain environment that relentlessly tests residential roofing assemblies: **intense high-altitude solar ultraviolet (UV) radiation, severe summer heat exceeding 100°F causing thermal shock and shingle embrittlement, winter foothills snow accumulation, cold temperature inversions, valley windstorms, and aging housing stock with historic timber sheathing**.

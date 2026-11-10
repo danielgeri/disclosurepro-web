@@ -5,8 +5,6 @@ pubDate: "Oct 16 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Madison Real Estate Disclosures
-
 Cradled between the sparkling waters of Lake Mendota and Lake Monona along a narrow glacial isthmus, Madison is celebrated as one of the most culturally vibrant and livable capital cities in America. Anchored by the sprawling campus of the University of Wisconsin–Madison, a booming biotechnology sector, and the magnificent state capitol dome, Madison’s residential real estate market is defined by architectural elegance and enduring historic pride. From the century-old Craftsman bungalows and Prairie School homes of Dudgeon-Monroe, Vilas, and Nakoma to the bohemian Queen Annes of Williamson-Marquette (Willy Street), the wooded retreats of Shorewood Hills, and the classic mid-century neighborhoods of Westmorland, Madison offers exceptional architectural character.
 
 However, Madison’s picturesque four-lake setting conceals a brutal Upper Midwest meteorological climate that subjects residential roofs to relentless physical punishment: **heavy winter blizzards delivering snow loads exceeding 40 pounds per square foot, sub-zero Arctic vortex freezes, relentless spring freeze-thaw cycles, and catastrophic winter ice damming**. In Dane County, where much of the prized housing stock was constructed between 1890 and 1950, aging timber rafters and poorly insulated attic bypasses frequently transform small roof defects into devastating structural water intrusion.

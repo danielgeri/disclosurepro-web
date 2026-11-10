@@ -5,8 +5,6 @@ pubDate: "Oct 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Paterson Real Estate Disclosures
-
 Nestled along the Great Falls of the Passaic River, Paterson stands as the county seat of Passaic County and New Jersey’s historic "Silk City." Celebrated as the cradle of the American Industrial Revolution, Paterson features an exceptional mix of architectural heritage and residential diversity. Prospective homebuyers are attracted to the grand Victorian, Tudor, and Colonial Revival mansions in the Eastside Park Historic District, sprawling multi-family two- and three-story frame homes in Sandy Hill and People’s Park, pre-war masonry walk-ups near Downtown, and single-family suburban enclaves throughout the Manor Section and Hillcrest.
 
 However, behind Paterson's historic masonry facades and bustling streetscapes lies an unforgiving regional climate that relentlessly punishes residential roof assemblies: **severe Atlantic Nor'easters, heavy winter freeze-thaw cycling, thick ice dams along eaves, driving rains testing low-slope flat roofs, and aging housing stock burdened by historic slate decay and multiple unpermitted shingle layers**.

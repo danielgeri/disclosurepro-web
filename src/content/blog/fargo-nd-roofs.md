@@ -5,8 +5,6 @@ pubDate: "Nov 03 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Fargo Real Estate Disclosures
-
 Perched on the western bank of the Red River of the North in Cass County, Fargo is North Dakota’s largest and most economically dynamic metropolis. Home to North Dakota State University (NDSU) and renowned as a burgeoning regional technology, healthcare, and manufacturing hub, Fargo pairs Upper Midwest work ethic with distinctive architectural heritage. Prospective homebuyers are drawn to Fargo’s diverse residential communities: from the stately early-20th-century Craftsman, Dutch Colonial, and Tudor Revival residences of the historic Hawthorne and Island Park neighborhoods to the mid-century split-levels of Clara Barton and Prairiewood, to the expansive custom waterfront and golf-course properties of Rose Creek, Bluemont Lakes, and Pointe West.
 
 Yet beneath Fargo’s welcoming Midwestern hospitality and flat prairie horizons lies one of the most punishing cold-weather climates in North America: **the merciless winters of the Red River Valley, where temperatures routinely plummet past -25°F, blizzard winds exceed 60 mph, ground snow loads reach 45 to 55 pounds per square foot, severe attic heat loss creates massive ice dams that force water upward through shingle courses, and highly active glaciolacustrine clay soils heave foundations and torque roof truss assemblies**.

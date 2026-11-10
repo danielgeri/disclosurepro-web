@@ -5,8 +5,6 @@ pubDate: "Nov 07 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Antioch Real Estate Disclosures
-
 Perched along the scenic southern shoreline of the San Joaquin River Delta in eastern Contra Costa County, Antioch stands as one of the San Francisco Bay Area's oldest and most historically rich communities. From its origins during the California Gold Rush to its mid-century industrial expansion and modern evolution into a bustling suburban haven, Antioch draws prospective homebuyers with its waterfront recreational opportunities, panoramic views of Mount Diablo, and comparatively accessible home prices. The city showcases an eclectic spectrum of residential neighborhoods: from the stately mid-century ranches of Mira Vista Hills and the historic riverside Victorians near downtown Antioch, to the sprawling master-planned developments of Dallas Ranch, Lone Tree Way, Black Diamond, and Prewett Ranch built throughout the 1980s, 1990s, and 2000s.
 
 Yet behind Antioch’s sunny East Bay climate and suburban appeal lies a relentless and punishing roofing environment: **scorching summer heatwaves regularly climbing past 100°F that bake attic spaces into 145°F thermal traps, fierce and relentless Delta wind gusts funneled through the Carquinez Strait exceeding 50 mph, dense marine fog inversions alternating with high-desert dryness, and highly expansive Contra Costa clay soils that cause subtle structural racking and flashing detachment**.

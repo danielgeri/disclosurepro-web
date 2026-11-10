@@ -5,8 +5,6 @@ pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Maryvale, AZ Real Estate Disclosures
-
 Conceived in the 1950s by visionary developer John F. Long as Arizona's very first master-planned community, Maryvale stands as an iconic landmark of post-war American suburban development in Phoenix's West Valley. Today, Maryvale represents one of the most accessible and culturally vibrant districts in the Phoenix metropolitan area. From the quintessential mid-century slump block and red brick ranch homes of Maryvale Terrace and Cartwright to the family-oriented subdivisions near Westridge Park, Desert Sky, and Maryvale Village, the community offers spacious lots, solid masonry construction, and authentic mid-century character.
 
 However, Maryvale's low-desert location in the heart of the Salt River Valley exposes residential roofs to some of the harshest climatic extremes in North America: **relentless summer solar radiation with temperatures consistently exceeding 115°F, intense ultraviolet (UV) degradation that bakes roofing materials, violent summer North American monsoon storms with blinding dust haboobs, and sudden microburst deluges that cause severe roof ponding**. In Maryvale, a low-slope sprayed polyurethane foam (SPF), built-up gravel (BUR), or asphalt shingle roof can look freshly coated from the street while concealing saturated foam cores, delaminated seams, rotted roof decking, and structural framing decay.

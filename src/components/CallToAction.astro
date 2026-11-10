@@ -1,35 +1,46 @@
 ---
 ---
 
-<div class="cta-container">
+<aside class="cta-container" aria-label="Analyze your disclosure packet with DisclosurePro AI">
 	<div class="cta-content">
 		<h2>Protect Your Investment with DisclosurePro AI</h2>
 		<p>
-			Don't rely on a hasty, manual read-through to protect your life savings.
-			Upload your 100+ page disclosure packet, and our advanced AI will scan the
-			entire document in seconds to find hidden structural red flags, unpermitted
-			work, and pest damage.
+			Don't rely on a hasty manual skim to protect your life savings. Upload your 100+ page seller disclosures, home inspection reports, and HOA packets—our AI flags hidden defects, links exact PDF page citations, and estimates repair credits in seconds.
 		</p>
 		<div class="cta-actions">
-			<a href="/download" class="cta-button">
-				Try DisclosurePro AI Free Today
-				<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+			<a
+				href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="cta-button"
+				data-gtag-event="play_store_click"
+				data-gtag-label="blog_bottom_cta_google_play"
+			>
+				Get It on Google Play 🚀
+			</a>
+			<a
+				href="/download"
+				class="cta-secondary-button"
+				data-gtag-event="cta_download_click"
+				data-gtag-label="blog_bottom_cta_ios_web"
+			>
+				iPhone &amp; Desktop Web Access &rarr;
 			</a>
 		</div>
 	</div>
-</div>
+</aside>
 
 <style>
 	.cta-container {
-		margin: 4rem auto 2rem;
+		margin: 3.5rem auto 2rem;
 		border-radius: 16px;
-		background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+		background: linear-gradient(135deg, #051326 0%, #0d3870 100%);
 		color: white;
-		box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+		box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 10px 10px -5px rgba(0, 0, 0, 0.06);
 		position: relative;
 		overflow: hidden;
 	}
-	
+
 	.cta-container::before {
 		content: '';
 		position: absolute;
@@ -37,31 +48,38 @@
 		left: 0;
 		right: 0;
 		height: 4px;
-		background: linear-gradient(90deg, #3b82f6, #10b981);
+		background: linear-gradient(90deg, #1ce3ed, #10b981);
 	}
 
 	.cta-content {
-		padding: 3rem 2.5rem;
+		padding: 2.75rem 2.25rem;
 		text-align: center;
 	}
 
 	.cta-content h2 {
-		color: white;
-		margin-top: 0;
-		margin-bottom: 1rem;
-		font-size: 1.8rem;
+		color: #f8fafc !important;
+		margin-top: 0 !important;
+		margin-bottom: 0.85rem !important;
+		font-size: 1.7rem !important;
 		font-weight: 800;
-		line-height: 1.2;
+		line-height: 1.25;
 	}
 
 	.cta-content p {
-		color: #94a3b8;
-		font-size: 1.1rem;
+		color: #cbd5e1 !important;
+		font-size: 1.05rem;
 		line-height: 1.6;
-		margin-bottom: 2rem;
-		max-width: 600px;
+		margin-bottom: 1.75rem !important;
+		max-width: 620px;
 		margin-left: auto;
 		margin-right: auto;
+	}
+
+	.cta-actions {
+		display: flex;
+		justify-content: center;
+		gap: 14px;
+		flex-wrap: wrap;
 	}
 
 	.cta-button {
@@ -69,42 +87,52 @@
 		align-items: center;
 		justify-content: center;
 		gap: 0.5rem;
-		background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
-		color: white;
-		font-weight: 700;
-		font-size: 1.1rem;
-		padding: 1rem 2rem;
-		border-radius: 9999px;
-		text-decoration: none;
+		background: linear-gradient(135deg, #1ce3ed 0%, #00a8cc 100%);
+		color: #070b19 !important;
+		font-weight: 800;
+		font-size: 1rem;
+		padding: 0.9rem 1.75rem;
+		border-radius: 12px;
+		text-decoration: none !important;
 		transition: all 0.2s ease;
-		box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.4);
+		box-shadow: 0 4px 16px rgba(28, 227, 237, 0.35);
 	}
 
 	.cta-button:hover {
 		transform: translateY(-2px);
-		box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.5);
-		background: linear-gradient(135deg, #1d4ed8 0%, #2563eb 100%);
-		text-decoration: none;
+		box-shadow: 0 8px 24px rgba(28, 227, 237, 0.5);
 	}
-	
-	.cta-button svg {
-		transition: transform 0.2s ease;
+
+	.cta-secondary-button {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0.9rem 1.5rem;
+		border-radius: 12px;
+		border: 1px solid rgba(255, 255, 255, 0.28);
+		background: rgba(255, 255, 255, 0.08);
+		color: #f8fafc !important;
+		font-weight: 700;
+		font-size: 0.98rem;
+		text-decoration: none !important;
+		transition: all 0.2s ease;
 	}
-	
-	.cta-button:hover svg {
-		transform: translateX(4px);
+
+	.cta-secondary-button:hover {
+		background: rgba(255, 255, 255, 0.16);
+		border-color: rgba(255, 255, 255, 0.45);
 	}
 
 	@media (max-width: 640px) {
 		.cta-content {
-			padding: 2rem 1.5rem;
+			padding: 2rem 1.25rem;
 		}
 		.cta-content h2 {
-			font-size: 1.5rem;
+			font-size: 1.4rem !important;
 		}
-		.cta-button {
+		.cta-button,
+		.cta-secondary-button {
 			width: 100%;
-			padding: 0.875rem 1.5rem;
 		}
 	}
 </style>

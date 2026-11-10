@@ -5,8 +5,6 @@ pubDate: "Oct 09 2026"
 heroImage: "../../assets/detroit_hero_1785905953662.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Detroit Real Estate Disclosures
-
 Detroit is experiencing one of the most remarkable urban and architectural revivals in the nation. As the historic epicenter of American industrial design, the "Motor City" boasts some of the finest residential architecture in the Midwest. From the palatial stone and brick English Tudors and Georgian Colonials of Boston-Edison and Palmer Woods to the stately historic mansions of Indian Village, the charming Victorian cottages of Corktown, and the sturdy brick duplexes of the University District, Detroit offers homebuyers historic craftsmanship at compelling prices.
 
 However, beneath Detroit’s steep gables, leaded glass windows, and limestone arches lies a structural component that bears the brunt of the Great Lakes’ most brutal weather: **the residential roof**.

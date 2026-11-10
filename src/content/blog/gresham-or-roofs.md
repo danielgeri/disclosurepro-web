@@ -5,8 +5,6 @@ pubDate: "Nov 06 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Gresham Real Estate Disclosures
-
 Positioned dramatically at the eastern edge of the Portland metropolitan area in Multnomah County, Gresham serves as the vibrant gateway to the world-renowned Columbia River Gorge and Mount Hood National Forest. As Oregon’s fourth-largest city, Gresham combines thriving urban amenities, light rail connectivity to downtown Portland via the MAX Blue Line, and immediate access to outdoor recreation along the Springwater Corridor. The city’s residential neighborhoods reflect decades of Pacific Northwest architectural design: from the established 1970s and 1980s split-levels and Northwest contemporary homes nestled beneath towering mature Douglas firs in Kelly Creek, Holly Brook, and Powell Valley, to classic mid-century ranches in Mount Hood and Rockwood, to newer master-planned communities near Persimmon Country Club.
 
 Yet behind Gresham’s lush green landscapes, snow-capped mountain views, and quiet suburban cul-de-sacs lies one of the most punishing roofing environments in the Pacific Northwest: **continuous, months-long rainfall exceeding 45 inches annually, heavy Douglas fir tree canopies fostering pervasive moss and lichen growth that lifts shingle tabs, hurricane-force winter winds funneling through the Columbia River Gorge gusting over 75 mph, and catastrophic freezing rain and ice storm events that overload roof eaves and collapse gutters**.

@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in St. Petersburg Real Estate Disclosures
-
 Perched on the sun-drenched Pinellas Peninsula between Tampa Bay and the Gulf of Mexico, St. Petersburg—famously known as the "Sunshine City"—holds the Guinness World Record for the most consecutive days of sunshine (768 days). Renowned for its flourishing arts district, vibrant waterfront parks, and extraordinary architectural heritage, St. Pete represents one of Florida’s most desirable coastal real estate markets. From the charming 1920s Craftsman bungalows of Historic Kenwood and Crescent Lake to the grand Mediterranean Revival estates of Snell Isle and the brick-paved, oak-lined streets of Historic Old Northeast, the city offers unrivaled coastal character.
 
 However, beneath St. Petersburg’s idyllic subtropical surface lies one of the most hostile roofing environments in North America: **marine salt-air corrosion, blistering solar ultraviolet (UV) radiation, severe tropical storm and hurricane wind shears, and relentless tropical humidity that rots timber decking**. In Pinellas County, where homes are surrounded by saltwater on three sides, a roof is under constant chemical and physical assault.

@@ -5,8 +5,6 @@ pubDate: "Nov 05 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Miami Gardens Real Estate Disclosures
-
 Positioned in northern Miami-Dade County just south of the Broward County line, Miami Gardens is one of South Florida’s most dynamic and culturally prominent suburban cities. As Florida’s largest majority-African American city and the home of Hard Rock Stadium—host of Super Bowls, Formula 1 Grand Prix racing, and premier international soccer—Miami Gardens boasts community pride, convenient transit access via the Florida Turnpike and I-95, and a rich mid-century residential heritage. Prospective homebuyers are drawn to the city's diverse and established neighborhoods: from the classic concrete block (CBS) ranches and mid-century bungalows of Carol City and Norland, to the tranquil lakeside residences of Scott Lake and Lake Lucerne, to the spacious suburban properties in Andover, Rolling Oaks, and Bunche Park.
 
 Yet behind Miami Gardens’ sunny tropical climate and palm-lined avenues lies one of the most demanding roofing environments on planet Earth: **the High-Velocity Hurricane Zone (HVHZ), where tropical storms and Category 1 to 5 hurricanes generate wind gusts exceeding 140 to 175 mph, torrential tropical downpours drive rain horizontally through compromised eaves, year-round solar UV irradiance bakes asphalt binders, and intense subtropical humidity fuels fungal wood decay within attic truss systems**.

@@ -5,8 +5,6 @@ pubDate: "Nov 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Waterbury Real Estate Disclosures
-
 Nestled along the rushing waters of the Naugatuck River in New Haven County, Waterbury is Connecticut's fifth-largest city and the historic "Brass City." Celebrated for its rich industrial architecture, rolling hillsides, and affordable housing stock, Waterbury attracts both owner-occupant purchasers and multi-family real estate investors. The city boasts an architectural spectrum spanning the classic multi-family "triple-decker" flat-roofed and pitched properties of Town Plot, Brooklyn, and the North End, to the stately Queen Anne Victorians and Colonial Revival residences of the Hillside Historic District, Bunker Hill, Overlook, and East Mountain.
 
 However, behind Waterbury's historic charm and dramatic valley views lies a harsh New England climate that subjects residential roofs to relentless punishment: **fierce winter Nor'easters dumping heavy, wet snow, prolonged freeze-thaw cycles that generate massive ice dams, humid summer thunderstorms, steep hillside wind shear, and aged multi-family housing stock plagued by unpermitted roofing overlays and deteriorating slate assemblies**.

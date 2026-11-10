@@ -5,8 +5,6 @@ pubDate: "Oct 24 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Eugene Real Estate Disclosures
-
 Cradled at the southern tip of the fertile Willamette Valley where the Willamette and McKenzie Rivers converge, Eugene, Oregon, is celebrated for its lush natural landscape, vibrant cultural scene, and distinctive residential neighborhoods. From the historic Craftsman residences and Victorian farmhouses in College Hill, Friendly, and the Whitaker district to mid-century modern ranches and hillside architectural masterpieces tucked into the heavily forested South Hills, Eugene boasts an eclectic and picturesque housing stock.
 
 However, Eugene’s Pacific Northwest natural beauty conceals a severe environmental challenge for residential roofs: **prolonged seasonal dampness, heavy tree canopy shade, and relentless biological growth**.

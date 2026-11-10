@@ -5,8 +5,6 @@ pubDate: "Nov 02 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Sunset Park Real Estate Disclosures
-
 Perched on the dramatic glacial ridge of southwestern Brooklyn overlooking New York Harbor and the Manhattan skyline, Sunset Park is one of the borough's most culturally rich, historic, and architecturally distinctive communities. Built primarily between 1890 and 1920 during Brooklyn's rapid industrial and residential expansion, Sunset Park features block after block of intact two- and three-story attached limestone and brownstone rowhouses, classic yellow Roman-brick multi-families, and pre-war masonry apartment complexes. From the picturesque residential avenues flanking 5th and 6th Avenues near the historic park itself to the bustling commercial corridors of 8th Avenue and the revitalized waterfront industrial warehouses of Industry City, Sunset Park offers an enviable urban living environment.
 
 Yet behind Sunset Park’s handsome Romanesque Revival cornices and ornamental limestone relief carvings lies a harsh urban reality: **the punishing structural demands of century-old flat and low-slope roof assemblies, deteriorating shared masonry party-wall parapets, chronic drainage ponding, harsh coastal freeze-thaw cycles off New York Bay, and gale-force Atlantic Nor'easter driving rains**.

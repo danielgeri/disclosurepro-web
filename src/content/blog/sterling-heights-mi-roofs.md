@@ -5,8 +5,6 @@ pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Sterling Heights Real Estate Disclosures
-
 Positioned in Macomb County approximately twenty miles north of downtown Detroit, Sterling Heights is Michigan's fourth-largest city and one of the premier suburban communities of the Detroit metropolitan area. Known for its picturesque park system along the Clinton River, safe neighborhoods, and outstanding municipal services, Sterling Heights is dominated by solid post-1960s suburban housing: thousands of handsome brick split-levels, spacious two-story colonials, and expansive brick ranches spanning established neighborhoods like Plumbrook, Dodge Park, Fox Run, and the Schoenherr corridor.
 
 However, behind the manicured lawns and stately brick facades of Sterling Heights lies an unforgiving Great Lakes continental climate that systematically tests residential roof envelopes: **heavy winter lake-effect snowfalls, rapid freeze-thaw oscillations driving hydraulic expansion in shingle laps, massive ice dam formations along uninsulated eaves, severe spring rainstorms, and humid midwestern summers that foster attic condensation and wood rot**.

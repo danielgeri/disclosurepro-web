@@ -5,8 +5,6 @@ pubDate: "Oct 09 2026"
 heroImage: "../../assets/portland_hero_1785906045773.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Portland Real Estate Disclosures
-
 Portland is renowned for its distinctive neighborhood character, environmental consciousness, and world-class architectural preservation. Nestled between the Willamette and Columbia rivers with Mount Hood standing guard on the eastern horizon, the "City of Roses" offers a remarkable collection of residential architecture. From the meticulously preserved Craftsman bungalows and Four-Squares of Hawthorne, Sunnyside, and Laurelhurst to the grand Queen Anne Victorians of Irvington and the striking mid-century modern homes nestled in the forested hills of the West Hills and Southwest Portland, the city provides homebuyers with exceptional historic beauty.
 
 However, towering above Portland’s streets is a natural feature that defines both its lush scenery and its biggest structural challenge: **massive Douglas fir trees and eight continuous months of Pacific Northwest rain**.

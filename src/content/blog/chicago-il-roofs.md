@@ -5,13 +5,11 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/chicago_hero_1785905744751.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Chicago Real Estate Disclosures
-
 Navigating the Chicago residential real estate market is an exciting journey. Whether you are falling in love with a historic greystone in Logan Square, a classic brick two-flat in Lincoln Park, a charming bungalow in Portage Park, or a timber loft condominium in the West Loop, Chicago architecture is among the most celebrated in the nation. But beneath the decorative brickwork and historic charm lies a structural component that bears the brunt of the Midwest’s harshest weather: **the roof**.
 
 In Chicago, roofing assemblies endure extreme environmental punishment. Sub-zero polar vortex freezes, lake-effect snowstorms, rapid freeze-thaw oscillations, and 60-mph gale-force winds off Lake Michigan relentlessly assault rooftops year after year. For Chicago buyers, an undetected roofing defect or an evasively disclosed roof condition can swiftly turn an investment into a multi-thousand-dollar financial nightmare.
 
-As an experienced real estate attorney and top-producing local Chicago real estate broker, I have witnessed countless transactions where buyers celebrated winning an offer, only to discover rotted roof joists, crumbling parapet walls, and toxic mold after the first winter thaw. In this comprehensive guide, we will break down how Chicago roofs fail, analyze Illinois disclosure statutes, and explain how to spot subtle red flags hidden in seller disclosure packets.
+Real estate attorneys and local buyer's brokers regularly see countless transactions where buyers celebrated winning an offer, only to discover rotted roof joists, crumbling parapet walls, and toxic mold after the first winter thaw. In this comprehensive guide, we will break down how Chicago roofs fail, analyze Illinois disclosure statutes, and explain how to spot subtle red flags hidden in seller disclosure packets.
 
 ---
 

@@ -5,25 +5,105 @@ import HeaderLink from './HeaderLink.astro';
 <header class="header">
 	<div class="container nav-container">
 		<a href="/" class="brand-logo">
-			<img src="/logo.jpeg" alt="DP AI Logo" class="logo-icon-svg" />
+			<img
+				src="/logo.webp"
+				alt="DisclosurePro AI logo"
+				width="48"
+				height="48"
+				class="logo-icon-svg"
+			/>
 			<div class="brand-text">
 				<span class="brand-name">DisclosurePro</span>
 			</div>
 		</a>
 
-		<nav class="nav-links">
+		<nav class="nav-links" aria-label="Primary navigation">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/#features">Features</HeaderLink>
 			<HeaderLink href="/#pricing">Pricing</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/privacy">Privacy Policy</HeaderLink>
+			<HeaderLink href="/blog">Guides & Blog</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
 		</nav>
 
-		<div class="nav-cta">
-			<a href="/download" class="btn-primary-sm">Get App 🚀</a>
+		<div class="nav-actions">
+			<a
+				href="/download"
+				class="btn-primary-sm"
+				data-gtag-event="cta_download_click"
+				data-gtag-label="header_get_app"
+			>
+				Get App 🚀
+			</a>
+
+			<button
+				type="button"
+				class="mobile-menu-btn"
+				id="mobile-menu-trigger"
+				commandfor="mobile-nav-menu"
+				command="toggle-popover"
+				aria-label="Open navigation menu"
+				aria-controls="mobile-nav-menu"
+				aria-expanded="false"
+			>
+				<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+					<line x1="3" y1="6" x2="21" y2="6" />
+					<line x1="3" y1="12" x2="21" y2="12" />
+					<line x1="3" y1="18" x2="21" y2="18" />
+				</svg>
+			</button>
 		</div>
 	</div>
+
+	<div id="mobile-nav-menu" popover="auto" class="mobile-nav-popover">
+		<nav class="mobile-nav-links" aria-label="Mobile navigation">
+			<a href="/">Home</a>
+			<a href="/#features">Features</a>
+			<a href="/#pricing">Pricing</a>
+			<a href="/blog">Guides & Blog</a>
+			<a href="/about">About</a>
+			<a href="/privacy">Privacy Policy</a>
+			<a
+				href="/download"
+				class="btn-primary mobile-cta-btn"
+				data-gtag-event="cta_download_click"
+				data-gtag-label="mobile_menu_get_app"
+			>
+				Download App 🚀
+			</a>
+		</nav>
+	</div>
 </header>
+
+<script>
+	// Feature-detect Popover & Invoker Commands APIs for older browsers
+	if (!('popover' in HTMLElement.prototype)) {
+		import('https://unpkg.com/@oddbird/popover-polyfill@latest/dist/popover.min.js').catch(() => {});
+	}
+	if (!('commandForElement' in HTMLButtonElement.prototype)) {
+		import('https://esm.run/invokers-polyfill').catch(() => {});
+	}
+
+	const trigger = document.getElementById('mobile-menu-trigger');
+	const menu = document.getElementById('mobile-nav-menu');
+
+	if (trigger && menu) {
+		menu.addEventListener('toggle', (event) => {
+			const toggleEvent = event as ToggleEvent;
+			trigger.setAttribute('aria-expanded', String(toggleEvent.newState === 'open'));
+		});
+
+		menu.addEventListener('click', (event) => {
+			const target = event.target as HTMLElement | null;
+			if (target?.closest('a') && typeof menu.hidePopover === 'function') {
+				try {
+					menu.hidePopover();
+				} catch {
+					// Ignore if already closed
+				}
+			}
+		});
+	}
+</script>
 
 <style>
 	.header {
@@ -48,7 +128,9 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	.logo-icon-svg {
 		height: 48px;
-		width: auto;
+		width: 48px;
+		border-radius: 10px;
+		object-fit: cover;
 	}
 	.brand-name {
 		color: var(--text-primary);
@@ -60,9 +142,14 @@ import HeaderLink from './HeaderLink.astro';
 		display: flex;
 		gap: 24px;
 	}
+	.nav-actions {
+		display: flex;
+		align-items: center;
+		gap: 12px;
+	}
 	.btn-primary-sm {
 		background: var(--gradient-primary);
-		color: #ffffff;
+		color: #070b19;
 		font-weight: 700;
 		font-size: 14px;
 		padding: 8px 18px;
@@ -73,10 +160,61 @@ import HeaderLink from './HeaderLink.astro';
 	.btn-primary-sm:hover {
 		transform: translateY(-1px);
 		box-shadow: 0 4px 16px rgba(0, 242, 254, 0.4);
+		color: #070b19;
+	}
+	.mobile-menu-btn {
+		display: none;
+		align-items: center;
+		justify-content: center;
+		width: 42px;
+		height: 42px;
+		border-radius: 10px;
+		border: 1px solid var(--border-color);
+		background: rgba(255, 255, 255, 0.06);
+		color: var(--text-primary);
+		cursor: pointer;
+	}
+	.mobile-nav-popover {
+		margin: 0;
+		inset: 76px 16px auto 16px;
+		width: auto;
+		background: var(--bg-card);
+		border: 1px solid var(--border-color);
+		border-radius: 16px;
+		padding: 20px;
+		box-shadow: 0 20px 40px rgba(0, 0, 0, 0.45);
+		color: var(--text-primary);
+	}
+	[popover]:is(:popover-open, .\:popover-open) {
+		display: block;
+	}
+	.mobile-nav-links {
+		display: flex;
+		flex-direction: column;
+		gap: 14px;
+	}
+	.mobile-nav-links a {
+		color: var(--text-primary);
+		font-size: 16px;
+		font-weight: 600;
+		text-decoration: none;
+		padding: 6px 4px;
+	}
+	.mobile-nav-links a.mobile-cta-btn {
+		color: #070b19;
+		justify-content: center;
+		margin-top: 6px;
+		padding: 12px 20px;
 	}
 	@media (max-width: 768px) {
 		.nav-links {
 			display: none;
+		}
+		.mobile-menu-btn {
+			display: inline-flex;
+		}
+		.brand-name {
+			font-size: 19px;
 		}
 	}
 </style>

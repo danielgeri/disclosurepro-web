@@ -5,8 +5,6 @@ pubDate: "Nov 06 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Gravesend Real Estate Disclosures
-
 Steeped in rich colonial history as one of the original six towns of colonial Brooklyn founded by Lady Deborah Moody in 1645, Gravesend stands today as one of South Brooklyn’s most stable, family-oriented, and sought-after residential communities. Bound by vibrant commercial corridors along Avenue U, 86th Street, and Kings Highway, Gravesend offers superb transit connectivity to Manhattan via the F, N, and Q subway lines, renowned neighborhood institutions like L&B Spumoni Gardens, and quiet tree-lined residential blocks. The neighborhood’s distinctive housing stock reflects generations of architectural evolution: from semi-detached and fully detached brick two- and three-family homes and multi-story rowhouses in the Marlboro area, to detached early 20th-century frame houses around historic Village Road, to low-rise co-op and condominium buildings along McDonald Avenue and Ocean Parkway.
 
 Yet behind Gravesend’s tidy brick facades, private driveways, and manicured front yards lies a demanding roofing environment unique to South Brooklyn: **decades of Atlantic maritime air and coastal nor'easters driving rain off nearby Gravesend Bay and Lower New York Bay, severe urban freeze-thaw cycles fracturing unlined brick parapet walls, recurring ponding water over sagging structural timber joists, and unpermitted, multi-layered flat roof overlays installed by unlicensed contractors**.

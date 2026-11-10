@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Jersey City Real Estate Disclosures
-
 Positioned directly across the Hudson River from Lower Manhattan, Jersey City has evolved into one of the most vibrant, sought-after metropolitan housing markets in the Tri-State area. From the iconic 19th-century brownstones, brick rowhomes, and Victorian townhouses of Historic Downtown (Paulus Hook, Van Vorst Park, Hamilton Park, and Harsimus Cove) to the rapid redevelopment and classic two- and three-family flat-roof properties across The Heights, Journal Square, and Bergen-Lafayette, Jersey City offers exceptional historic character and urban vitality.
 
 However, beneath Jersey City’s striking skyline lies a brutal maritime and urban microclimate that relentlessly batters residential roofing systems: **gale-force Atlantic nor'easters, torrential coastal rainfall, punishing winter freeze-thaw cycles, and chronic ponding water on low-slope and flat roofs**. In Hudson County, where properties frequently share century-old masonry party walls and internal drainage networks, a compromised roof can trigger complex, multi-property structural damage and massive repair bills.

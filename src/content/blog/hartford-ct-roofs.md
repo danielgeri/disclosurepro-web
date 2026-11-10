@@ -5,8 +5,6 @@ pubDate: "Nov 02 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Hartford Real Estate Disclosures
-
 Steeped in three centuries of American history along the scenic banks of the Connecticut River, Hartford is one of New England’s most architecturally distinguished and historic capital cities. Known as the "Insurance Capital of the World," Hartford boasts an extraordinary array of residential architecture that reflects its storied past. From the majestic late 19th-century Queen Anne, Tudor Revival, and Colonial Revival estates lining the tree-shaded avenues of the West End National Historic District to the iconic brick "perfect six" triple-deckers and Victorian rowhouses of Frog Hollow, Parkville, and Asylum Hill, Hartford offers rich character and architectural craftsmanship.
 
 Yet behind Hartford’s ornate historic turrets, hand-carved bargeboards, and picturesque slate gables lies a relentless structural adversary: **the punishing atmospheric environment of Southern New England winters, characterized by 30+ lb/sq. ft. wet snowpacks, severe freeze-thaw cycles driving destructive ice damming, century-old slate nail corrosion ("slate sickness"), oxidized copper valley flashings, and uninsulated attic spaces that accelerate structural timber decay**.

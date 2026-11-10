@@ -5,8 +5,6 @@ pubDate: "Oct 17 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Baton Rouge Real Estate Disclosures
-
 Perched along the iconic eastern bluffs of the Mississippi River, Baton Rouge embodies the vibrant intersection of Louisiana’s political capital, rich Cajun and Creole cultural heritage, and thriving educational and industrial economies. From the historic moss-draped live oaks and classic Acadian cottages of the Garden District and Spanish Town to the stately executive residences of Bocage and Southdowns, the mid-century revival charm of Mid City, and the expansive family-friendly subdivisions of Shenandoah and University Hills, Baton Rouge presents a diverse and compelling residential landscape.
 
 However, beneath Baton Rouge’s picturesque bayous, flowering azaleas, and historic wrought-iron architecture lies one of the most punishing and humid climates for residential roofing anywhere in North America: **over 60 to 65 inches of torrential annual rainfall, devastating Gulf hurricanes and tropical storms packing 80+ mph wind gusts, relentless 90% ambient summer humidity, and pervasive wood-rotting fungal decay**. In East Baton Rouge Parish, an architectural shingle, standing seam metal, or historic slate roof can appear perfectly sound from the driveway while hiding completely rotted OSB sheathing, rusted flashing, and saturated attic insulation out of view.

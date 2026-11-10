@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Lafayette Real Estate Disclosures
-
 Set in the heart of Acadiana along the winding Vermilion River, Lafayette is the cultural, culinary, and economic capital of French Louisiana. Celebrated for its vibrant Cajun and Creole heritage, world-class music festivals, and warm Southern hospitality, Lafayette offers an exceptional residential lifestyle. From the historic oak-canopied avenues and vintage cottages of the Saint Streets and Downtown to the tranquil mid-century ranches of Bendel Gardens, Greenbriar, and Broadmoor, to the grand traditional and French Provincial estates of River Ranch and Whittington Oak, Lafayette features a rich and distinctive architectural heritage.
 
 Yet behind Lafayette’s lush bayous and majestic live oaks lies one of the most punishing atmospheric environments in the United States: **intense Gulf Coast tropical cyclones delivering sustained 100+ mph hurricane wind shears, more than 62 inches of annual rainfall, relentless 90%+ summer humidity driving Gloeocapsa magma algae infestation and attic deck rot, and severe thunderstorm microbursts that expose hidden flashing flaws**.

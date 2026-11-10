@@ -5,8 +5,6 @@ pubDate: "Oct 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Jackson Real Estate Disclosures
-
 As the historic capital and cultural heart of the Magnolia State, Jackson, Mississippi, offers homebuyers rich Southern heritage, iconic literary traditions, and distinctive residential architecture. From the stately Greek Revival, Tudor, and Craftsman homes nestled beneath the towering oak canopies of historic Belhaven, Fondren, and Eastover, to established mid-century ranches in Northeast Jackson and newer suburban developments in neighboring Madison and Rankin counties, Jackson presents remarkable architectural character and value.
 
 However, beneath the picturesque Spanish moss and vibrant azaleas lies one of North America's most corrosive climates for residential roofs: **the oppressive heat, relentless humidity, and violent weather of the Deep South**.

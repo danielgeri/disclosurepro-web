@@ -5,8 +5,6 @@ pubDate: "Nov 02 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Koreatown Real Estate Disclosures
-
 Centrally located just west of Downtown Los Angeles and south of Hollywood, Koreatown (often called K-Town) is one of the most vibrant, high-density, and culturally energetic urban neighborhoods in Southern California. Encompassing roughly three square miles framed by Vermont Avenue, Western Avenue, Beverly Boulevard, and Olympic Boulevard, Koreatown boasts a fascinating architectural tapestry. Historic 1920s Spanish Colonial Revival apartment complexes, ornate Art Deco residential towers, pre-war Craftsman courtyard bungalows, and 1960s mid-century "dingbat" low-rise multi-families sit alongside sleek contemporary high-rise condominium towers.
 
 Yet beneath Koreatown’s neon-lit commercial avenues, renowned dining scenes, and walkable transit hubs lies an unforgiving structural reality: **the relentless thermal degradation of flat and low-slope roof membranes caused by the intense Central Los Angeles urban heat island, dry seasonal Santa Ana wind shears, recurring seismic micro-tremors from nearby fault zones, and torrential winter atmospheric river deluges that overwhelm aging rooftop drainage systems**.

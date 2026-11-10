@@ -5,8 +5,6 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/manhattan_hero_1785905863386.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Manhattan Real Estate Disclosures
-
 Manhattan real estate represents the pinnacle of luxury, prestige, and architectural grandeur. Whether you are acquiring an 1880s limestone townhouse on the Upper East Side, a historic brownstone in the West Village, an airy loft building in SoHo, or a penthouse with a private rooftop terrace in Tribeca, the financial stakes are immense. Yet amidst the high-stakes bidding wars, rigorous co-op board approvals, and architectural reviews, buyers routinely overlook a structural component that carries tremendous financial risk: **the roof assembly**.
 
 In Manhattan, a roof is far more than a simple weather barrier. It is a highly engineered, complex industrial surface that hosts HVAC chillers, elevator bulkheads, water tanks, cell towers, and private landscaped roof terraces. Subjected to harsh Atlantic freeze-thaw cycles, driving coastal Nor'easters, and stringent New York City Department of Buildings (DOB) regulations, an undetected roofing defect in Manhattan can rapidly result in a six-figure emergency assessment or repair nightmare.

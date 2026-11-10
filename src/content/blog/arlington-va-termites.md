@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Arlington Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Arlington, VA Real Estate Disclosures"
 description: "Protect your Northern Virginia home purchase from hidden termite damage. Learn Virginia caveat emptor rules, DPOR disclosure forms, and NPMA-33 WDI pest reports."
 pubDate: "Aug 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Anaheim Real Estate Disclosures
-
 Anaheim represents the heart of Orange County, blending historic early-twentieth-century charm in the Anaheim Colony Historic District with mid-century ranches in West Anaheim and luxurious hilltop estates across Anaheim Hills. Homebuyers flock to the city for its vibrant economy, proximity to world-class entertainment, and classic Southern California weather. However, beneath the sunny skies and picturesque palm trees lies a pervasive and deceptive property risk: **roofing degradation driven by extreme Santa Ana wind events, persistent high-heat UV exposure, and concealed underlayment failure**.
 
 While an Anaheim roof may appear structurally flawless from the curb—especially heavy Spanish clay tile or concrete S-tile roofs—the true waterproofing barrier underneath is often severely compromised. Decades of blistering summer temperatures dry out the organic asphalt felt underlayment, leaving it as brittle as potato chips. When powerful, dry Santa Ana windstorms strike, wind-driven vibrations and uplift force tiles to shift, exposing the fractured underlayment to infrequent but torrential winter Pacific atmospheric rivers.

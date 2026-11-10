@@ -5,7 +5,7 @@ pubDate: "Aug 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active managing broker serving Sedgwick County and the greater Wichita metropolitan area, I have guided hundreds of clients through property transactions. One of the most insidious threats facing Wichita homebuyers is undetected wood-destroying insect damage. In the Arkansas River Valley, subterranean termites are common, and failing to carefully dissect seller disclosures can lead to tens of thousands of dollars in unexpected structural repairs.
+Experienced real estate attorneys and local brokers regularly counsel hundreds of clients through property transactions. One of the most insidious threats facing Wichita homebuyers is undetected wood-destroying insect damage. In the Arkansas River Valley, subterranean termites are common, and failing to carefully dissect seller disclosures can lead to tens of thousands of dollars in unexpected structural repairs.
 
 In this comprehensive guide, we will analyze the termite risks unique to South Central Kansas, explain Kansas statutory disclosure rules, reveal deceptive phrasing commonly found in seller paperwork, and provide actionable strategies to protect your real estate investment.
 

@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Corona Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Corona, CA Real Estate Disclosures"
 description: "Buying a home in Corona, California? Learn how intense Inland Empire heat, ferocious Santa Ana winds, and California TDS disclosure laws affect residential roofs."
 pubDate: "Oct 24 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Corona Real Estate Disclosures
 
 Strategically located at the junction of Riverside and Orange Counties along the foothills of the Santa Ana Mountains, Corona—fondly known as the "Circle City"—is one of Southern California's premier residential hubs. From historic citrus-era estates near Grand Boulevard to upscale hillside enclaves and master-planned developments in South Corona, Eagle Glen, Sierra Del Oro, and Dos Lagos, the city attracts thousands of homebuyers seeking scenic mountain views, excellent schools, and commuter convenience.
 

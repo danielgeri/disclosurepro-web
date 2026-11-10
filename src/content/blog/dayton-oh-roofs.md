@@ -5,8 +5,6 @@ pubDate: "Oct 29 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Dayton Real Estate Disclosures
-
 Known as the "Birthplace of Aviation," Dayton, Ohio, possesses one of the Midwest’s most distinctive collections of historic residential architecture. From the ornate Queen Anne and Italianate Victorian homes of the Oregon Historic District and St. Anne’s Hill to the stately brick American Foursquares and Tudor Revivals in Dayton View, South Park, and Huffman Historic District, Dayton’s neighborhoods showcase exceptional early 20th-century craftsmanship.
 
 However, Dayton’s dramatic four-season climate subjects residential roofing assemblies to relentless environmental punishment: **brutal winter freeze-thaw cycles that fuel destructive ice damming, heavy snowfall loads, severe spring convective storm systems bringing violent straight-line winds and hail, high summer humidity, and the complex structural maintenance demands of century-old built-in box gutters and slate roofing systems**.

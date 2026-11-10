@@ -5,8 +5,6 @@ pubDate: "Oct 16 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Winston-Salem Real Estate Disclosures
-
 Nestled in the rolling foothills of the Piedmont Triad beneath the silhouette of Pilot Mountain, Winston-Salem is a distinguished city celebrated for its arts innovation, medical leadership, and deep historical heritage. Formed by the union of the historic 18th-century Moravian settlement of Salem and the industrial powerhouse of Winston, the "Twin City" boasts an exceptional residential real estate market. From the stately Georgian, Tudor Revival, and Colonial estates of Buena Vista and Country Club to the vibrant Queen Anne Victorians and Craftsman bungalows of the historic West End and Ardmore, the tree-shaded streets of Washington Park, and the family enclaves of Sherwood Forest and Clemmons, Winston-Salem offers timeless architectural charm.
 
 However, Winston-Salem’s lush, wooded Piedmont landscape conceals a punishing humid subtropical environment that continuously compromises residential roofing systems: **heavy tropical storm remnants dropping four to six inches of torrential rain, severe summer squall lines with 65-mph winds, damaging winter ice storms, and an immense mature tree canopy of loblolly pines and white oaks that deposits acidic organic debris across valleys and roof planes**. In Forsyth County, where historic homes often feature authentic slate, Ludowici clay tile, or multi-layered asphalt shingles, latent moisture damage frequently rots structural roof decks long before interior ceilings show water marks.

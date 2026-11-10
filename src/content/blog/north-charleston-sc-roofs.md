@@ -5,8 +5,6 @@ pubDate: "Nov 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in North Charleston Real Estate Disclosures
-
 Spanning portions of Charleston, Berkeley, and Dorchester counties in the heart of the South Carolina Lowcountry, North Charleston is an energetic, high-growth industrial and cultural powerhouse. Home to major aerospace manufacturing at Boeing South Carolina, the historic Charleston Naval Shipyard redevelopment, and the vibrant arts district of Park Circle, North Charleston offers an appealing variety of residential architecture. Prospective homebuyers fall in love with the charming mid-century cottages and renovated bungalows of Park Circle and Oak Terrace Preserve, the golf-course communities of Coosaw Creek Country Club, and the family-friendly suburban neighborhoods of Whitehall and Windsor Hill.
 
 However, behind North Charleston's moss-draped live oaks and scenic tidal waterways lies a volatile subtropical coastal environment that subjects residential roofs to relentless punishment: **Atlantic tropical storms and hurricanes generating sustained winds over 80 mph, corrosive salt-laden maritime air that rusts metal flashings, torrential subtropical rainfall that exploits microscopic flashing gaps, dense tree canopies dropping heavy limbs and acidic organic debris, and oppressive Lowcountry humidity that fosters hidden wood decay**.

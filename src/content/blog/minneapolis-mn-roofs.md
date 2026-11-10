@@ -5,8 +5,6 @@ pubDate: "Oct 12 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Minneapolis Real Estate Disclosures
-
 Minneapolis is renowned for its architectural character, lakefront parks, and historic streetscapes. From the brick-and-timber Tudor Revivals of Tangletown and Linden Hills to the stately Georgian and Dutch Colonials surrounding Lake of the Isles and Kenwood, to the timeless Craftsman bungalows of Lynnhurst and Northeast Minneapolis, the Twin Cities housing stock is as rich as it is enduring.
 
 Yet, beneath these picturesque gables, dormers, and snow-dusted rooflines lies a harsh environmental reality: **the extreme sub-zero continental climate of Minnesota subjects residential roofs to some of the most punishing thermal and structural stresses in North America**.

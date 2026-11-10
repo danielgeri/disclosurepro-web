@@ -5,8 +5,6 @@ pubDate: "Oct 31 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Cedar Rapids Real Estate Disclosures
-
 Nestled along the banks of the Cedar River in East Central Iowa, Cedar Rapids is a historic manufacturing and cultural powerhouse known as the "City of Five Seasons." From the tree-lined avenues and mid-century architectural gems of Bowman Woods, Noelridge Park, and Vernon Heights to the revived historic worker cottages of Czech Village, New Bohemia (NewBo), and Wellington Heights, Cedar Rapids offers a rich and varied residential tapestry.
 
 However, behind the city's scenic river bluffs and welcoming community parks lies one of the most punishing atmospheric environments in the Upper Midwest: **devastating straight-line wind events epitomized by the catastrophic 140 mph August 2020 Midwest Derecho, sub-zero winter deep-freezes driving severe ice dam formation, punishing spring hailstorms, and humid summer thunderstorm deluges**.

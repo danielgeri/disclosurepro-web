@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Pasadena Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Pasadena, TX Real Estate Disclosures"
 description: "Buying a home in Pasadena, Texas? Discover how Gulf Coast hurricanes, industrial atmospheric corrosion, TWIA windstorm codes, and Texas Property Code § 5.008 impact roofs."
 pubDate: "Oct 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Pasadena Real Estate Disclosures
 
 Located along the bustling ship channel corridor in eastern Harris County just southeast of Houston, Pasadena, Texas—often called the "Strawberry Capital" with deep industrial and petrochemical roots—presents attractive real estate opportunities. From classic mid-century ranches in Deepwater, Queens, and Golden Acres to expansive suburban two-story homes in Village Grove, Parkview, and Vista Villas, Pasadena offers suburban living near Galveston Bay and the Clear Lake aerospace corridor.
 

@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Springfield Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Springfield, IL Real Estate Disclosures"
 description: "Buying a home in Springfield, Illinois? Learn how prairie freeze-thaw cycles, severe winter ice dams, 765 ILCS 77 disclosure laws, and Sangamon County storms impact your roof."
 pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Springfield Real Estate Disclosures
 
 As the state capital of Illinois and the historic home of Abraham Lincoln, Springfield holds a distinguished place in American history. Located in Sangamon County within the fertile plains of Central Illinois, Springfield offers prospective homeowners an appealing blend of architectural elegance, community stability, and affordable Midwest living. Homebuyers are drawn to Springfield's historic, mature neighborhoods: from the stately 1920s American Foursquares, Queen Anne Victorians, and Colonial Revivals of Washington Park, Enos Park, and Hawthorne Place to the tree-canopied executive residences of Leland Grove and the classic mid-century ranches of Westchester and the Historic West Side.
 

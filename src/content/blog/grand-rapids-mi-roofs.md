@@ -5,8 +5,6 @@ pubDate: "Oct 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Grand Rapids Real Estate Disclosures
-
 Situated along the rushing waters of the Grand River just thirty miles east of Lake Michigan, Grand Rapids is Michigan’s second-largest city, globally celebrated for its vibrant craft brewing culture, thriving medical mile, and world-class design legacy. Homebuyers are drawn to Grand Rapids for its outstanding quality of life, robust local economy, and remarkably diverse residential architectural landscape. From the nationally recognized historic mansions and Queen Anne, Italianate, and Prairie-style estates of Heritage Hill to the vibrant, walkable early-20th-century Craftsman and Dutch Colonial homes of Eastown and Midtown, stately pre-war colonials in East Grand Rapids, and classic mid-century brick ranches in Alger Heights and Fulton Heights, the city offers exceptional architectural character.
 
 However, Western Michigan’s geographic location within the Lake Michigan snow belt exposes residential roofing systems to brutal seasonal punishment. Roofs in Kent County must endure **heavy lake-effect snowfalls averaging over 75 inches per winter, relentless freeze-thaw cycles that create massive ice dams, prolonged sub-zero cold waves, and violent summer convective storms producing hail and straight-line winds**. When heavy, wet snow accumulates on complex, steep-pitched historic rooflines or winter ice dams force standing meltwater upward beneath shingle courses, moisture silently rots structural decking, rusts fasteners, and causes severe interior water damage.

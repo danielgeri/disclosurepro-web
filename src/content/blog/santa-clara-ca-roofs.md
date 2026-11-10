@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Santa Clara Real Estate Disclosures
-
 Located at the geographic and economic epicenter of Silicon Valley in Santa Clara County, the City of Santa Clara is a dynamic, high-tech hub that seamlessly balances centuries of California history with modern innovation. From the historic 19th-century Victorians and craftsman bungalows of the Old Quad near Santa Clara University to the iconic 1950s and 1960s mid-century modern and Eichler-inspired ranches of Mariposa Gardens, Forest Park, and Killarney Farms, to the premier executive townhomes and Spanish-revival residences of Rivermark, Santa Clara showcases an extraordinary diversity of residential architecture.
 
 Yet beneath Santa Clara’s sunny suburban parkways and thriving tech economy lies a persistent physical challenge that takes a severe toll on residential roof assemblies: **chronic ponding and membrane seam failure on iconic mid-century flat and low-slope roofs, the "20-Year Underlayment Cliff" on Mediterranean concrete tile roofs in Rivermark, intense South Bay summer UV radiation baking asphalt binders, and torrential winter atmospheric river storms that overwhelm aging drainage scuppers**.

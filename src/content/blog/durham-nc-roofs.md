@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Durham Real Estate Disclosures
-
 Anchoring the Research Triangle alongside Raleigh and Chapel Hill, Durham—celebrated as the "Bull City"—is one of the most culturally vibrant and economically resilient housing markets in the Southeast. From the charming 1920s Craftsman bungalows, Victorian cottages, and stately Colonial Revivals of Trinity Park, Watts-Hillandale, Duke Park, and Old West Durham to the grand mid-century and historic estates of Forest Hills and Hope Valley, and the master-planned communities across South Durham like Woodcroft, the city offers exceptional architectural character and strong property appreciation.
 
 However, beneath Durham’s lush Piedmont tree canopy lies a set of aggressive environmental factors that relentlessly compromise residential roofing systems: **towering loblolly pine canopies dropping acidic needle mats, heavy Piedmont humidity fostering moss and fungal rot, periodic winter ice storms that fracture timber framing, and tropical storm remnants bringing torrential wind-driven rain**. In Durham County, a roof that appears charming beneath a canopy of hardwoods can hide extensive timber decay and delaminated decking.

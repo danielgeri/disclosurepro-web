@@ -5,8 +5,6 @@ pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Warren Real Estate Disclosures
-
 Situated immediately north of Detroit in Macomb County, Warren is Michigan's third-largest city and the historic heart of American automotive manufacturing. Home to the General Motors Technical Center and the historic Warren Woods corridor, the city's residential fabric is defined by post-WWII housing stock: thousands of solid mid-century brick ranches, cozy 1950s bungalows, split-levels, and traditional two-story family homes spanning neighborhoods like Fitzgerald, Warren Woods, Bear Creek, and Southwest Warren.
 
 However, behind the sturdy brick exteriors and manicured lawns of Warren lies a harsh Great Lakes continental climate that systematically degrades residential roofing envelopes: **relentless winter lake-effect snowfalls, rapid freeze-thaw oscillations that drive hydraulic wedging in shingle seams, massive ice dams along uninsulated eaves, severe spring rainstorms, and oppressive summer humidity that fosters attic rot and mold**.

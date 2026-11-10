@@ -5,8 +5,6 @@ pubDate: "Oct 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Washington Heights Real Estate Disclosures
-
 Perched atop the granite ridgelines of Upper Manhattan, Washington Heights—including the enclave of Hudson Heights—occupies the highest natural geographical elevation on the island of Manhattan (rising 265 feet above sea level at Bennett Park). Characterized by stately pre-war Art Deco and Beaux-Arts apartment buildings along Fort Washington Avenue and Cabrini Boulevard, historic limestone rowhouses near Audubon Terrace, and classic brick co-ops overlooking the Hudson River and George Washington Bridge, Washington Heights represents one of New York City’s most historic residential communities.
 
 However, behind Washington Heights’ sweeping river views and architectural grandeur lies an exceptionally harsh urban microclimate that subjects residential roofing systems to relentless physical punishment: **intense Hudson River wind shear, severe winter freeze-thaw cycles, complex pre-war flat roof drainage systems, and rigorous municipal oversight under NYC Local Law 11 (FISP)**.

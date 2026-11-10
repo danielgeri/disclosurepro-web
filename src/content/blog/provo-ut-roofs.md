@@ -5,8 +5,6 @@ pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Provo Real Estate Disclosures
-
 Framed by the towering peaks of the Wasatch Range to the east and the shimmering waters of Utah Lake to the west, Provo is the energetic cultural, technological, and educational heart of Utah County. Anchored by Brigham Young University (BYU) and the thriving tech corridor of the Silicon Slopes, Provo attracts homebuyers seeking world-class mountain recreation, strong economic growth, and family-oriented neighborhoods. Prospective homeowners are drawn to Provo's diverse architectural styles: from the historic Victorian, Craftsman, and pioneer brick cottages of Historic Downtown and the Joaquin neighborhood to the established mid-century ranches of Grandview, to the luxury mountain-bench estates of Edgemont, Oak Hills, and Treeo/Timpview along the Rock Canyon foothills.
 
 Yet beneath Provo’s breathtaking alpine backdrop and clean mountain air lies an aggressive high-desert alpine climate that subjects residential roofs to severe physical stress: **heavy lake-effect winter snowfalls that cultivate devastating ice dams along eaves, violent downslope Wasatch canyon winds gusting past 75 mph, intense high-altitude solar ultraviolet (UV) radiation at 4,550+ feet elevation, and alluvial soil movements along the Wasatch Fault zone that shear roof flashings apart**.

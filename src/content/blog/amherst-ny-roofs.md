@@ -5,8 +5,6 @@ pubDate: "Nov 02 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Amherst Real Estate Disclosures
-
 Situated immediately north of Buffalo in northern Erie County, Amherst is widely recognized as Western New York’s premier suburban township. Consistently ranked among the safest and most desirable communities in the state, Amherst combines top-tier public school systems and major educational hubs like the University at Buffalo North Campus with an expansive diversity of residential neighborhoods. From the charming historic village streetscapes, stately Victorians, and post-war brick colonials of Williamsville and Snyder to the expansive mid-century ranches and split-levels of Eggertsville and the sprawling modern executive estates of East Amherst and Audubon, Amherst offers an enviable suburban lifestyle.
 
 Yet behind Amherst’s manicured suburban lawns and tranquil cul-de-sacs lies one of the most punishing atmospheric environments in North America: **the devastating physical toll of Lake Erie lake-effect snowstorms dumping 3 to 6 feet of dense, heavy snow in 48 hours, ferocious sub-zero freeze-thaw cycles driving destructive ice damming, 60+ mph westerly gale-force wind shears, and superheated unventilated attics that accelerate wood rot and structural truss failure**.

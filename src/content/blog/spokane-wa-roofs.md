@@ -5,8 +5,6 @@ pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Spokane Real Estate Disclosures
-
 Perched along the winding Spokane River and serving as the cultural, economic, and medical capital of the Inland Northwest, Spokane combines rugged natural beauty with an extraordinary architectural legacy. From the grand Victorian mansions and brick estates of Browne's Addition and the tree-shaded, stone-accented Craftsman bungalows of the South Hill and Perry District to the mid-century ranches of Shadle Park, the suburban properties of Indian Trail, and the urban revitalization of Kendall Yards, Spokane offers an exceptional quality of life.
 
 Yet, Spokane's unique four-season continental climate poses severe, unrelenting hazards for residential roofing: **heavy winter snowpacks exceeding 45 inches annually, dramatic sub-zero freeze-thaw cycles that fuel destructive ice damming, torrential spring thaw runoff, and an abundance of towering Ponderosa pine trees that drop acidic needles and foster thick moss growth**. In Spokane, a composite shingle or architectural roof can appear serviceable during a summer open house while concealing severe ice dam delamination, rotted rafter tails, crushed skip sheathing, and water-saturated attic insulation.

@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Columbia Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Columbia, MO Real Estate Disclosures"
 description: "Buying a home in Columbia, Missouri? Learn how Mid-Missouri supercell hail storms, severe ice dams, expansive Boone County soils, and RSMo § 407.020 impact your roof."
 pubDate: "Nov 03 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Columbia Real Estate Disclosures
 
 Centrally located in Boone County along the Interstate 70 corridor, Columbia is celebrated as the cultural, medical, and educational beacon of Mid-Missouri. Home to the flagship campus of the University of Missouri (Mizzou), Stephens College, and Columbia College, this vibrant university city offers an extraordinary blend of historic charm, collegiate architecture, and picturesque rolling topography. Prospective homebuyers are captivated by Columbia’s rich residential neighborhoods: from the majestic early-20th-century Colonials, Tudors, and Craftsman bungalows of Old Southwest and East Campus to the leafy mid-century ranches of Grasslands and Parkade, to the sprawling modern executive estates of Thornbrook and The Highlands.
 

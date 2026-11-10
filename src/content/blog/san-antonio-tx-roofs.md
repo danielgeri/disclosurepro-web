@@ -5,8 +5,6 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/san_antonio_hero_1785905938554.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in San Antonio Real Estate Disclosures
-
 San Antonio boasts one of the most culturally vibrant and rapidly growing real estate markets in the United States. From grand historic estates in King William and Monte Vista and charming cottages in Alamo Heights to modern family homes in Stone Oak and the sprawling Hill Country communities of Helotes, buyers are drawn by the city’s rich history and lifestyle. Yet beneath the limestone facades, shaded oak trees, and inviting front porches lies a serious structural risk that costs local homebuyers millions of dollars every year: **undisclosed roof damage**.
 
 San Antonio sits directly in the path of some of the most violent weather patterns in the country. Situated at the junction of South Texas heat and Hill Country terrain, the city frequently experiences extreme convective hailstorms, flash-flood rainfalls, and triple-digit summer heatwaves that push rooftop temperatures past 160°F. When severe hail strikes or scorching heat breaks down roofing materials, an aging roof can deteriorate rapidly, allowing driving rain to flood attics and destroy interior drywall.

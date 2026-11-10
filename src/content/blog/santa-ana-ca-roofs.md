@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Santa Ana Real Estate Disclosures
-
 As the county seat of Orange County, Santa Ana is renowned for its rich cultural history and some of Southern California's finest vintage residential architecture. From the grand 1920s Spanish Colonial Revival estates and English Tudors of Floral Park to the Victorian Queen Annes of French Park, to charming mid-century ranches in Morrison Park and Washington Square, Santa Ana features an extraordinary diversity of historic housing stock.
 
 However, owning a character-rich home in central Orange County comes with distinct structural liabilities. Santa Ana bears the namesake of the region’s most notorious weather phenomenon: **the Santa Ana winds**. These fierce, desiccating offshore windstorms—coupled with intense UV radiation, aging Spanish clay tile assemblies, and unpermitted room-addition roof tie-ins—place extreme physical stress on residential roofing systems.

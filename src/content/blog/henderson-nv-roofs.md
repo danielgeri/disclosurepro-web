@@ -5,8 +5,6 @@ pubDate: "Oct 14 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Henderson Real Estate Disclosures
-
 Perched on the southern rim of the Las Vegas Valley, Henderson is celebrated as one of Nevada's premier master-planned communities. From the picturesque hillside enclaves of Anthem, MacDonald Ranch, and Seven Hills to the modern suburban sprawl of Inspirada and the luxurious waterfront villas of Lake Las Vegas, Henderson offers exceptional scenic beauty, championship golf courses, and an upscale desert lifestyle.
 
 However, beneath the blue skies and palm-lined avenues lies an extreme environment that poses a severe challenge to residential roofing: **relentless Mojave Desert solar ultraviolet (UV) radiation, blistering summer roof temperatures exceeding 160°F, high-velocity desert microbursts, and intense flash monsoon downpours**. In Henderson, the primary roofing threat is not the visible exterior tiles, but the **silent, catastrophic degradation of the waterproofing underlayment concealed beneath them**.

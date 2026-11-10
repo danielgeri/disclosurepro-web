@@ -5,8 +5,6 @@ pubDate: "Oct 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Sunnyvale Real Estate Disclosures
-
 Located at the very center of Silicon Valley in Santa Clara County, Sunnyvale stands as an economic powerhouse and one of the Bay Area’s most sought-after residential enclaves. From the charming bungalows of the Heritage District and classic mid-century ranches of Cherry Chase, Ortega, and Serra to modern developments in Lakewood Village and the iconic post-war mid-century modern tract homes designed by Joseph Eichler in Fairbrae and Gavello Glen, Sunnyvale represents prime Northern California real estate.
 
 However, behind Sunnyvale’s mild Mediterranean climate and quiet suburban cul-de-sacs lies a distinct set of physical challenges for residential roofing systems: **the specialized vulnerabilities of low-slope Eichler flat roofs with exposed wooden ceilings, relentless solar thermal expansion, subtle seismic micro-movements along nearby active fault lines, and strict California Title 24 energy mandates**.

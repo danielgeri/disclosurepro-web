@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Topeka Real Estate Disclosures
-
 Perched along the banks of the Kansas River in Shawnee County, Topeka is the historic capital of the Sunflower State. Combining a deep political heritage with vibrant cultural arts and affordable Midwestern living, Topeka features a diverse and captivating residential tapestry. From the grand Victorian manors and brick-paved streets of Potwin Place and the stately 1920s Tudor and Craftsman residences of College Hill and Westboro to the mid-century ranches of Kenwood and the sprawling executive lakeside homes of Sherwood Lake, Topeka offers distinctive architectural variety.
 
 However, behind Topeka’s charming tree-lined neighborhoods and rolling prairie landscape lies one of the most punishing atmospheric environments in the United States: **fierce Tornado Alley convective thunderstorms generating golf ball to tennis ball-sized hail, violent 70+ mph straight-line microburst winds, brutal sub-zero winter polar plunges that trigger destructive ice damming, and severe seasonal freeze-thaw cycles that tear apart roof assemblies**.

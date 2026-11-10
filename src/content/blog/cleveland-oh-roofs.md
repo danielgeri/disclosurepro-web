@@ -5,8 +5,6 @@ pubDate: "Oct 12 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Cleveland Real Estate Disclosures
-
 Cleveland boasts one of the finest collections of late 19th- and early 20th-century residential architecture in the Midwest. From the magnificent French Normandy and Tudor Revival estates of Shaker Heights and Cleveland Heights to the stately Queen Anne Victorians and brick rowhomes of Ohio City and Tremont, and the timeless craftsman doubles of Lakewood and Detroit-Shoreway, Cuyahoga County's historic housing stock possesses enduring charm.
 
 However, behind the brick facades and leaded glass windows lies an unforgiving structural adversary: **the brutal maritime winter climate of Lake Erie subjects residential roofs to severe lake-effect snow loads, relentless freeze-thaw cycles, and destructive ice dams**.

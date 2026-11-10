@@ -5,8 +5,6 @@ pubDate: "Oct 24 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Salem Real Estate Disclosures
-
 Nestled between the rolling contours of the Cascade Range foothills and the fertile floor of the Willamette Valley, Salem, Oregon, blends historic charm with expanding modern suburban neighborhoods. From the stately historic estates and Craftsman bungalows in Bush's Pasture Park, Fairmont, and Highland to the mid-century daylight ranches and contemporary subdivisions across South Salem, Candalaria, Sunnyslope, and the hillside properties of West Salem, the city offers some of the Pacific Northwest's most appealing housing stock.
 
 However, beneath Salem's picturesque green canopy and tranquil neighborhoods lies one of the most punishing environments in the country for residential roofing systems: **the relentless, moisture-saturated climate of the Willamette Valley**. 

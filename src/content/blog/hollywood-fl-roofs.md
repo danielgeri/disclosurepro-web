@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Hollywood Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Hollywood, FL Real Estate Disclosures"
 description: "Buying a home in Hollywood, Florida? Learn how hurricane wind uplift, salt air corrosion, tile underlayment failure, and Florida disclosure laws impact your roof."
 pubDate: "Oct 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Hollywood Real Estate Disclosures
 
 Nestled between Fort Lauderdale and Miami along the Atlantic coast in Broward County, Hollywood, Florida offers quintessential South Florida living. From the grand 1920s Mediterranean Revival estates flanking the man-made waterways of Hollywood Lakes and the mid-century CBS (concrete block) ranches of Hollywood Hills and Boulevard Heights to luxury golf-course properties in Emerald Hills and beachfront residences, Hollywood represents desirable subtropical real estate.
 

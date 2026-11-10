@@ -5,8 +5,6 @@ pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Lansing Real Estate Disclosures
-
 Situated along the winding curves of the Grand and Red Cedar Rivers in Ingham and Eaton Counties, Lansing is Michigan’s proud state capital and a vibrant center of government, education, and manufacturing. Anchored by the state capitol complex, major healthcare systems, and nearby Michigan State University (MSU) in neighboring East Lansing, Lansing attracts prospective homebuyers seeking affordable Great Lakes living, historic architecture, and stable communities. Buyers flock to Lansing’s diverse neighborhoods: from the stately early-20th-century Craftsman, Dutch Colonial, and Tudor Revival residences of the Westside Historic District and Moores Park to the charming brick cottages of Colonial Village, the tree-lined streets of Groesbeck, and the energetic urban enclaves of the Eastside and Sycamore Park.
 
 Yet behind Lansing’s lush urban canopy, riverfront parks, and historic brick-paved streets lies an unforgiving Great Lakes climate that subjects residential roofs to severe physical strain: **prolonged sub-freezing temperatures, heavy lake-enhanced winter snowfalls punctuated by rapid freeze-thaw cycles that cultivate destructive ice dams along eaves, dense hardwood canopies that foster aggressive moss and lichen colonies, and heavy winter dead loads that cause aging roof rafters to sag**.

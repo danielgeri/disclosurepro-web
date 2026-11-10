@@ -5,8 +5,6 @@ pubDate: "Oct 21 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Overland Park Real Estate Disclosures
-
 Located in the affluent heart of Johnson County, Overland Park consistently ranks among the most desirable suburban communities in the United States. Renowned for its top-tier Blue Valley and Shawnee Mission school districts, verdant master-planned subdivisions, and premier lifestyle amenities, Overland Park offers an exceptional quality of life. From established luxury enclaves like Deer Creek, Nottingham Forest, and LionsGate to charming mid-century neighborhoods in northern Overland Park, the local housing market remains fiercely competitive.
 
 Yet, behind the picturesque brick-and-stone facades and manicured lawns lies an expensive vulnerability that catches many prospective homebuyers off guard: **the structural and mechanical condition of the roof**. 

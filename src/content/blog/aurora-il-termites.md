@@ -1,11 +1,11 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Aurora Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Aurora, IL Real Estate Disclosures"
 description: "Buying a home in Aurora, IL? Discover how to find hidden subterranean termite damage in Illinois real estate disclosures, understand 765 ILCS 77 mandates, and avoid costly structural repairs."
 pubDate: "Aug 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active managing broker serving Kane and DuPage Counties and the greater Fox River Valley, I have represented hundreds of homebuyers purchasing properties in Aurora. Known as the "City of Lights," Aurora offers a vibrant blend of historic Victorian architecture, established mid-century neighborhoods, and modern suburban communities. However, the city’s location along the Fox River and its historic wooden housing stock make it a prime target for wood-destroying organisms.
+Experienced real estate attorneys and local brokers regularly counsel hundreds of homebuyers purchasing properties in Aurora. Known as the "City of Lights," Aurora offers a vibrant blend of historic Victorian architecture, established mid-century neighborhoods, and modern suburban communities. However, the city’s location along the Fox River and its historic wooden housing stock make it a prime target for wood-destroying organisms.
 
 Failing to carefully examine Illinois real estate disclosure documents and pest inspection reports for termite activity can lead to tens of thousands of dollars in unexpected structural repairs. In this comprehensive guide, we will analyze Aurora's specific termite risks, break down Illinois disclosure statutes, highlight misleading seller phrasing, and review a detailed neighborhood case study to protect your investment.
 

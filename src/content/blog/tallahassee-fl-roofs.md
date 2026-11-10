@@ -5,8 +5,6 @@ pubDate: "Oct 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Tallahassee Real Estate Disclosures
-
 Perched among rolling red clay hills draped in ancient live oaks and Spanish moss, Tallahassee is Florida’s capital city, combining deep Southern charm with the dynamic energy of state government and top-tier research universities. Homebuyers are attracted to Tallahassee for its lush natural landscape, canopy roads, and rich residential architectural heritage. The city’s neighborhoods offer a distinctive blend of styles—from the historic 1920s Mediterranean Revival and Spanish Mission homes of Los Robles to the beloved mid-century brick ranches nestled beneath dense tree canopies in Betton Hills and Waverly Hills, established suburban communities in Killearn Estates and Killearn Lakes, and modern New Urbanist master-planned developments in SouthWood.
 
 However, Tallahassee’s humid subtropical climate and unique geographic location in Florida’s Big Bend region subject residential roofs to relentless physical stress. Averaging over **60 inches of rainfall per year, roofs across Leon County must withstand intense subtropical heat and humidity, violent severe thunderstorms, destructive straight-line winds, and catastrophic tropical cyclones and hurricanes surging out of the Gulf of Mexico**. Compounding these storm threats is Tallahassee's dense urban forest of massive southern live oaks, loblolly pines, and sweetgums, which shed acidic leaves, drop heavy branches, and foster rapid fungal and algae growth on roof planes.

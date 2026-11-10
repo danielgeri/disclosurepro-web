@@ -6,10 +6,17 @@ const today = new Date();
 	<div class="container footer-grid">
 		<div class="footer-brand">
 			<div class="brand-logo">
-				<img src="/logo.jpeg" alt="DP AI Logo" class="logo-icon-svg" />
+				<img
+					src="/logo.webp"
+					alt="DisclosurePro AI logo"
+					width="32"
+					height="32"
+					loading="lazy"
+					class="logo-icon-svg"
+				/>
 				<span class="brand-name">DisclosurePro</span>
 			</div>
-			<p class="tagline">AI-powered property disclosure analysis, risk scoring, repair credit estimation, and automated addendums in seconds.</p>
+			<p class="tagline">AI-powered property disclosure analysis, home inspection review, risk scoring, repair credit estimation, and automated addendums in seconds.</p>
 		</div>
 
 		<div class="footer-links-col">
@@ -17,14 +24,25 @@ const today = new Date();
 			<a href="/#features">Features</a>
 			<a href="/#pricing">Pricing Tiers</a>
 			<a href="/#demo">Live Demo</a>
+			<a href="/download">Download App</a>
+			<a href="/about">About DisclosurePro</a>
 		</div>
 
 		<div class="footer-links-col">
-			<h4>Resources</h4>
-			<a href="/blog">Real Estate Blog</a>
+			<h4>Popular Guides</h4>
+			<a href="/blog/california-tds-spq-disclosure-guide/">California TDS &amp; SPQ Guide</a>
+			<a href="/blog/texas-trec-sellers-disclosure-guide/">Texas Seller's Disclosure (OP-H)</a>
+			<a href="/blog/hoa-reserve-study-special-assessment-red-flags/">HOA Reserve Study Red Flags</a>
+			<a href="/blog/5-disclosure-red-flags/">Top 5 Disclosure Red Flags</a>
+			<a href="/blog">All Buyer Guides &rarr;</a>
+		</div>
+
+		<div class="footer-links-col">
+			<h4>Legal &amp; Support</h4>
 			<a href="/terms">Terms of Service</a>
 			<a href="/privacy">Privacy Policy</a>
-			<a href="mailto:contact@disclosurepro.ai">Support & Feedback</a>
+			<a href="/delete">Data Deletion</a>
+			<a href="mailto:contact@disclosurepro.ai">Support &amp; Feedback</a>
 		</div>
 	</div>
 
@@ -43,8 +61,8 @@ const today = new Date();
 	}
 	.footer-grid {
 		display: grid;
-		grid-template-columns: 2fr 1fr 1fr;
-		gap: 40px;
+		grid-template-columns: 1.8fr 1fr 1.3fr 1fr;
+		gap: 36px;
 		margin-bottom: 40px;
 	}
 	.brand-logo {
@@ -55,7 +73,9 @@ const today = new Date();
 	}
 	.logo-icon-svg {
 		height: 32px;
-		width: auto;
+		width: 32px;
+		border-radius: 7px;
+		object-fit: cover;
 	}
 	.brand-name {
 		color: var(--text-primary);
@@ -65,8 +85,8 @@ const today = new Date();
 	.tagline {
 		color: var(--text-secondary);
 		font-size: 13px;
-		max-width: 380px;
-		line-height: 1.5;
+		max-width: 340px;
+		line-height: 1.55;
 	}
 	.footer-links-col h4 {
 		color: var(--text-primary);
@@ -92,7 +112,12 @@ const today = new Date();
 		color: var(--text-secondary);
 		font-size: 12px;
 	}
-	@media (max-width: 768px) {
+	@media (max-width: 900px) {
+		.footer-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	@media (max-width: 600px) {
 		.footer-grid {
 			grid-template-columns: 1fr;
 		}

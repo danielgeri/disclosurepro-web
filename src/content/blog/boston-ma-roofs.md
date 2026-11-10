@@ -5,8 +5,6 @@ pubDate: "Oct 09 2026"
 heroImage: "../../assets/boston_hero_1785905856019.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Boston Real Estate Disclosures
-
 Boston stands as one of the most historically significant, intellectually prestigious, and fiercely competitive real estate markets in the United States. From the iconic Victorian brownstones and gas-lit brick sidewalks of Beacon Hill and Back Bay to the vibrant three-deckers of Dorchester, South Boston, and Jamaica Plain, the stately single-family Colonials of West Roxbury, and the maritime charm of Charlestown, Boston’s residential architecture represents centuries of American craftsmanship.
 
 However, behind decorative wrought-iron railings, bowfront brick facades, and historic copper oriel windows lies a structural element exposed to one of the most punishing marine environments on the East Coast: **the residential roof**.

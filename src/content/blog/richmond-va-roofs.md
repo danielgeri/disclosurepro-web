@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Richmond Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Richmond, VA Real Estate Disclosures"
 description: "Buying a home in Richmond, VA? Learn how historic Fan District tin roofs, Buckingham slate decay, Virginia caveat emptor disclosure laws, and Commission of Architectural Review rules impact buyers."
 pubDate: "Oct 17 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Richmond Real Estate Disclosures
 
 Perched above the falls of the scenic James River, Richmond represents one of the most historically significant, culturally vibrant, and architecturally captivating cities in the United States. Serving as Virginia’s historic capital, the city seamlessly weaves three centuries of American architectural history with a booming culinary scene, prestigious universities, and a flourishing biotechnology and finance corridor. From the iconic Victorian and Edwardian brick rowhouses of The Fan District and the Museum District to the antebellum and Federal mansions of Church Hill, the grand revivalist estates of Windsor Farms and Ginter Park, and the riverside charm of Woodland Heights, Richmond’s residential housing stock is a treasure trove of historical craftsmanship.
 

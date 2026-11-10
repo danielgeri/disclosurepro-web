@@ -5,8 +5,6 @@ pubDate: "Oct 21 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in East Flatbush Real Estate Disclosures
-
 Situated in the geographical heart of Central Brooklyn, East Flatbush is a culturally rich, dynamic residential neighborhood renowned for its vibrant community spirit, tree-lined residential blocks, and classic Brooklyn architecture. Stretching from the historic corridors of Church Avenue and Linden Boulevard down to Kings Highway, East Flatbush encompasses distinctive micro-neighborhoods such as Farragut, Holy Cross, and Remsen Village. The area is celebrated for its solid, handsome housing stock—principally 1920s to 1950s detached, semi-detached, and attached brick single-family and two-family homes, many featuring private driveways, integrated garages, and classic masonry facades.
 
 However, purchasing a residential property in East Flatbush comes with a critical structural consideration that every prospective buyer must understand: **the unique vulnerability of urban flat roofing systems**.

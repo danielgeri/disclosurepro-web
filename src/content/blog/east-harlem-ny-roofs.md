@@ -5,8 +5,6 @@ pubDate: "Nov 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in East Harlem Real Estate Disclosures
-
 Steeped in rich cultural history and vibrant neighborhood identity, East Harlem—affectionately known as El Barrio and Spanish Harlem—occupies a dynamic corner of Upper Manhattan. Bordered by the East River to the east, Central Park to the southwest, and 96th Street to the south, East Harlem is celebrated for its extraordinary murals, world-class culinary destinations, community gardens, and proximity to Museum Mile. Prospective homebuyers and real estate investors flock to East Harlem’s varied architectural landscape: from the stately late-19th-century Italianate, Neo-Grec, and Romanesque Revival brownstones along Pleasant Avenue and the historic East 116th Street corridor to handsome multi-family pre-war walk-ups near Thomas Jefferson Park and contemporary boutique condominium conversions.
 
 Yet behind East Harlem’s historic masonry facades, ornate cast-iron railings, and vibrant urban streetscapes lies an unforgiving environment that relentlessly degrades urban flat roofing systems: **harsh Manhattan winter freeze-thaw cycles that crack masonry parapets and terra cotta coping stones, chronic drainage ponding on century-old low-slope roofs, extreme urban heat island temperatures baking modified bitumen and EPDM membranes above 175°F, and aging timber joists deflecting under decades of multiple unpermitted reroofing layers**.

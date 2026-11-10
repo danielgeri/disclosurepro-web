@@ -5,7 +5,7 @@ pubDate: "Aug 21 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active broker serving homebuyers across the City of St. Louis and St. Louis County, I regularly guide clients through one of the nation's most architecturally rich historic housing markets. From the classic red-brick rowhomes of Soulard and Lafayette Square to the brick bungalows of Tower Grove South, St. Louis homes possess incredible character. However, St. Louis's riverfront geography, high humidity, and century-old timber framing also make it an active hotspot for wood-destroying organisms.
+Experienced real estate attorneys and local brokers regularly counsel clients through one of the nation's most architecturally rich historic housing markets. From the classic red-brick rowhomes of Soulard and Lafayette Square to the brick bungalows of Tower Grove South, St. Louis homes possess incredible character. However, St. Louis's riverfront geography, high humidity, and century-old timber framing also make it an active hotspot for wood-destroying organisms.
 
 In the Gateway City, termite damage is not confined to new suburban builds; it represents a primary structural hazard for historic masonry homes where wooden carrying beams rest directly on damp limestone foundations. Understanding Missouri's seller disclosure obligations, knowing how to interpret pest inspection reports, and identifying deceptive seller phrasing are essential due diligence steps for every St. Louis homebuyer.
 

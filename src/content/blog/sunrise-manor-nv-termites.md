@@ -5,7 +5,7 @@ pubDate: "Aug 28 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and top-producing managing broker representing homebuyers across Clark County and the eastern Las Vegas Valley, I have guided clients through hundreds of residential purchases in Sunrise Manor. Located along the base of Frenchman Mountain, Sunrise Manor offers stunning mountain vistas, spacious single-family lots, and established neighborhoods like Winterwood and Hollywood/Vegas Valley. However, beneath our arid Mojave Desert landscape and sunny climate lies a persistent structural threat: subterranean termites.
+Experienced real estate attorneys and local brokers regularly counsel clients through hundreds of residential purchases in Sunrise Manor. Located along the base of Frenchman Mountain, Sunrise Manor offers stunning mountain vistas, spacious single-family lots, and established neighborhoods like Winterwood and Hollywood/Vegas Valley. However, beneath our arid Mojave Desert landscape and sunny climate lies a persistent structural threat: subterranean termites.
 
 Because Nevada real estate transactions are governed by the strict statutory disclosure requirements of Nevada Revised Statutes (NRS) Chapter 113, buyers must carefully review the Nevada Real Property Disclosure Form and professional pest inspection reports. Overlooking subtle signs of wood-destroying insect damage can lead to tens of thousands of dollars in unexpected structural repairs. In this comprehensive guide, we examine Sunrise Manor’s unique desert termite environment, break down Nevada disclosure statutes, highlight deceptive seller phrasing, and provide a detailed neighborhood case study to protect your investment.
 

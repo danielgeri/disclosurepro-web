@@ -5,8 +5,6 @@ pubDate: "Nov 03 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Evansville Real Estate Disclosures
-
 Situated on a sweeping horseshoe bend of the Ohio River in Southwestern Indiana, Evansville serves as the vibrant commercial, cultural, and healthcare hub of the tri-state area. Known affectionately as the "River City," Evansville boasts a proud architectural heritage and a diverse array of appealing residential neighborhoods. Prospective homebuyers are drawn to the grand Italianate, Queen Anne, and French Renaissance mansions of the Riverside Historic District, the handsome Tudor Revivals and English cottages of historic Lincolnshire, the tree-lined mid-century ranches of the East Side near the University of Evansville, and the expansive custom suburban properties across McCutchanville and North Park.
 
 Yet behind Evansville’s peaceful neighborhood canopies and riverfront vistas lies a challenging Ohio River Valley climate that subjects residential roofs to severe atmospheric wear: **destructive spring thunderstorm squall lines producing 70-to-80 mph straight-line winds, recurring Ohio Valley hail swarms, heavy riverfront humidity cultivating aggressive *Gloeocapsa magma* algae and moss infestations, rapid winter freeze-thaw transitions, and underlying micro-seismic vibrations from the nearby Wabash Valley Seismic Zone that strain roof framing and flashing connections**.

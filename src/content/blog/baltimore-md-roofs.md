@@ -5,8 +5,6 @@ pubDate: "Oct 10 2026"
 heroImage: "../../assets/baltimore_hero_1785906165688.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Baltimore Real Estate Disclosures
-
 Charm City’s real estate landscape offers some of the most distinctive residential architecture on the East Coast. From iconic 19th-century flat-roof brick rowhomes with marble steps in Canton, Federal Hill, and Fells Point, to grand Victorian and Queen Anne properties in Charles Village, and historic slate-roofed estates in Roland Park and Guilford, purchasing real estate in Baltimore represents a deep connection to historic living.
 
 However, behind the classic red brick facades and charming rooftop decks lies a frequent and expensive pitfall: **historic Baltimore roofing assemblies are uniquely vulnerable to hidden, structural water damage**.

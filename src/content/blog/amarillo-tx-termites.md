@@ -5,7 +5,7 @@ pubDate: "Aug 28 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and top-producing broker in Amarillo and the Texas Panhandle, I have guided hundreds of buyers through the complexities of purchasing residential property in Potter and Randall Counties. From the historic brick estates of Wolflin and Oliver Eakle to the mid-century ranch homes of Puckett and modern master-planned communities in The Colonies, Amarillo offers diverse architectural charm. However, beneath the windswept plains and expansive skies lies a persistent structural threat: subterranean termites.
+Experienced real estate attorneys and local brokers regularly counsel hundreds of buyers through the complexities of purchasing residential property in Potter and Randall Counties. From the historic brick estates of Wolflin and Oliver Eakle to the mid-century ranch homes of Puckett and modern master-planned communities in The Colonies, Amarillo offers diverse architectural charm. However, beneath the windswept plains and expansive skies lies a persistent structural threat: subterranean termites.
 
 Because real estate transactions in Texas move rapidly under Texas Real Estate Commission (TREC) promulgated contracts, buyers often overlook critical red flags buried deep within seller disclosures and inspection addenda. Missing subtle signs of wood-destroying insect damage can lead to tens of thousands of dollars in structural repairs. This comprehensive guide examines Amarillo's unique termite environment, explains Texas statutory disclosure mandates, exposes deceptive seller phrasing, and provides a real-world neighborhood case study to safeguard your investment.
 

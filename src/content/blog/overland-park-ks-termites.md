@@ -5,7 +5,7 @@ pubDate: "Aug 29 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and managing broker representing homebuyers throughout Johnson County and the greater Kansas City metropolitan area, I have guided clients through hundreds of transactions in Overland Park. From the classic split-levels and ranches in Oak Park and Southridge to the expansive executive homes of Nottingham Forest, Deer Creek, and Lionsgate, Overland Park offers some of the most sought-after housing in the Midwest. However, beneath our manicured lawns and rolling suburban terrain lies a persistent and expensive structural threat: Eastern Subterranean Termites.
+Experienced real estate attorneys and local brokers regularly counsel clients through hundreds of transactions in Overland Park. From the classic split-levels and ranches in Oak Park and Southridge to the expansive executive homes of Nottingham Forest, Deer Creek, and Lionsgate, Overland Park offers some of the most sought-after housing in the Midwest. However, beneath our manicured lawns and rolling suburban terrain lies a persistent and expensive structural threat: Eastern Subterranean Termites.
 
 Because Kansas real estate transactions move quickly during competitive spring and summer buying seasons, prospective buyers often rush through complex property disclosure packages. Overlooking subtle, ambiguous notations on seller disclosure statements and pest inspection addenda can leave a buyer facing tens of thousands of dollars in structural timber repairs. This comprehensive guide breaks down Overland Park’s specific pest biology, Kansas statutory and common law disclosure mandates, evasive seller phrasing, and a realistic neighborhood case study to protect your financial future.
 

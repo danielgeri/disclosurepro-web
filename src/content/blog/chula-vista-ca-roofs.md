@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Chula Vista Real Estate Disclosures
-
 Positioned between the sparkling waters of San Diego Bay and the rugged foothills of Otay Mountain, Chula Vista—Spanish for "beautiful view"—is the second-largest city in San Diego County and one of the most dynamic real estate markets in Southern California. From the classic mid-century ranches and post-war bungalows of Castle Park and Hilltop to the expansive, master-planned villages of Eastlake, Otay Ranch, Rancho del Rey, and Terra Nova, Chula Vista provides diverse housing stock that caters to both growing families and seasoned investors.
 
 Yet behind Chula Vista’s idyllic South Bay climate lies a unique set of environmental hazards that steadily degrade residential roofing systems: **fierce Santa Ana windstorms blowing through the Otay Valley, relentless Mediterranean solar radiation, coastal marine layer condensation, and premature underlayment calcification beneath Spanish concrete tiles**. In South Bay real estate, a roof that appears structurally sound from the curb may harbor tens of thousands of dollars in hidden dry rot and membrane degradation.

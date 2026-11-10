@@ -5,8 +5,6 @@ pubDate: "Oct 09 2026"
 heroImage: "../../assets/new_south_memphis_hero_1785906068204.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in New South Memphis Real Estate Disclosures
-
 New South Memphis represents an established, evolving corridor of Memphis’s historic residential and investment landscape. Stretching southward from the historic bluffs and Downtown core, New South Memphis features a rich tapestry of post-war brick cottages, Craftsman-style bungalows, mid-century ranches, and traditional multi-family duplexes. For first-time homebuyers seeking affordability, local owner-occupants, and real estate investors capitalizing on Memphis’s strong rental yields, New South Memphis offers compelling property values and long-term potential.
 
 However, behind picturesque porches and mature shade trees lies an architectural vulnerability that routinely catches buyers unprepared: **severe, deferred roof degradation**.

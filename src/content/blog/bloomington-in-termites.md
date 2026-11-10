@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Bloomington Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Bloomington, IN Real Estate Disclosures"
 description: "Buying real estate in Bloomington, Indiana? Learn how Monroe County karst geology, crawl spaces, and historic framing harbor termites, decode Indiana disclosure laws, and protect your home."
 pubDate: "Oct 03 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

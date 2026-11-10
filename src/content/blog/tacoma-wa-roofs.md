@@ -5,8 +5,6 @@ pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Tacoma Real Estate Disclosures
-
 Perched on the dramatic saltwater bluffs of Commencement Bay and framed by the breathtaking silhouette of Mount Rainier, Tacoma is a dynamic Pacific Northwest port city celebrated for its maritime heritage, world-class museum district, and remarkable architectural character. From the stately Victorian and Queen Anne mansions overlooking the bay in the historic Stadium District and Old Town to the charming, tree-canopied Craftsman avenues of the North End and Proctor District, the historic cottages of the Lincoln District, and the waterfront enclaves of Ruston, Tacoma offers a rich diversity of residential real estate.
 
 However, Tacoma’s Puget Sound marine environment creates one of the most demanding roofing climates in the United States: **over 150 days of measurable rainfall annually, persistent ocean mist and damp marine layer fog, dense native evergreen canopies that drop acidic needles, and aggressive moss and lichen colonies that thrive in constant moisture**. In Tacoma, an architectural composite or historic cedar shake roof can look rustic and charming from the street while concealing completely delaminated shingle tabs, decayed skip sheathing, rotted rafter tails, and hidden attic fungal rot.

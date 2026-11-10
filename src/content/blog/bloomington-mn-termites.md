@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Bloomington Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Bloomington, MN Real Estate Disclosures"
 description: "Buying a home in Bloomington, Minnesota? Discover how Hennepin County river valley soils, mid-century rambler foundations, and heated basement slabs harbor subterranean termites, navigate Minnesota Statutes § 513 disclosure laws, and protect your investment."
 pubDate: "Sep 29 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

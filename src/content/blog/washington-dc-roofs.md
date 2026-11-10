@@ -5,8 +5,6 @@ pubDate: "Oct 10 2026"
 heroImage: "../../assets/washington_dc_hero_1785905916595.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Washington D.C. Real Estate Disclosures
-
 The real estate market in the nation’s capital is among the most competitive and architecturally storied in the United States. From iconic Federal and Victorian brick rowhouses in Capitol Hill and Georgetown to grand Queen Anne Mansard-roof residences in Dupont Circle and iconic 1920s Harry Wardman "porch-front" rowhomes in Petworth and Columbia Heights, purchasing property in Washington D.C. is both a prestigious lifestyle choice and a significant financial milestone.
 
 However, behind historic façades, intricate brick corbels, and ornate cornices lies an insidious risk: **Washington D.C. rowhouse roofing systems are among the most complex, expensive, and easily obscured structural components in residential real estate**.

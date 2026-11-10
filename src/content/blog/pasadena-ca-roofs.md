@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Pasadena Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Pasadena, CA Real Estate Disclosures"
 description: "Buying a historic or luxury home in Pasadena, California? Learn how San Gabriel Valley Santa Ana winds, intense UV, seismic flexing, and California TDS disclosure laws impact your roof."
 pubDate: "Oct 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Pasadena Real Estate Disclosures
 
 Nestled at the base of the majestic San Gabriel Mountains in Los Angeles County, Pasadena is renowned worldwide for its Tournament of Roses, world-class cultural institutions like the Norton Simon Museum and Caltech, and unparalleled architectural heritage. From the world-famous Craftsman bungalows in the Bungalow Heaven Landmark District and grand estates of the Greene & Greene era in Prospect Park and Linda Vista, to Spanish Colonial Revival mansions in Oak Knoll and Madison Heights, Pasadena represents one of California’s most architecturally distinguished real estate markets.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Concord Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Concord, CA Real Estate Disclosures"
 description: "Buying a home in Concord, CA? Learn how to detect subterranean and drywood termite damage in Contra Costa County disclosures, navigate the California TDS and SPCB reports, and protect your investment."
 pubDate: "Sep 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

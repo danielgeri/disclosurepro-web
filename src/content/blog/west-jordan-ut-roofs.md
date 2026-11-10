@@ -5,8 +5,6 @@ pubDate: "Nov 06 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in West Jordan Real Estate Disclosures
-
 Nestled in the southwest quadrant of the Salt Lake Valley between the banks of the Jordan River and the dramatic foothills of the Oquirrh Mountains, West Jordan is one of Utah’s most dynamic, rapidly growing, and family-friendly suburban cities. Boasting panoramic views of both the Wasatch and Oquirrh mountain ranges, expansive master-planned developments, vibrant retail hubs like Jordan Landing, and highly regarded schools within the Jordan School District, West Jordan attracts a broad spectrum of homebuyers. The city features a rich variety of residential architecture: from classic 1970s and 1980s brick ramblers and split-entry homes in central West Jordan and Bingham Creek, to upscale custom two-story residences and golf-course properties in Copper Hills, Jordan Hills, and the Oquirrh Highlands.
 
 Yet behind West Jordan’s scenic mountain backdrops, wide suburban parkways, and booming residential neighborhoods lies a severe high-desert and mountain-basin roofing climate: **intense high-altitude ultraviolet radiation at an elevation exceeding 4,370 feet, violent downslope canyon windstorms gusting over 65 mph off the Oquirrh peaks, heavy winter lake-effect snow loads creating destructive ice dams, and highly expansive Salt Lake Valley clay soils that shift foundations and shear chimney flashings apart**.

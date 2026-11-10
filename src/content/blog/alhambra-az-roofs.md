@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Alhambra Real Estate Disclosures
-
 Situated in the historic core of central-west Phoenix, the urban village of Alhambra is one of the Valley of the Sun's most historically rich and conveniently located residential communities. Characterized by wide streets, towering mature palms, and iconic mid-century architecture, Alhambra encompasses established neighborhoods like Westwood, West Plaza, Medlock Place borders, and the vintage subdivisions along the Grand Canal. From 1950s sand-rubbed concrete slump block ranch homes and mid-century modern residences to classic red-brick post-war cottages, Alhambra offers authentic character just minutes from Midtown and Downtown Phoenix.
 
 Yet beneath Alhambra’s nostalgic post-war charm lies an unforgiving physical climate that severely tests residential roofing assemblies: **the intense Phoenix "Urban Heat Island" effect driving asphalt and flat roof surface temperatures past 185°F, rapid UV breakdown of aging spray polyurethane foam (SPF) and built-up roofs on flat-topped additions, violent summer North American Monsoon downpours that overwhelm vintage parapet scuppers, and hidden dry rot in exposed eave fascia boards and rafter tails**.

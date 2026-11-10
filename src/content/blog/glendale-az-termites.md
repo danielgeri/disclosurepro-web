@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Glendale Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Glendale, AZ Real Estate Disclosures"
 description: "Uncover hidden termite risks in Glendale real estate disclosures. Learn Arizona SPDS rules, Hill v. Jones disclosure duties, and protect your West Valley home purchase."
 pubDate: "Aug 24 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

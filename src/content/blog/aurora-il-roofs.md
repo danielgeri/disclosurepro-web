@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Aurora Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Aurora, IL Real Estate Disclosures"
 description: "Buying a home in Aurora, IL? Discover how Fox Valley ice damming, Midwestern hail storms, and Illinois 765 ILCS 77 disclosure laws impact homebuyers."
 pubDate: "Oct 19 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Aurora Real Estate Disclosures
 
 Known historically as the "City of Lights," Aurora is Illinois’ second most populous city, sprawling across Kane, DuPage, Kendall, and Will counties along the scenic Fox River. Homebuyers are attracted to Aurora’s rich architectural heritage and varied neighborhoods—from the stately Victorian, Queen Anne, and Craftsman homes of the Near Eastside and Westside to the premier golf-course estates of Stonebridge, the tranquil mid-century enclaves of Pigeon Hill, and modern master-planned communities across Fox Valley and Oakhurst.
 

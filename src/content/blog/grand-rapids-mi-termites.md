@@ -5,7 +5,7 @@ pubDate: "Aug 28 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and managing broker representing homebuyers across Kent County and West Michigan, I have guided clients through hundreds of residential purchases in Grand Rapids. From the grand Victorian and Queen Anne residences of Heritage Hill to the vibrant Craftsman bungalows of Eastown and established mid-century homes in Alger Heights, Grand Rapids offers diverse and historically rich neighborhoods. However, beneath our scenic tree-lined avenues and brick-paved streets lies a persistent structural threat: Eastern Subterranean Termites.
+Experienced real estate attorneys and local brokers regularly counsel clients through hundreds of residential purchases in Grand Rapids. From the grand Victorian and Queen Anne residences of Heritage Hill to the vibrant Craftsman bungalows of Eastown and established mid-century homes in Alger Heights, Grand Rapids offers diverse and historically rich neighborhoods. However, beneath our scenic tree-lined avenues and brick-paved streets lies a persistent structural threat: Eastern Subterranean Termites.
 
 Because Michigan real estate transactions are governed by the Michigan Seller Disclosure Act (MCL 565.951 et seq.), buyers must carefully examine statutory seller disclosure statements and professional inspection reports. Overlooking vague termite notations can lead to tens of thousands of dollars in unexpected structural repairs. In this comprehensive guide, we examine Grand Rapids’ unique termite environment, break down Michigan disclosure statutes, highlight deceptive seller phrasing, and provide a detailed neighborhood case study to protect your investment.
 

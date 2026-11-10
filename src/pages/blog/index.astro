@@ -5,88 +5,198 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
-const posts = (await getCollection('blog')).sort(
+const blogTitle = 'Real Estate Disclosure, Inspection & HOA Buyer Guides — DisclosurePro AI';
+const blogDescription =
+	'State-by-state homebuyer guides on reading Seller Disclosure Statements (TDS, SPQ, TREC OP-H), Home Inspection Reports, Roof & Termite WDO clearances, and HOA Reserve Studies.';
+
+const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const cornerstoneIds = new Set([
+	'california-tds-spq-disclosure-guide',
+	'texas-trec-sellers-disclosure-guide',
+	'hoa-reserve-study-special-assessment-red-flags',
+	'5-disclosure-red-flags',
+]);
+
+const featuredPosts = [
+	...allPosts.filter((p) => cornerstoneIds.has(p.id)),
+	...allPosts.filter((p) => !cornerstoneIds.has(p.id)).slice(0, 8),
+];
+
+const featuredIdSet = new Set(featuredPosts.map((p) => p.id));
+const directoryPosts = allPosts.filter((p) => !featuredIdSet.has(p.id));
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={blogTitle} description={blogDescription} />
 		<style>
 			main {
-				max-width: 960px;
+				max-width: 1040px;
 				margin: 0 auto;
-				padding: 2rem 1rem;
+				padding: 2.5rem 1.25rem;
 			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
+			.blog-header {
+				text-align: center;
+				max-width: 740px;
+				margin: 0 auto 2.5rem auto;
+			}
+			.blog-header h1 {
+				font-size: 38px;
+				font-weight: 900;
+				line-height: 1.15;
+				color: var(--text-primary);
+				margin-bottom: 0.65rem;
+				letter-spacing: -0.02em;
+				text-wrap: balance;
+			}
+			.blog-header p {
+				font-size: 17px;
+				color: var(--text-secondary);
+				line-height: 1.55;
+				text-wrap: pretty;
+			}
+			.section-heading {
+				font-size: 24px;
+				font-weight: 800;
+				color: var(--text-primary);
+				margin: 0 0 1.25rem 0;
+			}
+			.featured-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.75rem;
 				list-style-type: none;
-				margin: 0;
+				margin: 0 0 3.5rem 0;
 				padding: 0;
 			}
-			ul li {
-				width: calc(50% - 1rem);
+			.featured-grid li:first-child {
+				grid-column: 1 / -1;
 			}
-			ul li * {
+			.featured-grid li a {
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+				background: #ffffff;
+				border: 1px solid rgba(0, 0, 0, 0.08);
+				border-radius: 16px;
+				overflow: hidden;
 				text-decoration: none;
-				transition: 0.2s ease;
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
 			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
+			.featured-grid li a:hover {
+				transform: translateY(-3px);
+				box-shadow: 0 12px 28px rgba(13, 56, 112, 0.12);
 			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
-			ul li img {
-				margin-bottom: 1rem;
-				border-radius: 12px;
+			.featured-grid li img {
 				width: 100%;
 				height: auto;
-			}
-			ul li a {
 				display: block;
 			}
+			.card-body {
+				padding: 1.25rem 1.5rem 1.5rem 1.5rem;
+				display: flex;
+				flex-direction: column;
+				flex: 1;
+			}
 			.title {
-				margin: 0.5rem 0;
+				margin: 0.35rem 0 0.5rem 0;
 				color: var(--text-primary);
-				line-height: 1.2;
+				font-size: 1.2rem;
+				font-weight: 800;
+				line-height: 1.3;
 				text-wrap: balance;
+			}
+			.featured-grid li:first-child .title {
+				font-size: 1.8rem;
+			}
+			.excerpt {
+				color: var(--text-secondary);
+				font-size: 0.94rem;
+				line-height: 1.55;
+				margin-bottom: 0.5rem;
+				flex: 1;
 			}
 			.date {
 				margin: 0;
+				font-size: 0.84rem;
+				font-weight: 600;
 				color: var(--text-secondary);
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: var(--accent-cyan);
+			.featured-grid li a:hover .title {
+				color: var(--accent-blue);
 			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
+
+			/* Searchable City & State Directory */
+			.directory-section {
+				border-top: 1px solid var(--border-color);
+				padding-top: 2.5rem;
+			}
+			.directory-top {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				gap: 1rem;
+				flex-wrap: wrap;
+				margin-bottom: 1.5rem;
+			}
+			.directory-top h2 {
+				font-size: 24px;
+				font-weight: 800;
+				color: var(--text-primary);
+				margin: 0;
+			}
+			.guide-search-input {
+				padding: 10px 16px;
+				border-radius: 10px;
+				border: 1px solid rgba(0, 0, 0, 0.18);
+				background: #ffffff;
+				color: #1e293b;
+				font-size: 15px;
+				min-width: 280px;
+			}
+			.directory-list {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+				gap: 10px 20px;
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			.directory-list li a {
+				display: block;
+				padding: 10px 12px;
+				background: #ffffff;
+				border: 1px solid rgba(0, 0, 0, 0.07);
+				border-radius: 10px;
+				color: #1e293b;
+				font-size: 14px;
+				font-weight: 600;
+				line-height: 1.35;
+				text-decoration: none;
+				transition: border-color 0.15s ease, color 0.15s ease;
+			}
+			.directory-list li a:hover {
+				border-color: var(--accent-blue);
+				color: var(--accent-blue);
 			}
 			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
+				.blog-header h1 {
+					font-size: 28px;
 				}
-				ul li {
+				.featured-grid {
+					grid-template-columns: 1fr;
+					gap: 1.25rem;
+				}
+				.featured-grid li:first-child .title {
+					font-size: 1.35rem;
+				}
+				.guide-search-input {
 					width: 100%;
-					text-align: center;
-				}
-				ul li:first-child {
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
 				}
 			}
 		</style>
@@ -94,26 +204,82 @@ const posts = (await getCollection('blog')).sort(
 	<body class="theme-light">
 		<Header />
 		<main>
-			<section>
-				<ul>
+			<header class="blog-header">
+				<h1>Real Estate Due Diligence &amp; Disclosure Guides</h1>
+				<p>
+					State-by-state playbooks for decoding Seller Disclosures, Home Inspection PDFs, Roof &amp; Termite Clearances, and HOA Reserve Studies before closing.
+				</p>
+			</header>
+
+			<section aria-labelledby="featured-guides-heading">
+				<h2 id="featured-guides-heading" class="section-heading">Featured &amp; Latest Guides</h2>
+				<ul class="featured-grid">
 					{
-						posts.map((post) => (
+						featuredPosts.map((post, index) => (
 							<li>
 								<a href={`/blog/${post.id}/`}>
 									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
+										<Image
+											width={index === 0 ? 1000 : 720}
+											height={index === 0 ? 500 : 360}
+											src={post.data.heroImage}
+											alt={post.data.title}
+											fetchpriority={index === 0 ? 'high' : undefined}
+											loading={index === 0 ? 'eager' : 'lazy'}
+										/>
 									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
+									<div class="card-body">
+										<p class="date">
+											<FormattedDate date={post.data.pubDate} />
+										</p>
+										<h3 class="title">{post.data.title}</h3>
+										<p class="excerpt">{post.data.description}</p>
+									</div>
 								</a>
 							</li>
 						))
 					}
 				</ul>
 			</section>
+
+			{directoryPosts.length > 0 && (
+				<section class="directory-section" aria-labelledby="city-directory-heading">
+					<div class="directory-top">
+						<h2 id="city-directory-heading">Local City &amp; State Disclosure Directory ({directoryPosts.length} Guides)</h2>
+						<search>
+							<input
+								type="search"
+								id="guide-filter"
+								class="guide-search-input"
+								placeholder="Filter by city, state, or topic..."
+								aria-label="Filter disclosure guides by city, state, or topic"
+							/>
+						</search>
+					</div>
+					<ul id="directory-list" class="directory-list">
+						{directoryPosts.map((post) => (
+							<li data-search={post.data.title.toLowerCase()}>
+								<a href={`/blog/${post.id}/`}>{post.data.title}</a>
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
 		</main>
 		<Footer />
+
+		<script>
+			const input = document.getElementById('guide-filter') as HTMLInputElement | null;
+			const items = document.querySelectorAll<HTMLLIElement>('#directory-list > li');
+			if (input && items.length > 0) {
+				input.addEventListener('input', () => {
+					const q = input.value.trim().toLowerCase();
+					for (const li of items) {
+						const text = li.dataset.search ?? '';
+						li.hidden = q.length > 0 && !text.includes(q);
+					}
+				});
+			}
+		</script>
 	</body>
 </html>

@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Pittsburgh Real Estate Disclosures
-
 Pittsburgh is one of America’s most architecturally captivating cities, renowned for its dramatic topography, three converging rivers, and an exceptional collection of historic masonry homes. From the stately Victorian Queen Annes and stone colonials of Shadyside and Squirrel Hill to the vibrant brick rowhouses of Lawrenceville, the South Side Slopes, and the Mexican War Streets, Pittsburgh offers an extraordinary depth of historic residential architecture.
 
 However, beneath the decorative corbelled brickwork and carved limestone cornices lies a complex roofing network that faces an unrelenting environmental adversary: **the brutal freeze-thaw cycles and heavy snow loads of Western Pennsylvania**. In Pittsburgh, residential roofs endure dozens of rapid freeze-thaw oscillations every winter, lake-effect snow accumulations, and severe summer thunderstorm downpours. When aging roofing systems—especially historic slate, standing-seam metal, and concealed wooden box gutters—are subjected to this climate, subtle failures can quickly trigger catastrophic structural damage.

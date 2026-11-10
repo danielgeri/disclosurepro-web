@@ -5,8 +5,6 @@ pubDate: "Nov 05 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Costa Mesa Real Estate Disclosures
-
 Perched on an elevated coastal mesa just one mile inland from Newport Beach and Huntington Beach, Costa Mesa is one of Orange County’s most dynamic and culturally vibrant communities. Celebrated as the "City of the Arts" for the Segerstrom Center for the Arts and the world-renowned South Coast Plaza, Costa Mesa combines upscale suburban living with an energetic coastal vibe. Homebuyers are drawn to Costa Mesa’s distinct and eclectic residential neighborhoods: from the charming custom cottages, modern farmhouses, and expanded coastal bungalows of Eastside Costa Mesa, to the expansive mid-century ranch homes and golf-course properties of Mesa Verde, to family-centric enclaves like Halecrest, College Park, and Mesa Del Mar.
 
 Yet behind Costa Mesa’s desirable climate, coastal proximity, and leafy streets lies a surprisingly rigorous roofing environment: **dense marine layer fog condensing nightly across flat and low-slope roof assemblies, fierce seasonal Santa Ana winds sweeping down the Santa Ana River basin gusting past 55 mph, intense Southern California UV radiation degrading asphalt binders, and seismic micro-movement along the Newport-Inglewood fault system straining roof transitions and chimney flashings**.

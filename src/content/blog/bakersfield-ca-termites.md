@@ -5,7 +5,7 @@ pubDate: "Aug 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active broker serving Kern County and the southern San Joaquin Valley, I have seen many homebuyers caught off guard by the severity of termite damage in Central California. Bakersfield's semi-arid, hot climate makes it a prime habitat for both subterranean and drywood termites. In the Central Valley, undetected termite damage can rapidly compromise roof framing, exterior eaves, and foundation framing.
+Real estate attorneys and local buyer's brokers regularly see many homebuyers caught off guard by the severity of termite damage in Central California. Bakersfield's semi-arid, hot climate makes it a prime habitat for both subterranean and drywood termites. In the Central Valley, undetected termite damage can rapidly compromise roof framing, exterior eaves, and foundation framing.
 
 Understanding California real estate disclosure laws and knowing how to interpret Structural Pest Control Board reports are vital steps in protecting your investment. In this comprehensive guide, we explore termite dynamics in Kern County, examine California statutory disclosure requirements, expose ambiguous phrasing in transaction packets, and provide a clear roadmap for homebuyer due diligence.
 

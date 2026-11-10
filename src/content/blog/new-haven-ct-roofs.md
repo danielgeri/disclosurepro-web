@@ -5,8 +5,6 @@ pubDate: "Oct 31 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in New Haven Real Estate Disclosures
-
 Perched on the northern shore of Long Island Sound, New Haven is a world-renowned intellectual and cultural capital characterized by its iconic central green, prestigious Yale University campus, and rich collection of historic architecture. From the grand Victorian manors, Queen Anne masterpieces, and English Tudors of East Rock and Prospect Hill to the gracious mid-century colonials and Craftsman bungalows of Westville, Beaver Hills, and Morris Cove, New Haven's housing stock possesses extraordinary historic charm.
 
 Yet beneath New Haven’s picturesque tree-lined neighborhoods and historic facades lies a severely unforgiving coastal marine environment: **destructive winter nor'easters packing hurricane-force gusts, relentless salt-fog corrosion from Long Island Sound, deep-freeze cycles that drive severe ice damming along complex eaves, and dense coastal humidity that promotes invasive moss and lichen colonies on century-old timber framing**.

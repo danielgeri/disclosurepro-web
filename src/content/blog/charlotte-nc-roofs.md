@@ -5,8 +5,6 @@ pubDate: "Oct 09 2026"
 heroImage: "../../assets/charlotte_hero_1785906076761.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Charlotte Real Estate Disclosures
-
 Charlotte stands as the financial capital of the Southeast and one of the most vibrant, rapidly expanding housing markets in the United States. Known affectionately as the "Queen City," Charlotte is celebrated for its lush urban tree canopy, historic streetcar suburbs, and booming suburban enclaves. From the stately Southern colonials and Tudor Revivals beneath ancient oaks in Myers Park and Eastover to the charming 1920s Craftsman bungalows of Dilworth and Plaza Midwood, through to modern master-planned developments in Ballantyne and University City, Charlotte offers homebuyers an enviable blend of historic charm and modern living.
 
 However, Charlotte’s renowned canopy of towering loblolly pines and magnificent hardwoods hides an unrelenting threat to residential structures: **chronic roof degradation**.

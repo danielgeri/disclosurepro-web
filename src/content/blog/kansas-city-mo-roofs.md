@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Kansas City Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Kansas City, MO Real Estate Disclosures"
 description: "Buying a home in Kansas City, MO? Learn how severe hail storms, winter ice dams, historic roof aging, and Missouri disclosure laws conceal budget-busting roof replacement costs."
 pubDate: "Oct 11 2026"
 heroImage: "../../assets/kansas_city_hero_1785905736969.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Kansas City Real Estate Disclosures
 
 From the graceful, tree-lined boulevards of Brookside and the stately tudors of the Country Club District to the historic brick shirtwaists of Hyde Park and charming craftsman bungalows in Waldo, Kansas City boasts some of the most distinctive residential architecture in the American Midwest. Homebuyers flock to the City of Fountains for its vibrant cultural fabric, historic neighborhoods, and relatively accessible real estate market.
 

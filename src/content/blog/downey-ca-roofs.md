@@ -5,8 +5,6 @@ pubDate: "Nov 05 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Downey Real Estate Disclosures
-
 Located just 12 miles southeast of downtown Los Angeles in the heart of the Gateway Cities, Downey holds a celebrated place in Southern California suburban history. Known as the cradle of the Apollo Space Program and home to the world's oldest operating McDonald's, Downey offers tree-lined residential streets, thriving commercial districts, and an enviable central location. Prospective homebuyers are drawn to Downey's distinctive neighborhoods: from the sprawling mid-century executive ranches and custom estates of Orange Estates and Northeast Downey to the classic 1940s and 1950s bungalows and California ranches in Gallatin, Old River, and Downtown Downey.
 
 Yet beneath the immaculate lawns and mid-century architectural charm lies a demanding Southern California roofing climate: **fierce offshore Santa Ana windstorms funneling through the Whittier Narrows and San Gabriel River corridor gusting past 60 mph, brutal summer UV radiation baking asphalt binders, cyclic marine layer dampness promoting organic rot, and micro-seismic movement along the Whittier and Newport-Inglewood fault systems racking roof framing and tearing chimney step-flashings apart**.

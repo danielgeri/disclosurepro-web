@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in East Los Angeles Real Estate Disclosures
-
 Situated immediately east of Downtown Los Angeles across the historic LA River bridges, East Los Angeles is the vibrant, culturally rich heart of Southern California's historic Eastside. Characterized by hilly streetscapes, colorful murals, and bustling commercial corridors like Whittier Boulevard and Cesar Chavez Avenue, East LA features an eclectic residential tapestry. From the vintage 1920s Spanish Colonial Revival bungalows and California Craftsman worker cottages of City Terrace, Belvedere Gardens, and Maravilla to the post-war mid-century duplexes and multi-generational family compounds of Eastmont and Union Pacific, East Los Angeles offers historic charm and dense urban living.
 
 Yet behind East Los Angeles’ lively community spirit lies a widespread, hidden structural crisis: **the compounding weight of multiple illegal "roof-overs" overloading fragile 100-year-old 2x4 framing, unpermitted low-slope rear additions that trap ponding water, relentless Southern California sun baking shingles past 160°F, and sudden winter atmospheric rivers that overwhelm porous, multi-layered roof assemblies**.

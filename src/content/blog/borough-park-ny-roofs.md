@@ -5,8 +5,6 @@ pubDate: "Oct 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Borough Park Real Estate Disclosures
-
 Located in southwestern Brooklyn, Borough Park represents one of New York City’s most bustling and densely populated residential neighborhoods. Defined by vibrant commercial avenues along 13th, 16th, and 18th Avenues, Borough Park features an architectural landscape dominated by substantial detached and semi-detached multi-family brick homes, attached brick rowhouses, and multi-generational brownstone-style dwellings built from the 1920s through the post-war era.
 
 However, behind the sturdy brick facades and high-demand multi-family properties lies an unforgiving urban roofing environment: **the complex vulnerabilities of flat and low-slope roofing assemblies, common brick party-wall parapets, chronic drainage ponding, decorative metal cornice deterioration, and harsh New York winter freeze-thaw cycles**.

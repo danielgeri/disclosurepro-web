@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Corona Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Corona, NY Real Estate Disclosures"
 description: "Buying a home in Corona, Queens, New York? Learn how NYC freeze-thaw cycles, flat roof ponding, parapet wall decay, and the mandatory NY PCDS impact your roof."
 pubDate: "Nov 07 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Corona Real Estate Disclosures
 
 Located in the heart of north-central Queens bordered by Flushing Meadows Corona Park, Jackson Heights, Elmhurst, and Lefrak City, Corona is one of New York City’s most culturally vibrant, energetic, and densely populated neighborhoods. Historically home to legendary cultural figures like Louis Armstrong, modern Corona draws prospective homebuyers and multi-family real estate investors with its authentic global culinary scene, direct subway connectivity to Midtown Manhattan via the 7 train, and attractive multi-family residential investment yields. Corona's streetscapes present a dense urban architectural collage: from the classic early-20th-century attached red-brick row houses and two-to-three-family attached residences along Corona Avenue and 108th Street, to the detached wood-frame homes of Corona Heights, to contemporary multi-family infill developments near Junction Boulevard.
 

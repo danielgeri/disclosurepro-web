@@ -5,8 +5,6 @@ pubDate: "Nov 07 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Manchester Real Estate Disclosures
-
 Nestled along the powerful rapids of the Merrimack River in southern Hillsborough County, Manchester is New Hampshire’s largest, most economically dynamic municipality. Widely celebrated as the "Queen City," Manchester seamlessly bridges its rich 19th-century industrial heritage—anchored by the iconic red-brick Amoskeag Millyard—with modern high-tech enterprise, medical hubs, and vibrant cultural dining along Elm Street. The city presents an architectural mosaic that spans over a century of New England design: from the stately Queen Anne and Colonial Revival manors of the historic North End and Straw/Smyth neighborhoods, to the classic multi-family "triple-deckers" of Rimmon Heights and Hanover Hill, to the charming post-war Capes and mid-century ranches of South Willow and Crystal Lake.
 
 Yet behind Manchester’s quintessential Granite State charm, historic brick streetscapes, and family-friendly neighborhoods lies a severe, unforgiving roofing climate: **relentless northeastern winter nor'easters packing gale-force coastal winds, crushing ground snow loads exceeding 40 pounds per square foot, brutal freeze-thaw cycles that forge destructive ice dams along eave edges, and humid New England summers that promote invasive moss, lichen, and structural timber decay**.

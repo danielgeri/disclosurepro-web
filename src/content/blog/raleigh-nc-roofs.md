@@ -5,8 +5,6 @@ pubDate: "Oct 11 2026"
 heroImage: "../../assets/raleigh_hero_1785905784853.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Raleigh Real Estate Disclosures
-
 As the cornerstone of North Carolina's Research Triangle, Raleigh is celebrated for its dynamic economy, world-class universities, and idyllic southern neighborhoods. From the grand historic homes and stately oaks of Historic Oakwood and Hayes Barton to the classic mid-century ranches of Five Points and the modern master-planned developments in North Hills and Brier Creek, the "City of Oaks" offers an enviable lifestyle for homebuyers.
 
 However, beneath the picturesque shade of Raleigh’s towering pines and hardwoods lies a continuous structural challenge: **the Piedmont climate and dense tree canopy subject residential roofs to accelerated, hidden decay**.

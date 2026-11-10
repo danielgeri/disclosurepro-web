@@ -5,8 +5,6 @@ pubDate: "Oct 29 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Metairie Real Estate Disclosures
-
 Bordering New Orleans along the south shore of Lake Pontchartrain, Metairie is the historic, premier residential community of Jefferson Parish. Known for its prestigious avenues shaded by ancient live oaks, Metairie offers some of Louisiana’s most desirable neighborhoods—from the stately European-inspired manors, French Provincial residences, and historic Spanish-tile estates of Old Metairie and Bonnabel Place to the established mid-century brick ranches of Pontchartrain Gardens and the lakeside cottages of Bucktown.
 
 However, behind Metairie’s picturesque moss-draped oak canopies and vibrant suburban lifestyle lies one of the most storm-battered meteorological environments in North America: **direct exposure to violent Atlantic and Gulf hurricanes packing sustained winds exceeding 110 mph, tropical deluges dropping 4 to 6 inches of rain in mere hours, blistering subtropical heat and humidity that breeds aggressive wood-decay fungi, and salt-laden winds from Lake Pontchartrain that rapidly corrode roofing fasteners**.

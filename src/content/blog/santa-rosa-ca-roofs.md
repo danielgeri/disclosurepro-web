@@ -5,8 +5,6 @@ pubDate: "Oct 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Santa Rosa Real Estate Disclosures
-
 Nestled in the picturesque hills and rolling vineyards of Sonoma County, Santa Rosa is the vibrant urban and cultural capital of California Wine Country. From the historic mid-century bungalows of Montgomery Village and the tree-canopied heritage avenues of Proctor Terrace and the Junior College district to the custom hillside view estates of Fountaingrove, Bennett Valley, and Rincon Valley, Santa Rosa offers an extraordinary quality of life. The architectural skyline reflects this diversity—ranging from classic California Craftsman and ranch residences to luxury contemporary homes crowned by architectural composition shingles, standing-seam metal, and concrete tile roofs.
 
 However, beneath this bucolic Wine Country setting lies an aggressive physical environment that subjects residential roofs to dual environmental extremes: **destructive autumn Diablo windstorms carrying extreme wildfire risks, contrasted with intense winter atmospheric river deluges**.

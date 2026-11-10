@@ -5,8 +5,6 @@ pubDate: "Oct 29 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Orange Real Estate Disclosures
-
 Located in the heart of Orange County, the City of Orange holds a distinct place in Southern California’s architectural landscape. While neighboring cities rapidly modernized with stucco tracts, Orange preserved its rich past. At its core lies Old Towne Orange, California’s largest National Register Historic District, boasting more than 1,300 designated historic buildings—ranging from 1910 Craftsman bungalows and Victorian farmhouses to 1920s Spanish Colonial Revival residences. Farther east, sprawling equestrian ranch estates in Orange Park Acres and mid-century single-family homes in El Modena complete a diverse and competitive housing market.
 
 However, behind Orange’s historic citrus-belt charm lies an aggressive Mediterranean microclimate that relentlessly challenges residential roof assemblies: **ferocious autumn Santa Ana windstorms funneling directly out of Santa Ana and Santiago Canyons, extreme summer heatwaves pushing attic temperatures beyond 145°F, morning coastal marine layer moisture that fosters organic decay on shaded eaves, seismic tremors flexing roof framing along regional fault zones, and strict California Title 24 Cool Roof mandates**.

@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Rochester Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Rochester, MN Real Estate Disclosures"
 description: "Buying a home in Rochester, Minnesota? Discover how severe winter ice dams, polar vortex freezes, Zumbro Valley hail storms, and Minnesota disclosure laws impact your roof."
 pubDate: "Nov 06 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Rochester Real Estate Disclosures
 
 Home to the world-renowned Mayo Clinic and recognized consistently as one of the best places to live in the upper Midwest, Rochester, Minnesota, blends world-class healthcare innovation with rich Midwestern heritage and scenic rolling bluffland scenery. Situated along the South Fork of the Zumbro River in Olmsted County, Rochester attracts physicians, medical researchers, technology professionals, and growing families from around the globe. The city's residential landscape boasts an eclectic variety of architectural character: from the stately 1920s and 1930s Tudor Revivals, English Cottages, and Georgian Colonials of Pill Hill and the Historic Southwest, to classic mid-century ramblers and split-levels in Kutzky Park and Folwell, to spacious contemporary master-planned residences in Baihly Woodland and Elton Hills.
 

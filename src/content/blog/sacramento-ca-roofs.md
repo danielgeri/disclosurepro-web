@@ -5,8 +5,6 @@ pubDate: "Oct 10 2026"
 heroImage: "../../assets/sacramento_hero_1785905871605.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Sacramento Real Estate Disclosures
-
 California’s capital city offers one of the most attractive, leafy, and architecturally rich residential settings on the West Coast. From stunning 1920s Tudor Revivals and storybook bungalows in East Sacramento and the historic Fabulous Forties, to ornate Victorians in Midtown, elegant Spanish Colonial homes in Land Park and Curtis Park, and sprawling mid-century residences in South Land Park and Pocket-Greenhaven, purchasing a home in Sacramento is a dream for many Californians.
 
 Yet beneath Sacramento’s world-renowned urban tree canopy and relaxed Delta breeze lifestyle lies an expensive hidden liability: **Sacramento roofs endure severe environmental extremes, and roof defects are routinely obscured behind sanitized seller disclosures**.

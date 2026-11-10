@@ -5,8 +5,6 @@ pubDate: "Oct 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Savannah Real Estate Disclosures
-
 Framed by moss-draped live oaks, cobblestone streets, and manicured historic squares, Savannah stands as Georgia’s oldest city and one of the nation’s premier architectural treasures. Located along the Savannah River just minutes from the Atlantic coast in Chatham County, Savannah attracts homebuyers seeking timeless Southern charm and coastal living. Residential options range from grand 19th-century Federal, Greek Revival, and Italianate townhomes in the Landmark Historic District, to ornate gingerbread Victorians in the Victorian District and Thomas Square, to gracious 1920s revival cottages in Ardsley Park and coastal retreats on the Isle of Hope.
 
 However, behind Savannah’s romantic wrought-iron balconies and pastel facades lies an aggressive subtropical coastal environment that relentlessly punishes residential roof assemblies: **Atlantic hurricane-force winds, driving tropical downpours, extreme summer heat and relentless humidity, organic algae colonization, and aging housing stock with complex historic slate, standing seam metal, and low-slope flat roofs**.

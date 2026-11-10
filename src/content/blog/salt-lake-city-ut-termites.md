@@ -5,7 +5,7 @@ pubDate: "Aug 28 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and top-producing managing broker representing homebuyers across Salt Lake County and the Wasatch Front, I have guided clients through hundreds of residential transactions in Salt Lake City. From the historic Victorian and Queen Anne residences of The Avenues and Capitol Hill to the charming brick bungalows of Sugar House and Harvard-Yale, Salt Lake City offers unique architectural appeal. However, beneath our picturesque mountain views and historic neighborhoods lies a persistent structural threat: subterranean termites.
+Experienced real estate attorneys and local brokers regularly counsel clients through hundreds of residential transactions in Salt Lake City. From the historic Victorian and Queen Anne residences of The Avenues and Capitol Hill to the charming brick bungalows of Sugar House and Harvard-Yale, Salt Lake City offers unique architectural appeal. However, beneath our picturesque mountain views and historic neighborhoods lies a persistent structural threat: subterranean termites.
 
 Because real estate transactions in Utah are governed by the Utah Association of Realtors (UAR) Seller's Property Condition Disclosure and Utah common law disclosure mandates, buyers must meticulously review disclosure forms and inspection reports. Overlooking subtle signs of wood-destroying insect damage can lead to tens of thousands of dollars in structural repairs. This comprehensive guide examines Salt Lake City’s termite environment, explains Utah disclosure laws, highlights evasive seller phrasing, and provides a realistic neighborhood case study to protect your investment.
 

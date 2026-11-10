@@ -5,8 +5,6 @@ pubDate: "Oct 09 2026"
 heroImage: "../../assets/memphis_hero_1785905703742.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Memphis Real Estate Disclosures
-
 Memphis stands as a legendary cultural cornerstone of the American South. Perched above the mighty Mississippi River on the Chickasaw Bluffs, the "Bluff City" is internationally renowned for its deep musical heritage, world-class culinary traditions, and remarkably rich residential architecture. From the stately Southern estates and historic brick Tudors of Central Gardens and Chickasaw Gardens to the artistic Craftsman bungalows of Midtown and Cooper-Young, through to the expansive mid-century ranches of East Memphis, the city offers homebuyers extraordinary architectural diversity and compelling real estate value.
 
 However, towering above Memphis’s picturesque neighborhoods is a natural feature that poses an unrelenting structural hazard to residential properties: **a dense, mature canopy of historic hardwood trees**.

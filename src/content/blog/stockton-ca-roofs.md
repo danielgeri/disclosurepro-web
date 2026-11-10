@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Stockton Real Estate Disclosures
-
 Stockton is the cultural and agricultural hub of San Joaquin County, positioned alongside the expansive California Delta. Offering scenic waterfront living, premier golf course communities, and charming vintage neighborhoods, Stockton has become an attractive market for local families and Bay Area commuters alike. From the upscale, master-planned enclaves of Brookside and Spanos Park to the historic Craftsman and Spanish Revival architecture of Tuxedo Park and the Miracle Mile, Stockton’s neighborhoods feature a wide variety of architectural styles.
 
 However, behind the palm-lined avenues and Delta waterways lies a severe environmental contrast that drives rapid roofing deterioration: **the intense summer heatwaves of the San Joaquin Valley contrasted with the persistent, moisture-laden Tule fog of winter**. In Stockton, summer temperatures regularly exceed 100°F to 105°F, superheating attics and baking roofing membranes into brittle fragments. In winter, weeks of dense, ground-level Tule fog trap continuous moisture on shingles and tiles, fueling fungal dry rot and thick moss growth.

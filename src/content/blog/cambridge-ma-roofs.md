@@ -5,8 +5,6 @@ pubDate: "Nov 07 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Cambridge Real Estate Disclosures
-
 Situated directly across the Charles River from Boston, Cambridge is globally celebrated as a vibrant epicenter of intellectual innovation, architectural elegance, and rich American history. Home to Harvard University and the Massachusetts Institute of Technology (MIT), Cambridge combines a dynamic academic and biotech culture with historic, tree-lined residential streetscapes. The city features a dense, diverse, and exceptionally historic housing stock: from the iconic three-story wood-frame "triple-deckers" and workers' cottages of Cambridgeport, Inman Square, and East Cambridge, to majestic Victorian Mansards and Queen Annes in Mid-Cambridge, to preserved Colonial Revival and Georgian single-family estates in West Cambridge, Brattle Street, and Harvard Square.
 
 Yet beneath Cambridge’s quintessential New England charm, cobblestone corners, and multimillion-dollar price points lies one of the most hostile roofing environments in the country: **severe coastal nor'easters driving gale-force Atlantic winds and torrential freezing precipitation, brutal winter freeze-thaw cycles that generate massive ice dams along eave edges, unvented flat rubber roof assemblies on century-old multi-families, and corroded 19th-century internal copper box gutters that secretly rot timber framing**.

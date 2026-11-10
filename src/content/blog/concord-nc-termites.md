@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Concord Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Concord, NC Real Estate Disclosures"
 description: "Buying a home in Concord, NC? Discover how Piedmont red clay soils, crawlspace humidity, and historic mill-village framing harbor Eastern subterranean termites, navigate North Carolina disclosure laws, and safeguard your purchase."
 pubDate: "Sep 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

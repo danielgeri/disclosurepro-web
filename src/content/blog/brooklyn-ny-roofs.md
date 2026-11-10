@@ -5,8 +5,6 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/brooklyn_hero_1785906094863.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Brooklyn Real Estate Disclosures
-
 Brooklyn’s residential real estate market is world-renowned for its architectural character. From iconic tree-lined streets of Italianate brownstones in Park Slope and Brooklyn Heights to Romanesque Revival limestones in Crown Heights and vibrant rowhouses in Bedford-Stuyvesant, owning a piece of Brooklyn history is an extraordinary dream. However, behind the grand parlor floors, soaring plaster ceilings, and ornate marble fireplaces lies an architectural vulnerability that demands meticulous scrutiny: **the historic flat roof**.
 
 In a connected Brooklyn townhouse or rowhouse, the roof is not just an individual shelter; it is an intricate, multi-layered system physically tied into adjoining buildings through shared party walls, decorative metal cornices, and shared drainage paths. When an aged Brooklyn roof assembly fails, water does not simply drip into an attic—it travels silently along centuries-old brickwork, rots structural timber joists, destroys irreplaceable historic plaster, and threatens structural stability.

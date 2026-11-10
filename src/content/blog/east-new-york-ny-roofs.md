@@ -5,8 +5,6 @@ pubDate: "Oct 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in East New York Real Estate Disclosures
-
 Positioned in eastern Brooklyn, East New York is a historic, dynamic, and evolving urban neighborhood experiencing significant revitalization and sustained homebuyer interest. With its diverse streetscapes spanning the quiet residential blocks of New Lots and City Line, the expansive waterfront-adjacent developments of Spring Creek, and proximity to the leafy hills of Cypress Hills, East New York offers rare opportunities for homeownership in New York City. The neighborhood’s residential housing stock consists predominantly of two- and three-family attached brick rowhouses, semi-detached wood-frame homes, and classic early 20th-century multi-family townhomes.
 
 Yet behind the classic wrought-iron gates and brick facades lies one of the most structurally demanding challenges in urban real estate: **aging low-slope flat roofing assemblies, masonry parapet wall deterioration, and harsh Northeast freeze-thaw weather cycles**.

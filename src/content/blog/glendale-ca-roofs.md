@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Glendale Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Glendale, CA Real Estate Disclosures"
 description: "Buying a home in Glendale, CA? Learn how Verdugo foothill winds, Spanish tile underlayment failure, and California TDS disclosure laws affect homebuyers."
 pubDate: "Oct 19 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Glendale Real Estate Disclosures
 
 Nestled against the picturesque backdrop of the Verdugo Mountains and San Rafael Hills in northern Los Angeles County, Glendale is one of Southern California's most prestigious and architecturally distinctive communities. Known as the "Jewel City," Glendale boasts an exceptional collection of historic residential neighborhoods—from the romantic 1920s Spanish Colonial Revival and Tudor estates of Rossmoyne and Brockmont to the oak-canopied character homes of Verdugo Woodlands, the hillside mid-century modern gems of Adams Hill, and the tranquil canyon properties in Chevy Chase.
 

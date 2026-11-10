@@ -5,8 +5,6 @@ pubDate: "Oct 12 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Wichita Real Estate Disclosures
-
 Wichita combines proud aviation manufacturing history with classic Midwestern residential neighborhoods. From the historic brick mansions and steep-pitched Tudors of College Hill and Eastborough to the charming Craftsman bungalows and stone cottages of Riverside, Crown Heights, and Delano, Wichita’s housing stock features outstanding historic architecture.
 
 However, behind the broad tree-lined avenues and quiet residential cul-de-sacs lies an unavoidable meteorological reality: **Wichita’s location in the epicenter of the Great Plains "Hail Alley" subjects residential roofs to some of the most violent convective hailstorms, gale-force straight-line winds, and severe thermal cycling in North America**.

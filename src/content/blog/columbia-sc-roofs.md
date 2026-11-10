@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Columbia Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Columbia, SC Real Estate Disclosures"
 description: "Buying a home in Columbia, South Carolina? Learn how Midlands extreme heat, tropical cyclone downpours, pine needle dams, and South Carolina Seller Disclosure laws impact your roof."
 pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Columbia Real Estate Disclosures
 
 Known across the Palmetto State as "Famously Hot Columbia," the capital city of South Carolina is an energetic center of government, education, and historic southern living. Located in the Midlands along the fall line of the Congaree, Broad, and Saluda rivers, Columbia offers a rich tapestry of residential architecture: from the picturesque tree-lined streets and 1920s craftsman bungalows of Shandon, Elmwood, and Cottontown, to the mid-century ranches of Rosewood, and the stately southern colonials and lakefront residences of Forest Acres and Lake Murray.
 

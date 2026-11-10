@@ -5,8 +5,6 @@ pubDate: "Oct 08 2026"
 heroImage: "../../assets/indianapolis_hero_1785905651947.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Indianapolis Real Estate Disclosures
-
 Indianapolis boasts one of the most accessible and architecturally diverse housing markets in the Midwest. Known as the "Crossroads of America," Circle City offers an impressive variety of neighborhoods: historic American Foursquares and cozy Craftsman bungalows in Broad Ripple and Irvington, stately brick and stone estates with steep gables in Meridian-Kessler and Woodruff Place, mid-century ranch homes in Washington Township, and newer master-planned developments throughout Marion County.
 
 However, behind manicured midwestern front yards and historic brick facades lies a vulnerable structural envelope component: **the residential roof**. 

@@ -5,8 +5,6 @@ pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Carrollton Real Estate Disclosures
-
 Straddling Dallas, Denton, and Collin counties in the upper sector of the Dallas-Fort Worth Metroplex, Carrollton is a vibrant, thriving suburban community celebrated for its convenient transit connections, outstanding municipal parks, and established residential neighborhoods. From the classic 1970s and 1980s brick family residences of Country Place, Indian Creek, and Rosemeade to the contemporary executive homes bordering Castle Hills, Oak Creek, and Frankford Meadows, Carrollton features an expansive housing stock characterized by steep gabled rooflines, complex valleys, and architectural asphalt shingles.
 
 However, behind Carrollton’s lush greenbelts and well-maintained suburban streetscapes lies one of the most physically aggressive weather corridors in the United States: **frequent severe North Texas supercell thunderstorms generating golf-ball and tennis-ball-sized hail, straight-line microburst winds exceeding 70 mph, relentless triple-digit summer heatwaves that bake attics into 155°F thermal traps, occasional winter ice storms, and highly expansive Eagle Ford and Austin Chalk clay soils that physically rack roof framing and tear chimney flashings open**.

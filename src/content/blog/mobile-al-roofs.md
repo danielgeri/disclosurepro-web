@@ -5,8 +5,6 @@ pubDate: "Oct 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Mobile Real Estate Disclosures
-
 Positioned along the northwest shore of Mobile Bay where several river systems empty into the Gulf of Mexico, Mobile is Alabama’s historic port city, famed for being the birthplace of American Mardi Gras and celebrated for its vibrant cultural heritage and southern charm. Homebuyers are captivated by Mobile’s picturesque streetscapes and diverse architectural treasures. Prospective buyers can select from the grand, live-oak-draped antebellum, Greek Revival, and Victorian estates of the Oakleigh Historic District and De Tonti Square, stately 1920s cottages and bungalows in Midtown and Ashland Place, prestigious sprawling brick manors in Spring Hill and Llanfair, and scenic coastal waterfront properties overlooking Mobile Bay.
 
 However, Mobile’s coastal subtropical climate subjects residential roofing systems to some of the most punishing weather extremes in North America. Mobile regularly ranks as one of the wettest cities in the continental United States, averaging over **66 inches of precipitation annually, coupled with oppressive summer heat, high atmospheric salinity, severe convective squalls, and catastrophic Gulf Coast hurricanes**. When hurricane-force wind gusts tear away shingle tabs and driving horizontal rain bypasses standard ridge and soffit vents, moisture penetrates deep into structural decking, rotting framing timbers and breeding hazardous mold.

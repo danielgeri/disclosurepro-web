@@ -5,8 +5,6 @@ pubDate: "Oct 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Syracuse Real Estate Disclosures
-
 Positioned in the heart of Central New York in Onondaga County, Syracuse is renowned as the "Salt City." Celebrated for its rich academic heritage anchored by Syracuse University, scenic parks, and historic canal history, Syracuse offers an exceptionally diverse and architecturally distinguished housing stock. Buyers are drawn to the stately Tudor, Colonial Revival, and Arts & Crafts estates in Sedgwick and Strathmore, vibrant historic streetscapes in Westcott and University Hill, tight-knit residential enclaves in Eastwood and Tipperary Hill (Tipp Hill), and historic Victorian brick structures in the Hawley-Green Historic District.
 
 However, behind Syracuse’s picturesque tree-lined streets and historic gables lies one of the most mechanically grueling winter environments in North America: **relentless Lake Ontario lake-effect snowstorms delivering 100 to 150+ inches of heavy snow annually, catastrophic ice damming along eaves, rapid freeze-thaw cycles that crush roof drainage, and century-old housing stock burdened by hidden roof deck rot and unpermitted shingle overlays**.

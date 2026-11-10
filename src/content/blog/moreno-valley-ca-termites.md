@@ -5,7 +5,7 @@ pubDate: "Aug 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As a real estate attorney and active broker representing buyers throughout Riverside County and the Inland Empire, I have seen many enthusiastic homebuyers purchase properties in Moreno Valley only to uncover severe structural damage hidden behind fresh paint and cosmetic remodels. Moreno Valley’s rapid expansion over recent decades has made it an attractive destination for families and investors, but its arid climate, expansive clay soils, and construction styles create significant vulnerability to wood-destroying pests.
+Real estate attorneys and local buyer's brokers regularly see many enthusiastic homebuyers purchase properties in Moreno Valley only to uncover severe structural damage hidden behind fresh paint and cosmetic remodels. Moreno Valley’s rapid expansion over recent decades has made it an attractive destination for families and investors, but its arid climate, expansive clay soils, and construction styles create significant vulnerability to wood-destroying pests.
 
 Failing to closely examine your California real estate disclosure documents for evidence of subterranean and drywood termite activity can leave you facing massive out-of-pocket structural repair bills. In this comprehensive guide, we will examine the localized termite risks in Moreno Valley, explain California disclosure laws, highlight ambiguous phrases used in seller paperwork, and walk through a detailed neighborhood case study to protect your real estate transaction.
 

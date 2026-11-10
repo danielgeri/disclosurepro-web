@@ -5,8 +5,6 @@ pubDate: "Oct 14 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Greensboro Real Estate Disclosures
-
 Located in the rolling hills of North Carolina's Piedmont Triad, Greensboro is celebrated for its historic architecture, leafy mature neighborhoods, and thriving cultural community. From the stately Georgian and Tudor Revival estates of Old Irving Park and Fisher Park to the mid-century brick ranches of Sunset Hills, Starmount Forest, and Lindley Park, Greensboro offers a diverse and rich housing stock.
 
 However, beneath the scenic canopy of towering Loblolly pines and grand Southern oaks lies a punishing climate that continuously threatens residential roofs: **high subtropical summer humidity, severe thunderstorm microbursts, remnants of Atlantic tropical systems and hurricanes, and the aggressive rotting action of acidic pine needle debris**. In Greensboro, chronic moisture accumulation and dense organic debris frequently cause catastrophic decay beneath outwardly attractive asphalt shingles.

@@ -5,7 +5,7 @@ pubDate: "Aug 28 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and managing broker representing buyers across Summit County and Northeast Ohio, I have guided clients through hundreds of property transactions in Akron. From the historic rubber-boom mansions of Merriman Hills and Craftsman homes in Highland Square to established neighborhoods in Firestone Park and Goodyear Heights, Akron offers rich architectural history. However, beneath our picturesque tree-lined streets and historic brick facades lies a persistent structural threat: Eastern Subterranean Termites.
+Experienced real estate attorneys and local brokers regularly counsel clients through hundreds of property transactions in Akron. From the historic rubber-boom mansions of Merriman Hills and Craftsman homes in Highland Square to established neighborhoods in Firestone Park and Goodyear Heights, Akron offers rich architectural history. However, beneath our picturesque tree-lined streets and historic brick facades lies a persistent structural threat: Eastern Subterranean Termites.
 
 Because Ohio real estate law combines statutory seller disclosure requirements with the traditional common law doctrine of *caveat emptor*, buyers must meticulously scrutinize seller disclosure statements and inspection reports. Overlooking vague termite references can leave you holding the bill for tens of thousands of dollars in hidden structural timber damage. This guide examines Akron’s termite environment, breaks down Ohio disclosure laws, highlights evasive seller phrasing, and provides a realistic neighborhood case study to protect your investment.
 

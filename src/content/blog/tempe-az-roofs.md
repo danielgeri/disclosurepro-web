@@ -5,8 +5,6 @@ pubDate: "Oct 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Tempe Real Estate Disclosures
-
 Situated at the heart of the bustling Phoenix East Valley, Tempe is an energetic, culturally rich city known for Arizona State University, the tech hub around Tempe Town Lake, and charming residential enclaves. From classic mid-century modern brick ranches in Broadmor, Alameda, and Date Palm Manor to mature master-planned communities in Warner Ranch and Shalimar, Tempe offers buyers a blend of historic desert character and modern suburban living. 
 
 Yet beneath the iconic palm trees and sunny blue skies lies one of the most hostile natural environments in North America for residential roofing systems: **the Sonoran Desert**.

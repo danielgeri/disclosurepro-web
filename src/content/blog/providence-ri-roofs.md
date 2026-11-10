@@ -5,8 +5,6 @@ pubDate: "Oct 21 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Providence Real Estate Disclosures
-
 As the historic capital of the Ocean State, Providence seamlessly blends centuries of architectural elegance with a vibrant modern culture. Home to Ivy League prestige on College Hill, culinary artistry on Federal Hill, maritime heritage in Fox Point, and picturesque residential streets in Wayland, Elmhurst, and Mount Hope, Providence boasts one of the most distinguished collections of historic homes in North America. Stately 18th-century Colonials, ornate Victorian Queen Annes, classic triple-deckers, and brick Federal rowhouses line its historic avenues.
 
 However, owning real estate in this historic coastal metropolis comes with a significant structural reality: **the extreme vulnerability and complexity of Providence residential roofs**.

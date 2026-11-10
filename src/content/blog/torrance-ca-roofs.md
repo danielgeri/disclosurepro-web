@@ -5,8 +5,6 @@ pubDate: "Oct 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Torrance Real Estate Disclosures
-
 Nestled in the South Bay region of Los Angeles County, Torrance combines serene coastal living with vibrant suburban neighborhoods and exceptional school districts. From the tree-lined streets of Old Torrance and classic post-war ranches in Southwood, Seaside, and Walteria to the dramatic mid-century and Spanish architectural homes climbing the hills of the Hollywood Riviera, Torrance is one of Southern California’s premier residential markets.
 
 However, behind Torrance's mild coastal Mediterranean climate and scenic ocean views lies a distinct set of physical challenges for residential roofing systems: **heavy morning marine fog ("June Gloom") saturated with airborne ocean salts, chronic galvanic corrosion of metal flashings and fasteners, seismic settling and racking along the active Newport-Inglewood Fault Zone, and strict California Title 24 cool-roof energy mandates**.

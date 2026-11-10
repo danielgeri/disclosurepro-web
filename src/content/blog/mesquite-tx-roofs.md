@@ -5,8 +5,6 @@ pubDate: "Oct 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Mesquite Real Estate Disclosures
-
 Positioned just east of Dallas in Dallas and Kaufman counties, Mesquite is known as the "Rodeo Capital of Texas." Offering a blend of suburban convenience, extensive park systems, and affordable residential options, Mesquite attracts families, first-time homebuyers, and real estate investors. Neighborhoods range from established mid-century brick ranches in Rollingwood Hills and Pasadena Gardens, to master-planned golf communities in Falcon’s Lair and Creek Crossing, to spacious properties across Pecan Crossing and Lawson.
 
 However, behind Mesquite’s welcoming suburban streetscapes lies one of the most mechanically aggressive weather environments in the United States: **frequent North Texas "Hail Alley" supercell thunderstorms, microburst straight-line winds exceeding 75 mph, triple-digit summer heat causing extreme thermal shock and asphalt degradation, and expansive blackland prairie clay soils that shift foundations and twist roof framing**.

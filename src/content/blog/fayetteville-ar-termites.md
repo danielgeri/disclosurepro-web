@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Fayetteville Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Termite Damage in Fayetteville, AR Real Estate Disclosures"
 description: "Buying real estate in Fayetteville, Arkansas? Learn how Ozark mountain terrain, crawl spaces, and native soils harbor termites, decode Arkansas disclosure laws, and protect your home."
 pubDate: "Oct 04 2026"
 heroImage: "../../assets/red_flags_hero.jpg"

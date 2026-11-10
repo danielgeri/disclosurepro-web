@@ -5,8 +5,6 @@ pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in San Bernardino Real Estate Disclosures
-
 Nestled directly against the dramatic backdrop of the San Bernardino Mountains and serving as the historic county seat of the Inland Empire, San Bernardino occupies a pivotal geographic position in Southern California. Steeped in history as a vital rail depot, the cradle of Route 66 car culture, and a major regional logistics center, the city features an expansive and diverse residential landscape. From the sprawling mid-century ranch homes and custom hillside properties of Verdemont and Arrowhead Springs to the established tree-lined avenues of Kendall and Del Rosa, and the charming historic bungalows near Perris Hill, San Bernardino offers accessible homeownership and mountain-view living.
 
 Yet, San Bernardino's unique topography makes it one of the most punishing roofing environments in California: **violent Santa Ana windstorms roaring out of the adjacent Cajon Pass, relentless triple-digit summer solar heat that bakes roofing materials, dramatic diurnal temperature shifts, and extreme Wildland-Urban Interface (WUI) wildfire hazards**. In San Bernardino, an attractive Spanish barrel tile or concrete tile roof can look pristine from the driveway while hiding completely desiccated underlayment, wind-lifted flashings, termite-eaten rafter tails, and cracked mortar caps.

@@ -5,8 +5,6 @@ pubDate: "Oct 12 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in New Orleans Real Estate Disclosures
-
 New Orleans possesses one of the most culturally vibrant and architecturally distinct streetscapes in the world. From the grand Italianate and Greek Revival mansions of the Garden District and Uptown to the colorful Creole cottages and Victorian shotguns of the Marigny, Bywater, and Tremé, to the iconic Spanish-influenced wrought iron balconies and slate roofs of the French Quarter (Vieux Carré), residential architecture in the Crescent City is truly irreplaceable.
 
 However, behind the live oaks and vibrant historic facades lies an unforgiving structural reality: **the subtropical maritime climate, frequent tropical hurricanes, and extreme atmospheric humidity of South Louisiana subject residential roofs to unprecedented physical punishment**.

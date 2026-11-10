@@ -5,8 +5,6 @@ pubDate: "Oct 08 2026"
 heroImage: "../../assets/the_bronx_hero_1785905687260.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in The Bronx Real Estate Disclosures
-
 The Bronx is experiencing a major residential renaissance. From the rapid appreciation of historic multi-family rowhouses in Mott Haven and Port Morris to the elegant pre-war co-ops of Grand Concourse, the stately stone colonials of Fieldston and Riverdale, and the coastal single-family homes of Throggs Neck and City Island, The Bronx offers an incredible variety of architectural styles. For real estate investors and homebuyers alike, Bronx residential properties represent immense long-term value.
 
 However, behind decorative brick facades, arched entryways, and classic fire escapes lies a building component that bears the brunt of New York City’s brutal climate: **the residential roof**. 

@@ -5,8 +5,6 @@ pubDate: "Nov 08 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in West Covina Real Estate Disclosures
-
 Located in the heart of eastern Los Angeles County within the picturesque San Gabriel Valley, West Covina is a desirable residential community known for its central location, scenic hillside views, and abundant parks. Offering convenient access to downtown Los Angeles and Orange County, West Covina features an appealing blend of post-war suburban charm and upscale hillside living. Homebuyers are drawn to the custom mid-century and Spanish tile estates of South Hills, the established single-story ranch homes of Woodside and Shadow Oak, and the family-friendly suburban neighborhoods surrounding Galster Wilderness Park.
 
 However, beneath West Covina's idyllic Southern California palm trees and mountain vistas lies a demanding Mediterranean climate that inflicts hidden structural damage on residential roofs: **punishing Santa Ana windstorms gusting up to 70 mph down the Cajon Pass, intense ultraviolet (UV) solar radiation that cooks roofing materials, seasonal atmospheric rivers that unleash inches of driving rain in hours, and aging concrete and Spanish clay tile roofs whose underlying waterproof felt has completely decomposed**.

@@ -5,8 +5,6 @@ pubDate: "Oct 14 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Plano Real Estate Disclosures
-
 Situated just north of Dallas in Collin and Denton counties, Plano is renowned as one of the most desirable corporate and residential hubs in Texas. From the sprawling custom estates and manicured fairways of Willow Bend, Gleneagles, and Kings Ridge to the charming tree-lined subdivisions of West Plano and the historic brick residences of Downtown Plano, the city offers exceptional schools, vibrant corporate campuses, and an outstanding quality of life.
 
 However, beneath the sunny Texas skies lies one of the most volatile weather corridors in the world: **North Texas "Hail Alley," where catastrophic spring supercells produce baseball-sized hail, straight-line microburst winds over 70 mph, brutal summer heat waves baking unventilated attic spaces to 150°F, and expansive clay soil movement that twists structural roof trusses**. In Plano, a roof that appears structurally sound from street level may be internally fractured, missing impact resistance, and leaking silently along warped flashing joints.

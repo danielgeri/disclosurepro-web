@@ -5,8 +5,6 @@ pubDate: "Oct 12 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Oakland Real Estate Disclosures
-
 Oakland is celebrated for its rich architectural diversity and vibrant neighborhoods. From the stately Craftsman bungalows of Rockridge and Crocker Highlands to the storybook Tudors of Grand Lake, the historic Victorians of West Oakland, and the dramatic mid-century modern hillside retreats nestled in the wooded slopes of Montclair and Piedmont Pines, Oakland's residential architecture is as dynamic as the city itself.
 
 However, behind the sweeping panoramic views of the San Francisco Bay and the tranquil redwood groves lies a serious structural threat: **the unique microclimates and mature urban canopies of the East Bay subject residential roofs to relentless moisture retention, organic decay, and extreme mechanical stress**.

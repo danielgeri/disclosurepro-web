@@ -5,8 +5,6 @@ pubDate: "Oct 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Escondido Real Estate Disclosures
-
 Nestled in the sun-drenched valleys of North County San Diego, Escondido combines rich agricultural heritage with vibrant suburban communities. From historic Craftsman bungalows and Spanish Revival estates in the Old Escondido Historic District to mid-century ranch homes in Felicita and expansive modern tile-roof properties in Eureka Springs and Del Lago, Escondido offers diverse architectural charm.
 
 Yet beneath the inland sunshine and rolling avocado groves, residential roofing systems in Escondido endure severe physical stressors: **intense inland thermal loading exceeding 100°F, powerful Santa Ana wind events, dry rot of organic underlayment beneath concrete and clay tiles, and strict wildfire hardening regulations within Cal Fire designated Very High Fire Hazard Severity Zones (VHFHSZ)**.

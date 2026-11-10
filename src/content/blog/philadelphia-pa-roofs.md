@@ -5,8 +5,6 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/philadelphia_hero_1785906217979.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Philadelphia Real Estate Disclosures
-
 Philadelphia’s residential real estate market is defined by its iconic rowhouse architecture. From historic 18th-century trinities in Queen Village and stately brownstones in Center City to renovated brick rowhomes in Fishtown, Northern Liberties, and South Philly, rowhouse living offers unmatched urban charm. However, beneath the exposed interior brick walls, newly installed quartz countertops, and modern recessed lighting lies an Achilles' heel that catches thousands of Philadelphia homebuyers by surprise every year: **the flat roof**.
 
 In Philadelphia, rowhouse roofs are predominantly low-slope assemblies that drain toward the rear of the structure. Subjected to Mid-Atlantic freeze-thaw cycles, humid summer heatwaves, and driving coastal storms, these roofs require rigorous maintenance. Unfortunately, Philadelphia also has a pervasive culture of using cheap, reflective "silver coating" to cosmetically mask severe structural roof decay right before listing properties for sale.

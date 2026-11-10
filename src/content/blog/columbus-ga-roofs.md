@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Columbus Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Columbus, GA Real Estate Disclosures"
 description: "Buying a home in Columbus, GA? Discover how Chattahoochee Valley storms, pine needle rot, and Georgia SPDS disclosure laws impact homebuyers."
 pubDate: "Oct 19 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Columbus Real Estate Disclosures
 
 Situated on the picturesque banks of the Chattahoochee River along Georgia’s Fall Line, Columbus is the state's second-largest city and a vibrant economic and cultural anchor. Combining rich industrial and military heritage with charming Southern hospitality, Columbus offers a captivating variety of residential neighborhoods—from the cobblestone streets and Victorian masterpieces of the Columbus Historic District to the tree-lined avenues of Weracoba/Lakebottom, the established suburban enclaves of Midtown and High-Acres, and the upscale waterfront estates of Green Island Hills.
 

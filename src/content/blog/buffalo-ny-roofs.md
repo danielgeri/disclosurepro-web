@@ -5,8 +5,6 @@ pubDate: "Oct 15 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Buffalo Real Estate Disclosures
-
 Perched on the eastern shores of Lake Erie where the Niagara River begins its northward journey, Buffalo is celebrated as the "Queen City of the Lakes." Renowned for its friendly neighborhoods, rich industrial heritage, and peerless architectural pedigree—including works by Frank Lloyd Wright, Louis Sullivan, and Frederick Law Olmsted—Buffalo offers one of the most distinctive housing markets in the country. From the stately Victorian and Edwardian estates of Elmwood Village, Allentown, and the Delaware District to the iconic two-family "Buffalo doubles" of North Buffalo, South Buffalo, and Black Rock, the city boasts unmatched historic character and solid cash-flow potential.
 
 However, beneath Buffalo’s architectural charm lies one of the most punishing winter weather environments in North America: **legendary Lake Erie lake-effect blizzards, crushing snow loads exceeding 60 pounds per square foot, brutal freeze-thaw cycles, and massive ice dams that overwhelm historic built-in box gutters**. In Erie County, an aging or improperly maintained roof assembly can rapidly result in structural rafter deflection, hidden framing rot, and catastrophic interior plaster collapses.

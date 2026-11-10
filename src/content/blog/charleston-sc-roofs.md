@@ -5,8 +5,6 @@ pubDate: "Oct 30 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Charleston Real Estate Disclosures
-
 Famous for its cobblestone streets, antebellum mansions, magnificent live oak alleys draped in Spanish moss, and world-class culinary scene, Charleston is the historic crown jewel of the American South. Positioned along the Atlantic coast where the Ashley and Cooper rivers converge into Charleston Harbor, the Holy City encompasses an extraordinary architectural spectrum: from the iconic 18th- and 19th-century "Single Houses" and multi-tier piazzas of South of Broad, the French Quarter, and Harleston Village, to the mid-century brick ranches of West Ashley and James Island, and the coastal waterfront estates of Daniel Island.
 
 However, behind Charleston’s timeless historic charm lies one of the most physically aggressive coastal environments for residential roofing in North America: **direct exposure to Atlantic hurricanes and tropical storms generating sustained gale-force winds of 120 to 140 mph, corrosive salt spray from the harbor that oxidizes metal flashing and fastener heads, relentless year-round humidity fostering wood rot and *Gloeocapsa magma* algae, torrential tropical downpours dropping six inches of rain in hours, and delicate low-slope historic piazza roofs that trap moisture**.

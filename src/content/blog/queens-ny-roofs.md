@@ -5,8 +5,6 @@ pubDate: "Oct 07 2026"
 heroImage: "../../assets/queens_hero_1785905923858.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Queens Real Estate Disclosures
-
 Queens represents the most geographically diverse and culturally dynamic borough in New York City. From classic semi-detached brick two-families in Astoria and Ridgewood to attached townhouses in Sunnyside, stately Tudor revivals in Forest Hills Gardens, and coastal homes in the Rockaways, the Queens housing market provides exceptional options for homebuyers and multi-family investors. Yet behind the newly painted kitchens and attractive rental yield calculations, one structural vulnerability constantly endangers buyers' investments: **the roof**.
 
 In Queens, roofing assemblies are subject to intense climatic punishment. Coastal Atlantic winds, maritime moisture, summer heatwaves exceeding 95°F, and brutal winter freeze-thaw cycles create severe wear and tear. Furthermore, because so many Queens homes are semi-detached or attached multi-family properties, a roofing failure often involves complex shared party walls, shared gutter lines, and multi-layered roofing assemblies that violate local building codes.

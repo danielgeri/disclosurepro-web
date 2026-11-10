@@ -5,8 +5,6 @@ pubDate: "Nov 03 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Norman Real Estate Disclosures
-
 Situated just south of Oklahoma City in Cleveland County, Norman is celebrated as one of Oklahoma’s premier cultural and intellectual centers. Home to the sprawling campus of the University of Oklahoma (OU) and the world-renowned National Weather Center, Norman offers an exceptional blend of collegiate vibrancy, historic character, and growing suburban neighborhoods. From the stately historic homes and Craftsman bungalows of the Miller and Chautauqua Historic Districts near Campus Corner to the mid-century ranches of Core Norman and the sprawling modern executive estates of Brookhaven, Carrington Place, and Hall Park, Norman boasts an enviable and diverse residential housing stock.
 
 Yet beneath Norman’s tree-lined avenues and bustling university town charm lies one of the most severe meteorological environments in North America: **the dead center of Oklahoma’s "Tornado Alley," where violent convective supercells routinely drop baseball-sized hail, straight-line thunderstorm microbursts exceed 75 mph, summer heatwaves bake attics past 160°F, and severe seasonal moisture swings in expansive Permian red clay shift foundations and shear roof flashings apart**.

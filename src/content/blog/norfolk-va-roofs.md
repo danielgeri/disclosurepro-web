@@ -5,8 +5,6 @@ pubDate: "Oct 16 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Norfolk Real Estate Disclosures
-
 Anchoring the dynamic Hampton Roads metropolitan region alongside the world’s largest naval base, Norfolk is a storied maritime city where centuries of naval history merge with cultural sophistication and coastal beauty. From the cobblestone streets, gas lanterns, and Federal-style row houses of the historic Freemason District and the grand Queen Anne, Colonial Revival, and Victorian residences of Ghent to the waterfront cottages of Ocean View, the stately mansions of Larchmont, and the vibrant coastal new-urbanism of East Beach, Norfolk boasts some of the most distinctive and historic residential architecture in the Mid-Atlantic.
 
 However, Norfolk’s low-lying coastal geography exposes residential roofing to an extraordinarily punishing maritime environment: **ferocious Atlantic nor'easters, tropical storm remnants with sustained 65-mph winds, corrosive airborne salt spray that disintegrates metal flashings and fasteners, and torrential wind-driven rain**. In Norfolk, where historic homes frequently feature 100-year-old slate roofs, internal concealed box gutters, and flat built-up membranes, environmental degradation can quietly destroy roof rafters and cornice woodwork behind freshly painted facades.

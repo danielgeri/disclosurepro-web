@@ -5,8 +5,6 @@ pubDate: "Oct 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Sunrise Manor Real Estate Disclosures
-
 Nestled against the rugged western slopes of Frenchman Mountain in the eastern Las Vegas Valley, Sunrise Manor is one of Clark County’s most populous unincorporated communities. Offering sweeping panoramic views of the glittering Las Vegas Strip and convenient access to Nellis Air Force Base, Sunrise Manor has become an attractive destination for homebuyers seeking attainable suburban living, spacious lot sizes, and varied architectural styles. The residential landscape includes established single-family neighborhoods like Winterwood and Orchard Mesa, featuring classic 1970s and 1980s ranch-style homes, as well as expansive 1990s and 2000s master-planned developments boasting Spanish-style barrel tile and modern concrete flat-tile roofs.
 
 However, Sunrise Manor’s harsh Mojave Desert climate subjects residential roofing assemblies to extreme physical degradation. Located in a low-desert valley, roofs must endure **blistering summer heat waves with temperatures frequently exceeding 115°F, intense year-round ultraviolet (UV) radiation, severe diurnal temperature fluctuations, and sudden, violent North American Monsoon thunderstorms with microburst winds topping 70 mph**. While concrete and clay tile roofs are visually durable and commonly perceived as indestructible, the hidden asphalt-saturated organic felt underlayment beneath them bakes, cracks, and deteriorates rapidly under desert conditions, setting the stage for catastrophic hidden water leaks.

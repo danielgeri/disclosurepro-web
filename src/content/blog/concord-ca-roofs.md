@@ -5,8 +5,6 @@ pubDate: "Nov 01 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Concord Real Estate Disclosures
-
 Nestled in the picturesque Diablo Valley of Contra Costa County, Concord is one of the East Bay's most vibrant, family-friendly communities. Under the majestic silhouette of Mount Diablo, Concord features a rich architectural landscape spanning decades of California suburban design. From the classic 1950s Cliff May and mid-century modern ranch homes of Dana Estates, Sun Terrace, and Canterbury Village to the sprawling custom ranch estates of Clayton Valley Highlands, Holbrook Heights, and the premier executive residences of Crystyl Ranch and Turtle Creek, Concord offers exceptional suburban living.
 
 Yet behind Concord's sunny parks and quiet cul-de-sacs lies a punishing physical environment that takes a massive toll on residential roof assemblies: **scorching Diablo Valley summer heatwaves regularly exceeding 100°F that bake attics past 160°F, ferocious seasonal "Diablo Winds" channeling 60+ mph dry gusts down mountain slopes, chronic ponding on mid-century flat roof additions, and sudden winter atmospheric river storms that overwhelm brittle, compromised roofing membranes**.

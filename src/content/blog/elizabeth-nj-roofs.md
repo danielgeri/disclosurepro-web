@@ -5,8 +5,6 @@ pubDate: "Oct 31 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Elizabeth Real Estate Disclosures
-
 Positioned along the bustling Arthur Kill and Newark Bay waterfront in Union County, Elizabeth is one of New Jersey's oldest, most historically significant, and commercially vital cities. Renowned for its rich colonial heritage, vibrant transit connectivity to Manhattan, and diverse urban neighborhoods, Elizabeth presents a rich mosaic of architectural styles. From the grand pre-war single-family residences, brick Tudors, and center-hall Colonials of Elmora and Westminster to the multi-family two- and three-family flat-and-gable properties of Peterstown, Bayway, Midtown, and North Elizabeth, the city's housing stock reflects decades of American architectural evolution.
 
 Yet behind Elizabeth’s storied streetscapes and active neighborhoods lies a severe Mid-Atlantic coastal environment: **ferocious winter nor'easters delivering heavy wet snow and hurricane-force gusts, relentless industrial-marine atmospheric salt and chemical corrosion from Newark Bay, deep-freeze cycles that trigger destructive ice damming, and aging pre-war roof framing burdened by illegal multiple-layer shingle overlays**.

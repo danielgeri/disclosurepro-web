@@ -1,11 +1,9 @@
 ---
-title: "The Ultimate Guide to Spotting Roof Damage in Columbus Real Estate Disclosures"
+title: "The Ultimate Guide to Spotting Roof Damage in Columbus, OH Real Estate Disclosures"
 description: "Buying a home in Columbus, OH? Learn how to uncover hidden ice dam rot, historic slate roof failures, and deceptive seller disclosures on Central Ohio properties."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/columbus_hero_1785905679538.jpg"
 ---
-
-# The Ultimate Guide to Spotting Roof Damage in Columbus Real Estate Disclosures
 
 Columbus is one of the Midwest’s fastest-growing and most resilient real estate markets. As Ohio’s capital and an economic powerhouse driven by technology, finance, and higher education, the city boasts an incredible variety of architectural heritage. From the restored 19th-century brick cottages with historic slate roofs in German Village and the ornate Queen Anne mansions of Victorian Village to the charming Craftsman bungalows of Clintonville, the mid-century ranches of Upper Arlington, and the urban townhomes of the Short North, Columbus offers homebuyers exceptional character.
 

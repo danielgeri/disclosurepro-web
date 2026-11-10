@@ -5,8 +5,6 @@ pubDate: "Oct 14 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Saint Paul Real Estate Disclosures
-
 Saint Paul is celebrated for its historic grandeur, tree-lined boulevards, and one of the finest collections of late-nineteenth and early-twentieth-century residential architecture in the nation. From the magnificent Gilded Age mansions and Queen Anne Victorians of Summit Hill, Crocus Hill, and Cathedral Hill to the charming Craftsman bungalows and Tudors of Macalester-Groveland, Highland Park, and Como Park, Minnesota's capital city showcases extraordinary craftsmanship.
 
 However, beneath these picturesque steep gables, slate turrets, and intricate dormers lies a brutal climate that subjects residential roofs to extreme stress: **sub-zero winter temperatures reaching -20°F and lower, cumulative snowfalls exceeding 50 to 80 inches, massive eave ice damming, and severe attic condensation known as "attic frost" or "attic rain"**. In Saint Paul, heat loss through older ceilings combined with intense freeze-thaw cycles creates severe risks of structural framing decay and catastrophic water intrusion.

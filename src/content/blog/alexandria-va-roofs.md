@@ -5,8 +5,6 @@ pubDate: "Oct 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Alexandria Real Estate Disclosures
-
 Perched along the western bank of the Potomac River directly across from Washington, D.C., the independent city of Alexandria, Virginia, represents one of America's most historic and prestigious residential markets. From the cobblestone streets and authentic 18th- and 19th-century Georgian and Federal rowhouses of Old Town to early 20th-century Craftsman bungalows in Del Ray, stately brick colonials in Rosemont and Beverley Hills, and mid-century residences along Seminary Hill, Alexandria commands top-tier real estate values.
 
 However, behind Alexandria’s colonial charm and brick-paved sidewalks lies a challenging Mid-Atlantic microclimate paired with complex historical architecture: **destructive winter freeze-thaw cycles, Potomac River humidity, severe convective summer storm microbursts, and rigid regulatory oversight from the City of Alexandria Board of Architectural Review (BAR)**.

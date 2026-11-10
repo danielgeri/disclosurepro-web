@@ -5,8 +5,6 @@ pubDate: "Oct 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Pomona Real Estate Disclosures
-
 Positioned strategically at the eastern gateway of Los Angeles County bordering the Inland Empire, Pomona is a historic and dynamic city characterized by diverse residential architecture. From the grand Victorian, Craftsman, and Spanish Colonial Revival residences in the Lincoln Park Historic District and Wilton Heights to mid-century ranches in Ganesha Hills and modern master-planned developments in Phillips Ranch, Pomona offers accessible Southern California living with rich cultural roots.
 
 However, behind Pomona’s sunny valley skies and picturesque mountain backdrops lies an intensely punishing physical environment for residential roofing systems: **fierce seasonal Santa Ana windstorms howling through mountain passes, triple-digit summer thermal baking, seismic micro-fault racking along the active San Jose Fault, and strict California Title 24 energy mandates**.

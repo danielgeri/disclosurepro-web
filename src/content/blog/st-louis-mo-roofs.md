@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in St. Louis Real Estate Disclosures
-
 St. Louis boasts one of the most distinctive and architecturally significant historic brick housing stocks in the United States. From the grand Victorian mansions of Lafayette Square and the Central West End to the historic brick townhomes and two-flats of Soulard, Tower Grove South, and Compton Heights, St. Louis residential real estate is celebrated for its historic craftsmanship.
 
 However, beneath the decorative corbelled brickwork and limestone lintels lies an intricate roofing infrastructure that bears the full force of the Midwest’s volatile climate: **historic slate tiles, built-in wooden box gutters, and masonry parapet flat roofs**. In St. Louis, severe convective thunderstorms frequently unleash damaging hail and 70-mph straight-line winds, while harsh winter blizzards and rapid freeze-thaw cycles subject aging roof assemblies to extreme physical stress.

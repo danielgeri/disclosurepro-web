@@ -5,8 +5,6 @@ pubDate: "Oct 17 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in North Las Vegas Real Estate Disclosures
-
 Framed by the rugged backdrop of the Sheep Mountain Range in the northern expanse of the Las Vegas Valley, North Las Vegas has evolved into one of the most dynamic and rapidly expanding residential hubs in the American Mountain West. Characterized by expansive master-planned communities, modern recreational amenities, and convenient access to the regional economic corridor, the city offers tremendous appeal for growing families, military service members stationed at Nellis Air Force Base, and relocating professionals. From the lush golf fairways and manicured parks of Aliante and Eldorado to the contemporary developments of Valley Vista, Craig Ranch, and Tule Springs, North Las Vegas boasts a modern and attractive housing stock.
 
 However, beneath the pristine stucco walls and terracotta rooflines of North Las Vegas lies an intensely punishing desert environment that inflicts severe hidden damage on residential roofing assemblies: **relentless Mojave Desert summer heat regularly exceeding 115°F, intense solar ultraviolet radiation index ratings of 11+, violent summer monsoon downpours, and abrasive high-velocity desert windstorms carrying gusts exceeding 65 mph**. In Clark County, concrete and clay tile roofs frequently appear immaculate from street level while concealing completely disintegrated, calcified waterproofing underlayment right above the wooden roof deck.

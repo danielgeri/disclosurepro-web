@@ -5,8 +5,6 @@ pubDate: "Oct 18 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Des Moines Real Estate Disclosures
-
 Positioned at the scenic confluence of the Des Moines and Raccoon rivers, Des Moines stands as the proud capital and economic heartbeat of Iowa. Renowned as a major global insurance and financial center with a thriving cultural scene and celebrated park system, Iowa's capital offers an exceptional quality of life. From the iconic, steeply pitched "Beaverdale brick" homes of the Beaverdale neighborhood and the magnificent historic estates of South of Grand and Waterbury to the ornate Victorian masterpieces of Sherman Hill and the welcoming tree-lined streets of Waveland Park, Des Moines showcases some of the finest residential architecture in the American Midwest.
 
 However, Central Iowa’s continental climate subjects residential roofs to some of the most violent and extreme weather forces in North America: **destructive Midwest derecho windstorms with straight-line winds exceeding 80 mph, severe convective spring hail storms that pulverize shingle matrices, sub-zero winter blizzards that spawn massive ice dams, and rapid spring freeze-thaw cycles**. In Des Moines, an architectural asphalt shingle or cedar shake roof can look charmingly sturdy from the street while hiding fractured fiberglass reinforcement mats, wind-lifted seams, waterlogged attic decking, and decaying structural rafters.

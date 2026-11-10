@@ -5,8 +5,6 @@ pubDate: "Oct 19 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Huntington Beach Real Estate Disclosures
-
 Renowned globally as "Surf City USA," Huntington Beach is one of coastal Orange County’s most iconic and desirable enclaves. Boasting 8.5 miles of uninterrupted shoreline, the city offers an exceptional array of residential lifestyles. From custom waterfront estates with private boat slips in Huntington Harbour and gated luxury golf communities in Seacliff to charming beach cottages in Old Town/Downtown and family-friendly suburban neighborhoods in Goldenwest, real estate values in Huntington Beach reflect its premier coastal appeal.
 
 However, owning property in Huntington Beach means contending with one of the most aggressive marine environments on the West Coast. Constant onshore winds carry **dense saline aerosols, heavy marine fog layers (May Gray and June Gloom), and high ambient moisture** directly across residential neighborhoods. This coastal cocktail attacks roofing assemblies from above and below: electro-galvanized roofing fasteners rust away in their sheathing, valley flashing develops microscopic corrosion pinholes, and prolonged moisture retention rots eaves, rafter tails, and tile underlayments.

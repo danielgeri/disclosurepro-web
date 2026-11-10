@@ -5,8 +5,6 @@ pubDate: "Oct 13 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in West Raleigh Real Estate Disclosures
-
 West Raleigh is one of the Triangle’s most sought-after residential enclaves. Centered around North Carolina State University, Meredith College, and scenic corridors like Hillsborough Street, Wade Avenue, and Blue Ridge Road, West Raleigh boasts an eclectic mix of charming 1940s colonial revivals, mid-century brick ranches in University Park, and newer modern builds near the PNC Arena. Shaded by majestic, century-old loblolly pines and mature southern hardwoods, the area offers a serene, wooded neighborhood atmosphere.
 
 However, that dense, picturesque tree canopy and the humid subtropical climate of the North Carolina Piedmont create an aggressive breeding ground for hidden roof destruction: **accumulated pine needle mats trapping acidic moisture, heavy organic moss infestation, severe thunderstorm microbursts, and tropical storm remnants**.

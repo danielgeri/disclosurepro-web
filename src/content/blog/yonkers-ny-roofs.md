@@ -5,8 +5,6 @@ pubDate: "Oct 19 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Yonkers Real Estate Disclosures
-
 Perched along the rolling hills overlooking the Hudson River in Westchester County, Yonkers is New York State’s third most populous city and one of the New York metropolitan area’s most architecturally rich residential communities. Homebuyers are drawn to Yonkers for its scenic river vistas, rapid commuter rail access to Grand Central Terminal, and exceptional housing stock—from the grand Gilded Age Victorians and Tudors of Park Hill and Lawrence Park West to charming brick colonials in Crestwood, pre-war cooperatives near Ludlow, and quiet suburban lanes in Dunwoodie.
 
 However, Yonkers’ dramatic topography and rugged northeastern climate subject residential roofs to relentless seasonal abuse. Positioned in the Hudson Valley storm corridor, Yonkers experiences **violent winter nor'easters, heavy lake-effect snow squalls, repetitive freeze-thaw cycles that drive catastrophic ice damming, and torrential summer thunderstorms**. When winter ice dams form along uninsulated eaves, meltwater is forced upward beneath shingles and historic slate tiles, saturating century-old timber framing and destroying historic lath-and-plaster interiors.

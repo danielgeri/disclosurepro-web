@@ -5,8 +5,6 @@ pubDate: "Oct 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-# The Ultimate Guide to Spotting Roof Damage in Salt Lake City Real Estate Disclosures
-
 Framed by the rugged, snow-capped peaks of the Wasatch Mountain Range to the east and the shimmering expanse of the Great Salt Lake to the west, Salt Lake City is Utah’s vibrant capital and the cultural and economic nexus of the Mountain West. Homebuyers are drawn to Salt Lake City for its extraordinary outdoor recreation, burgeoning technology sector, and diverse residential architectural styles. From the steep-gabled Victorian, Queen Anne, and Craftsman homes of The Avenues to the historic English cottages and brick Tudors of Yalecrest and Sugar House, the grand pre-war estates of Federal Heights, and sleek mid-century modern hillside residences along the East Bench and Foothill corridors, Salt Lake City offers exceptional residential variety.
 
 However, Salt Lake City’s high-altitude mountain valley climate subjects residential roofing systems to severe physical stresses. Sitting at an elevation ranging from 4,200 to over 5,200 feet, roofs along the Wasatch Front must withstand **heavy mountain snow loads, rapid freeze-thaw cycles that generate destructive ice damming, intense high-altitude ultraviolet radiation, extreme summer heat topping 100°F, and violent mountain canyon windstorms with gusts exceeding 75 mph**. When heavy snowpack accumulates on aging roofs or winter ice dams force standing meltwater upward beneath shingle courses, water silently rots structural decking, rusts fasteners, and causes severe interior water damage.
