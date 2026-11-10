@@ -5,7 +5,7 @@ pubDate: "Aug 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Texas real estate attorney and active broker representing homebuyers across Plano and Collin County, I regularly counsel clients through one of the most competitive housing markets in the Dallas-Fort Worth Metroplex. From the prestigious custom estates of Willow Bend, Kings Ridge, and Gleneagles to the established single-family neighborhoods of West Plano and Historic Downtown Plano, Collin County properties offer exceptional suburban living and quality construction.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most competitive housing markets in the Dallas-Fort Worth Metroplex. From the prestigious custom estates of Willow Bend, Kings Ridge, and Gleneagles to the established single-family neighborhoods of West Plano and Historic Downtown Plano, Collin County properties offer exceptional suburban living and quality construction.
 
 However, North Texas's humid subtropical climate, combined with our notorious expansive "black gumbo" clay soil, creates ideal conditions for wood-destroying subterranean termites. Severe seasonal soil expansion and contraction create micro-fractures in concrete slabs, allowing subterranean termites to bypass exterior chemical barriers and tunnel through foundation expansion joints directly into interior structural wall framing. Understanding Texas's statutory disclosure mandates under Texas Property Code § 5.008, knowing how to interpret Texas Official WDI reports, and identifying evasive seller language are vital due diligence steps for every Plano homebuyer.
 

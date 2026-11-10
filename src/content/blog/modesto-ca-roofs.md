@@ -11,7 +11,7 @@ However, Modesto's distinct Central Valley climate creates an unforgiving enviro
 
 Navigating property condition disclosures in California is governed by an extensive consumer protection framework under the California Civil Code. Sellers of residential property are legally obligated to execute detailed disclosure forms revealing all known physical defects. However, understanding what sellers are required to disclose—and recognizing when subtle disclosures hint at catastrophic underlying roof failures—is essential for any prudent buyer.
 
-As an experienced California real estate attorney and Central Valley advisor, I frequently see homebuyers fall in love with a spacious Modesto ranch home, only to discover thousands of dollars in hidden dry rot and unpermitted roofing work after the first heavy winter rain. In this comprehensive guide, we examine the forces that degrade Modesto roofs, decode California’s Transfer Disclosure Statement (TDS), reveal common disclosure pitfalls, and provide the legal insights you need to protect your transaction.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers fall in love with a spacious Modesto ranch home, only to discover thousands of dollars in hidden dry rot and unpermitted roofing work after the first heavy winter rain. In this comprehensive guide, we examine the forces that degrade Modesto roofs, decode California’s Transfer Disclosure Statement (TDS), reveal common disclosure pitfalls, and provide the legal insights you need to protect your transaction.
 
 ---
 

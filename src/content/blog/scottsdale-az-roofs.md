@@ -11,7 +11,7 @@ Yet, beneath Scottsdale’s sun-drenched stucco facades and uniform Spanish tile
 
 Navigating property condition disclosures in Arizona demands both technical roofing acumen and rigorous legal scrutiny. While Arizona disclosure law obligates sellers to disclose known material conditions affecting property value, sellers frequently obscure latent structural and roof decay behind innocuous boilerplate like "tile tune-up completed prior to listing," "routine seasonal maintenance performed," or "minor cracked tiles replaced."
 
-As a practicing Arizona real estate attorney and active Maricopa County broker, I regularly counsel homebuyers who acquire a multimillion-dollar Scottsdale residence, only to watch tens of thousands of gallons of monsoon rainwater inundate custom vaulted ceilings because the original builder-grade tile underlayment had baked into brittle ash. In this comprehensive guide, we dissect why Scottsdale roofs deteriorate, decode the Arizona Residential Seller’s Property Disclosure Statement (SPDS), examine how sellers conceal latent roof failures, and provide the legal strategies you need to safeguard your transaction.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who acquire a multimillion-dollar Scottsdale residence, only to watch tens of thousands of gallons of monsoon rainwater inundate custom vaulted ceilings because the original builder-grade tile underlayment had baked into brittle ash. In this comprehensive guide, we dissect why Scottsdale roofs deteriorate, decode the Arizona Residential Seller’s Property Disclosure Statement (SPDS), examine how sellers conceal latent roof failures, and provide the legal strategies you need to safeguard your transaction.
 
 ---
 

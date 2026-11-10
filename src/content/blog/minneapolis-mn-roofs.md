@@ -11,7 +11,7 @@ Yet, beneath these picturesque gables, dormers, and snow-dusted rooflines lies a
 
 Minneapolis endures months of sub-zero temperatures, intense freeze-thaw cycles, heavy cumulative snow loads, and violent springtime thunderstorm and hail swarms. Because older Minneapolis residences often suffer from inadequate attic insulation, compromised vapor barriers, and complicated roof valleys, catastrophic ice damming and moisture infiltration frequently occur undetected beneath outer shingles.
 
-As a practicing Minnesota real estate attorney and active Twin Cities broker, I frequently represent buyers who discover tens of thousands of dollars in hidden roof rot, structural rafter deflection, and mold damage shortly after closing. In this comprehensive guide, we examine the physics of winter roof destruction in Hennepin County, dissect Minnesota’s statutory Seller’s Property Disclosure requirements, and show you how to spot hidden warning signs in disclosure documentation.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who discover tens of thousands of dollars in hidden roof rot, structural rafter deflection, and mold damage shortly after closing. In this comprehensive guide, we examine the physics of winter roof destruction in Hennepin County, dissect Minnesota’s statutory Seller’s Property Disclosure requirements, and show you how to spot hidden warning signs in disclosure documentation.
 
 ---
 

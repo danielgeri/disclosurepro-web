@@ -11,7 +11,7 @@ However, beneath Atlanta’s scenic urban forest lies a continuous, aggressive s
 
 Atlanta’s subtropical humidity, severe spring thunderstorm downpours, hurricane remnants blowing inland from the Gulf and Atlantic, and constant drop of acidic pine needles create ideal conditions for premature roof failure. Because many Atlanta homes feature steep pitches, multi-level cross-gables, and heavy shade cover, catastrophic roof decay is frequently concealed until moisture penetrates attic rafters and rots structural framing.
 
-As a practicing Georgia real estate attorney and active Atlanta broker, I have represented numerous buyers left facing devastating five-figure repair bills because they failed to properly decode the seller's property disclosure. In this comprehensive guide, we dissect the mechanics of roof degradation in Fulton and DeKalb counties, examine Georgia’s *caveat emptor* disclosure rules and the GAR F301 form, and show you how to protect your investment during the due diligence period.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigateed numerous buyers left facing devastating five-figure repair bills because they failed to properly decode the seller's property disclosure. In this comprehensive guide, we dissect the mechanics of roof degradation in Fulton and DeKalb counties, examine Georgia’s *caveat emptor* disclosure rules and the GAR F301 form, and show you how to protect your investment during the due diligence period.
 
 ---
 

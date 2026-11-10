@@ -9,7 +9,7 @@ Bordering the scenic Pacific coastline in Ventura County, Oxnard is celebrated f
 
 Yet, Oxnard’s coastal geography presents harsh environmental challenges for residential roofing systems. The city sits directly in the path of the relentless **coastal marine layer**, experiencing dense morning fog, persistent high humidity, and airborne ocean salts carried by brisk Pacific breezes. When airborne chlorides react with metal flashing and roofing fasteners, and trapped coastal moisture accelerates wood rot under Spanish tile and asphalt shingle assemblies, roofing materials degrade at nearly twice the rate observed in dry inland communities.
 
-As an active California real estate attorney and coastal Ventura County real estate broker, I regularly counsel homebuyers who discover extensive water intrusion and rotted roof decks shortly after taking title. In this comprehensive guide, we unpack the mechanics of coastal roof deterioration in Oxnard, dissect California statutory disclosure mandates under Civil Code § 1102, discuss the challenges of manual disclosure packet review, and provide actionable guidance to safeguard your purchase.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who discover extensive water intrusion and rotted roof decks shortly after taking title. In this comprehensive guide, we unpack the mechanics of coastal roof deterioration in Oxnard, dissect California statutory disclosure mandates under Civil Code § 1102, discuss the challenges of manual disclosure packet review, and provide actionable guidance to safeguard your purchase.
 
 ---
 

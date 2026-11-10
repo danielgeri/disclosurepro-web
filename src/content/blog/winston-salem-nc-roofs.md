@@ -11,7 +11,7 @@ However, Winston-Salem’s lush, wooded Piedmont landscape conceals a punishing 
 
 Navigating real estate disclosures in North Carolina requires legal sophistication: **North Carolina is fundamentally a *caveat emptor* (buyer beware) state with a distinctive statutory twist**. Under the North Carolina Residential Property Disclosure Act, sellers are legally permitted to select "No Representation" on every question, shifting the entire financial and investigatory burden onto the homebuyer.
 
-As an experienced North Carolina real estate attorney and active Piedmont Triad broker, I regularly represent homebuyers who acquire a classic Winston-Salem property, only to discover tens of thousands of dollars in hidden timber rot, saturated rafter tails, and failing metal valleys during their first major Piedmont rainstorm. In this comprehensive guide, we dissect why roofs fail across Winston-Salem, decode North Carolina disclosure requirements under N.C. Gen. Stat. § 47E, reveal how sellers exploit disclosure loopholes, and provide the exact framework you need to protect your investment.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who acquire a classic Winston-Salem property, only to discover tens of thousands of dollars in hidden timber rot, saturated rafter tails, and failing metal valleys during their first major Piedmont rainstorm. In this comprehensive guide, we dissect why roofs fail across Winston-Salem, decode North Carolina disclosure requirements under N.C. Gen. Stat. § 47E, reveal how sellers exploit disclosure loopholes, and provide the exact framework you need to protect your investment.
 
 ---
 

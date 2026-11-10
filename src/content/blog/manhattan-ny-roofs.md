@@ -9,7 +9,7 @@ Manhattan real estate represents the pinnacle of luxury, prestige, and architect
 
 In Manhattan, a roof is far more than a simple weather barrier. It is a highly engineered, complex industrial surface that hosts HVAC chillers, elevator bulkheads, water tanks, cell towers, and private landscaped roof terraces. Subjected to harsh Atlantic freeze-thaw cycles, driving coastal Nor'easters, and stringent New York City Department of Buildings (DOB) regulations, an undetected roofing defect in Manhattan can rapidly result in a six-figure emergency assessment or repair nightmare.
 
-As an experienced New York real estate attorney and active Manhattan luxury broker, I have seen buyers navigate the closing table only to face catastrophic water intrusion, Department of Buildings stop-work orders, and contentious litigation within months. In this comprehensive guide, we will unpack the mechanics of Manhattan roof failures, dissect New York State's newly mandated disclosure laws, and reveal how to spot deceptive phrasing in seller disclosure documents.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigaten buyers navigate the closing table only to face catastrophic water intrusion, Department of Buildings stop-work orders, and contentious litigation within months. In this comprehensive guide, we will unpack the mechanics of Manhattan roof failures, dissect New York State's newly mandated disclosure laws, and reveal how to spot deceptive phrasing in seller disclosure documents.
 
 ---
 

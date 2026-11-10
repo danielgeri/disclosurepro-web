@@ -5,7 +5,7 @@ pubDate: "Sep 16 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an active California real estate attorney and seasoned broker representing buyers throughout Southeast Los Angeles County, I frequently guide homebuyers through property purchases in Norwalk. Situated in the heart of the Gateway Cities region between the San Gabriel River and Coyote Creek, Norwalk offers convenient transportation access along the I-5 and I-105 corridors, vibrant community parks, and diverse residential pockets. From the classic post-war single-family neighborhoods of Studebaker, Carmenita, and Holifield Park to the established properties around Civic Center and Oneonta Park, Norwalk provides accessible Southern California homeownership.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers through property purchases in Norwalk. Situated in the heart of the Gateway Cities region between the San Gabriel River and Coyote Creek, Norwalk offers convenient transportation access along the I-5 and I-105 corridors, vibrant community parks, and diverse residential pockets. From the classic post-war single-family neighborhoods of Studebaker, Carmenita, and Holifield Park to the established properties around Civic Center and Oneonta Park, Norwalk provides accessible Southern California homeownership.
 
 However, beneath Norwalk's suburban tranquility, mature ficus trees, and stucco exteriors lies a persistent structural threat: wood-destroying termites. Positioned in the low-lying coastal plain of the Los Angeles Basin, Norwalk is subject to both subterranean termites (*Reticulitermes hesperus*) foraging in moist alluvial subsoils and drywood termites (*Incisitermes minor*) invading attic rafters and exposed eaves. 
 

@@ -5,7 +5,7 @@ pubDate: "Sep 06 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced South Carolina real estate attorney and active broker representing residential buyers across Richland County and the South Carolina Midlands, I regularly guide clients through home purchases in Columbia, South Carolina. Known as the "Famously Hot" capital city, Columbia offers a rich architectural tapestry—ranging from historic 1920s Craftsman bungalows and grand southern colonials in Shandon, Cottontown, and Elmwood to mid-century brick ranches in Rosewood and Forest Acres, alongside newer suburban developments near Lake Murray.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through home purchases in Columbia, South Carolina. Known as the "Famously Hot" capital city, Columbia offers a rich architectural tapestry—ranging from historic 1920s Craftsman bungalows and grand southern colonials in Shandon, Cottontown, and Elmwood to mid-century brick ranches in Rosewood and Forest Acres, alongside newer suburban developments near Lake Murray.
 
 However, behind scenic wrap-around verandas, majestic live oaks, and beautifully renovated interiors lies one of the most aggressive property threats in the American Southeast: wood-destroying termites. In the South Carolina Midlands, termite damage is not a speculative risk—it is an absolute certainty of homeownership. Columbia’s humid subtropical climate, intense summer heat exceeding 100°F, heavy annual rainfall, and damp river basin crawlspaces create an ideal breeding ground for both native Eastern Subterranean Termites and devastating Formosan Subterranean Termites.
 

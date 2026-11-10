@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Indiana real estate attorney and active broker representing homebuyers across Fort Wayne and Allen County, I regularly guide clients through one of the most stable and architectural property markets in the Midwest. From the magnificent Queen Anne and Richardsonian Romanesque residences of the historic West Central neighborhood and the tree-lined streets of Southwood Park and Wildwood Park to the charming brick ranches of North Anthony and the modern suburban developments of Aboite Township, Fort Wayne offers exceptional housing diversity and value.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most stable and architectural property markets in the Midwest. From the magnificent Queen Anne and Richardsonian Romanesque residences of the historic West Central neighborhood and the tree-lined streets of Southwood Park and Wildwood Park to the charming brick ranches of North Anthony and the modern suburban developments of Aboite Township, Fort Wayne offers exceptional housing diversity and value.
 
 However, Fort Wayne's geographic location at the confluence of the St. Joseph, St. Marys, and Maumee Rivers creates substantial subterranean moisture levels throughout Allen County. High river-valley water tables, dense glacial till and clay soils, and century-old timber framing resting on porous brick and stone foundations produce an ideal environment for subterranean termites. Navigating Indiana's statutory disclosure requirements under Ind. Code § 32-21-5, understanding seller liability doctrines, and identifying concealed structural damage are critical due diligence steps for every Fort Wayne homebuyer.
 

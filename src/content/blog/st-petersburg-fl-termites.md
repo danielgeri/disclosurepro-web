@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Florida real estate attorney and active broker representing homebuyers across St. Petersburg and Pinellas County, I regularly guide clients through one of the most picturesque coastal housing markets in the Sunshine State. From the historic 1920s Craftsman bungalows of Historic Kenwood and Euclid St. Paul to the Mediterranean Revival and waterfront estates of Historic Old Northeast, Snell Isle, and Crescent Lake, St. Petersburg offers premier coastal architecture.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most picturesque coastal housing markets in the Sunshine State. From the historic 1920s Craftsman bungalows of Historic Kenwood and Euclid St. Paul to the Mediterranean Revival and waterfront estates of Historic Old Northeast, Snell Isle, and Crescent Lake, St. Petersburg offers premier coastal architecture.
 
 However, St. Petersburg's coastal peninsula environment—bordered by Tampa Bay and the Gulf of Mexico—creates an extreme hazard zone for wood-destroying organisms. The combination of intense tropical humidity, high water tables, and aging timber housing stock exposes properties to relentless attacks from native subterranean termites, invasive Formosan termites, and West Indian drywood termites. Navigating Florida's disclosure laws under the landmark *Johnson v. Davis* doctrine, evaluating Florida Association of Realtors disclosure forms, and decoding ambiguous seller representations are essential due diligence steps for every St. Petersburg homebuyer.
 

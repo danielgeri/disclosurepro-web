@@ -11,7 +11,7 @@ However, behind the lush tree-lined streets and historic Art Deco influences lie
 
 Green Country weather routinely swings from scorching triple-digit summer heatwaves to violent supercell thunderstorms producing baseball-sized hail and 80-to-100 mph straight-line wind gusts (such as the historic June 2023 Father's Day Derecho). Because many Tulsa homes feature steep gables, intricate valleys, or multi-layered asphalt shingles, critical impact bruising and wind-torn sealant strips frequently remain hidden from prospective buyers.
 
-As a practicing Oklahoma real estate attorney and active Tulsa broker, I frequently counsel homebuyers who inherit catastrophic roof damage and uninsurable properties within weeks of closing. In this comprehensive guide, we dissect the engineering of severe convective storm damage in Tulsa County, analyze the Oklahoma Residential Property Condition Disclosure Act, and reveal how to spot deceptive seller disclosures before closing.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who inherit catastrophic roof damage and uninsurable properties within weeks of closing. In this comprehensive guide, we dissect the engineering of severe convective storm damage in Tulsa County, analyze the Oklahoma Residential Property Condition Disclosure Act, and reveal how to spot deceptive seller disclosures before closing.
 
 ---
 

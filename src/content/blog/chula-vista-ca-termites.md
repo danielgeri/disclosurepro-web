@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced California real estate attorney and active broker representing homebuyers and investors across Chula Vista and San Diego's South Bay, I regularly guide clients through one of the most desirable housing markets in Southern California. From the classic mid-century homes and historic Craftsman residences near the vibrant Third Avenue Village in Northwest Chula Vista to the sprawling master-planned communities of Rancho del Rey, Eastlake, Otay Ranch, and Rolling Hills Ranch, Chula Vista offers exceptional residential choices.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most desirable housing markets in Southern California. From the classic mid-century homes and historic Craftsman residences near the vibrant Third Avenue Village in Northwest Chula Vista to the sprawling master-planned communities of Rancho del Rey, Eastlake, Otay Ranch, and Rolling Hills Ranch, Chula Vista offers exceptional residential choices.
 
 However, Chula Vista's coastal Mediterranean climate, heavy morning marine layer humidity, and arid inland canyons create an environment where wood-destroying pests thrive. Homebuyers in San Diego County must contend with both subterranean termites living in adobe clay soils and aggressive drywood termites colonizing attic rafters and exterior wood trim. Navigating California's statutory disclosure requirements under California Civil Code § 1102, deciphering the Real Estate Transfer Disclosure Statement (TDS), and interpreting Structural Pest Control Board (SPCB) inspection reports are indispensable due diligence steps for every Chula Vista homebuyer.
 

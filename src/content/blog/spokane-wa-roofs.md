@@ -11,7 +11,7 @@ Yet, Spokane's unique four-season continental climate poses severe, unrelenting 
 
 Navigating property condition disclosures in Washington State is governed by strict statutory rules. Under the Revised Code of Washington (RCW), residential sellers are required to deliver a comprehensive disclosure questionnaire outlining known structural and roofing defects. However, discovering the true condition of a roof requires looking beyond polite boilerplate answers and cross-referencing technical reports with physical evidence.
 
-As a practicing Washington real estate attorney and active Spokane broker, I regularly represent buyers who purchase a charming South Hill Craftsman or vintage North Side bungalow, only to encounter thousands of dollars in water damage during their first Inland Northwest winter thaw. In this comprehensive guide, we examine why Spokane roofs succumb to winter weather, decode Washington Form 17 disclosure rules, expose common disclosure blind spots, and share essential strategies to safeguard your transaction.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who purchase a charming South Hill Craftsman or vintage North Side bungalow, only to encounter thousands of dollars in water damage during their first Inland Northwest winter thaw. In this comprehensive guide, we examine why Spokane roofs succumb to winter weather, decode Washington Form 17 disclosure rules, expose common disclosure blind spots, and share essential strategies to safeguard your transaction.
 
 ---
 

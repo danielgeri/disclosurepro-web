@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Arizona real estate attorney and active broker representing homebuyers across Chandler and Maricopa County's East Valley, I regularly guide clients through one of the most dynamic real estate markets in the American Southwest. From the luxury lakefront properties of Ocotillo and Fulton Ranch to the established family neighborhoods of Warner Ranch, Pecos Ranch, and Andersen Springs, Chandler offers world-class master-planned communities and high property values.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most dynamic real estate markets in the American Southwest. From the luxury lakefront properties of Ocotillo and Fulton Ranch to the established family neighborhoods of Warner Ranch, Pecos Ranch, and Andersen Springs, Chandler offers world-class master-planned communities and high property values.
 
 However, Chandler's Sonoran Desert climate, intense summer heat, and widespread residential irrigation systems create an ideal habitat for subterranean termites. In the East Valley, subterranean termites forage relentlessly beneath concrete slab foundations, penetrating minute expansion joints and plumbing sleeves to hollow out interior wall studs and structural framing without leaving obvious exterior signs. Understanding Arizona's statutory and common law disclosure rules—anchored by the landmark termite case *Hill v. Jones*—deciphering the Residential Seller's Property Disclosure Statement (SPDS), and identifying evasive seller language are critical due diligence steps for every Chandler homebuyer.
 

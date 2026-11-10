@@ -11,7 +11,7 @@ However, behind the tropical breezes and panoramic ocean views lies an unforgivi
 
 Honolulu’s weather varies dramatically between microclimates—from the damp, misty rainfall zones of valley ridges to the sun-baked, salt-sprayed coastal plains. Because many Oahu homes feature single-wall construction, corrugated metal roofs, cedar shingles, unpermitted lanai roof tie-ins, or low-slope flat roofs, catastrophic moisture penetration and structural rafter decay frequently remain hidden from prospective buyers until torrential winter rains strike.
 
-As a practicing Hawaii real estate attorney and active Honolulu broker, I regularly represent buyers who inherit six-figure roofing nightmares shortly after closing on an island home. In this comprehensive guide, we dissect the engineering of tropical roof breakdown on Oahu, analyze Hawaii’s statutory disclosure laws under Chapter 508D, examine the City and County of Honolulu Department of Planning and Permitting (DPP) requirements, and reveal how to spot evasive seller disclosures.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who inherit six-figure roofing nightmares shortly after closing on an island home. In this comprehensive guide, we dissect the engineering of tropical roof breakdown on Oahu, analyze Hawaii’s statutory disclosure laws under Chapter 508D, examine the City and County of Honolulu Department of Planning and Permitting (DPP) requirements, and reveal how to spot evasive seller disclosures.
 
 ---
 

@@ -11,7 +11,7 @@ However, that dense, picturesque tree canopy and the humid subtropical climate o
 
 Even more treacherous for prospective homebuyers is the legal landscape of North Carolina real estate transactions. North Carolina is one of the few remaining strict *caveat emptor* ("buyer beware") states in the nation. Under state law, sellers are largely permitted to disclose almost nothing about the true condition of their roof.
 
-As a practicing North Carolina real estate attorney and seasoned local broker in Wake County, I frequently see unwary buyers acquire properties with roofs on the brink of total failure—only to find zero legal recourse after closing. In this comprehensive guide, we will analyze why roofs fail in West Raleigh, unravel North Carolina’s caveat emptor disclosure rules, and show you how to identify critical roof hazards before signing away your rights.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate unwary buyers acquire properties with roofs on the brink of total failure—only to find zero legal recourse after closing. In this comprehensive guide, we will analyze why roofs fail in West Raleigh, unravel North Carolina’s caveat emptor disclosure rules, and show you how to identify critical roof hazards before signing away your rights.
 
 ---
 

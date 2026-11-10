@@ -11,7 +11,7 @@ However, beneath Fort Wayne's welcoming Midwestern setting lies an aggressive cl
 
 Navigating real estate disclosures in Indiana requires legal diligence and technical skepticism. Although Indiana statutory law mandates that sellers complete a standardized disclosure form, Indiana remains fundamentally grounded in the doctrine of *caveat emptor* (buyer beware). Sellers routinely mask chronic leak histories behind vague boilerplate remarks like "roof serviced recently," "routine seasonal maintenance," or "minor flashing tune-up."
 
-As a practicing Indiana real estate attorney and active Allen County real estate broker, I regularly represent homebuyers who purchase a historic Fort Wayne property only to discover thousands of dollars in hidden timber rot, attic mold, and water damage within their first winter. In this comprehensive guide, we examine why roofs fail across Fort Wayne, decode Indiana disclosure requirements under Ind. Code § 32-21-5, expose how sellers conceal latent defects, and provide a clear strategy to protect your investment.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who purchase a historic Fort Wayne property only to discover thousands of dollars in hidden timber rot, attic mold, and water damage within their first winter. In this comprehensive guide, we examine why roofs fail across Fort Wayne, decode Indiana disclosure requirements under Ind. Code § 32-21-5, expose how sellers conceal latent defects, and provide a clear strategy to protect your investment.
 
 ---
 

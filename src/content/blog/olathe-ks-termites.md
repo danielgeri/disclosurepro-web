@@ -5,7 +5,7 @@ pubDate: "Sep 06 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Kansas real estate attorney and active broker representing residential buyers across Johnson County and the Kansas City metropolitan area, I frequently guide clients through home purchases in Olathe, Kansas. Boasting top-rated school districts, flourishing master-planned neighborhoods, and a diverse housing stock, Olathe is one of the Midwest’s most sought-after suburban communities. The local market features a blend of 1970s and 1980s split-levels in Mahaffie and Fairview, expansive two-story brick residences in Cedar Creek and Forest View, and modern developments bordering Heritage Park.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through home purchases in Olathe, Kansas. Boasting top-rated school districts, flourishing master-planned neighborhoods, and a diverse housing stock, Olathe is one of the Midwest’s most sought-after suburban communities. The local market features a blend of 1970s and 1980s split-levels in Mahaffie and Fairview, expansive two-story brick residences in Cedar Creek and Forest View, and modern developments bordering Heritage Park.
 
 However, behind welcoming front porches, manicured suburban lawns, and beautifully finished basements lies one of the most destructive property hazards in the Midwest: Eastern Subterranean Termites. In eastern Kansas, termite damage is not a rare anomaly—it is a continuous environmental threat. Olathe’s humid continental climate, marked by intense summer heat, torrential spring rains, and severe winter freeze-thaw cycles, combined with Johnson County’s notorious expansive clay soil, creates ideal pathways for subterranean termites to invade residential foundations.
 

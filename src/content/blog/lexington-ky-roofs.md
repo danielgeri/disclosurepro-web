@@ -11,7 +11,7 @@ However, beneath Lexington’s pastoral charm and stately magnolia canopies lies
 
 Navigating property condition disclosures in Kentucky demands both technical building acumen and acute legal vigilance. While Kentucky law mandates that residential sellers complete a statutory property disclosure form, sellers frequently conceal chronic roofing vulnerabilities behind vague, reassuring phrases like "routine seasonal maintenance completed," "minor chimney flashing sealed in 2024," or "roof inspected with no current leaks observed."
 
-As an experienced Kentucky real estate attorney and active Fayette County broker, I regularly counsel homebuyers who acquire a classic Lexington residence, only to discover tens of thousands of dollars in hidden roof rot and water devastation during their first winter ice storm or spring squall. In this comprehensive guide, we dissect why Lexington roofs deteriorate, decode the Kentucky Real Estate Commission (KREC) Seller's Disclosure of Property Condition under KRS 324.360, examine how sellers conceal latent defects, and provide the legal strategies you need to safeguard your transaction.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who acquire a classic Lexington residence, only to discover tens of thousands of dollars in hidden roof rot and water devastation during their first winter ice storm or spring squall. In this comprehensive guide, we dissect why Lexington roofs deteriorate, decode the Kentucky Real Estate Commission (KREC) Seller's Disclosure of Property Condition under KRS 324.360, examine how sellers conceal latent defects, and provide the legal strategies you need to safeguard your transaction.
 
 ---
 

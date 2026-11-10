@@ -11,7 +11,7 @@ However, Madison’s picturesque four-lake setting conceals a brutal Upper Midwe
 
 Navigating real estate disclosures in Wisconsin requires statutory literacy and forensic diligence. While Wisconsin law strictly mandates the disclosure of known structural and roof defects, sellers routinely gloss over chronic ice dam damage and roof deck rot with comforting euphemisms like "heat cables installed for winter maintenance," "minor seasonal attic condensation," or "roof inspected prior to listing."
 
-As a practicing Wisconsin real estate attorney and active Dane County broker, I regularly represent homebuyers who close on a classic Madison residence, only to watch water cascade through historic horsehair plaster ceilings during their first January thaw. In this comprehensive guide, we examine why roofs fail across South Central Wisconsin, decode Wisconsin disclosure requirements under Wisconsin Statutes Chapter 709, reveal how sellers conceal roof defects, and provide the legal strategies you need to protect your investment.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who close on a classic Madison residence, only to watch water cascade through historic horsehair plaster ceilings during their first January thaw. In this comprehensive guide, we examine why roofs fail across South Central Wisconsin, decode Wisconsin disclosure requirements under Wisconsin Statutes Chapter 709, reveal how sellers conceal roof defects, and provide the legal strategies you need to protect your investment.
 
 ---
 

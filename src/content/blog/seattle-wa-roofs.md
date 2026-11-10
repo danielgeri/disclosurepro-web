@@ -11,7 +11,7 @@ Yet, Seattle’s world-famous emerald greenery comes at a well-known price: **re
 
 Seattle records over 150 days of precipitation annually. While the city rarely experiences the torrential cloudbursts common to the Gulf Coast, it endures eight continuous months of persistent drizzle, heavy cloud cover, and cool dampness. Under these conditions, residential roofs rarely have the opportunity to completely dry out. This prolonged saturation transforms roofing assemblies into prime real estate for moss, lichen, and wood-destroying fungi. When combined with historical architectural details like cedar shakes and low-slope roof lines, overlooking vague language in seller disclosures can leave Seattle buyers facing tens of thousands of dollars in unanticipated structural repairs.
 
-As a practicing Washington real estate attorney and local Seattle broker, I have represented numerous buyers who discovered devastating roof rot weeks after moving into their new home. In this comprehensive guide, we explore the mechanics of Pacific Northwest roof deterioration, break down Washington’s statutory Form 17 disclosure requirements, and highlight the red flags you must catch before your inspection contingency expires.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigateed numerous buyers who discovered devastating roof rot weeks after moving into their new home. In this comprehensive guide, we explore the mechanics of Pacific Northwest roof deterioration, break down Washington’s statutory Form 17 disclosure requirements, and highlight the red flags you must catch before your inspection contingency expires.
 
 ---
 

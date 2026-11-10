@@ -5,7 +5,7 @@ pubDate: "Aug 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced North Carolina real estate attorney and active broker representing homebuyers across Greensboro and Guilford County, I regularly guide clients through our vibrant Piedmont Triad housing market. From the historic Craftsman bungalows and Colonial Revival homes of Fisher Park, Lindley Park, and Sunset Hills to the stately traditional properties of Old Irving Park and Starmount Forest, Greensboro offers rich architectural character and mature tree-lined streets.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through our vibrant Piedmont Triad housing market. From the historic Craftsman bungalows and Colonial Revival homes of Fisher Park, Lindley Park, and Sunset Hills to the stately traditional properties of Old Irving Park and Starmount Forest, Greensboro offers rich architectural character and mature tree-lined streets.
 
 However, Greensboro's humid subtropical climate, dense Piedmont red clay soils, and the overwhelming prevalence of crawlspace foundations make the region a prime target for wood-destroying subterranean termites. Subterranean colonies thrive in the moisture-retentive clay surrounding foundation stem walls, silently tunneling through masonry piers to hollow out structural timber sill plates and floor joists. Navigating North Carolina's unique disclosure laws—particularly the notorious "No Representation" option on statutory forms—and identifying hidden pest damage are critical due diligence steps for every Greensboro homebuyer.
 

@@ -11,7 +11,7 @@ However, behind historic façades, intricate brick corbels, and ornate cornices 
 
 The District experiences an unforgiving climate characterized by sweltering, humid summers, severe thunderstorms with localized microbursts, and volatile Mid-Atlantic winters bringing heavy snow, sleet, and relentless freeze-thaw cycles. Because dense D.C. rowhouses share structural party walls and feature intricate flat, low-slope, or concealed Mansard roof configurations, water intrusion rarely stays confined to an isolated patch of drywall. Instead, water tracks silently down brick party walls, rots ancient timber framing, and ruins irreplaceable historic plaster.
 
-As a practicing real estate attorney and active broker in the District of Columbia, I have represented numerous buyers who discovered devastating roof failures weeks after settlement because they relied on superficial listing remarks and failed to spot subtle red flags in the seller's disclosure packet. In this comprehensive guide, we dissect the mechanics of D.C. roof degradation, analyze District statutory disclosure laws under D.C. Code § 42-1301, and equip you to uncover hidden roofing liabilities before your contingencies expire.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigateed numerous buyers who discovered devastating roof failures weeks after settlement because they relied on superficial listing remarks and failed to spot subtle red flags in the seller's disclosure packet. In this comprehensive guide, we dissect the mechanics of D.C. roof degradation, analyze District statutory disclosure laws under D.C. Code § 42-1301, and equip you to uncover hidden roofing liabilities before your contingencies expire.
 
 ---
 

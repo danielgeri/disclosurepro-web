@@ -11,7 +11,7 @@ However, beneath the vibrant urban fabric lies a harsh coastal climate that subj
 
 Navigating property condition disclosures in New Jersey requires extreme diligence. Although New Jersey administrative regulations mandate seller disclosure forms and landmark court precedents impose strict liability for concealing latent defects, sellers of multi-family and historic homes routinely disguise chronic leaks behind cheap aluminum paint coatings and vague disclosure statements like "flat roof coated recently" or "routine seasonal maintenance."
 
-As an active New Jersey real estate attorney and seasoned Essex County broker, I regularly represent buyers and investors who purchase a property in Newark, only to discover six-figure structural joist rot, collapsed ceilings, and displaced tenants within months of closing. In this comprehensive guide, we unpack why roofs fail across Newark, decode New Jersey disclosure mandates under N.J.A.C. § 13:45A-35.1 and the landmark *Weintraub v. Krobatsch* doctrine, and show you how to spot critical red flags buried inside seller disclosure files.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers and investors who purchase a property in Newark, only to discover six-figure structural joist rot, collapsed ceilings, and displaced tenants within months of closing. In this comprehensive guide, we unpack why roofs fail across Newark, decode New Jersey disclosure mandates under N.J.A.C. § 13:45A-35.1 and the landmark *Weintraub v. Krobatsch* doctrine, and show you how to spot critical red flags buried inside seller disclosure files.
 
 ---
 

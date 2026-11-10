@@ -9,7 +9,7 @@ From the hillside architectural estates of the Hollywood Hills and Mid-Century M
 
 Many prospective buyers mistakenly believe that Southern California’s sunny, drought-prone climate makes roof integrity a secondary concern. In reality, the Los Angeles climate creates some of the most aggressive conditions for roof deterioration anywhere in the country. When blistering summer heat and intense ultraviolet radiation are combined with sudden winter "atmospheric river" rainstorms, an aged or poorly maintained roof will fail catastrophically.
 
-As a seasoned California real estate attorney and top-producing Los Angeles real estate agent, I have represented numerous buyers who discovered devastating roof leaks within weeks of taking title. In this guide, we will examine the unique structural mechanics of LA roofs, dissect California disclosure statutes, and teach you how to decode evasive seller disclosure statements before you waive your contractual contingencies.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigateed numerous buyers who discovered devastating roof leaks within weeks of taking title. In this guide, we will examine the unique structural mechanics of LA roofs, dissect California disclosure statutes, and teach you how to decode evasive seller disclosure statements before you waive your contractual contingencies.
 
 ---
 

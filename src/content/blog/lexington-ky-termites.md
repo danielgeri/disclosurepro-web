@@ -5,7 +5,7 @@ pubDate: "Aug 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As a Kentucky real estate attorney and managing broker representing residential buyers across Lexington and Fayette County, I frequently guide clients through purchases in the heart of the Bluegrass region. From historic brick and stone estates in Chevy Chase, Ashland Park, and Kenwick to established suburban neighborhoods in Beaumont, Masterson Station, and Hamburg, buying a home in Lexington represents a significant financial and lifestyle commitment.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through purchases in the heart of the Bluegrass region. From historic brick and stone estates in Chevy Chase, Ashland Park, and Kenwick to established suburban neighborhoods in Beaumont, Masterson Station, and Hamburg, buying a home in Lexington represents a significant financial and lifestyle commitment.
 
 However, beneath Lexington’s rolling pastures, historic dry-laid stone fences, and tree-lined avenues lies a persistent structural challenge: Kentucky is situated within the USDA Forest Service's Region 2 (Moderate-to-Heavy) termite hazard belt. Lexington's humid continental climate, unique karst limestone geology with natural underground aquifers, and high proportion of historic homes with full basements and crawlspaces create fertile ground for subterranean termites. Navigating statutory disclosure mandates under Kentucky Revised Statutes § 324.360, evaluating Kentucky Real Estate Commission (KREC) Seller's Disclosure statements, and interpreting Kentucky Department of Agriculture (KDA) Wood-Destroying Organism inspection reports are crucial protective measures for every Lexington homebuyer.
 

@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced North Carolina real estate attorney and active broker representing homebuyers across Durham and the Research Triangle, I regularly guide clients through one of the most vibrant housing markets in the Southeast. From the historic 1920s Craftsman bungalows and Victorian mill cottages of Trinity Park, Old West Durham, Duke Park, and Watts-Hospital-Hillandale to the stately mid-century residences of Hope Valley and modern master-planned communities in Southpoint, Durham offers exceptional architectural variety.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most vibrant housing markets in the Southeast. From the historic 1920s Craftsman bungalows and Victorian mill cottages of Trinity Park, Old West Durham, Duke Park, and Watts-Hospital-Hillandale to the stately mid-century residences of Hope Valley and modern master-planned communities in Southpoint, Durham offers exceptional architectural variety.
 
 However, Durham sits directly in the USDA's Termite Infestation Probability (TIP) Zone 1—the highest-risk classification for wood-destroying insects in the United States. Dense Piedmont red clay soils, humid subtropical summers, and damp crawlspace foundations create ideal conditions for subterranean termites. Navigating North Carolina's statutory disclosure rules under N.C. Gen. Stat. § 47E, decoding the "No Representation" selections on the Residential Property and Owners' Association Disclosure Statement (RPOADS), and interpreting official WDIR reports are critical due diligence steps for every Durham homebuyer.
 

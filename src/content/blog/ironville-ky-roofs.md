@@ -11,7 +11,7 @@ However, beneath the peaceful Appalachian landscape lies a climate that continuo
 
 Navigating property condition disclosures in Kentucky requires thorough due diligence. While Kentucky law obligates sellers to disclose known property defects, sellers in rural and suburban communities often obscure aging roof components, unpermitted low-slope additions, or improper shingle layovers behind simple disclosure phrases such as "roof replaced recently" or "routine maintenance completed."
 
-As an experienced Kentucky real estate attorney and active regional broker, I regularly represent buyers who discover thousands of dollars in rotted structural decking and damaged rafter framing within months of purchasing an Ironville home. In this comprehensive guide, we dissect the mechanics of roof failures in Boyd County, analyze Kentucky disclosure requirements under KRS § 324.360, and show you how to identify critical red flags hidden within seller disclosure packets.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who discover thousands of dollars in rotted structural decking and damaged rafter framing within months of purchasing an Ironville home. In this comprehensive guide, we dissect the mechanics of roof failures in Boyd County, analyze Kentucky disclosure requirements under KRS § 324.360, and show you how to identify critical red flags hidden within seller disclosure packets.
 
 ---
 

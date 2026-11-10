@@ -5,7 +5,7 @@ pubDate: "Aug 26 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As a California real estate attorney and managing broker representing buyers across the Inland Empire, I have guided countless clients through home purchases in San Bernardino County. From historic Craftsman bungalows and Spanish colonial revivals in Downtown San Bernardino and Perris Hill to post-war ranches in Del Rosa, hillside residences in Arrowhead Springs, and newer master-planned developments in Verdemont, San Bernardino provides attainable Southern California homeownership with dramatic mountain views.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigated countless clients through home purchases in San Bernardino County. From historic Craftsman bungalows and Spanish colonial revivals in Downtown San Bernardino and Perris Hill to post-war ranches in Del Rosa, hillside residences in Arrowhead Springs, and newer master-planned developments in Verdemont, San Bernardino provides attainable Southern California homeownership with dramatic mountain views.
 
 However, the climate and geography of the San Bernardino Valley create a double-threat environment for structural wood-destroying organisms. The region experiences extreme summer heat, dry autumn Santa Ana wind events, and episodic winter rains that support both Western subterranean termites in the soil and Western drywood termites in structural framing. Navigating California's statutory disclosure framework—including the Real Estate Transfer Disclosure Statement (TDS) and Structural Pest Control Board (SPCB) Branch 3 Wood Destroying Organisms (WDO) reports—is vital to protecting your real estate investment.
 

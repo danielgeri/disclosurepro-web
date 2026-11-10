@@ -11,7 +11,7 @@ However, beneath Gilbert’s pristine desert landscaping and uniform Spanish til
 
 Navigating property condition disclosures in Arizona demands technical understanding and legal discernment. While Arizona law requires residential sellers to reveal known material defects affecting property value, sellers routinely brush off impending roofing disasters with vague boilerplate like "tile tune-up completed," "routine maintenance prior to listing," or "minor cracked tiles repaired."
 
-As a practicing Arizona real estate attorney and active Maricopa County broker, I regularly represent homebuyers who acquire a stunning Gilbert home, only to discover that the original builder-grade tile underlayment has calcified into dust, precipitating massive ceiling collapses during the very first July monsoon storm. In this comprehensive guide, we dissect why roofs fail across the East Valley, decode the Arizona Residential Seller’s Property Disclosure Statement (SPDS), examine how sellers conceal latent roof failures, and provide the legal strategies you need to protect your investment.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who acquire a stunning Gilbert home, only to discover that the original builder-grade tile underlayment has calcified into dust, precipitating massive ceiling collapses during the very first July monsoon storm. In this comprehensive guide, we dissect why roofs fail across the East Valley, decode the Arizona Residential Seller’s Property Disclosure Statement (SPDS), examine how sellers conceal latent roof failures, and provide the legal strategies you need to protect your investment.
 
 ---
 

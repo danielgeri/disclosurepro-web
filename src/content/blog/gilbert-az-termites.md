@@ -5,7 +5,7 @@ pubDate: "Aug 24 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Arizona real estate attorney and active broker representing homebuyers across Gilbert and the East Valley, I regularly guide clients through one of the most desirable master-planned housing markets in the Phoenix metropolitan area. From the picturesque waterfront residences and custom enclaves of Val Vista Lakes and The Islands to the tree-lined agrarian neighborhoods of Morrison Ranch, Agritopia, Power Ranch, and Seville, purchasing real estate in Gilbert represents a premier lifestyle investment.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most desirable master-planned housing markets in the Phoenix metropolitan area. From the picturesque waterfront residences and custom enclaves of Val Vista Lakes and The Islands to the tree-lined agrarian neighborhoods of Morrison Ranch, Agritopia, Power Ranch, and Seville, purchasing real estate in Gilbert represents a premier lifestyle investment.
 
 However, the Sonoran Desert environment—amplified by extensive community lake irrigation, agricultural canal heritage, and dense stucco-on-frame construction—creates an exceptionally active habitat for wood-destroying pests. In Arizona, real estate professionals often say there are two kinds of homes: those that have termites, and those that will get them. Navigating Arizona statutory disclosure rules, understanding the landmark *Hill v. Jones* legal precedent, decoding the Arizona Wood-Destroying Insect Inspection Report (WDIIR), and spotting vague seller statements are indispensable steps for every Gilbert homebuyer.
 

@@ -11,7 +11,7 @@ However, beneath Buffalo’s architectural charm lies one of the most punishing 
 
 Navigating property condition disclosures in New York has changed dramatically. With the monumental March 2024 elimination of New York's $500 seller opt-out credit, sellers are now legally mandated to provide the comprehensive Property Condition Disclosure Statement (PCDS). Yet, sellers routinely attempt to downplay chronic roof decay using calculated phrases such as "box gutters coated annually," "minor storm tune-up," or "routine slate maintenance."
 
-As a practicing New York real estate attorney and active Western New York real estate broker, I regularly counsel buyers who purchase a classic Buffalo double or historic single-family home only to discover tens of thousands of dollars in hidden timber rot, saturated brick masonry, and collapsed plaster ceilings after their first lake-effect storm. In this comprehensive guide, we dissect why roofs fail across Buffalo, examine New York's mandatory PCDS requirements under Real Property Law § 462, reveal how sellers conceal latent defects, and provide the exact framework you need to protect your investment.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who purchase a classic Buffalo double or historic single-family home only to discover tens of thousands of dollars in hidden timber rot, saturated brick masonry, and collapsed plaster ceilings after their first lake-effect storm. In this comprehensive guide, we dissect why roofs fail across Buffalo, examine New York's mandatory PCDS requirements under Real Property Law § 462, reveal how sellers conceal latent defects, and provide the exact framework you need to protect your investment.
 
 ---
 

@@ -11,7 +11,7 @@ However, behind the broad tree-lined avenues and quiet residential cul-de-sacs l
 
 Sedgwick County weather swings from scorching triple-digit summer heatwaves that bake shingles to violent spring supercells producing baseball-sized hail and 70-to-90 mph straight-line winds. Because many historic Wichita residences feature complex rooflines with multiple gables and dormers—or have suffered through unpermitted "overlay" reroofs where new shingles were simply nailed over decaying old layers—catastrophic deck rot and fiberglass mat fractures frequently remain hidden from prospective buyers.
 
-As a practicing Kansas real estate attorney and active Wichita broker, I regularly represent homebuyers who discover severe structural roof failure and insurance underwriting rejections shortly after closing. In this comprehensive guide, we examine the physics of roof deterioration in Sedgwick County, analyze Kansas seller disclosure legal doctrines, and show you how to identify critical red flags in disclosure documents.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who discover severe structural roof failure and insurance underwriting rejections shortly after closing. In this comprehensive guide, we examine the physics of roof deterioration in Sedgwick County, analyze Kansas seller disclosure legal doctrines, and show you how to identify critical red flags in disclosure documents.
 
 ---
 

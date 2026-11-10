@@ -5,7 +5,7 @@ pubDate: "Aug 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced New Jersey real estate attorney and active broker representing homebuyers and multi-family investors across Newark and Essex County, I regularly guide clients through one of the most dynamic real estate markets in the New York metropolitan area. From the historic Victorian and Colonial Revival estates of Forest Hill and the classic brownstones of James Street Commons to the bustling two- and three-family multi-family properties of the Ironbound, North Ward, and Weequahic, Newark offers immense investment potential.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most dynamic real estate markets in the New York metropolitan area. From the historic Victorian and Colonial Revival estates of Forest Hill and the classic brownstones of James Street Commons to the bustling two- and three-family multi-family properties of the Ironbound, North Ward, and Weequahic, Newark offers immense investment potential.
 
 However, Newark's position within the low-lying Passaic River and Newark Bay basin, combined with its century-old timber housing stock, creates severe vulnerabilities to subterranean termites. Subterranean colonies thrive in the damp urban soils beneath historic foundations, silently tunneling through soft sandstone and brick mortar joints to hollow out load-bearing timber carrying sills and floor joists. Navigating New Jersey's disclosure laws—including the landmark *Weintraub* latent defect doctrine—and decoding evasive seller disclosures are essential due diligence steps for every Newark homebuyer.
 

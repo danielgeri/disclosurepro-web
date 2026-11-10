@@ -11,7 +11,7 @@ However, beneath Irving’s pristine waterfront promenades and manicured master-
 
 Navigating property condition disclosures in Texas requires acute technical discernment and assertive legal awareness. While Texas law mandates that residential sellers disclose known material defects affecting property condition, sellers frequently downplay serious roof deterioration with dismissive boilerplate such as "roof checked after 2024 storm," "seasonal tune-up completed," or "minor maintenance performed prior to listing."
 
-As a practicing Texas real estate attorney and active Dallas County broker, I frequently represent buyers who purchase an executive Irving home, only to discover tens of thousands of dollars in hidden storm damage and degraded roof sheathing during the very first severe spring squall line. In this comprehensive guide, we dissect why Irving roofs fail, analyze the Texas Seller's Disclosure Notice under Texas Property Code § 5.008, examine how sellers conceal latent defects, and provide the legal strategies you need to safeguard your transaction.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who purchase an executive Irving home, only to discover tens of thousands of dollars in hidden storm damage and degraded roof sheathing during the very first severe spring squall line. In this comprehensive guide, we dissect why Irving roofs fail, analyze the Texas Seller's Disclosure Notice under Texas Property Code § 5.008, examine how sellers conceal latent defects, and provide the legal strategies you need to safeguard your transaction.
 
 ---
 

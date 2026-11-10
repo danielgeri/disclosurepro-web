@@ -11,7 +11,7 @@ Yet, behind the ocean breezes and swaying palms lies an aggressive, unseen adver
 
 With its proximity to San Pedro Bay and the Pacific Ocean, Long Beach experiences dense morning marine layers ("June Gloom"), salt-laden sea air, intense midday ultraviolet radiation, and occasional torrential winter atmospheric rivers. Because architectural styles in Long Beach heavily favor low-slope flat roofs on mid-century moderns or heavy clay barrel tiles on Mediterranean estates, severe moisture penetration and structural rot are frequently concealed from plain sight.
 
-As a licensed California real estate attorney and active Long Beach broker, I have represented numerous buyers blindsided by catastrophic roofing bills within months of closing. In this comprehensive guide, we unpack the mechanics of coastal roof deterioration in Long Beach, analyze California's Transfer Disclosure Statement (TDS) and Seller Property Questionnaire (SPQ), and demonstrate how to read between the lines of real estate disclosures to protect your hard-earned equity.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigateed numerous buyers blindsided by catastrophic roofing bills within months of closing. In this comprehensive guide, we unpack the mechanics of coastal roof deterioration in Long Beach, analyze California's Transfer Disclosure Statement (TDS) and Seller Property Questionnaire (SPQ), and demonstrate how to read between the lines of real estate disclosures to protect your hard-earned equity.
 
 ---
 

@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Nebraska real estate attorney and active broker representing homebuyers across Lincoln and Lancaster County, I regularly guide clients through one of the most stable and attractive housing markets in the Midwest. From the stately historic brick and timber homes of the Near South and Country Club neighborhoods to the mid-century ranches of Eastridge and the modern master-planned communities across South Lincoln, the city offers diverse residential architecture.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most stable and attractive housing markets in the Midwest. From the stately historic brick and timber homes of the Near South and Country Club neighborhoods to the mid-century ranches of Eastridge and the modern master-planned communities across South Lincoln, the city offers diverse residential architecture.
 
 However, Lincoln's Midwestern climate, deep silty loess soils, and aging housing stock create significant vulnerabilities to subterranean termites. Eastern subterranean termite colonies thrive beneath residential lawns, penetrating foundation footings and hollowing out structural floor joists and mudsills without leaving obvious surface clues. Understanding Nebraska's statutory disclosure laws under Neb. Rev. Stat. § 76-2,120, evaluating seller disclosure statements, and identifying evasive seller language are crucial due diligence steps for every Lincoln homebuyer.
 

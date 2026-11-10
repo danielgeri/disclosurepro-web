@@ -5,7 +5,7 @@ pubDate: "Aug 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Nevada real estate attorney and active broker representing homebuyers across Henderson and Clark County, I regularly guide clients through the unique dynamics of the Southern Nevada real estate market. From the established master-planned neighborhoods of Green Valley and Green Valley Ranch to the luxury communities of Anthem, Seven Hills, Inspirada, and MacDonald Highlands, Henderson properties feature distinctive Mediterranean architecture, stucco exteriors, and post-tension concrete slab foundations.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through the unique dynamics of the Southern Nevada real estate market. From the established master-planned neighborhoods of Green Valley and Green Valley Ranch to the luxury communities of Anthem, Seven Hills, Inspirada, and MacDonald Highlands, Henderson properties feature distinctive Mediterranean architecture, stucco exteriors, and post-tension concrete slab foundations.
 
 Many prospective buyers believe the arid Mojave Desert climate eliminates termite activity. In reality, modern suburban construction and residential desert landscaping create artificial microclimates where subterranean termites thrive. Automated drip irrigation lines, decorative planter beds against stucco weep screeds, and plumbing penetrations through concrete slabs provide moisture and entry pathways for aggressive wood-destroying pests. Understanding Nevada's statutory seller disclosure obligations under NRS 113.130, knowing how to interpret pest inspection reports, and identifying ambiguous disclosure language are vital due diligence steps for every Henderson homebuyer.
 

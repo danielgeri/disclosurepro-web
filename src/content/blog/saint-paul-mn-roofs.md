@@ -11,7 +11,7 @@ However, beneath these picturesque steep gables, slate turrets, and intricate do
 
 Navigating property condition disclosures in Minnesota requires rigorous vigilance. Minnesota statutory law mandates comprehensive written disclosures of known material defects, and the City of Saint Paul enforces unique municipal Truth-in-Sale of Housing (TISH) inspection rules. Despite these protections, sellers frequently downplay chronic winter ice damming or cosmetic plaster repairs behind vague disclosure phrases like "minor ice damming managed with roof cables" or "attic insulation updated."
 
-As an active Minnesota real estate attorney and experienced Twin Cities broker, I regularly represent buyers who purchase a historic Saint Paul home in the summer, only to face five-figure ice dam disasters and ceiling collapses during their first sub-zero winter. In this comprehensive guide, we dissect the mechanics of roof failures in Ramsey County, decode Minnesota disclosure mandates under Minnesota Statutes § 513.52 through § 513.60, and show you how to spot critical red flags hidden within seller disclosure packets.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who purchase a historic Saint Paul home in the summer, only to face five-figure ice dam disasters and ceiling collapses during their first sub-zero winter. In this comprehensive guide, we dissect the mechanics of roof failures in Ramsey County, decode Minnesota disclosure mandates under Minnesota Statutes § 513.52 through § 513.60, and show you how to spot critical red flags hidden within seller disclosure packets.
 
 ---
 

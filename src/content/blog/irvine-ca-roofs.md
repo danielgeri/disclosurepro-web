@@ -11,7 +11,7 @@ However, beneath Irvine’s manicured greenbelts and uniform tile roofscapes lie
 
 Navigating real estate disclosures in California requires legal rigor and technical skepticism. Although California statutory law imposes strict disclosure obligations on sellers, sellers routinely downplay chronic roofing vulnerabilities using calculated phrases such as "typical tile maintenance completed," "minor wind tune-up," or "routine inspection prior to listing."
 
-As a practicing California real estate attorney and active Orange County real estate broker, I regularly represent homebuyers who purchase an Irvine property only to discover that the original builder-grade tile underlayment has deteriorated into brittle powder, leaving the home vulnerable to sudden ceiling collapses during winter atmospheric river storms. In this comprehensive guide, we dissect why roofs fail across Irvine, decode California disclosure requirements under Civil Code § 1102, reveal how sellers conceal latent defects, and provide the exact framework you need to protect your investment.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who purchase an Irvine property only to discover that the original builder-grade tile underlayment has deteriorated into brittle powder, leaving the home vulnerable to sudden ceiling collapses during winter atmospheric river storms. In this comprehensive guide, we dissect why roofs fail across Irvine, decode California disclosure requirements under Civil Code § 1102, reveal how sellers conceal latent defects, and provide the exact framework you need to protect your investment.
 
 ---
 

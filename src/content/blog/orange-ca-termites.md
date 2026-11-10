@@ -1,13 +1,14 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Orange Real Estate Disclosures"
-description: "Buying a home in Orange, CA? Learn how to uncover hidden subterranean and drywood termite damage in California disclosures, navigate Old Towne historic properties, and decode SPCB Branch 3 reports."
+title: "Orange, CA Termite Disclosures: Old Towne Historic Homes, Section 1 WDO & Seller Credits"
+description: "Buying a home in Orange, CA? Learn how to spot hidden subterranean and drywood termite damage in California TDS/SPQ disclosures, navigate Old Towne historic homes, and negotiate Section 1 credits."
 pubDate: "Sep 05 2026"
+updatedDate: "Nov 09 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced California real estate attorney and active managing broker representing homebuyers throughout Orange County, I regularly guide clients through the picturesque, high-stakes real estate market of Orange, California. Known for its historic charm, vibrant community events, and family-oriented neighborhoods, the City of Orange offers an eclectic range of residential architecture—from the Victorian and Craftsman residences of the famous Old Towne Orange Historic District to the sprawling mid-century ranch homes in El Modena and the multi-level custom hillside estates nestled across Orange Hills and Santiago Hills. 
+Homebuyers navigating the high-stakes market of **Orange, California** face an eclectic mix of residential construction—from historic Victorian and Craftsman bungalows in the **Old Towne Orange Historic District** to mid-century slab ranches in **El Modena** and multi-level hillside properties across **Orange Hills and Santiago Hills**.
 
-However, beneath the manicured citrus trees, palm-lined avenues, and vintage facade restorations lies an aggressive, persistent hazard: structural wood-destroying organisms. In Southern California, termite infestations are an inescapable biological reality of homeownership. The combination of warm inland valley temperatures, seasonal Santa Ana wind patterns, and rich alluvial soil makes properties in Orange particularly vulnerable to dual infestations: airborne Western Drywood Termites (*Incisitermes minor*) and subterranean colonies of Western Subterranean Termites (*Reticulitermes hesperus*).
+Beneath manicured citrus trees and freshly painted facades, however, lies Southern California's #1 structural closing surprise: **dual infestations of airborne Western Drywood Termites (*Incisitermes minor*) and underground Western Subterranean Termites (*Reticulitermes hesperus*)**. Before removing your inspection contingency, cross-checking the seller's [California TDS and SPQ disclosures](/blog/california-tds-spq-disclosure-guide/) against a separated [Section 1 vs. Section 2 WDO termite report](/blog/section-1-vs-section-2-termite-report-california/) can save you $10,000 to $30,000+ in unexpected repairs.
 
 Understanding California’s statutory disclosure framework and knowing how to interpret dense Structural Pest Control Board (SPCB) inspection reports is essential. Failing to spot subtle, deceptive phrasing on a standard disclosure packet can transform your Orange dream home into a financial quagmire requiring tens of thousands of dollars in emergency structural repairs. This comprehensive guide provides the legal, architectural, and biological knowledge necessary to protect your real estate investment in the City of Orange.
 

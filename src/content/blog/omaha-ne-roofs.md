@@ -11,7 +11,7 @@ However, beneath Omaha’s peaceful tree-lined neighborhoods lies an unforgiving
 
 Situated squarely in the central United States hail belt and subject to drastic seasonal temperature swings, Omaha homes face everything from violent spring supercells dropping golf-ball-sized hail and tornadic straight-line winds to sub-zero winter blizzards that produce massive ice dams. Because many Omaha roofs feature steep historic pitches or complex multi-layer asphalt overlays, catastrophic decking rot and structural storm damage are frequently concealed from plain sight.
 
-As a practicing Nebraska real estate attorney and active Omaha broker, I frequently represent buyers who find themselves burdened with crippling five-figure roof replacement costs because they failed to properly decode the seller's property disclosure statement. In this comprehensive guide, we dissect the mechanics of roof degradation in Douglas County, explain Nebraska’s statutory disclosure laws under Neb. Rev. Stat. § 76-2,120, and show you how to protect your investment during the inspection period.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who find themselves burdened with crippling five-figure roof replacement costs because they failed to properly decode the seller's property disclosure statement. In this comprehensive guide, we dissect the mechanics of roof degradation in Douglas County, explain Nebraska’s statutory disclosure laws under Neb. Rev. Stat. § 76-2,120, and show you how to protect your investment during the inspection period.
 
 ---
 

@@ -5,7 +5,7 @@ pubDate: "Aug 24 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Wisconsin real estate attorney and active broker representing homebuyers across Madison and Dane County, I regularly guide clients through one of the most competitive and architecturally rich housing markets in the Midwest. From the iconic craftsman bungalows and Queen Anne Victorians of Vilas, Marquette (Willy Street), and Tenney-Lapham to the distinguished historic homes of Shorewood Hills, Dudgeon-Monroe, and Nakoma, purchasing real estate on the Madison isthmus is a major financial milestone.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most competitive and architecturally rich housing markets in the Midwest. From the iconic craftsman bungalows and Queen Anne Victorians of Vilas, Marquette (Willy Street), and Tenney-Lapham to the distinguished historic homes of Shorewood Hills, Dudgeon-Monroe, and Nakoma, purchasing real estate on the Madison isthmus is a major financial milestone.
 
 However, many buyers mistakenly believe that Wisconsin's freezing winters protect homes from wood-destroying pests. In reality, Madison's unique geography—flanked by Lake Mendota, Lake Monona, and Lake Wingra—creates high groundwater tables, persistent basement humidity, and subterranean soil moisture. When paired with historic wood-framed construction and continuously heated residential basements, subterranean termites find an ideal habitat to thrive year-round. Navigating Wisconsin statutory disclosure laws under Wis. Stat. Chapter 709, decoding the Real Estate Condition Report (RECR), and identifying evasive seller phrasing are crucial due diligence steps for every Madison homebuyer.
 

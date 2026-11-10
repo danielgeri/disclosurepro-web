@@ -11,7 +11,7 @@ Yet beneath Tucson’s scenic saguaros and breathtaking desert sunsets lies a se
 
 Tucson endures an extreme meteorological environment. With over 280 days of intense desert sunshine, summer temperatures routinely surge past 105°F, driving attic and roof surface temperatures above 165°F. This relentless thermal baking is punctuated by the violent summer North American Monsoon—intense convective storm systems that produce 60-mph microburst winds, blinding haboob dust storms, and flash flooding rains. Under these conditions, roofs that appear cosmetically perfect from the driveway often conceal catastrophic underlayment failure.
 
-As a practicing Arizona real estate attorney and active Tucson broker, I frequently guide buyers through high-stakes purchases where undisclosed roof decay threatened to wipe out their financial reserves. In this comprehensive guide, we examine the physics of desert roof failure, unpack Arizona statutory disclosure law under landmark legal precedent, and show you exactly how to spot evasive seller disclosures before closing.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers through high-stakes purchases where undisclosed roof decay threatened to wipe out their financial reserves. In this comprehensive guide, we examine the physics of desert roof failure, unpack Arizona statutory disclosure law under landmark legal precedent, and show you exactly how to spot evasive seller disclosures before closing.
 
 ---
 

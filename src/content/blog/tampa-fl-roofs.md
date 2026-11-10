@@ -11,7 +11,7 @@ However, behind the swaying sabal palms and sun-drenched verandas lies a high-st
 
 Tampa residences face Category 3 to 5 hurricane wind uplift, torrential summer cloudbursts dumping 3 to 4 inches of rain in an hour, intense ultraviolet radiation, and salt-laden marine air. Because South Tampa architecture heavily favors Spanish barrel clay tiles, complex bungalow cross-gables, or low-slope flat roofs on mid-century additions, severe moisture intrusion and structural roof rot frequently remain hidden beneath an outwardly intact surface.
 
-As a practicing Florida real estate attorney and active Tampa broker, I frequently represent buyers blindsided by catastrophic roofing bills and sudden insurance cancellations within weeks of closing. In this comprehensive guide, we dissect the mechanics of tropical roof deterioration in Hillsborough County, analyze Florida’s landmark *Johnson v. Davis* disclosure doctrine, examine the Florida Realtors SPDR disclosure form, and show you how to protect your investment during the due diligence period.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers blindsided by catastrophic roofing bills and sudden insurance cancellations within weeks of closing. In this comprehensive guide, we dissect the mechanics of tropical roof deterioration in Hillsborough County, analyze Florida’s landmark *Johnson v. Davis* disclosure doctrine, examine the Florida Realtors SPDR disclosure form, and show you how to protect your investment during the due diligence period.
 
 ---
 

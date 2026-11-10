@@ -11,7 +11,7 @@ However, behind the swaying royal palms and sun-drenched stucco facades lies a h
 
 Operating within the stringent High-Velocity Hurricane Zone (HVHZ) under the Florida Building Code, Miami properties endure Category 4 and 5 hurricane wind uplift forces, torrential tropical rainstorms, salt air aerosol corrosion, and unrelenting subtropical ultraviolet radiation. Because South Florida architecture heavily favors barrel clay/concrete tile roofs or low-slope flat roofs, catastrophic moisture penetration and structural deck rot frequently remain hidden beneath an outwardly intact surface.
 
-As a practicing Florida real estate attorney and active Miami broker, I regularly represent buyers facing devastating financial consequences because they misunderstood Florida disclosure laws or failed to spot red flags on property disclosures. In this comprehensive guide, we dissect the mechanics of tropical roof deterioration in Miami-Dade County, examine Florida’s landmark *Johnson v. Davis* disclosure doctrine, analyze the Florida Realtors SPDR disclosure form, and show you how to protect your investment during the due diligence period.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers facing devastating financial consequences because they misunderstood Florida disclosure laws or failed to spot red flags on property disclosures. In this comprehensive guide, we dissect the mechanics of tropical roof deterioration in Miami-Dade County, examine Florida’s landmark *Johnson v. Davis* disclosure doctrine, analyze the Florida Realtors SPDR disclosure form, and show you how to protect your investment during the due diligence period.
 
 ---
 

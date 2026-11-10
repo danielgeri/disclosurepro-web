@@ -5,7 +5,7 @@ pubDate: "Aug 21 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active broker serving homebuyers in Santa Ana and across central Orange County, I regularly counsel buyers entering one of Southern California's most historic and diverse property markets. From the stately historic homes of Floral Park and French Park to post-war single-story homes in Washington Square, Santa Ana features exceptional architectural heritage. However, that vintage timber construction also makes the city an active hotspot for wood-destroying organisms.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers entering one of Southern California's most historic and diverse property markets. From the stately historic homes of Floral Park and French Park to post-war single-story homes in Washington Square, Santa Ana features exceptional architectural heritage. However, that vintage timber construction also makes the city an active hotspot for wood-destroying organisms.
 
 In Orange County's warm coastal basin, termite infestations are an ongoing certainty rather than an isolated incident. Western Drywood Termites attack exterior fascia boards, exposed rafters, and window framing from the air, while Western Subterranean Termites silently enter from below ground through perimeter foundation cracks. Understanding California's comprehensive statutory disclosure laws and knowing how to interpret pest inspection reports are critical to ensuring your historic or modern home does not harbor severe hidden damage.
 

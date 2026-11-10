@@ -5,7 +5,7 @@ pubDate: "Aug 27 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As a real estate attorney and active broker representing homebuyers across Westchester County and the Hudson River Valley, I have helped hundreds of families navigate real estate transactions in Yonkers. From stately historic Victorians in Park Hill to multi-family properties near Getty Square and single-family homes in Dunwoodie, Yonkers boasts rich architectural heritage. However, the combination of older housing stock, damp stone basements, and the Hudson River microclimate makes the city a major target for destructive wood-destroying organisms.
+Local real estate attorneys and buyer's brokers regularly guide hundreds of families navigate real estate transactions in Yonkers. From stately historic Victorians in Park Hill to multi-family properties near Getty Square and single-family homes in Dunwoodie, Yonkers boasts rich architectural heritage. However, the combination of older housing stock, damp stone basements, and the Hudson River microclimate makes the city a major target for destructive wood-destroying organisms.
 
 Failing to thoroughly analyze New York real estate disclosures and inspection reports for termite activity can result in catastrophic out-of-pocket structural repair costs. In this comprehensive guide, we will analyze the specific termite threats in Yonkers, explain New York's newly strengthened disclosure laws, expose deceptive seller language, and examine an itemized neighborhood case study to protect your real estate investment.
 

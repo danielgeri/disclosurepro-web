@@ -11,7 +11,7 @@ However, Central Iowa’s continental climate subjects residential roofs to some
 
 Navigating property condition disclosures in Iowa is governed by comprehensive statutory consumer protections under Iowa Code Chapter 558A. Residential sellers are legally mandated to execute a standardized disclosure statement outlining the physical condition of the property. However, identifying vague disclosures and discerning the difference between superficial cosmetic fixes and catastrophic structural roof damage is crucial for any prospective homebuyer.
 
-As a practicing Iowa real estate attorney and Des Moines broker, I regularly represent clients who purchase a picture-perfect Beaverdale brick or South of Grand colonial, only to discover thousands of dollars in hidden storm damage and ice dam rot during their first Iowa winter. In this comprehensive guide, we dissect the environmental forces impacting Des Moines roofs, examine Iowa Code Chapter 558A disclosure requirements, expose common seller loopholes, and detail how to protect your financial interests.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers who purchase a picture-perfect Beaverdale brick or South of Grand colonial, only to discover thousands of dollars in hidden storm damage and ice dam rot during their first Iowa winter. In this comprehensive guide, we dissect the environmental forces impacting Des Moines roofs, examine Iowa Code Chapter 558A disclosure requirements, expose common seller loopholes, and detail how to protect your financial interests.
 
 ---
 

@@ -11,7 +11,7 @@ Yet behind Chandler’s manicured desert landscaping and perpetual sunshine lies
 
 Navigating property disclosures in Arizona requires technical understanding and legal vigilance. While Arizona statutory and common law require sellers to disclose known material defects affecting property value, sellers frequently minimize chronic issues with evasive disclosure phrases such as "typical tile maintenance completed," "minor monsoon tune-up," or "routine pigeon barrier installation."
 
-As a practicing Arizona real estate attorney and active East Valley broker, I regularly represent buyers who acquire a lovely home in Chandler only to face five-figure reroofing bills, denied insurance claims, and extensive attic rot within weeks of moving in. In this comprehensive guide, we examine why roofs fail across Chandler, decode Arizona disclosure requirements under the standard Residential SPDS, expose how sellers hide latent defects, and provide the exact framework you need to protect your investment.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who acquire a lovely home in Chandler only to face five-figure reroofing bills, denied insurance claims, and extensive attic rot within weeks of moving in. In this comprehensive guide, we examine why roofs fail across Chandler, decode Arizona disclosure requirements under the standard Residential SPDS, expose how sellers hide latent defects, and provide the exact framework you need to protect your investment.
 
 ---
 

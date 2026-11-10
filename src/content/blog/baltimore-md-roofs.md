@@ -11,7 +11,7 @@ However, behind the classic red brick facades and charming rooftop decks lies a 
 
 Baltimore’s coastal-adjacent Mid-Atlantic climate delivers punishing weather year-round. Harsh winter freeze-thaw cycles, fierce coastal Nor'easters bringing heavy wet snow and ice damming, and suffocating summer humidity put relentless pressure on flat membranes, masonry parapets, and century-old drainage systems. When an aging flat roof fails in a dense urban rowhouse setting, water doesn't simply damage drywall—it travels silently along shared brick party walls, rots 100-year-old floor joists, and creates massive financial liability.
 
-As a practicing Maryland real estate attorney and active Baltimore broker, I regularly see buyers inherit catastrophic roofing nightmares because they failed to understand Maryland’s unique statutory disclosure laws and missed critical red flags buried in disclosure documents. In this comprehensive guide, we unpack the mechanics of Baltimore rowhouse roof decay, analyze the critical Maryland Disclosure vs. Disclaimer dilemma, and reveal how to spot deceptive seller disclosures before your inspection contingency expires.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers inherit catastrophic roofing nightmares because they failed to understand Maryland’s unique statutory disclosure laws and missed critical red flags buried in disclosure documents. In this comprehensive guide, we unpack the mechanics of Baltimore rowhouse roof decay, analyze the critical Maryland Disclosure vs. Disclaimer dilemma, and reveal how to spot deceptive seller disclosures before your inspection contingency expires.
 
 ---
 

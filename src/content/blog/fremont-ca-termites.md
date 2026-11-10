@@ -5,7 +5,7 @@ pubDate: "Aug 25 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As a California real estate attorney and active managing broker representing homebuyers across Fremont and the East Bay, I regularly guide clients through one of Silicon Valley's most competitive and high-value housing markets. From mid-century ranch homes in Glenmoor and Centerville to historic craftsman bungalows in Niles and prestigious custom residences in Mission San Jose and Warm Springs, buying a home in Fremont represents a multi-million-dollar financial commitment.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of Silicon Valley's most competitive and high-value housing markets. From mid-century ranch homes in Glenmoor and Centerville to historic craftsman bungalows in Niles and prestigious custom residences in Mission San Jose and Warm Springs, buying a home in Fremont represents a multi-million-dollar financial commitment.
 
 However, beneath Fremont’s tree-lined suburban streets and Mission Peak vistas lies a pervasive structural threat: the San Francisco Bay Area is a high-risk zone for wood-destroying organisms. Fremont's mild coastal climate, winter rains, morning marine fog, and diverse housing stock of post-war crawlspace homes create optimal conditions for both subterranean and drywood termites. Navigating statutory disclosure mandates under California Civil Code § 1102, analyzing the Real Estate Transfer Disclosure Statement (TDS) and Seller Property Questionnaire (SPQ), and dissecting California Structural Pest Control Board (SPCB) WDO inspection reports are essential due diligence steps for every Fremont homebuyer.
 

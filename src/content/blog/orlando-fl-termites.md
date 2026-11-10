@@ -5,7 +5,7 @@ pubDate: "Aug 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Florida real estate attorney and active broker representing homebuyers and investors across Orlando and Orange County, I regularly guide clients through one of the most vibrant housing markets in the Sun Belt. From the historic 1920s Craftsman bungalows and Mediterranean Revival residences of Thornton Park, College Park, and Lake Eola Heights to the sprawling mid-century ranch homes of Delaney Park and modern master-planned communities in Baldwin Park and Lake Nona, Central Florida offers an appealing variety of residential real estate.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most vibrant housing markets in the Sun Belt. From the historic 1920s Craftsman bungalows and Mediterranean Revival residences of Thornton Park, College Park, and Lake Eola Heights to the sprawling mid-century ranch homes of Delaney Park and modern master-planned communities in Baldwin Park and Lake Nona, Central Florida offers an appealing variety of residential real estate.
 
 However, Orlando's subtropical climate, year-round warmth, and abundant rainfall create one of the highest-risk environments for wood-destroying organisms in North America. Homebuyers in Orlando face threats from both invasive subterranean termite species and destructive drywood termites that feast on structural roof trusses and wall framing. Navigating Florida's legal disclosure requirements under the landmark *Johnson v. Davis* doctrine, evaluating Florida Association of Realtors disclosure forms, and spotting concealed structural damage are critical due diligence steps for every Orlando homebuyer.
 

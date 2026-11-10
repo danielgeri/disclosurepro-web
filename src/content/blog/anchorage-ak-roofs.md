@@ -11,7 +11,7 @@ However, beneath the alpine beauty lies an unforgiving climate that subjects res
 
 Compounding these environmental hazards is Alaska's distinct real estate disclosure framework. While Alaska statutory law mandates comprehensive property disclosures, sellers frequently downplay chronic winter icing or cosmetic repairs behind ambiguous descriptions like "routine winter snow clearing" or "minor seasonal moisture."
 
-As an active Alaska real estate attorney and seasoned Anchorage broker, I regularly counsel buyers who close on their dream home during the summer, only to experience six-figure structural sagging and severe water intrusion when the first heavy winter snowpack arrives. In this comprehensive guide, we dissect the mechanics of roofing failures in Anchorage, explore Alaska disclosure mandates under Alaska Statute § 34.70, and show you how to identify critical red flags buried in seller disclosure files.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who close on their dream home during the summer, only to experience six-figure structural sagging and severe water intrusion when the first heavy winter snowpack arrives. In this comprehensive guide, we dissect the mechanics of roofing failures in Anchorage, explore Alaska disclosure mandates under Alaska Statute § 34.70, and show you how to identify critical red flags buried in seller disclosure files.
 
 ---
 

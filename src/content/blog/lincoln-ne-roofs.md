@@ -11,7 +11,7 @@ Yet beneath Lincoln's Midwestern charm lies an unforgiving meteorological enviro
 
 When purchasing a Lincoln property, navigating the seller's property condition disclosure statement requires legal precision and technical skepticism. While Nebraska law requires sellers to reveal known material roof defects, disclosure documents are frequently clouded by vague boilerplate language, unverified contractor claims, or the omission of latent storm impacts.
 
-As a practicing Nebraska real estate attorney and active Lancaster County broker, I regularly counsel homebuyers who inherited tens of thousands of dollars in hidden roof rot, attic mold, and water damage because they relied on a superficial reading of seller disclosure forms. In this comprehensive guide, we dissect why roofs fail across Lincoln, examine Nebraska statutory disclosure requirements under Neb. Rev. Stat. § 76-2,120, reveal how sellers obscure chronic problems, and provide the exact framework you need to safeguard your investment.
+Local real estate attorneys and buyer's brokers regularly encounter homebuyers who inherited tens of thousands of dollars in hidden roof rot, attic mold, and water damage because they relied on a superficial reading of seller disclosure forms. In this comprehensive guide, we dissect why roofs fail across Lincoln, examine Nebraska statutory disclosure requirements under Neb. Rev. Stat. § 76-2,120, reveal how sellers obscure chronic problems, and provide the exact framework you need to safeguard your investment.
 
 ---
 

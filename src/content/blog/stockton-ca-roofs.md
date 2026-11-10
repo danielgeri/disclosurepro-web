@@ -11,7 +11,7 @@ However, behind the palm-lined avenues and Delta waterways lies a severe environ
 
 Adding to these environmental challenges is California’s complex disclosure framework. While state statutes require transparency, sellers frequently obscure failing roof underlayments and dry rot behind cosmetic repairs and ambiguous disclosure riders.
 
-As an active California real estate attorney and veteran San Joaquin County broker, I frequently represent buyers who discover thousands of dollars in rotted roof sheathing and failed tile membranes within months of moving in. In this comprehensive guide, we dissect the mechanics of roof decay in Stockton, examine California disclosure requirements under Civil Code § 1102, and reveal how to spot hidden warning signs in seller disclosure packages.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who discover thousands of dollars in rotted roof sheathing and failed tile membranes within months of moving in. In this comprehensive guide, we dissect the mechanics of roof decay in Stockton, examine California disclosure requirements under Civil Code § 1102, and reveal how to spot hidden warning signs in seller disclosure packages.
 
 ---
 

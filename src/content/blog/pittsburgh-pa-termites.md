@@ -5,7 +5,7 @@ pubDate: "Aug 21 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced Pennsylvania real estate attorney and active broker representing homebuyers across the City of Pittsburgh and Allegheny County, I regularly guide clients through one of the most distinctive and historic housing markets in the United States. From the dense brick rowhouses of Lawrenceville and South Side Flats to the stately Victorian homes of Shadyside and Highland Park, Pittsburgh properties feature exceptional character and solid heavy-timber construction.
+Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of the most distinctive and historic housing markets in the United States. From the dense brick rowhouses of Lawrenceville and South Side Flats to the stately Victorian homes of Shadyside and Highland Park, Pittsburgh properties feature exceptional character and solid heavy-timber construction.
 
 However, Pittsburgh's three-river topography, damp river valley climate, high annual precipitation, and century-old housing stock create an ideal environment for wood-destroying organisms. Subterranean termites silently tunnel through moist foundation soils, exploiting damp sandstone and rubblestone masonry to hollow out load-bearing sill plates and floor joists. Understanding Pennsylvania's statutory seller disclosure mandates, knowing how to interpret pest inspection reports, and identifying ambiguous seller phrasing are essential due diligence steps for every Pittsburgh homebuyer.
 

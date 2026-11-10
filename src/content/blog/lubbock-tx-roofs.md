@@ -11,7 +11,7 @@ Yet beneath Lubbock's expansive West Texas sunsets lies an extraordinarily sever
 
 Navigating property condition disclosures in West Texas requires technical discernment and legal vigilance. While Texas statutory law mandates disclosure of known roof defects, sellers routinely minimize chronic storm damage using evasive terminology such as "roof replaced after past storm," "minor hail inspection completed," or "routine insurance claim closed."
 
-As a practicing Texas real estate attorney and active South Plains broker, I frequently counsel buyers who close on a Lubbock home only to discover that the seller's "new roof" was an unpermitted, builder-grade overlay installed by an out-of-town "storm chaser," leaving the buyer with massive structural repair bills. In this comprehensive guide, we dissect why roofs fail across the South Plains, decode Texas Property Code § 5.008, explain how sellers conceal latent hail damage, and demonstrate how to safeguard your home purchase.
+Local real estate attorneys and buyer's brokers regularly see how buyers navigate buyers who close on a Lubbock home only to discover that the seller's "new roof" was an unpermitted, builder-grade overlay installed by an out-of-town "storm chaser," leaving the buyer with massive structural repair bills. In this comprehensive guide, we dissect why roofs fail across the South Plains, decode Texas Property Code § 5.008, explain how sellers conceal latent hail damage, and demonstrate how to safeguard your home purchase.
 
 ---
 
