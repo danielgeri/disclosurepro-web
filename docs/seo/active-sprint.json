@@ -1,0 +1,19 @@
+{
+  "updatedAt": "2026-11-09",
+  "newArticlesPerRun": 3,
+  "refreshesPerRun": 0,
+  "refreshQueue": [],
+  "priorityInternalLinkTargets": [
+    "/blog/el-paso-tx-termites/",
+    "/blog/orange-ca-termites/",
+    "/blog/california-tds-spq-disclosure-guide/",
+    "/blog/texas-trec-sellers-disclosure-guide/",
+    "/blog/section-1-vs-section-2-termite-report-california/",
+    "/blog/how-to-write-repair-credit-addendum-after-inspection/"
+  ],
+  "styleAndCtaDirectives": [
+    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection section—avoid slow travel-brochure city introductions (which showed 0%–12.5% engagement in GA4 on Orange and El Paso prior to rewrite).",
+    "Include an itemized cost breakdown table or bulleted cost benchmark section—articles with concrete contractor dollar ranges (Cary NC, Cape Coral FL, Irvine CA) achieved 4 to 9+ minutes of engaged reading time in GA4.",
+    "Tailor the mid-article HTML callout heading specifically to the exact document or defect discussed in the article (e.g., 'Reviewing an 80-page Home Inspection or Sewer Scope PDF?') rather than generic copy to maximize blog_cta_click conversions."
+  ]
+}
