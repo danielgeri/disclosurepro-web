@@ -1,19 +1,34 @@
 {
-  "updatedAt": "2026-11-09",
-  "newArticlesPerRun": 3,
-  "refreshesPerRun": 0,
-  "refreshQueue": [],
+  "updatedAt": "2026-11-15",
+  "newArticlesPerRun": 2,
+  "refreshesPerRun": 1,
+  "refreshQueue": [
+    "boston-ma-roofs",
+    "albuquerque-nm-termites",
+    "buffalo-ny-termites"
+  ],
   "priorityInternalLinkTargets": [
-    "/blog/el-paso-tx-termites/",
+    "/blog/boston-ma-roofs/",
+    "/blog/albuquerque-nm-termites/",
+    "/blog/honolulu-hi-termites/",
+    "/blog/buffalo-ny-termites/",
+    "/blog/gainesville-fl-termites/",
+    "/blog/jackson-ms-termites/",
+    "/blog/mcallen-tx-termites/",
+    "/blog/cambridge-ma-termites/",
+    "/blog/carlsbad-ca-termites/",
+    "/blog/murfreesboro-tn-termites/",
     "/blog/orange-ca-termites/",
+    "/blog/el-paso-tx-termites/",
     "/blog/california-tds-spq-disclosure-guide/",
     "/blog/texas-trec-sellers-disclosure-guide/",
-    "/blog/section-1-vs-section-2-termite-report-california/",
-    "/blog/how-to-write-repair-credit-addendum-after-inspection/"
+    "/blog/how-to-write-repair-credit-addendum-after-inspection/",
+    "/blog/section-1-vs-section-2-termite-report-california/"
   ],
   "styleAndCtaDirectives": [
-    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection section—avoid slow travel-brochure city introductions (which showed 0%–12.5% engagement in GA4 on Orange and El Paso prior to rewrite).",
-    "Include an itemized cost breakdown table or bulleted cost benchmark section—articles with concrete contractor dollar ranges (Cary NC, Cape Coral FL, Irvine CA) achieved 4 to 9+ minutes of engaged reading time in GA4.",
-    "Tailor the mid-article HTML callout heading specifically to the exact document or defect discussed in the article (e.g., 'Reviewing an 80-page Home Inspection or Sewer Scope PDF?') rather than generic copy to maximize blog_cta_click conversions."
+    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection section—avoid slow travel-brochure city introductions (which showed 0%–14% engagement in GA4 on Orange and El Paso prior to rewrite).",
+    "Include an itemized contractor cost breakdown table ($5,000–$50,000+)—articles with concrete repair benchmarks (Cary NC, Cape Coral FL, Irvine CA) achieved 4 to 9+ minutes of engaged reading time in GA4.",
+    "Include 3 to 4 direct question-matching FAQ items answering exact conversational queries discovered in GSC (e.g. 'Can termites damage my house structure in one year?', 'What is a termite letter and who pays for it?', 'Why do homes in [City] have [Defect]?').",
+    "Tailor the mid-article HTML callout heading specifically to the exact document or defect discussed in the article (e.g., 'Reviewing a [State] Seller Disclosure or WDI Report?') rather than generic copy to maximize blog_cta_click conversions."
   ]
 }
