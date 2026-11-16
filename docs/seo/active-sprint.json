@@ -3,7 +3,6 @@
   "newArticlesPerRun": 2,
   "refreshesPerRun": 1,
   "refreshQueue": [
-    "boston-ma-roofs",
     "albuquerque-nm-termites",
     "buffalo-ny-termites"
   ],
