@@ -33,10 +33,14 @@ The short answer is **yes—under specific common conditions in Orange County**:
 - **Dual Infestations Accelerating Wood Failure:** In Orange, older homes frequently suffer from **simultaneous subterranean termite attacks at the foundation sill plate** and **drywood termite feeding in attic rafters**. Compounded by dry rot fungal decay from slow plumbing or roof leaks, structural deflection can happen rapidly within a single year.
 - **Deceptive Cosmetic Patches:** Disclosing sellers or flippers sometimes cosmetically patch termite kick-out holes with wood filler or paint over mud tubes immediately before listing. Within 12 months of purchase, the ongoing structural hollowing beneath the cosmetic paint causes floors to sag and plaster walls to crack.
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
-  <h3 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Reviewing an Orange County TDS, SPQ, or Section 1 Pest Report?</h3>
-  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Upload your California seller disclosures and SPCB Branch 3 termite report to <strong style="color: #166534;">DisclosurePro AI</strong>—spot buried drywood notes and calculate exact seller repair credits in seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Analyze your 1st property free.</a></p>
-</div>
+<aside class="mid-article-cta" aria-label="Scan your disclosure packet with DisclosurePro AI">
+  <h3>Reviewing an Orange County TDS, SPQ, or Section 1 Pest Report?</h3>
+  <p>Upload your California seller disclosures and SPCB Branch 3 termite report to <strong>DisclosurePro AI</strong>—spot buried drywood notes, jump to exact PDF pages, and calculate seller repair credits in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
 
 ---
 

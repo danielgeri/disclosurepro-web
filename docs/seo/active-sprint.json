@@ -1,9 +1,12 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-18",
+  "northStarGoal": "Maximize organic click-through rate to the DisclosurePro AI app (play_store_click, blog_cta_click, cta_download_click, early_access_click) alongside qualified active-escrow search traffic.",
   "newArticlesPerRun": 2,
   "refreshesPerRun": 1,
   "refreshQueue": [
-    "buffalo-ny-termites"
+    "buffalo-ny-termites",
+    "cambridge-ma-termites",
+    "ventura-ca-termites"
   ],
   "priorityInternalLinkTargets": [
     "/blog/boston-ma-roofs/",
@@ -24,9 +27,10 @@
     "/blog/section-1-vs-section-2-termite-report-california/"
   ],
   "styleAndCtaDirectives": [
-    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection section—avoid slow travel-brochure city introductions (which showed 0%–14% engagement in GA4 on Orange and El Paso prior to rewrite).",
-    "Include an itemized contractor cost breakdown table ($5,000–$50,000+)—articles with concrete repair benchmarks (Cary NC, Cape Coral FL, Irvine CA) achieved 4 to 9+ minutes of engaged reading time in GA4.",
-    "Include 3 to 4 direct question-matching FAQ items answering exact conversational queries discovered in GSC (e.g. 'Can termites damage my house structure in one year?', 'What is a termite letter and who pays for it?', 'Why do homes in [City] have [Defect]?').",
-    "Tailor the mid-article HTML callout heading specifically to the exact document or defect discussed in the article (e.g., 'Reviewing a [State] Seller Disclosure or WDI Report?') rather than generic copy to maximize blog_cta_click conversions."
+    "APP CTR NORTH STAR: Frame every article around active real estate due diligence—the reader has a seller disclosure or inspection PDF and a ticking contingency clock—so using the DisclosurePro AI app is the immediate next step.",
+    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection section—never use slow travel-brochure introductions.",
+    "Beat banner blindness with an in-copy editorial bridge: Inside the Cost Breakdown / Negotiation or Manual Review section, include 1 natural contextual Markdown link to /download explaining how uploading both the disclosure and inspection PDFs flags hidden contradictions and calculates repair credits in 10 seconds.",
+    "Use the standardized dual-button <aside class=\"mid-article-cta\"> component from prompt-template.md featuring BOTH direct 1-click Google Play access (data-gtag-event=\"play_store_click\") and iPhone/Web access (/download, data-gtag-event=\"blog_cta_click\"), with an <h3> tailored to the exact form or defect.",
+    "Include an itemized contractor cost breakdown table ($5,000–$50,000+) and 3–4 direct question-matching FAQs targeting conversational Search Console queries."
   ]
 }

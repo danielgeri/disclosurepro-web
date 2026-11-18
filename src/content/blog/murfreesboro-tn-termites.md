@@ -35,10 +35,14 @@ Murfreesboro rests within the Central Basin of Tennessee, where distinctive geol
 - **Fiberglass Batt Insulation in Crawlspaces:** To satisfy energy standards, builders routinely installed thick fiberglass batt insulation beneath floor joists. Subterranean termites tunnel behind this insulation, devouring load-bearing floor joists and central carrying girders while remaining hidden from routine visual inspections.
 - **Mulch and Soil Against Brick Weep Holes:** Brick veneer construction is common across Middle Tennessee. Homeowners often pile decorative mulch or topsoil above foundation blocks, bridging open weep holes and giving subterranean termites direct access to structural wall studs.
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
-  <h3 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Reviewing a Murfreesboro Termite Letter or Tennessee Disclosure?</h3>
-  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Upload your NPMA-33 WDI report and Tennessee seller disclosure packet to <strong style="color: #166534;">DisclosurePro AI</strong>—uncover hidden crawlspace damage and calculate repair credits in seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Analyze your 1st property free.</a></p>
-</div>
+<aside class="mid-article-cta" aria-label="Scan your disclosure packet with DisclosurePro AI">
+  <h3>Reviewing a Murfreesboro Termite Letter or Tennessee Disclosure?</h3>
+  <p>Upload your NPMA-33 WDI report and Tennessee seller disclosure packet to <strong>DisclosurePro AI</strong>—uncover hidden crawlspace damage, verify exact PDF pages, and calculate repair credits in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
 
 ---
 

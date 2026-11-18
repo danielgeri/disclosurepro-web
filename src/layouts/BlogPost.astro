@@ -199,6 +199,32 @@ const articleSchemas = [
 				color: var(--text-secondary);
 				margin-bottom: 1.5em;
 			}
+			.prose table {
+				width: 100%;
+				border-collapse: collapse;
+				margin: 1.5rem 0 2rem 0;
+				font-size: 0.92em;
+				background: #ffffff;
+				border: 1px solid #e2e8f0;
+				border-radius: 10px;
+				overflow: hidden;
+			}
+			.prose th {
+				background: #f1f5f9;
+				color: #0f172a;
+				font-weight: 800;
+				text-align: left;
+				padding: 0.75rem 1rem;
+				border-bottom: 2px solid #cbd5e1;
+			}
+			.prose td {
+				padding: 0.7rem 1rem;
+				border-bottom: 1px solid #e2e8f0;
+				color: #1e293b;
+			}
+			.prose tr:last-child td {
+				border-bottom: none;
+			}
 			.prose hr {
 				margin: 1.5em auto;
 				border: 0;
@@ -211,8 +237,8 @@ const articleSchemas = [
 				color: var(--text-secondary);
 			}
 			.title {
-				margin-bottom: 1.8em;
-				padding: 1em 0 0.5em 0;
+				margin-bottom: 1.25em;
+				padding: 1em 0 0.25em 0;
 				text-align: center;
 				line-height: 1.2;
 			}
@@ -236,6 +262,169 @@ const articleSchemas = [
 			.last-updated-on {
 				font-style: italic;
 			}
+
+			/* Above-the-fold Quick App Scan Strip */
+			.article-quick-cta {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				gap: 1rem;
+				background: linear-gradient(135deg, #071933 0%, #0d3870 100%);
+				border: 1px solid rgba(28, 227, 237, 0.32);
+				border-radius: 14px;
+				padding: 1rem 1.25rem;
+				margin: 0 0 1.85rem 0;
+				box-shadow: 0 10px 24px -8px rgba(5, 19, 38, 0.25);
+			}
+			.article-quick-cta-copy {
+				flex: 1;
+				min-width: 0;
+			}
+			.article-quick-cta-title {
+				display: block;
+				color: #f8fafc;
+				font-size: 0.96rem;
+				font-weight: 800;
+				line-height: 1.3;
+				margin-bottom: 0.2rem;
+			}
+			.article-quick-cta-sub {
+				display: block;
+				color: #cbd5e1;
+				font-size: 0.84rem;
+				line-height: 1.4;
+			}
+			.article-quick-cta-actions {
+				display: flex;
+				align-items: center;
+				gap: 0.6rem;
+				flex-shrink: 0;
+			}
+			.article-quick-btn-primary {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				background: linear-gradient(135deg, #1ce3ed 0%, #00a8cc 100%);
+				color: #070b19 !important;
+				font-size: 0.86rem;
+				font-weight: 800;
+				padding: 0.58rem 1rem;
+				border-radius: 9px;
+				text-decoration: none !important;
+				white-space: nowrap;
+				box-shadow: 0 4px 12px rgba(28, 227, 237, 0.3);
+				transition: transform 0.15s ease, box-shadow 0.15s ease;
+			}
+			.article-quick-btn-primary:hover {
+				transform: translateY(-1px);
+				box-shadow: 0 6px 16px rgba(28, 227, 237, 0.45);
+			}
+			.article-quick-btn-secondary {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				background: rgba(255, 255, 255, 0.1);
+				border: 1px solid rgba(255, 255, 255, 0.28);
+				color: #f8fafc !important;
+				font-size: 0.84rem;
+				font-weight: 700;
+				padding: 0.55rem 0.85rem;
+				border-radius: 9px;
+				text-decoration: none !important;
+				white-space: nowrap;
+				transition: background 0.15s ease;
+			}
+			.article-quick-btn-secondary:hover {
+				background: rgba(255, 255, 255, 0.18);
+			}
+
+			/* Standardized High-CTR Mid-Article Callout Card */
+			.prose .mid-article-cta {
+				background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+				border: 1px solid #86efac;
+				border-left: 5px solid #16a34a;
+				padding: 1.5rem 1.6rem;
+				border-radius: 12px;
+				margin: 2.25rem 0;
+				box-shadow: 0 8px 20px -6px rgba(22, 101, 52, 0.12);
+			}
+			.prose .mid-article-cta h3 {
+				margin: 0 0 0.45rem 0 !important;
+				color: #14532d !important;
+				font-size: 1.18rem !important;
+				font-weight: 800 !important;
+			}
+			.prose .mid-article-cta p {
+				margin: 0 0 1rem 0 !important;
+				color: #166534 !important;
+				font-size: 0.98rem !important;
+				line-height: 1.55 !important;
+			}
+			.prose .mid-article-cta-buttons {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.65rem;
+				align-items: center;
+			}
+			.prose .mid-cta-btn-play {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				background: #15803d;
+				color: #ffffff !important;
+				font-weight: 800;
+				font-size: 0.92rem;
+				padding: 0.62rem 1.15rem;
+				border-radius: 9px;
+				text-decoration: none !important;
+				transition: background 0.15s ease, transform 0.15s ease;
+			}
+			.prose .mid-cta-btn-play:hover {
+				background: #166534;
+				transform: translateY(-1px);
+			}
+			.prose .mid-cta-btn-web {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				background: #ffffff;
+				border: 1px solid #16a34a;
+				color: #15803d !important;
+				font-weight: 700;
+				font-size: 0.9rem;
+				padding: 0.58rem 1rem;
+				border-radius: 9px;
+				text-decoration: none !important;
+				transition: background 0.15s ease;
+			}
+			.prose .mid-cta-btn-web:hover {
+				background: #f0fdf4;
+			}
+
+			/* Automatically upgrade inline /download text links inside legacy mid-article callout boxes into tactile buttons */
+			.prose div[style*="border-left"] a[href^="/download"] {
+				display: inline-flex;
+				align-items: center;
+				margin-top: 0.65rem;
+				padding: 0.52rem 1.05rem;
+				background: #15803d;
+				color: #ffffff !important;
+				border-radius: 8px;
+				font-size: 0.92rem;
+				font-weight: 700 !important;
+				text-decoration: none !important;
+				box-shadow: 0 2px 8px rgba(21, 128, 61, 0.25);
+				transition: background 0.15s ease, transform 0.15s ease;
+			}
+			.prose div[style*="border-left"] a[href^="/download"]::after {
+				content: ' \2192';
+				margin-left: 0.3rem;
+			}
+			.prose div[style*="border-left"] a[href^="/download"]:hover {
+				background: #166534;
+				transform: translateY(-1px);
+			}
+
 			.related-section {
 				width: 920px;
 				max-width: calc(100% - 2em);
@@ -287,12 +476,130 @@ const articleSchemas = [
 				font-weight: 700;
 				color: var(--accent-blue);
 			}
-			@media (max-width: 640px) {
+
+			/* Scroll-Aware Compact Sticky Bottom App Bar */
+			.sticky-app-bar {
+				position: fixed;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				z-index: 95;
+				background: rgba(5, 19, 38, 0.96);
+				backdrop-filter: blur(12px);
+				border-top: 1px solid rgba(28, 227, 237, 0.35);
+				box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.22);
+				padding: 0.65rem 1rem;
+				transform: translateY(110%);
+				opacity: 0;
+				pointer-events: none;
+				transition: transform 0.25s ease, opacity 0.25s ease;
+			}
+			.sticky-app-bar[data-visible='true'] {
+				transform: translateY(0);
+				opacity: 1;
+				pointer-events: auto;
+			}
+			.sticky-app-bar-inner {
+				max-width: 920px;
+				margin: 0 auto;
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				gap: 0.85rem;
+			}
+			.sticky-app-bar-text {
+				color: #f8fafc;
+				font-size: 0.9rem;
+				font-weight: 700;
+				line-height: 1.3;
+				min-width: 0;
+			}
+			.sticky-app-bar-text span {
+				color: #67e8f9;
+				font-weight: 800;
+			}
+			.sticky-app-bar-actions {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+				flex-shrink: 0;
+			}
+			.sticky-btn-play {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				background: linear-gradient(135deg, #1ce3ed 0%, #00a8cc 100%);
+				color: #070b19 !important;
+				font-size: 0.84rem;
+				font-weight: 800;
+				padding: 0.5rem 0.95rem;
+				border-radius: 8px;
+				text-decoration: none !important;
+				white-space: nowrap;
+			}
+			.sticky-btn-web {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				background: rgba(255, 255, 255, 0.1);
+				border: 1px solid rgba(255, 255, 255, 0.28);
+				color: #f8fafc !important;
+				font-size: 0.82rem;
+				font-weight: 700;
+				padding: 0.48rem 0.8rem;
+				border-radius: 8px;
+				text-decoration: none !important;
+				white-space: nowrap;
+			}
+			.sticky-dismiss-btn {
+				background: transparent;
+				border: none;
+				color: #94a3b8;
+				font-size: 1.2rem;
+				line-height: 1;
+				padding: 0.25rem 0.4rem;
+				cursor: pointer;
+				border-radius: 6px;
+			}
+			.sticky-dismiss-btn:hover {
+				color: #f8fafc;
+				background: rgba(255, 255, 255, 0.08);
+			}
+
+			@media (prefers-reduced-motion: reduce) {
+				.sticky-app-bar {
+					transition: none;
+				}
+			}
+
+			@media (max-width: 680px) {
 				.title h1 {
 					font-size: 28px;
 				}
 				.prose {
 					font-size: 17px;
+				}
+				.article-quick-cta {
+					flex-direction: column;
+					align-items: stretch;
+					padding: 0.95rem 1rem;
+				}
+				.article-quick-cta-actions {
+					width: 100%;
+				}
+				.article-quick-btn-primary,
+				.article-quick-btn-secondary {
+					flex: 1;
+				}
+				.prose .mid-cta-btn-play,
+				.prose .mid-cta-btn-web {
+					width: 100%;
+				}
+				.sticky-app-bar-text .desktop-only-copy {
+					display: none;
+				}
+				body {
+					padding-bottom: 64px;
 				}
 			}
 		</style>
@@ -321,7 +628,7 @@ const articleSchemas = [
 					)}
 				</div>
 				<div class="prose">
-					<div class="title">
+					<div id="article-title-block" class="title">
 						<div class="meta-row">
 							<span><FormattedDate date={pubDate} /></span>
 							<span aria-hidden="true">•</span>
@@ -335,6 +642,35 @@ const articleSchemas = [
 						<h1>{title}</h1>
 						<hr />
 					</div>
+
+					<aside class="article-quick-cta" aria-label="Scan your disclosure packet free">
+						<div class="article-quick-cta-copy">
+							<span class="article-quick-cta-title">📄 Have a disclosure or inspection PDF?</span>
+							<span class="article-quick-cta-sub">
+								Scan 100+ pages in 10s for buried defects &amp; repair credits — <strong>1st property free</strong>.
+							</span>
+						</div>
+						<div class="article-quick-cta-actions">
+							<a
+								href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="article-quick-btn-primary"
+								data-gtag-event="play_store_click"
+								data-gtag-label="blog_top_strip_google_play"
+							>
+								Google Play 🚀
+							</a>
+							<a
+								href="/download"
+								class="article-quick-btn-secondary"
+								data-gtag-event="blog_cta_click"
+								data-gtag-label="blog_top_strip_ios_web"
+							>
+								iOS &amp; Web &rarr;
+							</a>
+						</div>
+					</aside>
 
 					<slot />
 					<CallToAction />
@@ -358,6 +694,107 @@ const articleSchemas = [
 				</section>
 			)}
 		</main>
+
+		<aside
+			id="sticky-app-bar"
+			class="sticky-app-bar"
+			data-visible="false"
+			aria-label="Download DisclosurePro AI app"
+		>
+			<div class="sticky-app-bar-inner">
+				<div class="sticky-app-bar-text">
+					<span>1st Scan Free:</span> Check your PDF in 10s<span class="desktop-only-copy"> — spot hidden defects &amp; repair credits</span>
+				</div>
+				<div class="sticky-app-bar-actions">
+					<a
+						href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app"
+						target="_blank"
+						rel="noopener noreferrer"
+						class="sticky-btn-play"
+						data-gtag-event="play_store_click"
+						data-gtag-label="blog_sticky_bar_google_play"
+					>
+						Google Play 🚀
+					</a>
+					<a
+						href="/download"
+						class="sticky-btn-web"
+						data-gtag-event="blog_cta_click"
+						data-gtag-label="blog_sticky_bar_ios_web"
+					>
+						iOS / Web
+					</a>
+					<button
+						type="button"
+						id="sticky-app-dismiss"
+						class="sticky-dismiss-btn"
+						aria-label="Dismiss app download bar"
+					>
+						&times;
+					</button>
+				</div>
+			</div>
+		</aside>
+
 		<Footer />
+
+		<script>
+			const bar = document.getElementById('sticky-app-bar');
+			const dismissBtn = document.getElementById('sticky-app-dismiss');
+			const titleBlock = document.getElementById('article-title-block');
+			const bottomCta = document.querySelector('.cta-container');
+			const storageKey = 'dp_sticky_cta_dismissed';
+
+			let isDismissed = false;
+			try {
+				isDismissed = sessionStorage.getItem(storageKey) === '1';
+			} catch {
+				// Ignore storage restrictions
+			}
+
+			if (bar && titleBlock && !isDismissed && 'IntersectionObserver' in window) {
+				let pastTitle = false;
+				let bottomVisible = false;
+
+				const syncVisibility = () => {
+					const shouldShow = !isDismissed && pastTitle && !bottomVisible;
+					bar.setAttribute('data-visible', String(shouldShow));
+				};
+
+				const titleObserver = new IntersectionObserver(
+					(entries) => {
+						for (const entry of entries) {
+							pastTitle = !entry.isIntersecting && entry.boundingClientRect.top < 0;
+						}
+						syncVisibility();
+					},
+					{ threshold: 0 },
+				);
+				titleObserver.observe(titleBlock);
+
+				if (bottomCta) {
+					const bottomObserver = new IntersectionObserver(
+						(entries) => {
+							for (const entry of entries) {
+								bottomVisible = entry.isIntersecting;
+							}
+							syncVisibility();
+						},
+						{ threshold: 0.1 },
+					);
+					bottomObserver.observe(bottomCta);
+				}
+
+				dismissBtn?.addEventListener('click', () => {
+					isDismissed = true;
+					bar.setAttribute('data-visible', 'false');
+					try {
+						sessionStorage.setItem(storageKey, '1');
+					} catch {
+						// Ignore storage restrictions
+					}
+				});
+			}
+		</script>
 	</body>
 </html>

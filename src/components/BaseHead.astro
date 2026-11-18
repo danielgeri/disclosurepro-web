@@ -93,27 +93,45 @@ const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     var customEvent = link.getAttribute('data-gtag-event');
     var customLabel = link.getAttribute('data-gtag-label') || window.location.pathname;
     var href = link.getAttribute('href') || '';
+    var isDownloadHref =
+      href === '/download' ||
+      href.indexOf('/download/') === 0 ||
+      href.indexOf('/download?') === 0 ||
+      href.indexOf('/download#') === 0;
 
     if (customEvent) {
       gtag('event', customEvent, {
         event_category: 'conversion',
         event_label: customLabel,
-        source_page: window.location.pathname
+        source_page: window.location.pathname,
+        transport_type: 'beacon'
       });
     } else if (href.indexOf('play.google.com') !== -1) {
       gtag('event', 'play_store_click', {
         event_category: 'conversion',
-        source_page: window.location.pathname
+        event_label: customLabel,
+        source_page: window.location.pathname,
+        transport_type: 'beacon'
       });
-    } else if (href === '/download' && link.closest('article')) {
+    } else if (isDownloadHref && link.closest('article')) {
       gtag('event', 'blog_cta_click', {
         event_category: 'conversion',
-        source_page: window.location.pathname
+        event_label: 'in_article_download_link',
+        source_page: window.location.pathname,
+        transport_type: 'beacon'
+      });
+    } else if (isDownloadHref) {
+      gtag('event', 'cta_download_click', {
+        event_category: 'conversion',
+        event_label: customLabel,
+        source_page: window.location.pathname,
+        transport_type: 'beacon'
       });
     } else if (href.indexOf('mailto:contact@disclosurepro.ai') === 0) {
       gtag('event', 'early_access_or_contact_click', {
         event_category: 'conversion',
-        source_page: window.location.pathname
+        source_page: window.location.pathname,
+        transport_type: 'beacon'
       });
     }
   });

@@ -216,6 +216,10 @@ def fetch_ga4_metrics(token: str, prop_name: str) -> dict[str, Any]:
 
     pages = []
     funnel_leaks = []
+    top_converting_pages = []
+    blog_sessions_total = 0
+    blog_cta_clicks_total = 0
+
     for row in landing_resp.get("rows", []):
         page_path = row["dimensionValues"][0]["value"]
         m = row["metricValues"]
@@ -225,6 +229,11 @@ def fetch_ga4_metrics(token: str, prop_name: str) -> dict[str, Any]:
         eng_rate = round(float(m[3]["value"]), 4)
         avg_dur = round(float(m[4]["value"]), 1)
         page_ctas = sum(cta_by_page.get(page_path, {}).values())
+        page_app_ctr = round((page_ctas / sessions) * 100, 2) if sessions > 0 else 0.0
+
+        if page_path.startswith("/blog/"):
+            blog_sessions_total += sessions
+            blog_cta_clicks_total += page_ctas
 
         entry = {
             "pagePath": page_path,
@@ -234,16 +243,53 @@ def fetch_ga4_metrics(token: str, prop_name: str) -> dict[str, Any]:
             "engagementRate": eng_rate,
             "avgSessionDurationSec": avg_dur,
             "ctaClicks": page_ctas,
+            "appCtrPct": page_app_ctr,
             "ctaBreakdown": dict(cta_by_page.get(page_path, {})),
         }
         pages.append(entry)
-        if sessions >= 5 and page_ctas == 0 and page_path.startswith("/blog/"):
+        if page_ctas > 0:
+            top_converting_pages.append(entry)
+        if (
+            page_path.startswith("/blog/")
+            and page_ctas == 0
+            and (sessions >= 3 or (sessions >= 1 and avg_dur >= 90.0))
+        ):
             funnel_leaks.append(entry)
+
+    top_converting_pages.sort(key=lambda x: (-x["ctaClicks"], -x["appCtrPct"]))
+    funnel_leaks.sort(key=lambda x: (-x["sessions"], -x["avgSessionDurationSec"]))
+
+    site_sessions = int(overview.get("last_28d", {}).get("sessions", 0.0))
+    total_app_clicks = (
+        cta_totals.get("play_store_click", 0)
+        + cta_totals.get("cta_download_click", 0)
+        + cta_totals.get("early_access_click", 0)
+        + cta_totals.get("early_access_or_contact_click", 0)
+        + cta_totals.get("blog_cta_click", 0)
+    )
+    app_conversion_summary = {
+        "siteSessions": site_sessions,
+        "blogSessions": blog_sessions_total,
+        "totalAppClicks": total_app_clicks,
+        "playStoreClicks": cta_totals.get("play_store_click", 0),
+        "downloadPageClicks": cta_totals.get("cta_download_click", 0),
+        "blogCtaClicks": cta_totals.get("blog_cta_click", 0),
+        "earlyAccessClicks": cta_totals.get("early_access_click", 0)
+        + cta_totals.get("early_access_or_contact_click", 0),
+        "siteAppCtrPct": round((total_app_clicks / site_sessions) * 100, 2)
+        if site_sessions > 0
+        else 0.0,
+        "blogAppCtrPct": round((blog_cta_clicks_total / blog_sessions_total) * 100, 2)
+        if blog_sessions_total > 0
+        else 0.0,
+    }
 
     return {
         "property": prop_name,
         "overview": overview,
+        "appConversionSummary": app_conversion_summary,
         "ctaTotals": dict(cta_totals),
+        "topConvertingPages": top_converting_pages[:15],
         "topPages": pages[:40],
         "funnelLeaks": funnel_leaks[:15],
     }
@@ -406,9 +452,13 @@ def main() -> int:
             print(f"  - {w}")
     if report["ga4"]:
         ov = report["ga4"].get("overview", {})
+        conv = report["ga4"].get("appConversionSummary", {})
         print(f"GA4 ({report['ga4']['property']}): {json.dumps(ov)}")
+        print(f"GA4 App Conversion Summary: {json.dumps(conv)}")
         print(f"GA4 CTA Totals: {json.dumps(report['ga4']['ctaTotals'])}")
-        print(f"GA4 Funnel Leaks ({len(report['ga4']['funnelLeaks'])} pages with >=5 sessions & 0 CTA clicks)")
+        print(
+            f"GA4 Funnel Leaks ({len(report['ga4']['funnelLeaks'])} blog pages with >=3 sessions or >=90s dwell & 0 CTA clicks)"
+        )
     if report["gsc"]:
         print(
             f"GSC ({report['gsc']['siteUrl']}): "

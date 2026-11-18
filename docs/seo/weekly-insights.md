@@ -9,6 +9,19 @@ This file is updated automatically every Sunday by the **Weekly SEO Feedback Loo
 
 ---
 
+## Conversion Funnel Upgrade — Nov 18, 2026 (`App CTR North Star`)
+
+- **North Star Mandate:** Every weekly feedback loop and MWF run must optimize for **App Click-Through Rate (`siteAppCtrPct` & `blogAppCtrPct`)**—driving clicks to Google Play (`play_store_click`) and iOS/Web access (`blog_cta_click`, `cta_download_click`, `early_access_click`)—not vanity impressions alone.
+- **Sitewide Blog-to-App UX Deployed (`src/layouts/BlogPost.astro`, `src/components/CallToAction.astro`, `src/components/BaseHead.astro`):**
+  1. **Above-the-fold Quick Scan Strip** right below every article `<h1>` offering 1-click Google Play + iOS/Web access for skimmers.
+  2. **Scroll-aware Sticky Bottom App Bar** (`IntersectionObserver`, auto-hides when bottom CTA enters viewport) capturing 3–20 min engaged readers.
+  3. **Dual-button `.mid-article-cta` component** + automatic CSS button styling on all 800+ legacy mid-article `/download` links + `transport_type: 'beacon'` on outbound app store clicks.
+- **Closed-Loop Analytics & Pipeline Updates (`scripts/fetch_seo_metrics.py`, `docs/seo/prompt-template.md`, `docs/seo/active-sprint.json`):**
+  - Added `appConversionSummary` and `topConvertingPages` to `fetch_seo_metrics.py` and expanded `funnelLeaks` to flag any `/blog/` page with `>=3 sessions` or `>=90s avg dwell` and `0` app clicks.
+  - Enforced active-escrow framing, in-copy `/download` editorial bridges, and dual-button mid-article CTAs on all upcoming MWF articles and refreshes (`buffalo-ny-termites`, `cambridge-ma-termites`, `ventura-ca-termites`).
+
+---
+
 ## Live Snapshot — Nov 15, 2026 (`Last 28d vs. Prior 28d`)
 
 ### 1. GA4 28-Day Performance & Conversion Metrics
