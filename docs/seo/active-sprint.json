@@ -3,7 +3,6 @@
   "newArticlesPerRun": 2,
   "refreshesPerRun": 1,
   "refreshQueue": [
-    "albuquerque-nm-termites",
     "buffalo-ny-termites"
   ],
   "priorityInternalLinkTargets": [
