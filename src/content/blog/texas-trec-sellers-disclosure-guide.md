@@ -28,6 +28,15 @@ If you are buying a 1950s–1979 ranch home in Texas, the underground drain line
 Texas has no state income tax, which means property taxes carry the load—and **MUD (Municipal Utility District)** or **PID (Public Improvement District)** assessments in newer suburban developments can add **0.50% to 1.40%+** on top of county and school district tax rates.
 - Under **Texas Water Code § 49.452**, failing to deliver the statutory MUD Notice prior to closing gives buyers powerful termination remedies, yet buyers routinely sign the MUD addendum electronically without calculating the **$300 to $700/month** payment impact.
 
+<aside class="mid-article-cta" aria-label="Scan your Texas disclosure packet with DisclosurePro AI">
+  <h3>Clock Ticking on Your Texas Option Period?</h3>
+  <p>Upload your TREC OP-H or TXR-1406 Seller's Disclosure, home inspection PDF, and TDA WDI report to <strong>DisclosurePro AI</strong>—flag buried foundation, roof, and slab-plumbing risks and calculate repair credits in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
+
 ## 5. French Drains, Surface Grading & Floodplain Updates
 Look closely at **Section 4 / Flooding & Drainage** on the Texas disclosure notice. Texas law expanded flood disclosure requirements (TREC Flood Hazard Information) after Hurricane Harvey, requiring sellers to disclose:
 - Present flood insurance coverage

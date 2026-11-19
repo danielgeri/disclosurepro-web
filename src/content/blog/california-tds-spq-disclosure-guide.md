@@ -44,6 +44,15 @@ In California, licensed structural pest inspectors split findings into two disti
 
 ---
 
+<aside class="mid-article-cta" aria-label="Scan your California disclosure packet with DisclosurePro AI">
+  <h3>Reviewing a 150+ Page Glide or Disclosures.io Packet Right Now?</h3>
+  <p>Upload your California TDS, SPQ, AVID, NHD, and Section 1 termite PDFs to <strong>DisclosurePro AI</strong>—cross-check contradictions across files, jump to exact PDF pages, and calculate your repair credit request in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
+
 ## 4 Expensive Contradictions Buyers Miss Across Multi-File Packets
 
 The biggest danger in a California disclosure packet isn't any single form—it's **contradictions across separate PDFs**:

@@ -86,8 +86,10 @@ const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
   gtag('js', new Date());
   gtag('config', 'G-V1WBFNJ3ZT');
 
-  document.addEventListener('click', function (e) {
-    var link = e.target && e.target.closest ? e.target.closest('a, button[data-gtag-event]') : null;
+  function trackCtaClick(e) {
+    if (e.type === 'auxclick' && e.button !== 1) return;
+    var targetEl = e.target && (e.target.nodeType === 1 ? e.target : e.target.parentElement);
+    var link = targetEl && targetEl.closest ? targetEl.closest('a, button[data-gtag-event]') : null;
     if (!link || typeof gtag !== 'function') return;
 
     var customEvent = link.getAttribute('data-gtag-event');
@@ -97,7 +99,8 @@ const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
       href === '/download' ||
       href.indexOf('/download/') === 0 ||
       href.indexOf('/download?') === 0 ||
-      href.indexOf('/download#') === 0;
+      href.indexOf('/download#') === 0 ||
+      href.indexOf('https://www.disclosurepro.ai/download') === 0;
 
     if (customEvent) {
       gtag('event', customEvent, {
@@ -134,5 +137,8 @@ const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
         transport_type: 'beacon'
       });
     }
-  });
+  }
+
+  document.addEventListener('click', trackCtaClick);
+  document.addEventListener('auxclick', trackCtaClick);
 </script>

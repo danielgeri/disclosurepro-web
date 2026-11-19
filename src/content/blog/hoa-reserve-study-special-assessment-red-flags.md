@@ -33,6 +33,15 @@ Check two places in the HOA budget and insurance certificate:
 
 ---
 
+<aside class="mid-article-cta" aria-label="Scan your HOA packet with DisclosurePro AI">
+  <h3>Staring at a 400-Page HOA Reserve Study &amp; Resale Packet?</h3>
+  <p>Upload your HOA Reserve Study, budgets, CC&amp;Rs, and 12 months of board meeting minutes to <strong>DisclosurePro AI</strong>—spot looming special assessments, Percent Funded shortfalls, and rental caps in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
+
 ## 3. Reading 12 Months of Board Meeting Minutes Like a Forensic Auditor
 
 Sellers only have to disclose special assessments that have been **formally levied or noticed**—not assessments the board has been *debating* for eight months! That makes the **last 12–24 months of HOA Board Meeting Minutes** the single highest-signal document in the entire resale package.
