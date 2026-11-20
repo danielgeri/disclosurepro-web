@@ -4,7 +4,6 @@
   "newArticlesPerRun": 2,
   "refreshesPerRun": 1,
   "refreshQueue": [
-    "buffalo-ny-termites",
     "cambridge-ma-termites",
     "ventura-ca-termites"
   ],

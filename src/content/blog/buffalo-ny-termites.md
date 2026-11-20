@@ -1,126 +1,117 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Buffalo Real Estate Disclosures"
-description: "Uncover hidden termite risks in Buffalo real estate disclosures. Master New York's mandatory PCDS disclosure law, historic Queen City housing risks, and protect your purchase."
+title: "Buffalo, NY Termite Disclosure Guide: Spotting Hidden WDI Damage on the Mandatory NY PCDS"
+description: "Reviewing a Buffalo, NY seller disclosure or inspection PDF? Spot hidden Eastern subterranean termite damage on the NY PCDS and negotiate repair credits."
 pubDate: "Aug 23 2026"
+updatedDate: "Nov 20 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-Local real estate attorneys and buyer's brokers regularly counsel homebuyers through one of Western New York's most architecturally significant housing markets. From the stately Victorian and Queen Anne homes of the Elmwood Village and Allentown to the classic two-unit Buffalo flats of North Buffalo (Hertel Avenue) and South Buffalo and the historic residences of Parkside and the Delaware District, Buffalo offers exceptional architectural character and investment potential.
+Overlooking a single softened checkbox on New York's mandatory **Property Condition Disclosure Statement (PCDS)**—or missing a buried basement-access disclaimer inside an inspection PDF before your Buffalo Niagara Association of Realtors (BNAR) contingency clock expires—regularly hits Western New York homebuyers with **$12,000 to $55,000+ in concealed structural sill and floor-joist repairs**. Since New York eliminated the $500 opt-out credit under **N.Y. Real Property Law Article 14 (§§ 460–467)**, every residential seller in Erie County must now complete the expanded 56-question PCDS before contract execution.
 
-However, Buffalo's position along the eastern shore of Lake Erie, combined with heavy lake-effect precipitation, high seasonal water tables, and century-old timber framing, creates substantial vulnerabilities to subterranean termites. Subterranean colonies thrive in the moist soils surrounding historic stone and brick basements, silently tunneling through deteriorated mortar joints to hollow out load-bearing timber sills and floor joists. Navigating New York's newly reformed Property Condition Disclosure Act (PCDA)—which eliminated the historic $500 opt-out credit—and decoding evasive seller disclosures are indispensable due diligence steps for every Buffalo homebuyer.
+Yet in Buffalo's century-old two-family flats and single-family homes—especially across Elmwood Village, Allentown, Parkside, North Buffalo, and South Buffalo—Lake Erie moisture, porous sandstone foundations, and freshly drywalled basement ceilings make Eastern Subterranean Termite damage remarkably easy to understate on paper. Auditing the NY PCDS against your **NPMA-33 Wood-Destroying Insect (WDI) Inspection Report** and general home inspection before your 10-to-14-day inspection window closes is the difference between negotiating a major seller credit and absorbing catastrophic timber-framing costs after closing.
 
-## The Hidden Threat: Subterranean Termites in Buffalo and Western New York
+---
 
-Buffalo experiences a humid continental climate influenced heavily by Lake Erie, characterized by warm, humid summers, extensive winter snowfall (averaging over 90 inches), and more than 40 inches of annual precipitation. These damp conditions create ideal sub-surface moisture profiles for wood-destroying pests.
+## Why Buffalo's Foundations and Climate Hide Subterranean Termite Damage
 
-### Why Buffalo's Historic Housing Stock and Climate Foster Infestations
+Many buyers migrating from southern states assume Western New York's freezing winters eliminate termite risk. In reality, **Eastern Subterranean Termites (*Reticulitermes flavipes*)** remain active year-round throughout Erie County by nesting below the regional 42-inch frost line and clustering against heated basement boiler walls and steam pipes.
 
-Several structural and environmental factors make Buffalo properties particularly vulnerable to wood-destroying insects:
-- **Century-Old Two-Family Flats and Balloon Framing:** A substantial portion of Buffalo's housing stock consists of two-unit flats and single-family residences constructed between 1880 and 1930. These structures feature dense old-growth hemlock and pine timber framing, dimensional sill plates resting directly atop porous sandstone or rubblestone foundations, and continuous balloon framing without horizontal fire-stops.
-- **Lake Erie Moisture and Damp Stone Basements:** Heavy winter snowmelt and high groundwater tables near Lake Erie, the Buffalo River, and Scajaquada Creek result in persistently damp basements. Porous sandstone, limestone, and rubblestone foundation walls absorb moisture from surrounding soils, softening embedded floor joists and creating continuous hydration for **Eastern Subterranean Termites (*Reticulitermes flavipes*)**.
-- **Embedded Timber Joists in Masonry Pockets:** In historic Buffalo homes, floor joists were mortised directly into carved sandstone or brick foundation pockets. As moisture wicks through the foundation, joist ends decay and provide an easily accessible food source for subterranean colonies.
-- **Concealed Basement Renovations:** Many vintage Buffalo properties feature partially finished basements or utility rooms paneled with wood furring strips and drywall, concealing structural foundation sills from visual inspection.
+### Structural Vulnerabilities in Historic Western New York Housing
+Four construction traits make Buffalo homes uniquely susceptible to hidden WDI destruction:
 
-When saturated lake-effect soils meet historic timber framing, subterranean termites can quietly hollow out primary structural timbers over many years.
+- **Porous Sandstone & Rubblestone Foundations:** Homes built between 1880 and 1930 commonly sit on hand-laid sandstone, limestone, or brick foundations. Decades of freeze-thaw cycles and Lake Erie snowmelt erode lime mortar joints, opening dark, perpetually damp vertical highways straight from saturated perimeter soil into the house's structural framing.
+- **Embedded Timber Joists in Masonry Pockets:** Heavy old-growth hemlock and pine floor joists were often mortised directly into carved masonry foundation pockets. As capillary groundwater wicks through the stone, joist ends soften and invite subterranean colonies to hollow out load-bearing girders from the inside out—a pattern mirrored in other historic Northeast markets covered in our [Cambridge, MA termite disclosure guide](/blog/cambridge-ma-termites/).
+- **Balloon Framing & Rim-Joist Concealment:** Continuous vertical wall studs running from the basement sill plate up to the attic allow termites to bypass the first floor entirely and feed along wet plumbing chases or roof-leak paths—similar to the freeze-thaw moisture pathways we detail in our [Boston, MA roof inspection and disclosure guide](/blog/boston-ma-roofs/).
+- **Finished Basement Ceilings & Furring Strips:** Investors and long-term owners frequently install drop ceilings, wood paneling, or drywall over basement utility rooms and perimeter foundation walls. That cosmetic upgrade completely hides mud shelter tubes, rotted sill plates, and prior sistered joists from a standard visual home inspection.
 
-### The Biology and Mechanics of Subterranean Termites in Western New York
+Because subterranean termites eat along the softer springwood grain while leaving a paper-thin exterior shell intact, a 2x10 carrying joist in a North Buffalo double can appear completely solid to an untrained eye until subfloors begin sagging or kitchen doorways rack out of square.
 
-Eastern Subterranean Termites operate in large social colonies underground:
-1. **Soil Hydration and Freeze Avoidance:** Subterranean termites require continuous soil moisture to prevent desiccation. During cold Western New York winters, colonies retreat deep below the regional 42-inch frost line or nest near heated basement boiler systems, remaining active throughout the year.
-2. **Mud Shelter Tubes:** Worker termites build airtight mud shelter tubes composed of soil particles, saliva, and digested cellulose across stone foundation walls, brick piers, and plumbing lines to reach timber framing.
-3. **Internal Timber Excavation:** Termites hollow out structural sill plates, carrying girders, and floor joists along the softer springwood grain, leaving only a brittle exterior shell of wood. A heavy floor joist can appear completely sound on the surface while being hollowed out internally.
+---
 
-Because this damage occurs inside embedded masonry pockets and behind finished basement walls, severe structural degradation often progresses undetected until floors sag or door frames stick.
+## New York's Mandatory PCDS Law (N.Y. Real Prop. Law §§ 460–467)
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
-  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
-  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
-</div>
+Historically, New York sellers routinely bypassed residential disclosures by paying a flat **$500 closing credit** to the buyer. Effective **March 20, 2024**, the amended **New York Property Condition Disclosure Act (PCDA)** permanently repealed that $500 opt-out loophole for 1-to-4 family residential sales (note that condominiums, co-ops, and certain fiduciary/estate transfers still retain narrow statutory exemptions).
 
-## New York Real Estate Disclosure Laws: What Buffalo Buyers Must Know
+### What Sellers Must Disclose on the Expanded 56-Question NY PCDS
+Before you sign a binding purchase contract, the seller must deliver a completed **Property Condition Disclosure Statement (N.Y. Real Prop. Law § 462)** answering **Yes**, **No**, **Unknown**, or **Not Applicable** across 56 statutory items—including expanded flood, moisture, and structural questions:
 
-Residential real estate transactions in New York have undergone historic legal reform under the **New York Property Condition Disclosure Act (PCDA) (N.Y. Real Prop. Law § 460-467)**.
+- **Wood-Destroying Insects & Prior Treatments:** Sellers must disclose any known current or past infestation by termites, carpenter ants, or powderpost beetles, any known structural damage caused by them, and whether chemical barrier treatments or bait stations were ever installed.
+- **Rot, Water Damage & Structural Defects:** Requires disclosure of known rot, structural foundation defects, leaning or cracked masonry walls, and basement water seepage—all primary environmental precursors to subterranean termite colonies.
+- **Flooding & Drainage History:** The expanded flood disclosures force sellers to reveal past basement flooding, sump failures, and flood insurance claims, which directly correlate with chronically damp timber sills.
 
-### The Historic 2024 New York Disclosure Law Reform
+### Critical Companion Documents in Erie County Transactions
+Never evaluate the NY PCDS in isolation. Cross-check it against three additional documents during your BNAR inspection contingency period:
 
-Prior to 2024, New York sellers routinely exploited a statutory loophole: they could choose not to complete the disclosure form by paying a nominal $500 credit to the buyer at closing. 
+1. **NPMA-33 Wood-Destroying Insect (WDI) Report:** Required by FHA, VA, and many conventional lenders across Buffalo. Performed by a **New York Department of Environmental Conservation (NYDEC)** certified pesticide applicator, this report documents visible live insects, mud tubes, exit holes, prior concrete drill holes, and—most importantly—**obstructed or inaccessible areas** the inspector could not probe.
+2. **Prior Treatment Diagrams & Transferable Warranties:** If the seller checks "Yes" to past termite treatment, demand the original **treatment graph** showing exactly which foundation walls were trenched or drilled, along with the paid invoice confirming whether structural timber repairs were performed or merely chemical extermination.
+3. **City of Buffalo Permit & Inspection Records:** Verify whether basement finishing, sistered floor joists, or foundation underpinning were completed under valid City of Buffalo Department of Permit & Inspection Services permits—or done unpermitted to cover up termite decay.
 
-**Under current New York law, the $500 opt-out credit has been eliminated.** Sellers of residential real property are now legally required to complete and deliver the comprehensive 48-question **Property Condition Disclosure Statement (PCDS)** to prospective buyers before contract execution.
+---
 
-### Key New York Disclosure Documents
+<aside class="mid-article-cta" aria-label="Scan your disclosure packet with DisclosurePro AI">
+  <h3>Reviewing a New York PCDS, NPMA-33, or Buffalo Inspection PDF Right Now?</h3>
+  <p>Upload your 100+ page seller disclosures, inspection reports, and WDI/permit packets to <strong>DisclosurePro AI</strong>—spot buried termite &amp; moisture contradictions, verify exact PDF page numbers, and generate your repair credit request in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
 
-When buying a home in Buffalo, prospective buyers must examine several standard statutory and contractual documents:
-- **New York Property Condition Disclosure Statement (PCDS):** Mandated under N.Y. Real Prop. Law § 462. Question 22 specifically addresses *"Wood-Destroying Insects / Termites"*, requiring the seller to disclose:
-  - Any current or past infestation by termites or other wood-destroying organisms.
-  - Any previous chemical treatments, bait station installations, or barrier applications.
-  - Any known structural or cosmetic damage caused by termites and whether repairs were completed.
-  - In addition, Questions 19 and 20 require disclosure of basement seepage, water intrusion, and foundation defects.
-- **National Pest Management Association (NPMA-33) Form / New York WDI Report:** Required by FHA, VA, and many conventional mortgage lenders across Erie County. A certified New York Department of Environmental Conservation (NYDEC) pesticide applicator inspects accessible timber framing for active mud tubes, prior drill holes, or visible damage.
-- **Buffalo Niagara Association of Realtors (BNAR) Standard Contract:** Contains standard inspection contingency provisions granting buyers a contractual window (typically 10 to 14 days) to conduct specialized pest inspections and negotiate repair credits or terminate the agreement.
+---
 
-### What New York Sellers Reveal vs. Conceal
+## Decoding Evasive PCDS Language & Hidden PDF Contradictions
 
-While the mandatory PCDS provides greater transparency, sellers frequently use vague phrasing to downplay past infestations:
-- *"Preventative perimeter termite barrier treatment completed in 2022; service warranty on file"* (omitting that the treatment followed discovery of hollowed joists in the rear foundation wall).
-- *"Added sister joists in basement for general floor leveling"* (masking that the original timber sill beam was destroyed by subterranean termites).
-- *"Seller is an estate executor or non-occupant landlord and has completed disclosure based on limited knowledge"* (while certain fiduciary estates may claim limited occupancy knowledge, intentional concealment of known latent structural defects remains actionable fraud under New York common law).
+Even with the $500 opt-out gone, New York's PCDS is strictly an **actual-knowledge** disclosure—sellers are not legally required to hire an inspector before checking "No" or "Unknown." In practice, Buffalo buyers get burned by **cross-document contradictions** spread across 150 to 250 pages of closing PDFs:
 
-## The Manual Review Problem: Red Flags in Massive Documentation
+- **PCDS says:** *"Preventative perimeter pest treatment completed in 2023; annual service contract available."*
+  **Buried Invoice says:** *"Drilled basement concrete slab along 35 linear feet of west sandstone wall; liquid fipronil injection and foam treatment around active mud tubes at rim joist."*
+- **PCDS says:** *"Added sister joists in basement for minor floor leveling."*
+  **General Inspection Photo Caption (Page 64) says:** *"Fresh dimensional 2x8 lumber bolted beside darkened, frayed original hemlock joists; basement ceiling drywall prevented full inspection of sandstone sill plate."*
+- **PCDS says:** *"No known active water seepage"* (marked "Unknown" by an estate executor or out-of-state two-family landlord).
+  **Inspection Report Body says:** *"Elevated moisture readings (24%+) and white efflorescence along south foundation; fiberglass batt insulation stuffed tightly into rim-joist bays prevented visual inspection for WDI."*
 
-In a typical Buffalo residential or multi-family transaction, the full due diligence packet frequently spans 150 to 250 pages. This package includes:
-- The completed New York Property Condition Disclosure Statement (PCDS)
-- Multi-page general home inspection reports with 80+ basement and structural photos
-- NPMA-33 pest inspection reports and previous chemical treatment warranties
-- City of Buffalo Department of Permit & Inspection Services records and housing violation histories
-- Erie County Clerk filings, title commitments, and lead paint disclosures
+### Why Manual Review Fails Under Tight BNAR Deadlines
+Under standard Buffalo Niagara Association of Realtors contracts, your attorney approval and home/pest inspection contingencies typically run **10 to 14 days**. When you receive a 12-page NY PCDS, a 90-page home inspection PDF packed with boilerplate limitations, an NPMA-33 listing "inaccessible areas," and municipal tax/permit sheets all at once, vital cross-references slip past tired eyes.
 
-### How Critical Warnings Get Overlooked
+Instead of manually cross-referencing 150+ pages of NY PCDS answers against buried NPMA-33 access disclaimers and photo captions before your BNAR deadline expires, upload both PDFs to the [DisclosurePro AI app](/download) to automatically flag contradictions, jump to exact PDF page citations, and calculate realistic Buffalo contractor repair credits in 10 seconds.
 
-Crucial indications of termite damage are frequently buried in technical inspection comments:
-- An inspector might write: *"Basement perimeter foundation plates concealed behind finished drywall and fiberglass insulation; structural wood contact points cannot be visually probed."* If a buyer overlooks this caveat, they absorb all financial risk for hidden structural decay.
-- An attached invoice might itemize *"perimeter concrete floor drilling and termiticide injection along basement foundation,"* proving a past severe infestation that the seller described as routine maintenance.
+---
 
-Manually cross-referencing hundreds of dense pages during a tight inspection contingency window creates substantial risk for homebuyers.
+## Buffalo Termite Remediation & Structural Repair Cost Breakdown
 
-## Financial Impact: A Buffalo Neighborhood Case Study
+Active chemical treatment is only a small fraction of a Buffalo termite claim—the real budget shock comes from shoring up century-old masonry pockets and replacing hollowed structural framing. Use these local Western New York contractor benchmarks when building your [seller repair credit addendum](/blog/how-to-write-repair-credit-addendum-after-inspection/) during escrow:
 
-To understand how overlooked termite disclosures lead to severe financial hardship, consider this realistic scenario from Buffalo's historic **Elmwood Village** neighborhood.
+| Inspection, Treatment, or Structural Repair Item | Typical Buffalo / Erie County Cost Range |
+| :--- | :--- |
+| **NYDEC Certified NPMA-33 WDI Inspection** | $110 – $200 |
+| **Perimeter Soil Termiticide Trenching & Sub-Slab Drilling** | $1,800 – $3,800 |
+| **Annual Termite Bait Station Monitoring System (Install + Yr 1)** | $1,200 – $2,400 |
+| **Structural Engineer Assessment & City of Buffalo Permits** | $2,200 – $4,500 |
+| **Hydraulic Basement Jacking & Temporary Steel Shoring** | $5,500 – $10,500 |
+| **Sandstone / Rubblestone Masonry Joist Pocket Rebuilding** | $4,500 – $9,500 |
+| **Sill Plate Replacement & Sistering 6–10 Floor Joists** | $8,500 – $18,000 |
+| **Basement Perimeter Drain Tile & Sump Moisture Remediation** | $6,500 – $14,500 |
+| **Subfloor, Hardwood & First-Floor Kitchen/Drywall Restoration** | $7,000 – $15,500 |
+| **Full Severe Multi-Unit Timber & Sill Reconstruction** | **$25,000 – $55,000+** |
 
-### The Elmwood Village Two-Family Flat Disaster
+### Real-World Negotiation Strategy: Elmwood Village Two-Family Scenario
+Consider a typical $485,000 1914 Elmwood Village two-family flat where the NY PCDS checks "Yes" for a 2023 "preventative pest treatment" while newly installed basement drywall conceals 24 linear feet of the west foundation sill. Rather than accepting a clean visual NPMA-33 with an "inaccessible wall" caveat:
+1. Demand the original 2023 pest control treatment graph and invoice immediately.
+2. Require a **signed seller authorization for targeted borescope or drywall-access inspection** along the treated foundation wall before waiving your BNAR inspection contingency.
+3. If hollowed sills or rotted masonry pockets appear, request a **lender-approved closing credit or price reduction** backed by two written Erie County structural contractor bids—rather than letting a departing seller patch framing with cheap unpermitted labor.
 
-Brian and Lauren purchased a 1914 two-family flat in Elmwood Village for $485,000. On the mandatory New York PCDS disclosure statement, the seller marked "No" to active termite infestations, but checked "Yes" under past treatments, noting: *"Routine preventative pest control treatment completed in basement in 2023; annual warranty documentation on file."*
+---
 
-During their contractual inspection window, the general home inspector performed a visual assessment of the stone basement. The seller had recently installed finished drywall ceilings and paneling in the basement laundry and storage rooms. The inspector noted: *"Perimeter foundation plates concealed behind finished drywall; no visible mud tubes in open boiler room."* Brian and Lauren accepted the clean report and closed on the purchase.
+## Frequently Asked Questions About Buffalo, NY Termite Disclosures
 
-Nine months later, while remodeling the first-floor rental apartment's kitchen, the contractor noticed that the floor along the exterior foundation wall had dropped nearly two inches. Removing a section of the basement ceiling revealed catastrophic subterranean termite damage: 24 linear feet of the heavy timber carriage sill plate and six structural floor joists embedded in the porous sandstone foundation were completely hollowed out. The 2023 treatment had killed active insects, but the seller had installed drywall over the compromised framing without completing necessary structural repairs.
+### Can termites really survive Buffalo winters and damage a house structure in one year?
+Yes. Eastern Subterranean Termites survive Western New York winters by tunneling below the 42-inch frost line and remaining active year-round near heated stone basements and boiler lines. While a single mature colony typically takes 2 to 5 years to cause catastrophic structural failure on its own, a pre-existing hidden colony—or multiple colonies feeding inside damp sandstone joist pockets—can push already weakened century-old timber sills to structural failure within a single year of purchase.
 
-### Itemized Out-of-Pocket Repair Costs
+### Can New York home sellers still pay a $500 credit instead of filling out the PCDS?
+No. Effective March 20, 2024, New York amended Real Property Law Article 14 to eliminate the $500 opt-out credit completely. Sellers of 1-to-4 unit residential properties in Buffalo and statewide are now legally required to deliver the completed Property Condition Disclosure Statement before the buyer signs a binding contract (unless a narrow statutory exemption such as a condo, co-op, or court-ordered estate transfer applies).
 
-Because the purchase agreement was executed as-is and the seller claimed they believed the 2023 treatment was sufficient, Brian and Lauren were forced to cover all reconstruction costs:
+### Who pays for a termite inspection (NPMA-33) and termite repairs in Buffalo, NY?
+The **buyer** typically pays the $110–$200 fee for the NPMA-33 WDI inspection during the BNAR inspection contingency period (even on VA loans, where updated VA guidelines allow buyers to pay for WDI reports in most circumstances). However, **treatment and structural damage repairs are negotiable**: if your WDI report uncovers active termites or compromised sills, buyers routinely negotiate seller-paid treatment before closing plus a closing cost credit or price reduction for structural carpentry.
 
-- **Perimeter Soil Termiticide Injection & Sub-Slab Foaming:** $3,100
-- **Structural Engineering Assessment & City of Buffalo Building Permits:** $3,800
-- **Hydraulic Basement Jacking & Temporary Steel Beam Shoring:** $8,600
-- **Sandstone Pocket Masonry Excavation & Joist Pocket Rebuilding:** $5,800
-- **Replacement of Heavy Timber Sill Plates & Sistering 6 Floor Joists:** $14,200
-- **Subfloor Reconstruction, Hardwood Flooring Replacement & Staining:** $8,900
-- **First-Floor Kitchen Drywall Restoration, Plaster Repair, & Baseboard Milling:** $4,700
-- **Temporary Tenant Rent Abatement During Major Structural Repairs (1 Month):** $2,800
-
-**Total Out-of-Pocket Cost: $51,900**
-
-Had Brian and Lauren thoroughly probed the 2023 treatment disclosure and insisted on an invasive evaluation of the concealed sandstone pockets before closing, they could have negotiated a $50,000 price credit or required complete structural remediation.
-
-## Frequently Asked Questions about Termites in Buffalo
-
-**1. Are termites common in Buffalo and Western New York?**
-Yes. Eastern Subterranean Termites are prevalent throughout Buffalo and Erie County. The combination of Lake Erie moisture, heavy lake-effect snowmelt, and century-old timber framing resting directly on porous sandstone and rubblestone foundations creates optimal conditions for subterranean colonies.
-
-**2. Can New York home sellers still pay the $500 fee to avoid filling out disclosure forms?**
-No. Under the amended New York Property Condition Disclosure Act (PCDA), the $500 opt-out credit was eliminated. Home sellers in New York are now legally mandated to complete the full 48-question Property Condition Disclosure Statement (PCDS).
-
-**3. Does a City of Buffalo building certificate or rental registry check for termites?**
-No. Municipal inspections in Buffalo focus on building code compliance, smoke/carbon monoxide detectors, and visible exterior maintenance violations. They do not perform invasive pest probing or evaluate concealed structural timber framing.
-
-**4. What phrases on the New York PCDS disclosure form should raise red flags?**
-Watch for phrases like "preventative pest treatment," "added sister joists in basement," "sealed foundation cracks," or "non-occupant seller." Always request full documentation, including original pest inspection invoices, treatment diagrams, and municipal permit records.
+### What phrases on the New York PCDS should trigger an invasive basement pest check?
+Watch closely for softened phrases like *"preventative perimeter treatment,"* *"added sister joists for floor leveling,"* *"finished basement ceiling installed in 2024,"* *"occasional spring seepage,"* or *"Unknown"* marked across structural questions by an absentee landlord. Every one of these signals warrants comparing the PCDS word-for-word against your NPMA-33 inaccessible-area notes and inspection photos before releasing contingencies.
