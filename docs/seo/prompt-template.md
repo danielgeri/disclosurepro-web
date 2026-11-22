@@ -5,7 +5,7 @@
 Use these instructions when generating or refreshing articles from [`docs/seo/editorial-queue.csv`](./editorial-queue.csv) and [`docs/seo/active-sprint.json`](./active-sprint.json).
 
 On each scheduled run:
-1. **Refresh Existing Pages (`refreshesPerRun` / `refreshQueue`):** If `refreshesPerRun > 0` and `refreshQueue` in `active-sprint.json` is non-empty, take up to `refreshesPerRun` slugs from `refreshQueue`, upgrade those existing `.md` files in `src/content/blog/` (sharpening `title`, `description`, `updatedDate`, opening hook, cost table, editorial product bridge, dual-button `.mid-article-cta`, FAQs, and internal links), and remove the completed slugs from `refreshQueue` in `active-sprint.json`.
+1. **Refresh Existing Pages (`refreshesPerRun` / `refreshQueue`):** If `refreshesPerRun > 0` and `refreshQueue` in `active-sprint.json` is non-empty, take up to `refreshesPerRun` slugs from `refreshQueue`, upgrade those existing `.md` files in `src/content/blog/` (replacing generic *"The Ultimate Guide..."* titles, fixing any corrupted `,000` currency typos or outdated 2023/2024 statutes, removing first-person attorney/broker impersonation, replacing legacy inline green `<div>` CTAs with the standardized dual-button `.mid-article-cta`, sharpening `description`, `updatedDate`, opening hook, cost table, editorial `/download` bridge, conversational FAQs, and internal links), and remove the completed slugs from `refreshQueue` in `active-sprint.json`.
 2. **Write New Guides (`newArticlesPerRun`):** Select the next `newArticlesPerRun` rows in `editorial-queue.csv` where `Completed` is empty (sorted by ascending numeric `Priority`, so `Priority 0` data-driven topics added by Sunday's feedback loop always run first!), write each article at `src/content/blog/<Slug>.md`, and mark `Completed` as `x` in `editorial-queue.csv`.
 3. If no uncompleted rows and no `refreshQueue` items remain, **STOP and do nothing**—never clear the queue or regenerate duplicates.
 4. Verify the build with `npm --prefix /Users/danielgeri/Documents/disclosure-app/web run build`, commit, and push to `main`.
@@ -18,7 +18,8 @@ On each scheduled run:
    - Write from the perspective of the **DisclosurePro Real Estate Research Team**—an objective, deeply researched real estate due-diligence authority.
    - **NEVER** claim first-person licensure (e.g., do NOT write *"As an experienced real estate attorney and managing broker in..."*).
 
-2. **Format & Single `<h1>` Rule:**
+2. **High-CTR Title Formula, Format & Single `<h1>` Rule:**
+   - **Ban generic `"The Ultimate Guide to Spotting..."` titles:** Live GSC data shows that legacy template titles produced **0% CTR** across 25+ striking-distance pages (positions 4–18). Front-load the exact Search Console query + City/State + statutory form or repair-credit hook (e.g., `"How to Identify Termite Damage in [City, ST] Homes: [Form] & Disclosure Guide"` or `"[City, ST] Termite Inspections & Disclosures: [Form], Costs & Credits"`).
    - Return pure Markdown starting with Astro YAML frontmatter:
      ```yaml
      ---
@@ -28,7 +29,7 @@ On each scheduled run:
      heroImage: "../../assets/red_flags_hero.jpg"
      ---
      ```
-   - For refreshed articles, always update `updatedDate: "<Current Date, e.g., Nov 20 2026>"`.
+   - For refreshed articles, always update `updatedDate: "<Current Date, e.g., Nov 20 2026>"`, verify **zero corrupted currency typos** (such as `,000` or `,700` left behind by legacy shell-expansion bugs), verify **current 2024–2026 statutes** (e.g., New York's March 2024 repeal of the $500 PCDS credit / 56-question form; New Jersey's 2024 mandatory PCDS & Flood Risk law), and replace any legacy green inline-styled `<div>` banner with the standardized dual-button `<aside class="mid-article-cta">`.
    - **Do NOT start the Markdown body with `# Title`**—`BlogPost.astro` already renders `title` as the page's single `<h1>`. Use sequential `##` (H2) and `###` (H3) headings only.
    - Never leave template placeholders like `{city}`, `{state}`, or `[CITY]`.
 
@@ -64,5 +65,6 @@ On each scheduled run:
 7. **Conversational Query-Matching FAQ Section:**
    - Include a **3–4 question FAQ section** (`## Frequently Asked Questions About...`) answering exact conversational queries discovered in Search Console (e.g., *"Can termites damage my house structure in one year?"*, *"What is a termite letter and who pays for it?"*, *"What happens if a seller lies on the property disclosure statement?"*).
 
-8. **Internal Linking (Mandatory — 2 to 3 Guide Links Per Article):**
+8. **Internal Linking & Anti-Cannibalization Hub Routing (Mandatory — 2 to 3 Guide Links Per Article):**
    - Naturally weave **2 to 3 contextual Markdown links** inside the body pointing to relevant existing guides on the site (in addition to the `/download` app link), prioritizing `priorityInternalLinkTargets` from `active-sprint.json`.
+   - When writing or refreshing city-level pages, link UP to the relevant state disclosure hub (e.g., `/blog/california-tds-spq-disclosure-guide/`, `/blog/florida-johnson-v-davis-sellers-disclosure-guide/`) or national defect hub (`/blog/buying-house-with-termite-history-disclosure-guide/`, `/blog/how-to-write-repair-credit-addendum-after-inspection/`) to prevent multi-city keyword cannibalization.

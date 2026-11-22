@@ -1,35 +1,49 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-22",
   "northStarGoal": "Maximize organic click-through rate to the DisclosurePro AI app (play_store_click, blog_cta_click, cta_download_click, early_access_click) alongside qualified active-escrow search traffic.",
   "newArticlesPerRun": 2,
-  "refreshesPerRun": 1,
+  "refreshesPerRun": 2,
   "refreshQueue": [
+    "honolulu-hi-termites",
     "cambridge-ma-termites",
-    "ventura-ca-termites"
+    "tampa-fl-termites",
+    "edison-nj-termites",
+    "miami-beach-fl-termites",
+    "columbia-md-termites",
+    "ventura-ca-termites",
+    "yuma-az-termites",
+    "lancaster-ca-termites",
+    "dayton-oh-termites"
   ],
   "priorityInternalLinkTargets": [
-    "/blog/boston-ma-roofs/",
+    "/blog/oceanside-ca-termites/",
+    "/blog/termites-new-york-city-ny/",
+    "/blog/davenport-ia-termites/",
+    "/blog/charleston-sc-termites/",
+    "/blog/yuma-az-termites/",
     "/blog/albuquerque-nm-termites/",
-    "/blog/honolulu-hi-termites/",
+    "/blog/boston-ma-roofs/",
+    "/blog/dallas-tx-termites/",
+    "/blog/brooklyn-ny-roofs/",
     "/blog/buffalo-ny-termites/",
-    "/blog/gainesville-fl-termites/",
-    "/blog/jackson-ms-termites/",
-    "/blog/mcallen-tx-termites/",
-    "/blog/cambridge-ma-termites/",
-    "/blog/carlsbad-ca-termites/",
-    "/blog/murfreesboro-tn-termites/",
-    "/blog/orange-ca-termites/",
-    "/blog/el-paso-tx-termites/",
+    "/blog/tampa-fl-termites/",
     "/blog/california-tds-spq-disclosure-guide/",
-    "/blog/texas-trec-sellers-disclosure-guide/",
+    "/blog/mcallen-tx-termites/",
+    "/blog/tulsa-ok-termites/",
+    "/blog/cambridge-ma-termites/",
+    "/blog/miami-beach-fl-termites/",
+    "/blog/honolulu-hi-termites/",
     "/blog/how-to-write-repair-credit-addendum-after-inspection/",
-    "/blog/section-1-vs-section-2-termite-report-california/"
+    "/blog/section-1-vs-section-2-termite-report-california/",
+    "/blog/buying-house-with-termite-history-disclosure-guide/"
   ],
   "styleAndCtaDirectives": [
     "APP CTR NORTH STAR: Frame every article around active real estate due diligence—the reader has a seller disclosure or inspection PDF and a ticking contingency clock—so using the DisclosurePro AI app is the immediate next step.",
-    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection section—never use slow travel-brochure introductions.",
+    "DATA-DRIVEN TITLE RULE: Never use generic 'The Ultimate Guide to Spotting...' titles (0% CTR across 25+ striking-distance pages in GSC). Front-load the exact Search Console query + City/State + statutory form or repair-credit hook (e.g., 'How to Identify Termite Damage in [City, ST] Homes: [Form] & Disclosure Guide' or '[City, ST] Termite Inspections & Disclosures: [Form], Costs & Credits').",
+    "REFRESH INTEGRITY AUDIT: Whenever refreshing a legacy Aug/Sep 2026 article, eliminate corrupted currency strings (',000', ',700' caused by legacy shell expansion), replace first-person attorney/broker impersonation with DisclosurePro Real Estate Research Team voice, verify 2024-2026 statutes (e.g., NY $500 PCDS credit repealed / 56 questions, NJ 2024 mandatory PCDS & Flood Risk Act), and replace any legacy inline green <div> CTA with the standardized dual-button <aside class=\"mid-article-cta\">.",
+    "Open the first paragraph immediately with concrete dollar stakes ($X,XXX–$XX,XXX) and the exact state statutory form or inspection deadline—never use slow travel-brochure introductions.",
     "Beat banner blindness with an in-copy editorial bridge: Inside the Cost Breakdown / Negotiation or Manual Review section, include 1 natural contextual Markdown link to /download explaining how uploading both the disclosure and inspection PDFs flags hidden contradictions and calculates repair credits in 10 seconds.",
     "Use the standardized dual-button <aside class=\"mid-article-cta\"> component from prompt-template.md featuring BOTH direct 1-click Google Play access (data-gtag-event=\"play_store_click\") and iPhone/Web access (/download, data-gtag-event=\"blog_cta_click\"), with an <h3> tailored to the exact form or defect.",
-    "Include an itemized contractor cost breakdown table ($5,000–$50,000+) and 3–4 direct question-matching FAQs targeting conversational Search Console queries."
+    "Include an itemized contractor cost breakdown table ($5,000–$55,000+), 3–4 direct question-matching FAQs targeting conversational Search Console queries, and 2–3 contextual internal links (linking city guides UP to state/national hub guides to stop keyword cannibalization)."
   ]
 }

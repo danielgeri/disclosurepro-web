@@ -1,134 +1,116 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Oceanside Real Estate Disclosures"
-description: "Buying a home in Oceanside, CA? Learn how to decode hidden termite damage in California TDS and SPQ forms, understand Structural Pest Control Board Section 1 vs. Section 2, and avoid massive repair bills."
+title: "How to Identify Termite Damage in Oceanside, CA Homes: Section 1 WDO & Disclosure Guide"
+description: "Learn how to identify termite damage in Oceanside, CA homes, decode California TDS/SPQ & Section 1 WDO reports, and negotiate $10k–$42k repair credits."
 pubDate: "Aug 30 2026"
+updatedDate: "Nov 22 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-Experienced real estate attorneys and local brokers regularly counsel clients through hundreds of transactions in Oceanside. From the historic beach cottages and Craftsman homes of South Oceanside and Townsite to the rolling hillside ranch properties of Fire Mountain, MiraCosta, and the luxury estates in Henie Hills, Oceanside offers exceptional coastal living. However, beneath our scenic ocean vistas, salt-air breezes, and charming coastal architecture lies a dual, aggressive structural threat: Subterranean and Drywood Termites.
+Missing a buried drywood termite kick-out note inside a **California Structural Pest Control Board (SPCB) Branch 3 WDO Report**—or misreading a softened checkbox on the statutory **Transfer Disclosure Statement (TDS)** and **Seller Property Questionnaire (SPQ)** before your 17-day C.A.R. RPA inspection contingency expires—regularly hits Oceanside homebuyers with **$10,000 to $42,500+ in unbudgeted fumigation, beam replacement, and framing repairs**.
 
-Because Coastal California’s real estate market moves quickly with tight contractual contingency periods, prospective buyers often rush through standard disclosure packets. Homebuyers frequently overlook ambiguous phrasing on statutory disclosure forms or fail to distinguish between critical Section 1 and Section 2 structural pest recommendations. Missing these red flags can leave a homeowner facing tens of thousands of dollars in unexpected framing repairs, structural fumigation, and roof beam replacement. This comprehensive guide breaks down Oceanside’s specific coastal termite ecology, analyzes California statutory disclosure laws, reveals common seller evasion techniques, and examines an itemized neighborhood case study to protect your real estate purchase.
+Because Oceanside sits directly in coastal North San Diego County's marine layer and autumn Santa Ana wind corridor, properties from **South Oceanside and Townsite** cottages to **Fire Mountain** mid-century post-and-beam homes and **MiraCosta / Henie Hills** stucco slabs face year-round dual pressure from both **Western Subterranean Termites** and airborne **Western Drywood Termites**. Before you remove inspection contingencies, knowing how to identify termite damage in an Oceanside home—and cross-referencing your WDO findings against the seller's [California TDS and SPQ disclosure packet](/blog/california-tds-spq-disclosure-guide/)—is the fastest way to protect your deposit and negotiate a seller credit.
 
-## The Hidden Threat: Subterranean and Drywood Termites in Oceanside
+---
 
-Oceanside’s coastal marine climate creates ideal conditions for wood-destroying organisms. The combination of persistent morning marine layer moisture, moderate coastal temperatures year-round, coastal fog, and warm autumn Santa Ana wind patterns provides an ideal environment for multiple wood-destroying pest species.
+## How to Identify Termite Damage in Your Oceanside, CA Home
 
-### Why Coastal North County Architecture Elevates Termite Vulnerability
+Most coastal San Diego buyers assume termite damage looks like obvious rotten wood during an open house. In reality, both subterranean and drywood colonies feed inside structural timber while leaving exterior paint and stucco veneers intact. When touring an Oceanside property or reviewing inspection photos, check for six unmistakable local warning signs:
 
-Several unique regional architectural features, coastal weather dynamics, and soil conditions contribute to intense termite activity across Oceanside:
+1. **Hexagonal Frass Piles (Western Drywood Termites — *Incisitermes minor*):** Tiny piles of uniform, six-sided wood-colored pellets (resembling fine sand or coffee grounds) pushed out through pinhole "kick-out holes" along window sills, exposed Fire Mountain cedar beams, garage rafters, or attic insulation. Drywood termites require **zero soil contact** and fly directly into unscreened soffits and roof eaves during September–November Santa Ana winds.
+2. **Earthen Mud Shelter Tubes (Western Subterranean Termites — *Reticulitermes hesperus*):** Pencil-width dirt tunnels climbing concrete stem walls, crawlspace piers, or slab plumbing penetrations. Subterranean colonies nest underground in damp coastal soils and use mud tubes to retain humidity while climbing into mudsills and bathroom subfloors.
+3. **Hollow-Sounding Rafter Tails & Blistered Paint:** Tapping exposed eave rafter tails, fascia boards, or baseboards along salt-air-exposed west elevations reveals papery, hollow interiors—or blistering paint that buyers mistake for minor moisture wear.
+4. **Discarded Translucent Wings on Sills & Sliders:** Piles of equal-length pale wings clustered near sliding glass doors, garage windows, or exterior light fixtures indicate a mature reproductive swarm inside or beneath the framing.
+5. **Tight-Fitting Doors, Windows & Sagging Floors:** Moisture-swollen subterranean galleries distort door jambs and window headers—especially in 1920s–1950s raised-foundation South Oceanside and Townsite bungalows.
+6. **Fresh Spot-Treatment Drill Plugs or Wood-Filler Patches:** Newly painted fascia trim, fresh caulk around patio beams, or 1/8-inch drill plugs inside framing often mark prior localized foaming rather than whole-structure eradication.
 
-- **Persistent Marine Layer and High Ambient Humidity:** The daily influx of coastal fog and elevated relative humidity prevents exterior structural timbers from drying out completely. This elevated ambient moisture softens exposed roof eaves, rafter tails, and deck framing, making them prime targets for drywood termite alates during late-summer swarming seasons.
-- **Dual Pest Pressure (Subterranean & Drywood):** Unlike inland areas dominated exclusively by subterranean species, Oceanside properties face relentless simultaneous pressure from subterranean colonies in the soil and airborne drywood colonies nesting directly inside structural framing and roof timbers.
-- **Architectural Vulnerabilities Across Oceanside Neighborhoods:**
-  - *South Oceanside and Townsite:* 1920s to 1950s wood-sided cottages and Spanish bungalows built with unreinforced crawl spaces and direct wood-to-earth contact around exterior porches. Coastal fog accelerates wood decay, attracting subterranean termites into subfloor mudsills.
-  - *Fire Mountain:* Mid-century post-and-beam and ranch-style homes featuring exposed tongue-and-groove cedar ceilings, open rafter tails, and extensive patio framing. Exposed exterior beams provide immediate entry corridors for swarming drywood termites.
-  - *MiraCosta and Henie Hills:* 1970s to 1990s stucco single-family homes built on concrete slabs. Termites exploit expansion cold joints around plumbing rough-ins beneath bathrooms, while drywood colonies nest inside unventilated tile roof attic spaces.
+### Neighborhood Risk Profile Across Oceanside
 
-### Pest Biology: Subterranean vs. Drywood Termites
+| Oceanside Neighborhood | Dominant Housing Stock | Primary Termite & Disclosure Vulnerability |
+| :--- | :--- | :--- |
+| **South Oceanside & Townsite** | 1920s–1950s coastal cottages & Spanish bungalows | Raised crawlspaces, direct wood-to-earth porch contact, marine-layer humidity softening untreated mudsills and floor joists. |
+| **Fire Mountain** | 1950s–1970s mid-century post-and-beam & ranch homes | Exposed tongue-and-groove vaulted ceilings, open cedar rafter tails, and exterior beam pockets vulnerable to airborne drywood swarms and inaccessible-attic WDO disclaimers. |
+| **MiraCosta & Henie Hills** | 1970s–1990s stucco slab-on-grade single-family homes | Subterranean entry through slab cold joints and bathroom tub-trap boxes; drywood colonies nesting in hot, low-clearance tile-roof attics. |
+| **Rancho Del Oro & Oceana** | Planned stucco communities & attached townhomes | Shared HOA wood trim/balcony framing, irrigation overspray against stucco weep screeds (Section 2 conducive conditions), and special-assessment pest exposure. |
 
-Understanding the biological differences between the two primary wood-destroying pests in Oceanside is vital for evaluating disclosure documents:
+---
 
-- **Western Subterranean Termites (*Reticulitermes hesperus*):** Nest in underground soil and construct earthen mud shelter tubes across foundation stem walls and concrete piers to reach structural wood framing. They consume soft springwood along the grain, leaving fragile outer shells of wood.
-- **Western Drywood Termites (*Incisitermes minor*):** Do not require contact with soil or external moisture. Airborne swarms enter directly into attic vents, roof eaves, fascia boards, and window headers. They carve smooth, multi-chambered galleries across the wood grain and push distinctive six-sided fecal pellets (frass) out through tiny "kickout holes."
+## California Termite Disclosure Laws: Civil Code § 1102 & SPCB Section 1 vs. Section 2
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
-  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
-  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
-</div>
+Under **California Civil Code § 1102 et seq.** and landmark disclosure precedents (*Easton v. Strassburger*, *Shapiro v. Sutherland*), residential sellers in Oceanside must affirmatively disclose all known material defects—even when selling a home **"As-Is."**
 
-## California Real Estate Disclosure Laws: Statutory Framework and Seller Obligations
+### Mandatory Disclosures on the TDS & C.A.R. SPQ
+- **Transfer Disclosure Statement (TDS), Section II-C:** Requires the seller to disclose any known structural damage, wood rot, or pest/termite issues affecting the property.
+- **Seller Property Questionnaire (SPQ), Section V:** Requires detailed written disclosure of *any* past or current wood-destroying pest infestations, prior WDO inspection reports, chemical spot treatments, tent fumigations, structural repairs, and transferable pest warranties.
 
-California provides comprehensive statutory disclosure requirements designed to protect residential buyers from hidden material property defects.
+### Decoding Your SPCB Branch 3 WDO Report
+In California, official termite inspections must be performed by an inspector licensed in **Branch 3** by the **Structural Pest Control Board (SPCB)** under Business & Professions Code § 8516. Every finding falls into three critical buckets detailed in our [Section 1 vs. Section 2 California termite report guide](/blog/section-1-vs-section-2-termite-report-california/):
 
-### California Civil Code § 1102: The Real Estate Transfer Disclosure Statement (TDS) & SPQ
+- **Section 1 Items (Active Infestation or Existing Damage):** Live subterranean or drywood termites, active fungal dry rot, or structurally compromised lumber. FHA/VA and many conventional lenders require Section 1 clearance before funding escrow.
+- **Section 2 Items (Conducive Conditions):** Conditions likely to trigger future infestations—such as faulty stucco grade, earth-to-wood deck contact, leaking shower pans, or excessive crawlspace moisture.
+- **Further Inspection / Inaccessible Areas:** The highest-risk section buyers skip. If the Branch 3 inspector marks *"vaulted tongue-and-groove ceiling,"* *"finished garage drywall,"* or *"tile-roof eaves inaccessible,"* a "clear" Section 1 certification **does not guarantee those concealed beams are termite-free**.
 
-Under **California Civil Code § 1102 et seq.**, sellers of residential real property must complete and deliver the statutory **Real Estate Transfer Disclosure Statement (TDS)** and the California Association of REALTORS® (C.A.R.) **Seller Property Questionnaire (SPQ)**:
+---
 
-- **Section II, Part C of the TDS:** Requires sellers to disclose whether they are aware of any active pest infestations, wood-destroying insect damage, or previous structural treatments.
-- **Section V of the SPQ (Pests, Infestations & Wood Rot):** Mandates specific disclosures regarding:
-  - Any known past or present infestations of termites, dry rot, or other wood-destroying pests.
-  - Any past or current pest inspection reports, treatment contracts, or structural repair estimates.
-  - The existence of any transferable termite warranty or service agreement.
+<aside class="mid-article-cta" aria-label="Scan your Oceanside disclosure packet with DisclosurePro AI">
+  <h3>Reviewing an Oceanside TDS, SPQ, or Section 1 WDO Report Right Now?</h3>
+  <p>Upload your 150+ page California seller disclosures, home inspection, and SPCB Branch 3 termite PDFs to <strong>DisclosurePro AI</strong>—spot hidden drywood contradictions, jump to exact PDF pages, and calculate your repair credit request in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
 
-### California Structural Pest Control Board (SPCB) Reports: Section 1 vs. Section 2
+---
 
-In California, pest inspections must be performed by a Branch 3 licensed structural pest inspector governed by the **California Structural Pest Control Board (SPCB)**. The standardized inspection report separates findings into two critical categories:
-- **Section 1 Items:** Conditions with active infestations, active dry rot infections, or visible structural wood damage. Lenders frequently require Section 1 clearance before funding residential purchase mortgages.
-- **Section 2 Items:** Conditions deemed conducive to future infestations (e.g., earth-to-wood contact, plumbing leaks, faulty stucco weep screeds, inadequate crawl space ventilation).
-- **Inaccessible Areas:** The inspector explicitly lists areas that could not be visually examined, such as vaulted ceiling framing, sub-slab plumbing lines, locked storage units, or fully insulated attics.
+## Evasive Disclosure Phrasing & Cross-PDF Contradictions Buyers Miss
 
-### Legal Liability for Non-Disclosure in California
+During California's standard 17-day inspection contingency (often shortened to 7–10 days in competitive North County bidding), buyers receive 150 to 250+ pages across Glide or Disclosures.io. The most expensive Oceanside termite traps hide in **contradictions between separate PDFs**:
 
-Under California common law and statutory principles established in *Easton v. Strassburger* (1984) and *Shapiro v. Sutherland* (1998), sellers and listing brokers have an affirmative legal duty to disclose all known material facts that affect the value and desirability of the property.
+- **SPQ says:** *"Localized drywood spot treatment on patio eave in 2023; transferable annual warranty."*
+  **Buried General Inspection Photo (Page 44) says:** *"Exposed open rafter tails along east roof elevation show flaking paint, pinholes, and soft wood upon probing; vaulted ceiling cavity inaccessible."*
+- **TDS checks "No" to structural damage.**
+  **Listing Agent AVID (Page 9) writes:** *"Minor springiness noted in hallway floor near bath; fresh wood putty visible on garage fascia."*
+- **Seller markets "Section 1 Clearance Completed."**
+  **Prior Pest Estimate Attached at Back of Packet reveals:** An earlier Branch 3 inspector recommended **whole-structure Vikane tent fumigation**, but the seller shopped for a cheaper second company willing to perform localized orange-oil or foam injection to clear visible frass only.
 
-An "As-Is" provision in a California residential purchase agreement does not shield a seller from liability for affirmative fraudulent misrepresentation or intentional concealment of known structural pest damage.
+Instead of manually cross-referencing 200+ pages of California TDS checkboxes, AVID room notes, and Branch 3 inaccessible-area disclaimers before your C.A.R. RPA contingency expires, upload your full packet to the [DisclosurePro AI app](/download) to surface contradictions, verify exact PDF page numbers, and quantify your repair credit request in seconds.
 
-### What Oceanside Sellers Reveal vs. Conceal
+---
 
-Sellers in San Diego County frequently minimize historical termite activity using vague terminology:
-- *"Local spot treatment completed on patio eave in 2022."* (Conceals that drywood termite frass was actively falling inside the attic and living room).
-- *"Previous cosmetic repairs completed on sunroom subfloor."* (Obscures the fact that structural floor joists beneath the room had been hollowed out by subterranean termites).
-- *"Section 1 clearance completed prior to listing."* (Fails to disclose that the contractor performed only localized chemical foaming rather than a recommended whole-house structural fumigation).
+## Oceanside Termite Treatment & Structural Repair Cost Breakdown
 
-## The Manual Review Problem: Overlooking Crucial Red Flags in 200-Page Closing Packets
+Because homeowners insurance universally excludes termite and wood-rot damage as preventable maintenance, every overlooked Section 1 or inaccessible-beam defect comes directly out of pocket. Use these realistic North San Diego County contractor benchmarks when drafting your [seller repair credit addendum](/blog/how-to-write-repair-credit-addendum-after-inspection/):
 
-During the standard 17-day inspection contingency under the California Residential Purchase Agreement (C.A.R. Form RPA), Oceanside buyers receive extensive documentation:
-- C.A.R. Residential Purchase Agreement & Advisory Riders
-- Statutory Transfer Disclosure Statement (TDS) & Seller Property Questionnaire (SPQ)
-- 50-to-80-page General Home Inspection Report with extensive photography
-- California Structural Pest Control Board (SPCB) Branch 3 Inspection Report
-- Natural Hazard Disclosure (NHD) Statement and Preliminary Title Report
-- HOA Covenants, Conditions & Restrictions (CC&Rs) and Architectural Review Files
+| Inspection, Treatment, or Structural Repair Item | Typical Oceanside / North County Cost Range |
+| :--- | :--- |
+| **SPCB Branch 3 WDO Inspection Fee** | $125 – $250 |
+| **Localized Drywood Spot Foaming / Borate Injection** | $700 – $1,900 |
+| **Whole-House Vikane Gas Tent Fumigation (Drywood)** | $2,800 – $5,600 |
+| **Subterranean Perimeter Soil Trenching & Slab Injection** | $1,900 – $3,800 |
+| **Exposed Cedar Fascia & Eave Rafter-Tail Reconstruction** | $3,800 – $11,500 |
+| **Crawlspace Hydraulic Shoring & Mudsill / Joist Replacement** | $6,400 – $16,500 |
+| **Vaulted Roof Beam Replacement & Steel Flitch Plating (Fire Mountain)** | $12,000 – $22,000 |
+| **City of Oceanside Permits & Structural Engineer Sign-Off** | $2,500 – $4,500 |
+| **Severe Dual Subterranean + Drywood Framing Restoration** | **$25,000 – $42,500+** |
 
-### The Danger of Disconnected Warnings
+### Fire Mountain Real-World Negotiation Blueprint
+Consider a $925,000 1963 Fire Mountain post-and-beam residence where the seller discloses a *"2022 localized patio beam spot treatment"* while the Branch 3 report flags *"vaulted tongue-and-groove ceiling inaccessible."* Rather than relying on a limited spot-treatment warranty:
+1. Demand the **original 2022 inspection diagram and full treatment history** (including whether whole-house fumigation was originally recommended and declined).
+2. Require written seller permission for **invasive borescope or targeted eave-probe testing** on any beam showing kick-out holes or weathered fascia before releasing contingencies.
+3. Negotiate a **closing cost credit or price reduction** backed by a Branch 3 whole-house tenting quote plus a licensed general contractor framing bid—rather than letting a departing seller perform cosmetic wood-filler patches.
 
-Material termite hazards rarely appear as an explicit, single warning across real estate closing documents. Instead, critical indicators are fragmented:
-- The Home Inspector writes on page 44: *"Exposed open rafter tails along east roof elevation exhibit weathered paint and minor surface cracking."*
-- The SPCB Pest Inspector notes in Section 1: *"Evidence of drywood termite pellets observed in attic crawl access; complete structural fumigation recommended."*
-- The Seller checks "No" to structural damage on the SPQ, writing: *"Annual pest maintenance contract maintained with local exterminator."*
+---
 
-When evaluated separately, each statement seems manageable. But when cross-referenced, they reveal a dangerous scenario: drywood termites entered through weathered exterior rafter tails, established widespread colonies inside the attic and ceiling beam framing, and caused structural timber damage that localized spot treatments cannot remedy.
+## Frequently Asked Questions About Identifying Termite Damage in Oceanside, CA
 
-## Financial Impact: An Oceanside Neighborhood Case Study
+### How do I identify termite damage in my home in Oceanside, CA?
+Check for two distinct signatures: **Western Drywood Termites** leave small piles of six-sided, sand-like fecal pellets (frass) beneath tiny kick-out holes in eaves, window frames, attic rafters, and exposed beams, while **Western Subterranean Termites** build earthen mud shelter tubes up foundation stem walls, crawlspace piers, and slab cracks. Hollow-sounding trim, blistered paint along damp coastal elevations, and discarded spring or autumn swarmer wings near sliders are additional urgent indicators.
 
-To see how overlooked disclosure nuances cause catastrophic financial losses, consider this realistic scenario from Oceanside’s **Fire Mountain** neighborhood.
+### What is the difference between Section 1 and Section 2 on an Oceanside termite report?
+On a California SPCB Branch 3 WDO report, **Section 1** documents active wood-destroying pest infestations, active fungal dry rot, and existing physical wood damage requiring immediate treatment or carpentry repair. **Section 2** documents conducive conditions—such as earth-to-wood contact, plumbing drips, or clogged drainage—that are likely to cause future infestation if left uncorrected.
 
-### The Fire Mountain Mid-Century Post-and-Beam Discovery
+### Does a California seller have to disclose past termite spot treatments and old pest reports?
+Yes. Under California Civil Code § 1102 and C.A.R. SPQ Section V, sellers must disclose all known past or present infestations, prior chemical treatments or fumigations, structural repairs, and existing pest inspection reports—even in an "As-Is" sale. Concealing a declined whole-house fumigation recommendation exposes the seller to material nondisclosure liability.
 
-David and Elena purchased a 1963 mid-century post-and-beam home in Fire Mountain for $925,000. On the California SPQ, the seller checked "Yes" to prior pest treatments, writing: *"Localized drywood termite spot treatment completed on exterior patio beam in 2022; transferable annual warranty."* The seller marked "No" to any known structural damage.
-
-During escrow, David and Elena hired a home inspector and an independent pest control company. The Branch 3 pest inspector’s report noted localized Section 1 frass in the garage eaves and confirmed the seller’s prior spot treatment marks, noting that cathedral tongue-and-groove ceilings prevented direct inspection of roof joists. Reassured by the transferable warranty, David and Elena finalized the purchase.
-
-Nine months later, Elena noticed tiny hexagonal wood pellets accumulating on top of the living room grand piano beneath the vaulted tongue-and-groove ceiling. When a structural pest specialist inspected the roof deck and removed several exterior fascia boards, they discovered severe subterranean and drywood termite devastation.
-
-Drywood termites had infested the interior of four main exposed Douglas fir roof support beams, hollowing out structural beam pockets across 26 linear feet. Furthermore, subterranean termites had entered through a crawl space cold joint beneath the dining room, destroying three heavy timber sill plates. The seller’s 2022 "spot treatment" had been an inexpensive localized injection chosen after a licensed inspector recommended a full-structure tent fumigation that the seller declined to perform.
-
-### Itemized Out-of-Pocket Restoration Costs
-
-Because the seller claimed they had no knowledge of structural defects hidden behind the tongue-and-groove ceiling, David and Elena had to pay for immediate structural remediation:
-
-- **Whole-House Structural Vikane Gas Tent Fumigation & Perimeter Pest Trenching:** $4,400
-- **Temporary Structural Shoring & Hydraulic Jacking beneath Vaulted Roof Beams:** $7,800
-- **Replacement and Engineered Steel Flitch Plating of 26 Linear Feet of Roof Beams:** $12,600
-- **Replacement of Compromised Crawl Space Sill Plates and Joist Sistering:** $6,400
-- **Exterior Cedar Fascia Board Replacement and Eave Rebuilding:** $3,800
-- **Vaulted Tongue-and-Groove Ceiling Wood Restoration and Interior Staining:** $4,200
-- **City of Oceanside Building Permits & Licensed Structural Engineering Inspection:** $3,300
-
-**Total Out-of-Pocket Restoration Cost: $42,500**
-
-Had David and Elena demanded the full historical pest inspection file and required a structural engineer's assessment of the vaulted ceiling before waiving their inspection contingency, they could have negotiated a $40,000 credit or walked away with their deposit protected.
-
-## Frequently Asked Questions about Termites in Oceanside
-
-### 1. Are termites common in Oceanside, California?
-Yes. Oceanside properties face dual pressure from Western Subterranean Termites (*Reticulitermes hesperus*) and Western Drywood Termites (*Incisitermes minor*). Coastal morning marine layers, mild year-round temperatures, and exposed architectural wood trim create prime conditions for termite colonies.
-
-### 2. What are California sellers legally required to disclose regarding termites?
-Under California Civil Code § 1102 (TDS) and the C.A.R. Seller Property Questionnaire (SPQ), sellers must disclose all known active infestations, prior structural damage, historical pest treatments, and existing inspection reports. Failing to disclose known defects exposes sellers to liability for fraudulent concealment under California law.
-
-### 3. What is the difference between Section 1 and Section 2 in a California termite report?
-In a California Structural Pest Control Board (SPCB) inspection report, **Section 1** identifies active infestations, active dry rot, or existing wood damage that requires immediate repair. **Section 2** identifies conditions deemed conducive to future infestations (e.g., plumbing leaks, earth-to-wood contact, poor ventilation) that should be corrected preventatively.
-
-### 4. Does homeowners insurance cover termite damage in California?
-No. Standard California homeowners insurance policies exclude damage caused by termites, dry rot, and wood-destroying insects. Insurance carriers classify insect damage as a preventable maintenance obligation, requiring homeowners to pay for all structural, fumigation, and carpentry repairs out of pocket.
+### Should I accept localized spot treatment or insist on whole-house tent fumigation in Oceanside?
+Localized spot treatment works only when drywood activity is strictly confined to a single, fully exposed exterior timber. In multi-story homes, stucco-clad residences, or Fire Mountain vaulted-ceiling structures where colonies spread into inaccessible framing voids, **whole-house Vikane gas tent fumigation** ($2,800–$5,600) is the only method proven to reach concealed galleries throughout the entire structure.
