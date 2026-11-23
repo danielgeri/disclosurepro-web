@@ -1,118 +1,122 @@
 ---
-title: "The Ultimate Guide to Spotting Termite Damage in Honolulu Real Estate Disclosures"
-description: "Learn how to uncover critical termite damage in Honolulu real estate disclosures. Understand Hawaii HRS Chapter 508D, TIR reports, and Formosan termite risks on Oahu."
+title: "Honolulu, HI Termite Inspections & Disclosures: HRS 508D, TIR Reports & Repair Credits"
+description: "Uncover Formosan & drywood termite damage in Honolulu, HI disclosures. Decode Hawaii HRS 508D, HAR Form RR105, TIR reports & negotiate $10k–$50k credits."
 pubDate: "Aug 20 2026"
+updatedDate: "Nov 23 2026"
 heroImage: "../../assets/red_flags_hero.jpg"
 ---
 
-As an experienced real estate attorney and active broker serving Oahu and the Honolulu metropolitan area, I frequently remind clients that Hawaii has the most aggressive termite environment in the United States. In the tropical climate of Oahu, termite activity is not a seasonal nuisance—it is a continuous, year-round structural threat. Formosan Subterranean Termites and West Indian Drywood Termites cause hundreds of millions of dollars in property damage across the Hawaiian Islands every year.
+Missing an aerial Formosan carton-nest note or an "inaccessible roof cavity" disclaimer inside a Hawaii **Termite Inspection Report (TIR)**—or misreading a softened checkbox on the **Hawaii Association of Realtors (HAR) Seller's Real Property Disclosure Statement (Form RR105)** before your **Paragraph J-1 inspection** and **Paragraph L-2/L-3 termite contingencies** expire—regularly hits Honolulu homebuyers with **$12,000 to $52,000+ in uninsured structural framing repairs, custom millwork, and whole-house tent fumigation**.
 
-When purchasing residential property in Honolulu, carefully dissecting seller disclosures and Termite Inspection Reports (TIR) is essential to protecting your equity. In this comprehensive guide, we explore the biology of Hawaii's termites, break down Hawaii statutory disclosure rules under HRS Chapter 508D, expose deceptive phrasing in transaction packets, and outline critical strategies to protect your real estate investment on Oahu.
+Because Oahu's year-round 75°F–88°F tropical climate eliminates winter dormancy, residential properties from **Manoa and Nuuanu** valleys to **Kaimuki** single-wall plantation homes and **Kailua / Hawaii Kai** slab residences endure simultaneous pressure from ground-dwelling **Formosan Subterranean Termites** and airborne **West Indian Drywood Termites**. Before releasing contingencies under **Hawaii Revised Statutes (HRS) Chapter 508D**, cross-checking the seller's disclosure packet, prior fumigation records, and TIR diagrams is essential to protecting your equity and securing a closing credit.
 
-## The Hidden Threat: Termites in Honolulu and Oahu
+---
 
-Honolulu's tropical trade-wind climate, consistent warmth, high humidity, and abundance of timber framing create an ideal environment for wood-destroying pests.
+## How to Identify Termite Damage in Honolulu & Oahu Homes
 
-### Why Honolulu's Climate and Island Architecture Exacerbate Termite Infestations
+Most mainland buyers relocating to Oahu expect termite activity to look like obvious surface rot during an open house. On Hawaii's single-wall Douglas fir and redwood construction—as well as modern double-wall and concrete-block homes with wood roof trusses—both termite species hollow out load-bearing timber from the inside out while exterior paint appears undisturbed.
 
-Several unique island factors contribute to Honolulu's intense termite pressure:
-- **Tropical Climate with No Winter Dormancy:** Unlike mainland regions where freezing winter temperatures slow termite activity, Honolulu's year-round 75°F to 88°F temperatures allow termites to feed and reproduce 365 days a year.
-- **Lush Valley Microclimates:** Neighborhoods nestled in Oahu's valleys—such as Manoa, Nuuanu, Palolo, and Makiki—receive frequent trade-wind showers. This elevated moisture creates optimal conditions for subterranean colonies.
-- **Historic Single-Wall and Plantation-Style Construction:** Thousands of classic homes in Kaimuki, Manoa, Kalihi, and McCully feature single-wall construction built in the 1920s through 1960s using Douglas fir and redwood. Single-wall construction lacks wall cavities, meaning termites feed directly on the structural boards that form both interior and exterior walls.
-- **Annual Swarming Nights:** In May, June, and July, humid windless evenings trigger massive swarms of winged Formosan and drywood reproductives across Oahu, entering attic louvers, window tracks, and roof fascia.
+### The Two Destructive Termite Species Threatening Honolulu Real Estate
 
-### The Biology and Mechanics of Oahu's Wood-Destroying Termites
+1. **Formosan Subterranean Termites (*Coptotermes formosanus*):** Locally called ground termites, these are the most aggressive wood-destroying insects in the United States. Mature Oahu colonies house several million insects, constructing underground foraging galleries and earthen mud shelter tubes over concrete footings and post-and-pier blocks. Critically, Formosan termites build moisture-retaining **aerial carton nests** inside wall voids, flat-roof tongue-and-groove decking, and attic framing—allowing colonies to destroy upper-story rafters without any ground contact whenever a valley rain leak or plumbing drip supplies water.
+2. **West Indian Drywood Termites (*Cryptotermes brevis*):** Drywood termites live entirely inside dry structural lumber, cabinets, door jambs, and attic trusses without needing soil moisture. During humid, windless May–July swarming nights across Oahu, winged reproductives enter unscreened attic vents, louvers, and fascia gaps, leaving behind telltale piles of sand-like, six-sided fecal pellets (**frass**) beneath pinhole kick-out openings.
 
-Two destructive species dominate Honolulu real estate:
-1. **Formosan Subterranean Termites (*Coptotermes formosanus*):** Known locally as ground termites, these are the most destructive wood-destroying insects in Hawaii. Massive colonies numbering in the millions construct extensive underground foraging tunnels and earthen mud tubes over concrete footings. Crucially, Formosan termites construct aerial **carton nests** inside wall voids or attics, allowing them to thrive without soil contact if a roof leak or plumbing drip provides moisture.
-2. **West Indian Drywood Termites (*Cryptotermes brevis*):** Locally called drywood termites, these pests live entirely within dry structural lumber, doors, cabinets, and roof framing. They do not require soil moisture, hollowing out timber from within while pushing tiny, sand-like fecal pellets (frass) through microscopic kick-out holes.
+### Neighborhood Risk Profile Across Honolulu & Oahu
 
-Because both species are widespread across Oahu, homes in Honolulu are frequently attacked from below by ground termites and from above by drywood termites at the same time.
+| Honolulu / Oahu Area | Dominant Housing Stock | Primary Termite & Disclosure Vulnerability |
+| :--- | :--- | :--- |
+| **Manoa, Nuuanu & Palolo Valleys** | 1920s–1960s single-wall plantation & post-and-pier homes | Heavy trade-wind rainfall, damp valley soils, and Formosan aerial carton nests concealed inside vaulted tongue-and-groove roof decking. |
+| **Kaimuki, Kapahulu & McCully** | Historic single-wall Douglas fir & redwood bungalows | Single-wall construction has no interior stud cavity—termites feed directly on structural wall planks that support both floors and roof loads. |
+| **Kailua, Kaneohe & Aina Haina** | 1950s–1980s slab-on-grade & split-level ranch homes | Subterranean entry via slab cold joints and bath-trap voids; drywood colonies colonizing exposed cedar eaves and low-clearance attics. |
+| **Waikiki, Ala Moana & Kakaako** | Mid-rise & high-rise condominiums | Drywood swarms entering through lanai doors into interior cabinetry, subflooring, and wood trim—often obscured inside dense RR105d condo association packets. |
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-left: 4px solid #16a34a; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
-  <h4 style="margin-top: 0; color: #166534; font-size: 1.1rem; font-weight: 700;">Tired of manually reading 200-page disclosures?</h4>
-  <p style="margin-bottom: 0; color: #15803d; font-size: 1rem;">Let <strong style="color: #166534;">DisclosurePro AI</strong> scan your documents for hidden termite damage, structural issues, and unpermitted work in 10 seconds. <a href="/download" style="color: #16a34a; font-weight: 700; text-decoration: underline;">Try it free today.</a></p>
-</div>
+---
 
-## Hawaii Real Estate Disclosure Laws: What Oahu Buyers Must Understand
+## Hawaii Termite Disclosure Laws: HRS Chapter 508D, Form RR105 & TIR Rules
 
-Real estate transactions in Hawaii are governed by **Hawaii Revised Statutes (HRS) Chapter 508D** (Mandatory Seller Disclosures in Real Estate Transactions). Under HRS § 508D-4, a seller must deliver a written disclosure statement to the buyer disclosing all material facts known to the seller.
+Residential real estate disclosures in Honolulu are governed by **Hawaii Revised Statutes (HRS) Chapter 508D** (*Mandatory Seller Disclosures in Real Estate Transactions*). Under **HRS § 508D-4**, residential sellers must deliver a written disclosure statement detailing all material facts within their knowledge—and under **HRS § 508D-1**, a "material fact" encompasses any defect that would measurably affect the property's value to a reasonable buyer.
 
-### Key Hawaii Disclosure Documents
+### Core Oahu Documents Every Buyer Must Cross-Check
 
-When purchasing property in Honolulu, you will review:
-- **Hawaii Association of Realtors (HAR) Seller's Real Property Disclosure Statement (Form RR105):** A comprehensive statutory document where sellers must disclose known material defects, with specific sections covering *"Termites / Pests / Wood Rot"*, previous infestations, structural damage, chemical treatments, and active warranty bonds.
-- **Termite Inspection Report (TIR):** Under Paragraph L-2 or L-3 of the standard HAR Purchase Contract, the seller is typically required to provide a TIR prepared by a licensed Hawaii pest control operator within 10 to 14 days of closing. The report identifies:
-  - Visible active infestations of drywood or subterranean termites.
-  - Visible evidence of past infestations or previous chemical treatments.
-  - Inaccessible areas not inspected.
-- **Termite Treatment & Warranty Certificates:** Documenting whether recent whole-structure tent fumigation (Vikane) or subterranean ground treatments (Sentricon / Termidor) have been performed, along with transferable warranty terms.
+- **HAR Seller's Real Property Disclosure Statement (Form RR105):** Requires sellers to answer explicit questions under the *Termites / Pests / Wood Rot* and *Structural* sections covering active infestations, past drywood or ground termite treatments, structural wood damage, and whether any transferable termite warranty remains in force.
+- **Termite Inspection Report (TIR) — HAR Purchase Contract Paragraph L-2 / L-3:** While Hawaii statutes do not force cash buyers to obtain a TIR, standard HAR Purchase Contracts (Paragraph L-2/L-3) and virtually all FHA, VA, and conventional lenders on Oahu require a TIR prepared by a licensed Hawaii pest control operator prior to closing.
+- **Fumigation & Ground-Treatment Certificates:** Verifies whether prior whole-structure **Vikane (sulfuryl fluoride) tent fumigation** or subterranean soil/bait treatments (**Sentricon** or **Termidor**) were performed, when warranties expire, and whether treatment targeted the full structure or only a localized spot.
 
-### What Honolulu Sellers Reveal vs. What They Conceal
+### The Critical Paragraph L-2 Trap: Treatment vs. Structural Repair
 
-Under HRS § 508D-1, a "material fact" is any defect that could affect the value of the property to a reasonable person. However, sellers frequently use evasive phrasing:
-- *"Tent fumigation completed in 2022; transferable warranty expired"* (masking that active drywood termites re-infested the roof trusses).
-- *"Minor historic ground termite damage noted in subfloor; no live insects seen"* (failing to mention that load-bearing sills suffered severe structural loss).
-- *"Replaced damaged exterior boards and repainted"* (covering over structural damage caused by an aerial Formosan carton nest).
+Many Honolulu buyers assume that a seller-paid TIR fully protects them if termites appear before closing. Under standard HAR Purchase Contract Paragraph L-2 language:
+- If the TIR discovers **visible live termites**, the seller is typically obligated to pay for **chemical treatment or tent fumigation** to eradicate the active infestation.
+- However, Paragraph L-2 **does not automatically force the seller to pay for structural carpentry repairs** to hollowed beams, single-wall planks, or chewed joists unless your buyer's agent explicitly negotiates structural remediation or a closing credit under the J-1 inspection contingency.
 
-If a seller fails to disclose a known material defect, HRS § 508D-16 provides remedies including rescission of the purchase contract or civil damages.
+If a seller intentionally conceals known structural damage or omits a prior adverse pest report, **HRS § 508D-16** establishes buyer remedies including rescission rights and civil damages—but post-closing litigation is slow and expensive compared to verifying every PDF before your contingency deadlines pass. For deeper guidance on evaluating historic pest records, review our [buying a house with a history of termites disclosure guide](/blog/buying-house-with-termite-history-disclosure-guide/).
 
-## The Manual Review Problem: Overlooking Red Flags in Island Disclosures
+---
 
-In a typical Honolulu residential transaction, disclosure packets routinely exceed 200 pages, combining:
-- The HAR Seller's Real Property Disclosure Statement
-- Multi-page general home inspection reports with elevated crawl space photos
-- The Termite Inspection Report (TIR) with technical site diagrams
-- Condominium/HOA conveyance documents (RR105d / RR201)
-- Permitting history from the City and County of Honolulu Department of Planning and Permitting (DPP)
+<aside class="mid-article-cta" aria-label="Scan your Honolulu disclosure packet with DisclosurePro AI">
+  <h3>Reviewing a Honolulu HAR Form RR105 or Termite Inspection Report (TIR) Right Now?</h3>
+  <p>Upload your 150+ page Hawaii seller disclosures, home inspection, TIR diagrams, and condo packets to <strong>DisclosurePro AI</strong>—spot hidden Formosan carton-nest warnings, verify exact PDF page numbers, and calculate your repair credit request in 10 seconds (1st property free).</p>
+  <div class="mid-article-cta-buttons">
+    <a href="https://play.google.com/store/apps/details?id=ai.disclosurepro.app" target="_blank" rel="noopener noreferrer" class="mid-cta-btn-play" data-gtag-event="play_store_click" data-gtag-label="blog_mid_cta_google_play">Get Free App on Google Play 🚀</a>
+    <a href="/download" class="mid-cta-btn-web" data-gtag-event="blog_cta_click" data-gtag-label="blog_mid_cta_ios_web">iPhone &amp; Web Upload &rarr;</a>
+  </div>
+</aside>
 
-### How Subtle Red Flags Slip Through the Cracks
+---
 
-Critical warnings regarding termite damage are often buried in technical appendices:
-- A TIR inspector might check: *"Attic framing obscured by insulation; flat roof tongue-and-groove decking inaccessible for visual inspection."* Missing this disclaimer leaves you unaware of potential drywood colonies inside the roof structure.
-- A general home inspection report might state: *"Probe test indicated soft wood at base of post-and-pier support under master bedroom addition."* Without careful cross-referencing, a buyer may dismiss this as simple moisture rot.
+## Evasive Disclosure Phrasing & Cross-PDF Contradictions on Oahu
 
-Failing to cross-examine these separate documents under tight contractual timelines creates substantial financial risk.
+Honolulu transaction packets routinely exceed 180 to 250 pages once you combine HAR Form RR105, a general home inspection report, the licensed TIR, condo/HOA conveyance documents (RR105d / RR201), and City and County of Honolulu **Department of Planning and Permitting (DPP)** records. Expensive termite liabilities rarely announce themselves in bold print—they hide in **contradictions across separate PDFs**:
 
-## Financial Impact: A Honolulu Neighborhood Case Study
+- **HAR Form RR105 says:** *"Property tented for drywood termites in 2022; routine ground stations maintained; no known active issues."*
+  **TIR Inaccessible-Area Box (Page 2) says:** *"Flat tongue-and-groove roof decking, enclosed post-and-pier skirting, and painted single-wall ceiling soffits inaccessible for visual inspection."*
+- **RR105 checks "No" to structural damage.**
+  **General Home Inspection Photo (Page 51) notes:** *"Soft wood detected upon probing base of post-and-pier support under rear bedroom addition; fresh paint and filler over exterior single-wall corner planks."*
+- **Seller markets "Recent Termite Clearance."**
+  **Prior Service Invoice attached at the back of the packet reveals:** Only localized spot foaming was performed on a single window frame, leaving active drywood galleries untouched inside attic rafters.
 
-To understand the financial severity of unspotted termite defects on Oahu, consider this realistic scenario from **Manoa Valley**.
+Instead of manually cross-referencing 200+ pages of HAR Form RR105 checkboxes, general inspection probe notes, and TIR inaccessible-area exclusions before your J-1 inspection deadline expires, upload your entire packet to the [DisclosurePro AI app](/download) to flag contradictions, jump straight to exact PDF page citations, and quantify local repair credits in seconds.
 
-### The Manoa Valley Plantation-Style Disaster
+---
 
-Keanu and Leilani purchased a charming 1934 single-wall plantation-style home in Manoa Valley for ,250,000. The seller completed the HAR Disclosure Statement, checking "No" to active infestations and noting: *"Property tented for drywood termites in 2021; routine ground treatment maintained."*
+## Honolulu Termite Treatment & Structural Repair Cost Breakdown
 
-Under the contract's L-2 termite contingency, the seller provided a TIR indicating *"no visible live drywood or ground termites in accessible areas."* Reassured by the clean TIR and recent fumigation history, Keanu and Leilani closed on the purchase.
+Standard homeowners insurance policies universally exclude termite infestation and wood-rot damage as preventable maintenance. When an aerial Formosan carton nest or single-wall structural failure goes undetected before closing, buyers absorb the full island labor, specialty lumber, and Honolulu DPP permitting costs out of pocket.
 
-Six months later, during a period of heavy valley trade-wind showers, the ceiling above the second-story bedroom began bowing. A licensed structural contractor opened the ceiling, uncovering a massive active Formosan aerial carton nest. The ground treatment had prevented subterranean mud tubes on foundation footings, but an aerial colony had entered through an attic vent and established a carton nest inside the tongue-and-groove roof decking, destroying seven Douglas fir rafters, the ridge beam, and two exterior single-wall structural planks.
+Use these realistic Oahu contractor benchmarks when preparing your [seller repair credit addendum](/blog/how-to-write-repair-credit-addendum-after-inspection/)—and cross-check how Hawaii's TIR compares to mainland reports in our [national WDO and WDI termite inspection buyer guide](/blog/termite-inspection-wdo-wdi-report-buyer-guide/):
 
-### Itemized Out-of-Pocket Repair Costs
+| Inspection, Treatment, or Structural Repair Item | Typical Honolulu / Oahu Cost Range |
+| :--- | :--- |
+| **Licensed Hawaii Termite Inspection Report (TIR)** | $175 – $350 |
+| **Localized Drywood Spot Treatment / Borate Injection** | $850 – $2,200 |
+| **Whole-Structure Vikane Gas Tent Fumigation (Drywood)** | $3,200 – $6,800 |
+| **Subterranean Ground Barrier Trenching or Sentricon Bait System** | $2,200 – $4,800 |
+| **Formosan Aerial Carton Nest Eradication & Wall-Void Injection** | $2,800 – $5,500 |
+| **Hydraulic Shoring & Post-and-Pier / Mudsill Replacement** | $6,500 – $15,500 |
+| **Custom Redwood / Douglas Fir Single-Wall Plank Milling & Repair** | $5,500 – $14,000 |
+| **Roof Rafter, Ridge Beam & Tongue-and-Groove Decking Rebuild** | $12,000 – $26,000 |
+| **Structural Engineering & Honolulu DPP Permitting Fees** | $3,500 – $6,500 |
+| **Severe Formosan Carton Nest + Single-Wall Structural Restoration** | **$28,000 – $52,000+** |
 
-Because the purchase contract was executed with standard as-is provisions and the seller claimed lack of knowledge regarding hidden damage behind the ceiling, Keanu and Leilani had to pay for repairs out of pocket:
+### Manoa Valley Single-Wall Negotiation Blueprint
 
-- **Specialized Formosan Aerial Carton Eradication & Wall Injections:** ,800
-- **Whole-Structure Tent Fumigation (Sulfuryl Fluoride / Vikane):** ,600
-- **Structural Engineering Plans & City and County of Honolulu DPP Permitting:** ,500
-- **Hydraulic Roof Shoring & Temporary Support Framing:** ,200
-- **Replacement of Historic Douglas Fir Rafters & Roof Ridge Beam:** ,800
-- **Milling & Installation of Custom Redwood Single-Wall Planks:** ,500
-- **New Roof Sheathing & Standing Seam Metal Roof Installation:** ,800
-- **Interior Painting, Millwork Restoration, & Finishing:** ,000
+Consider a **$1,250,000** 1934 single-wall plantation home in **Manoa Valley** where the seller discloses a 2021 drywood tenting and active ground bait stations, while the TIR clears visible accessible areas but disclaims *"enclosed tongue-and-groove roof cavities inaccessible."* If the general inspector simultaneously flags moisture staining near the second-story ridge beam or soft exterior planks:
 
-**Total Out-of-Pocket Cost: ,200**
+1. **Do not rely on a clean visual TIR alone:** Request written seller permission during your J-1 contingency window for a licensed structural pest operator or contractor to conduct **thermal-imaging and acoustic/moisture probing** along suspect roof decking and single-wall framing.
+2. **Audit the treatment history and warranty terms:** Demand the original fumigation certificate, ground-station monitoring logs, and confirmation of whether any **Formosan structural damage warranty** transfers to the buyer.
+3. **Negotiate a documented closing credit:** Obtain itemized written estimates for both eradication (Vikane tenting or carton-nest treatment) and licensed structural carpentry + DPP permits, then submit a formal credit request rather than accepting quick cosmetic wood-filler patches by a departing seller.
 
-Had Keanu and Leilani insisted on a thermal-imaging and acoustic probe inspection of the roof cavities during their contingency period, they could have identified the aerial carton nest and negotiated a full structural repair credit prior to closing.
+---
 
-## Frequently Asked Questions about Termites in Honolulu
+## Frequently Asked Questions About Termite Inspections & Disclosures in Honolulu, HI
 
-**1. Is a Termite Inspection Report (TIR) mandatory when buying a home in Honolulu?**
-While Hawaii state law does not legally mandate a TIR for cash purchases, standard Hawaii Association of Realtors purchase contracts (Paragraph L-2/L-3) include a termite inspection contingency. Furthermore, conventional, FHA, and VA lenders require a clean TIR before funding a mortgage on Oahu.
+### Is a Termite Inspection Report (TIR) mandatory when buying a home in Honolulu?
+Hawaii state law does not force cash buyers to obtain a TIR, but Paragraph L-2/L-3 of the standard HAR Purchase Contract builds a termite inspection contingency directly into the transaction. Additionally, virtually all conventional, FHA, and VA mortgage lenders on Oahu require a current, clean TIR from a licensed Hawaii pest control operator before funding escrow.
 
-**2. How often should a home in Honolulu be tented for drywood termites?**
-Because drywood termites are widespread across Oahu, most residential homes require whole-structure tent fumigation every 5 to 8 years to eliminate new colonies that enter during annual swarming seasons.
+### What happens if a Honolulu TIR finds active termites before closing?
+Under Paragraph L-2 of the standard HAR Purchase Contract, the seller is typically responsible for paying for licensed chemical treatment or whole-structure tent fumigation to clear active infestations prior to closing. However, unless separately negotiated during the J-1 inspection period, the seller is not automatically required to pay for carpentry repairs to past or existing structural termite damage.
 
-**3. What is the difference between ground termites and drywood termites in Hawaii?**
-Ground termites (Formosan Subterranean Termites) nest underground or in aerial carton nests, require continuous moisture, and can consume structural framing rapidly. Drywood termites live entirely inside dry timber, do not require soil contact, and produce sand-like fecal pellets (frass).
+### How often does a house in Honolulu need to be tented for drywood termites?
+Because West Indian drywood termites swarm every spring and summer across Oahu, most wood-frame Honolulu homes require whole-structure Vikane tent fumigation roughly every **5 to 8 years** to eliminate newly established colonies inside eaves, attics, and single-wall framing.
 
-**4. What happens if a Hawaii TIR finds active termites before closing?**
-Under Paragraph L-2 of the standard HAR contract, if active termites are found, the seller is typically obligated to pay for professional chemical eradication or tent fumigation prior to closing. However, the seller is not automatically obligated to repair structural wood damage unless specifically negotiated in the contract.
+### Can a Honolulu home with ground termite bait stations still have an active Formosan infestation?
+Yes. Perimeter ground bait stations and soil termiticide barriers intercept subterranean colonies foraging upward from the soil, but they cannot eliminate an **aerial Formosan carton nest** living inside a damp roof cavity, wall void, or plumbing chase with no ground contact. Any moisture stain or inaccessible roof disclaimer in a Honolulu inspection report warrants targeted investigation before closing.
