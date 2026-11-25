@@ -4,8 +4,6 @@
   "newArticlesPerRun": 2,
   "refreshesPerRun": 2,
   "refreshQueue": [
-    "tampa-fl-termites",
-    "edison-nj-termites",
     "miami-beach-fl-termites",
     "columbia-md-termites",
     "ventura-ca-termites",
